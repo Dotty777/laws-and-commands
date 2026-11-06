@@ -1,0 +1,3 @@
+* text=auto eol=lf
+# Archived response bytes must continue to match the SHA-256 manifest.
+source/** -text -whitespace

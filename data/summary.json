@@ -1,0 +1,41 @@
+{
+  "source": "https://staging-8e0d-waywardnightjars.wpcomstaging.com",
+  "imported_date": "2026-11-06",
+  "records": 4440,
+  "categories": 50,
+  "audiences": {
+    "General": 3869,
+    "Personal": 571
+  },
+  "classifications": {
+    "Application under review": 252,
+    "Covenant-specific instructions": 88,
+    "Creation commissions": 4,
+    "Everlasting": 125,
+    "Fulfilled": 390,
+    "Historical": 1120,
+    "Historical commissions": 282,
+    "Historical — rejected": 57,
+    "Israel’s civil and land laws": 253,
+    "See original scope": 12,
+    "Study context": 397,
+    "Transformed": 129,
+    "Uncertain": 1319,
+    "Unchanged": 12
+  },
+  "collections": {
+    "Apostolic teaching": 124,
+    "Christ study": 105,
+    "Harmony study": 24,
+    "Old Testament passage record": 2509,
+    "Source passage group": 216,
+    "Supplemental instruction": 41,
+    "Supplemental passage record": 12,
+    "Topical study": 157,
+    "Torah requirement": 1252
+  },
+  "associated_unique_verse_units": 8684,
+  "unresolved_reference_occurrences": 0,
+  "records_with_full_research": 4440,
+  "source_wording_review_records": 3
+}

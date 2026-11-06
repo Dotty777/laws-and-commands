@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "records": 4440,
+  "categories": 50,
+  "raw_audience_cards": 4440,
+  "raw_source_wording_quotations": 5836,
+  "full_research_entries": 4440,
+  "associated_passage_occurrences": 33992,
+  "associated_unique_verse_units": 8684,
+  "verified_source_archives": 253,
+  "failure_count": 0,
+  "warning_count": 0,
+  "failures": [],
+  "warnings": []
+}

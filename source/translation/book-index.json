@@ -1,0 +1,352 @@
+[
+  {
+    "slug": "genesis",
+    "book": "Genesis",
+    "url": "https://saints.bible/bible/law/genesis/"
+  },
+  {
+    "slug": "exodus",
+    "book": "Exodus",
+    "url": "https://saints.bible/bible/law/exodus/"
+  },
+  {
+    "slug": "leviticus",
+    "book": "Leviticus",
+    "url": "https://saints.bible/bible/law/leviticus/"
+  },
+  {
+    "slug": "numbers",
+    "book": "Numbers",
+    "url": "https://saints.bible/bible/law/numbers/"
+  },
+  {
+    "slug": "deuteronomy",
+    "book": "Deuteronomy",
+    "url": "https://saints.bible/bible/law/deuteronomy/"
+  },
+  {
+    "slug": "joshua",
+    "book": "Joshua",
+    "url": "https://saints.bible/bible/judgement/joshua/"
+  },
+  {
+    "slug": "judges",
+    "book": "Judges",
+    "url": "https://saints.bible/bible/judgement/judges/"
+  },
+  {
+    "slug": "ruth",
+    "book": "Ruth",
+    "url": "https://saints.bible/bible/judgement/ruth/"
+  },
+  {
+    "slug": "1-samuel",
+    "book": "1 Samuel",
+    "url": "https://saints.bible/bible/judgement/1-samuel/"
+  },
+  {
+    "slug": "2-samuel",
+    "book": "2 Samuel",
+    "url": "https://saints.bible/bible/judgement/2-samuel/"
+  },
+  {
+    "slug": "1-kings",
+    "book": "1 Kings",
+    "url": "https://saints.bible/bible/judgement/1-kings/"
+  },
+  {
+    "slug": "2-kings",
+    "book": "2 Kings",
+    "url": "https://saints.bible/bible/judgement/2-kings/"
+  },
+  {
+    "slug": "1-chronicles",
+    "book": "1 Chronicles",
+    "url": "https://saints.bible/bible/judgement/1-chronicles/"
+  },
+  {
+    "slug": "2-chronicles",
+    "book": "2 Chronicles",
+    "url": "https://saints.bible/bible/judgement/2-chronicles/"
+  },
+  {
+    "slug": "1-maccabees",
+    "book": "1 Maccabees",
+    "url": "https://saints.bible/bible/judgement/1-maccabees/"
+  },
+  {
+    "slug": "2-maccabees",
+    "book": "2 Maccabees",
+    "url": "https://saints.bible/bible/judgement/2-maccabees/"
+  },
+  {
+    "slug": "ezra",
+    "book": "Ezra",
+    "url": "https://saints.bible/bible/judgement/ezra/"
+  },
+  {
+    "slug": "nehemiah",
+    "book": "Nehemiah",
+    "url": "https://saints.bible/bible/judgement/nehemiah/"
+  },
+  {
+    "slug": "esther",
+    "book": "Esther",
+    "url": "https://saints.bible/bible/judgement/esther/"
+  },
+  {
+    "slug": "job",
+    "book": "Job",
+    "url": "https://saints.bible/bible/judgement/job/"
+  },
+  {
+    "slug": "psalms",
+    "book": "Psalms",
+    "url": "https://saints.bible/bible/wisdom/psalms/"
+  },
+  {
+    "slug": "proverbs",
+    "book": "Proverbs",
+    "url": "https://saints.bible/bible/wisdom/proverbs/"
+  },
+  {
+    "slug": "ecclesiastes",
+    "book": "Ecclesiastes",
+    "url": "https://saints.bible/bible/wisdom/ecclesiastes/"
+  },
+  {
+    "slug": "song-of-songs",
+    "book": "Song of Songs",
+    "url": "https://saints.bible/bible/wisdom/song-of-songs/"
+  },
+  {
+    "slug": "lamentations",
+    "book": "Lamentations",
+    "url": "https://saints.bible/bible/wisdom/lamentations/"
+  },
+  {
+    "slug": "wisdom-of-solomon",
+    "book": "Wisdom of Solomon",
+    "url": "https://saints.bible/bible/wisdom/wisdom-of-solomon/"
+  },
+  {
+    "slug": "sirach",
+    "book": "Sirach",
+    "url": "https://saints.bible/bible/wisdom/sirach/"
+  },
+  {
+    "slug": "isaiah",
+    "book": "Isaiah",
+    "url": "https://saints.bible/bible/providence/isaiah/"
+  },
+  {
+    "slug": "jeremiah",
+    "book": "Jeremiah",
+    "url": "https://saints.bible/bible/providence/jeremiah/"
+  },
+  {
+    "slug": "ezekiel",
+    "book": "Ezekiel",
+    "url": "https://saints.bible/bible/providence/ezekiel/"
+  },
+  {
+    "slug": "daniel",
+    "book": "Daniel",
+    "url": "https://saints.bible/bible/providence/daniel/"
+  },
+  {
+    "slug": "hosea",
+    "book": "Hosea",
+    "url": "https://saints.bible/bible/providence/hosea/"
+  },
+  {
+    "slug": "joel",
+    "book": "Joel",
+    "url": "https://saints.bible/bible/providence/joel/"
+  },
+  {
+    "slug": "amos",
+    "book": "Amos",
+    "url": "https://saints.bible/bible/providence/amos/"
+  },
+  {
+    "slug": "obadiah",
+    "book": "Obadiah",
+    "url": "https://saints.bible/bible/providence/obadiah/"
+  },
+  {
+    "slug": "jonah",
+    "book": "Jonah",
+    "url": "https://saints.bible/bible/providence/jonah/"
+  },
+  {
+    "slug": "micah",
+    "book": "Micah",
+    "url": "https://saints.bible/bible/providence/micah/"
+  },
+  {
+    "slug": "nahum",
+    "book": "Nahum",
+    "url": "https://saints.bible/bible/providence/nahum/"
+  },
+  {
+    "slug": "habakkuk",
+    "book": "Habakkuk",
+    "url": "https://saints.bible/bible/providence/habakkuk/"
+  },
+  {
+    "slug": "zephaniah",
+    "book": "Zephaniah",
+    "url": "https://saints.bible/bible/providence/zephaniah/"
+  },
+  {
+    "slug": "haggai",
+    "book": "Haggai",
+    "url": "https://saints.bible/bible/providence/haggai/"
+  },
+  {
+    "slug": "zechariah",
+    "book": "Zechariah",
+    "url": "https://saints.bible/bible/providence/zechariah/"
+  },
+  {
+    "slug": "malachi",
+    "book": "Malachi",
+    "url": "https://saints.bible/bible/providence/malachi/"
+  },
+  {
+    "slug": "matthew",
+    "book": "Matthew",
+    "url": "https://saints.bible/bible/salvation/matthew/"
+  },
+  {
+    "slug": "mark",
+    "book": "Mark",
+    "url": "https://saints.bible/bible/salvation/mark/"
+  },
+  {
+    "slug": "luke",
+    "book": "Luke",
+    "url": "https://saints.bible/bible/salvation/luke/"
+  },
+  {
+    "slug": "john",
+    "book": "John",
+    "url": "https://saints.bible/bible/salvation/john/"
+  },
+  {
+    "slug": "acts",
+    "book": "Acts",
+    "url": "https://saints.bible/bible/discipleship/acts/"
+  },
+  {
+    "slug": "romans",
+    "book": "Romans",
+    "url": "https://saints.bible/bible/discipleship/romans/"
+  },
+  {
+    "slug": "1-corinthians",
+    "book": "1 Corinthians",
+    "url": "https://saints.bible/bible/discipleship/1-corinthians/"
+  },
+  {
+    "slug": "2-corinthians",
+    "book": "2 Corinthians",
+    "url": "https://saints.bible/bible/discipleship/2-corinthians/"
+  },
+  {
+    "slug": "galatians",
+    "book": "Galatians",
+    "url": "https://saints.bible/bible/discipleship/galatians/"
+  },
+  {
+    "slug": "ephesians",
+    "book": "Ephesians",
+    "url": "https://saints.bible/bible/discipleship/ephesians/"
+  },
+  {
+    "slug": "philippians",
+    "book": "Philippians",
+    "url": "https://saints.bible/bible/discipleship/philippians/"
+  },
+  {
+    "slug": "colossians",
+    "book": "Colossians",
+    "url": "https://saints.bible/bible/discipleship/colossians/"
+  },
+  {
+    "slug": "1-thessalonians",
+    "book": "1 Thessalonians",
+    "url": "https://saints.bible/bible/discipleship/1-thessalonians/"
+  },
+  {
+    "slug": "2-thessalonians",
+    "book": "2 Thessalonians",
+    "url": "https://saints.bible/bible/discipleship/2-thessalonians/"
+  },
+  {
+    "slug": "1-timothy",
+    "book": "1 Timothy",
+    "url": "https://saints.bible/bible/discipleship/1-timothy/"
+  },
+  {
+    "slug": "2-timothy",
+    "book": "2 Timothy",
+    "url": "https://saints.bible/bible/discipleship/2-timothy/"
+  },
+  {
+    "slug": "titus",
+    "book": "Titus",
+    "url": "https://saints.bible/bible/discipleship/titus/"
+  },
+  {
+    "slug": "philemon",
+    "book": "Philemon",
+    "url": "https://saints.bible/bible/discipleship/philemon/"
+  },
+  {
+    "slug": "hebrews",
+    "book": "Hebrews",
+    "url": "https://saints.bible/bible/discipleship/hebrews/"
+  },
+  {
+    "slug": "james",
+    "book": "James",
+    "url": "https://saints.bible/bible/discipleship/james/"
+  },
+  {
+    "slug": "1-peter",
+    "book": "1 Peter",
+    "url": "https://saints.bible/bible/discipleship/1-peter/"
+  },
+  {
+    "slug": "2-peter",
+    "book": "2 Peter",
+    "url": "https://saints.bible/bible/discipleship/2-peter/"
+  },
+  {
+    "slug": "1-john",
+    "book": "1 John",
+    "url": "https://saints.bible/bible/discipleship/1-john/"
+  },
+  {
+    "slug": "2-john",
+    "book": "2 John",
+    "url": "https://saints.bible/bible/discipleship/2-john/"
+  },
+  {
+    "slug": "3-john",
+    "book": "3 John",
+    "url": "https://saints.bible/bible/discipleship/3-john/"
+  },
+  {
+    "slug": "jude",
+    "book": "Jude",
+    "url": "https://saints.bible/bible/discipleship/jude/"
+  },
+  {
+    "slug": "revelation",
+    "book": "Revelation",
+    "url": "https://saints.bible/bible/glory/revelation/"
+  }
+]
