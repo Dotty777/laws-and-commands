@@ -168,6 +168,9 @@ add("What it would have been, from the 556", None, None, "Kept for reference; th
 for s in F["scenarios"][1:]:
     add(f"   {s['step']}", None, s["count"] if s["count"] is not None else "", (f"{s['change']:+d}" if isinstance(s["change"], int) and s["change"] else "stands on its own: +5 or −1"))
 body(ws, rows, id_cols=(), bold_rows=bold)
+for r_i in range(8, 8 + len(rows)):
+    ws.cell(r_i, 4).alignment = Alignment(wrap_text=True, vertical="top", indent=1)
+    for c_i in (2, 3): ws.cell(r_i, c_i).number_format = "#,##0"
 
 # ------------------------------------------------------------------ Torah Law now (638)
 ws = wb.create_sheet("Torah Law now (638)")
