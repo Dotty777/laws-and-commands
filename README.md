@@ -2,6 +2,8 @@
 
 ## Current Saints.Bible catalogue
 
+[Browse the current catalogue](browse/README.md) · [By Bible book](browse/books/README.md) · [By record type](browse/record-types/README.md) · [By topic](browse/categories/README.md)
+
 The current catalogue contains **4,999 study records** across all 70 books, including **559 added since the 6 November 2026 import**. It has **4,301 General** and **698 Personal** records and **269 supplementary Scripture links**.
 
 The seven record types are Law, Command, Commission, Instruction, Wisdom, Study Context, and Mixed. Record type describes the form of the material. Origin, original audience, and application are recorded separately.

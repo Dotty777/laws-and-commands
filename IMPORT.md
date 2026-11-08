@@ -8,18 +8,22 @@ The workbook contains **4,999 study records** (**4,301 General** and **698 Perso
 
 The [current catalogue JSON](data/current/commands.json) and [current summary](data/current/summary.json) are generated from the two workbook sheets. Each current record includes its primary Scripture reference and URL, any additional Scripture references and their notes, and the catalogue's separate type, origin, audience, and application fields. Use `archived_record_id` to look up the matching `id` in [the archival JSON](data/commands.json) for expanded source wording, verse text, and research. That field is null for the 559 records added after the archive.
 
-To rebuild the current JSON and summary from the repository root, use Python 3.11 or later.
+The [current browse index](browse/README.md) provides GitHub reading views [by Bible book](browse/books/README.md), [by record type](browse/record-types/README.md), and [by topic](browse/categories/README.md). All three views are generated from the current JSON and include all 4,999 study records. Their links lead to the published Scripture and catalogue entries. The `categories/` directory holds the topical Markdown from the 6 November 2026 archival import.
+
+To rebuild the current JSON, summary, and browse pages from the repository root, use Python 3.11 or later. The `--check` commands compare the generated files with the checked-in copies.
 
 ```sh
 python scripts/build_current_catalogue.py
+python scripts/build_browse.py
 python scripts/build_current_catalogue.py --check
+python scripts/build_browse.py --check
 ```
 
 ## Archival import of 6 November 2026
 
 The archival collection preserves the laws, commands, instructions, and related studies available in **Saints.Bible staging on 6 November 2026**. Its source page is [Laws, Commands, and Instructions — The Entire Holy Bible](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/).
 
-The import contains **all 4,440 catalogue records**, organized under the source's **50 topics**, then General or Personal audience, classification, and stable record ID. The category index is in [README.md](README.md). These are overlapping study records, not a deduplicated or certified exhaustive list of biblical commandments.
+The import contains **all 4,440 catalogue records**, organized under the source's **50 topics**, then General or Personal audience, classification, and stable record ID. The [archival category index](README.md#archival-import-and-category-index) lists these topics. The totals count overlapping study records.
 
 ## Included collections
 
