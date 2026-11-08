@@ -4,9 +4,9 @@ All 70 books were screened against the Saints Translation and the current primar
 
 Commands state a charge or prohibition. Instructions give guidance or a procedure. Commissions entrust a task or role. Wisdom offers counsel, a maxim, or a deliberately instructive example. A verse can support distinct records when the speaker, audience or act differs. Narrated outcomes and promises do not become commands merely because they appear in the same passage.
 
-Added **222** records, revised **156**, and merged **16** overlapping earlier entries. The full catalogue now contains **6,613** active study records.
+Added **222** records, revised **156**, and merged **16** overlapping earlier entries. The full catalogue contained **6,613** active study records at the end of this audit. The [Torah Law follow-up](../torah-law/followup.md) records the later changes.
 
-| Record type | Added in this audit | Current catalogue |
+| Record type | Added in this audit | At the end of this audit |
 | --- | ---: | ---: |
 | [Command](../../browse/record-types/command/README.md) | 105 | 1,882 |
 | [Instruction](../../browse/record-types/instruction/README.md) | 16 | 1,106 |

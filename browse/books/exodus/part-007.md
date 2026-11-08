@@ -6,11 +6,10 @@
 
 [Previous part](part-006.md) · [All parts](README.md)
 
-Records 451–496 of 496.
+Records 451–495 of 495.
 
 | Study record | Scripture | Record type | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| <a name="record-c0351"></a>[Grind the prescribed incense finely](https://saints.bible/instructions/general/?instruction_id=C0351#audience-C0351)<br>`C0351` · [Archive](../../../categories/sanctuary-priesthood-and-ministry/part-007.md#C0351) | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | Heavenly (God-given) | General |
 | <a name="record-c1230"></a>[Place the prescribed incense before the Testimony](https://saints.bible/instructions/general/?instruction_id=C1230#audience-C1230)<br>`C1230` · [Archive](../../../categories/sanctuary-priesthood-and-ministry/part-012.md#C1230) | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | Heavenly (God-given) | General |
 | <a name="record-c0352"></a>[Do not reproduce the holy incense for personal enjoyment](https://saints.bible/instructions/general/?instruction_id=C0352#audience-C0352)<br>`C0352` · [Archive](../../../categories/sanctuary-priesthood-and-ministry/part-007.md#C0352) | [Exodus 30:37–38](https://saints.bible/bible/law/exodus/chapter-30/#v30-37) | [Law](../../record-types/law/part-001.md#book-exodus) | Heavenly (God-given) | General |
 | <a name="record-torah-exodus-31-1"></a>[Appointed craftsmen, faithful workmanship and the Sabbath covenant sign](https://saints.bible/instructions/general/?instruction_id=torah-exodus-31-1#audience-torah-exodus-31-1)<br>`torah-exodus-31-1` · [Archive](../../../categories/sabbath-appointed-times-and-remembrance/part-004.md#torah-exodus-31-1) | [Exodus 31:1–18](https://saints.bible/bible/law/exodus/chapter-31/#v31-1) | [Commission](../../record-types/commission/part-001.md#book-exodus) | Heavenly (God-given) | General |

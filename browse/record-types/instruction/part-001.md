@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 1,106.
+Records 1–75 of 1,092.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ Records 1–75 of 1,106.
 | [Select an unblemished year-old male lamb or goat for the Passover household, sharing according to the number of eaters](../../books/exodus/part-002.md#record-c0092)<br>`C0092` | [Exodus 12:3–5](https://saints.bible/bible/law/exodus/chapter-12/#v12-3) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Keep the Passover animal until the fourteenth day](../../books/exodus/part-002.md#record-c0093)<br>`C0093` | [Exodus 12:6](https://saints.bible/bible/law/exodus/chapter-12/#v12-6) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Apply the Passover blood to the doorposts and lintel with hyssop](../../books/exodus/part-002.md#record-c0095)<br>`C0095` | [Exodus 12:7](https://saints.bible/bible/law/exodus/chapter-12/#v12-7) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Prepare and eat the Passover meal in the manner prescribed in each cited passage](../../books/exodus/part-002.md#record-c0096)<br>`C0096` | [Exodus 12:8–9](https://saints.bible/bible/law/exodus/chapter-12/#v12-8) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
+| [Eat the Passover meal that night with unleavened bread and bitter herbs](../../books/exodus/part-002.md#record-c0096)<br>`C0096` | [Exodus 12:8](https://saints.bible/bible/law/exodus/chapter-12/#v12-8) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Burn the Passover remainder in the morning](../../books/exodus/part-002.md#record-c0100)<br>`C0100` | [Exodus 12:10](https://saints.bible/bible/law/exodus/chapter-12/#v12-10) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Eat the Egyptian Passover dressed for departure and in haste](../../books/exodus/part-002.md#record-c0102)<br>`C0102` | [Exodus 12:11](https://saints.bible/bible/law/exodus/chapter-12/#v12-11) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Keep the prescribed divine words and deliverance as signs on the hand and before the eyes](../../books/exodus/part-002.md#record-c0117)<br>`C0117` | [Exodus 13:9](https://saints.bible/bible/law/exodus/chapter-13/#v13-9) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |

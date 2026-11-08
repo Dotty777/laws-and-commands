@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 1,017.
+Records 1–75 of 1,023.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |

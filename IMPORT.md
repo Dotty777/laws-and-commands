@@ -2,15 +2,17 @@
 
 ## Current catalogue snapshot
 
-The [current workbook](source/current/Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx) matches the workbook published on both [Saints.Bible production](https://saints.bible/instructions/) and [staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/), verified on **8 November 2026**. Its SHA-256 checksum is `e50372b887f82379fd995ab91d2985565b8adf64521cdb21fad9cec91ce04a3f`.
+The [current GitHub workbook](source/current/Saints-Bible-Instructions-Catalogue-Torah-Law-Followup.xlsx) reflects the [Torah Law follow-up](audit/torah-law/followup.md). Its SHA-256 checksum is `2261581ac9b2b791b9fd84e4cf7258ebde08488673e5b657f8f02817ecec1c47`.
 
-The workbook contains **6,613 study records** (**5,459 General** and **1,154 Personal**) and **1,056 supplementary Scripture links**. The **2,219 records added** after the original import and the revised records are reflected in the current workbook and JSON. All seven Record types are represented. Study Context identifies material that supplies context, and Mixed identifies passages with more than one substantive form and no single dominant form.
+The [preceding workbook](source/current/Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx) was verified against [Saints.Bible production](https://saints.bible/instructions/) and [staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/) on **8 November 2026**. The follow-up is a GitHub catalogue revision.
+
+The workbook contains **6,597 study records** (**5,443 General** and **1,154 Personal**) and **1,071 supplementary Scripture links**. The current workbook and JSON include **2,219 records with no matching record in the original archive**. All seven Record types are represented. Study Context identifies material that supplies context, and Mixed identifies passages with more than one substantive form and no single dominant form.
 
 The [current catalogue JSON](data/current/commands.json) and [current summary](data/current/summary.json) are generated from the Catalogue and Scripture Sources sheets. Each current record includes its primary Scripture reference and URL, any additional Scripture references and their notes, and the catalogue's separate type, origin, audience, and application fields. Use `archived_record_id` to look up the matching `id` in [the archival JSON](data/commands.json) for expanded source wording, verse text, and research. That field is null for the 2,219 records added after the archive.
 
-The [current browse index](browse/README.md) provides GitHub reading views [by Bible book](browse/books/README.md), [by record type](browse/record-types/README.md), and [by topic](browse/categories/README.md). All three views are generated from the current JSON and include all 6,613 study records. Their links lead to the published Scripture and catalogue entries. The `categories/` directory holds the topical Markdown from the 6 November 2026 archival import.
+The [current browse index](browse/README.md) provides GitHub reading views [by Bible book](browse/books/README.md), [by record type](browse/record-types/README.md), and [by topic](browse/categories/README.md). All three views are generated from the current JSON and include all 6,597 study records. The book views link to published Scripture and use Saints.Bible catalogue permalinks. The `categories/` directory holds the topical Markdown from the 6 November 2026 archival import.
 
-The workbook’s Merge Index preserves earlier IDs, primary Scripture and original audiences. The [current decision ledger](audit/record-types/decisions.json) maps merged IDs to active records and preserves the full prior entries.
+The workbook’s Merge Index preserves earlier IDs, primary Scripture and original audiences. The [record type ledger](audit/record-types/decisions.json) and the [Torah Law follow-up ledger](audit/torah-law/followup-decisions.json) preserve prior entries and map merged IDs to survivors.
 
 To rebuild the current JSON, summary, and browse pages from the repository root, use Python 3.11 or later. The `--check` commands compare the generated files with the checked-in copies.
 

@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 192.
+Records 1–75 of 191.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
@@ -54,10 +54,10 @@ Records 1–75 of 192.
 | [Keep God's statutes and judgments; whoever does them shall live by them](../../books/leviticus/part-004.md#record-aud-03-18-4)<br>`AUD-03-18-4` | [Leviticus 18:4–5](https://saints.bible/bible/law/leviticus/chapter-18/#v18-4) | [Leviticus](../../books/leviticus/README.md) | [Command](../../record-types/command/part-004.md#book-leviticus) | General |
 | [Do not profane God's holy name](../../books/leviticus/part-004.md#record-c0591)<br>`C0591` | [Leviticus 18:21](https://saints.bible/bible/law/leviticus/chapter-18/#v18-21) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
 | [Parents, Sabbath, idols, offerings, gleaning, honesty, wages, disability, justice, speech, love, mixtures, fruit, occult practices, elders and weights](../../books/leviticus/part-004.md#record-torah-leviticus-19-1)<br>`torah-leviticus-19-1` | [Leviticus 19:1–37](https://saints.bible/bible/law/leviticus/chapter-19/#v19-1) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
-| [Do not swear falsely by God's name](../../books/leviticus/part-005.md#record-c0604)<br>`C0604` | [Leviticus 19:12](https://saints.bible/bible/law/leviticus/chapter-19/#v19-12) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
+| [Do not swear falsely by God's name](../../books/leviticus/part-004.md#record-c0604)<br>`C0604` | [Leviticus 19:12](https://saints.bible/bible/law/leviticus/chapter-19/#v19-12) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
 | [Do not hate your brother inwardly](../../books/leviticus/part-005.md#record-c0615)<br>`C0615` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
-| [Reprove your neighbour](../../books/leviticus/part-005.md#record-c0616)<br>`C0616` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | [Leviticus](../../books/leviticus/README.md) | [Command](../../record-types/command/part-004.md#book-leviticus) | General |
-| [Do not share in your neighbour's sin](../../books/leviticus/part-005.md#record-c0617)<br>`C0617` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
+| [Reprove your neighbour](../../books/leviticus/part-005.md#record-c0616)<br>`C0616` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
+| [Do not bear sin because of your neighbour](../../books/leviticus/part-005.md#record-c0617)<br>`C0617` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
 | [Rejecting hatred of a brother](../../books/leviticus/part-005.md#record-s077)<br>`S077` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
 | [Correcting a neighbor responsibly](../../books/leviticus/part-005.md#record-s078)<br>`S078` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
 | [Do not take vengeance](../../books/leviticus/part-005.md#record-c0618)<br>`C0618` | [Leviticus 19:18](https://saints.bible/bible/law/leviticus/chapter-19/#v19-18) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |

@@ -4,13 +4,13 @@
 
 [Browse home](../README.md) · [All books](../books/README.md) · [All Record types](../record-types/README.md) · [All topics](../categories/README.md)
 
-**638 records tagged Torah Law.** The catalogue counts distinct standing provisions within their original scope.
+**646 records tagged Torah Law.** The catalogue counts distinct standing provisions within their original scope.
 
 | Book | Records |
 | --- | ---: |
 | [Exodus](exodus/README.md) | 132 |
-| [Leviticus](leviticus/README.md) | 263 |
-| [Numbers](numbers/README.md) | 75 |
-| [Deuteronomy](deuteronomy/README.md) | 168 |
+| [Leviticus](leviticus/README.md) | 270 |
+| [Numbers](numbers/README.md) | 79 |
+| [Deuteronomy](deuteronomy/README.md) | 165 |
 
 [Audit method and merge index](../../audit/torah-law/README.md)

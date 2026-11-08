@@ -6,7 +6,7 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 1,106.
+Records 76–150 of 1,092.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
@@ -26,7 +26,6 @@ Records 76–150 of 1,106.
 | [Make an earthen altar for the prescribed sacrifices](../../books/exodus/part-003.md#record-c0161)<br>`C0161` | [Exodus 20:24](https://saints.bible/bible/law/exodus/chapter-20/#v20-24) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Bring disputed deposits and ownership claims before God's tribunal](../../books/exodus/part-004.md#record-c0193)<br>`C0193` | [Exodus 22:7–8](https://saints.bible/bible/law/exodus/chapter-22/#v22-7) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Use the prescribed oath to resolve an unwitnessed loss of entrusted property](../../books/exodus/part-004.md#record-c0194)<br>`C0194` | [Exodus 22:7](https://saints.bible/bible/law/exodus/chapter-22/#v22-7) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Dispose of the torn flesh by giving it to dogs](../../books/exodus/part-004.md#record-c0215)<br>`C0215` | [Exodus 22:30](https://saints.bible/bible/law/exodus/chapter-22/#v22-30) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Israel’s obedience to the promised messenger](../../books/exodus/part-005.md#record-s052)<br>`S052` | [Exodus 23:20–23](https://saints.bible/bible/law/exodus/chapter-23/#v23-20) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Listen to God's messenger; serve God; remove idolatry; no covenants with the land's gods and peoples](../../books/exodus/part-005.md#record-torah-exodus-23-20)<br>`torah-exodus-23-20` | [Exodus 23:20–33](https://saints.bible/bible/law/exodus/chapter-23/#v23-20) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Approach and worship, covenant words and blood, ascent for the tablets, and elders' responsibilities](../../books/exodus/part-005.md#record-torah-exodus-24-1)<br>`torah-exodus-24-1` | [Exodus 24:1–18](https://saints.bible/bible/law/exodus/chapter-24/#v24-1) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
@@ -85,5 +84,6 @@ Records 76–150 of 1,106.
 | [Consecration, washing, clothing, anointing, offerings, blood, portions, holy food and daily offerings](../../books/exodus/part-006.md#record-torah-exodus-29-1)<br>`torah-exodus-29-1` | [Exodus 29:1–46](https://saints.bible/bible/law/exodus/chapter-29/#v29-1) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Wash Aaron and his sons at the tent entrance](../../books/exodus/part-006.md#record-c0303)<br>`C0303` | [Exodus 29:4](https://saints.bible/bible/law/exodus/chapter-29/#v29-4) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Aaron and sons: lay hands on the consecration bull](../../books/exodus/part-006.md#record-c0304)<br>`C0304` | [Exodus 29:10](https://saints.bible/bible/law/exodus/chapter-29/#v29-10) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
+| [Slaughter the consecration bull before God](../../books/exodus/part-006.md#record-c0305)<br>`C0305` | [Exodus 29:11](https://saints.bible/bible/law/exodus/chapter-29/#v29-11) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)

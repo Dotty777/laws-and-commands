@@ -6,24 +6,10 @@
 
 [Previous part](part-014.md) · [All parts](README.md)
 
-Records 1,051–1,106 of 1,106.
+Records 1,051–1,092 of 1,092.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| [Hearing God’s voice without hardening the heart](../../books/hebrews/README.md#record-a092)<br>`A092` | [Hebrews 3:7–13](https://saints.bible/bible/discipleship/hebrews/chapter-3/#v3-7) | [Hebrews](../../books/hebrews/README.md) | Heavenly (God-given) | General |
-| [Be diligent to enter God’s rest and avoid the pattern of disobedience](../../books/hebrews/README.md#record-ft-62-04-11)<br>`FT-62-04-11` | [Hebrews 4:1–11](https://saints.bible/bible/discipleship/hebrews/chapter-4/#v4-1) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| [Hold the confession and approach the throne of grace with confidence](../../books/hebrews/README.md#record-aud-62-4-14)<br>`AUD-62-4-14` | [Hebrews 4:14–16](https://saints.bible/bible/discipleship/hebrews/chapter-4/#v4-14) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| [Continue diligent service and imitate those who inherit the promises](../../books/hebrews/README.md#record-aud-62-6-9)<br>`AUD-62-6-9` | [Hebrews 6:9–12](https://saints.bible/bible/discipleship/hebrews/chapter-6/#v6-9) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| [Draw near, hold fast, and encourage one another through gathering](../../books/hebrews/README.md#record-aud-62-10-19)<br>`AUD-62-10-19` | [Hebrews 10:19–25](https://saints.bible/bible/discipleship/hebrews/chapter-10/#v10-19) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| [Remember earlier endurance and keep confidence under pressure](../../books/hebrews/README.md#record-aud-62-10-32)<br>`AUD-62-10-32` | [Hebrews 10:32–39](https://saints.bible/bible/discipleship/hebrews/chapter-10/#v10-32) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| [Strengthen the weary and make straight paths](../../books/hebrews/README.md#record-aud-62-12-12)<br>`AUD-62-12-12` | [Hebrews 12:12–13](https://saints.bible/bible/discipleship/hebrews/chapter-12/#v12-12) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| [Pursuing peace and holiness and heeding Esau’s example](../../books/hebrews/README.md#record-a093)<br>`A093` | [Hebrews 12:14–17](https://saints.bible/bible/discipleship/hebrews/chapter-12/#v12-14) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| [Heed the One who speaks and worship with gratitude and reverence](../../books/hebrews/README.md#record-aud-62-12-25)<br>`AUD-62-12-25` | [Hebrews 12:25–29](https://saints.bible/bible/discipleship/hebrews/chapter-12/#v12-25) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| [Continuing in brotherly love, hospitality, and care for prisoners](../../books/hebrews/README.md#record-a068)<br>`A068` | [Hebrews 13:1–3](https://saints.bible/bible/discipleship/hebrews/chapter-13/#v13-1) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| [Honoring marriage and being content with what one has](../../books/hebrews/README.md#record-a123)<br>`A123` | [Hebrews 13:4–6](https://saints.bible/bible/discipleship/hebrews/chapter-13/#v13-4) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| [Bear Jesus’ reproach and offer praise, good works and sharing](../../books/hebrews/README.md#record-a104)<br>`A104` | [Hebrews 13:10–16](https://saints.bible/bible/discipleship/hebrews/chapter-13/#v13-10) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| [Yield to leaders who keep watch and give account](../../books/hebrews/README.md#record-aud-62-13-17)<br>`AUD-62-13-17` | [Hebrews 13:17](https://saints.bible/bible/discipleship/hebrews/chapter-13/#v13-17) | [Hebrews](../../books/hebrews/README.md) | Earthly (Man-made) | General |
-| <a name="book-james"></a>[James urges those who lack wisdom to ask God in faith](../../books/james/README.md#record-a037)<br>`A037` | [James 1:5–8](https://saints.bible/bible/discipleship/james/chapter-1/#v1-5) | [James](../../books/james/README.md) | Earthly (Man-made) | General |
 | [Approach teaching with awareness of stricter judgment](../../books/james/README.md#record-aud-63-3-1)<br>`AUD-63-3-1` | [James 3:1–5](https://saints.bible/bible/discipleship/james/chapter-3/#v3-1) | [James](../../books/james/README.md) | Earthly (Man-made) | General |
 | [Submit to God, resist the devil and draw near with humility](../../books/james/README.md#record-a116)<br>`A116` | [James 4:6–10](https://saints.bible/bible/discipleship/james/chapter-4/#v4-6) | [James](../../books/james/README.md) | Earthly (Man-made) | General |
 | [Avoid slandering and judging a brother or neighbor](../../books/james/README.md#record-aud-63-4-11)<br>`AUD-63-4-11` | [James 4:11–12](https://saints.bible/bible/discipleship/james/chapter-4/#v4-11) | [James](../../books/james/README.md) | Earthly (Man-made) | General |

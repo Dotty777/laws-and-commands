@@ -6,10 +6,16 @@
 
 [Previous part](part-003.md) · [All parts](README.md)
 
-Records 226–263 of 263.
+Records 226–270 of 270.
 
 | Torah Law | Scripture | Original audience | Origin |
 | --- | --- | --- | --- |
+| [Do not reap volunteer crops as an ordinary harvest in the Jubilee year](../../books/leviticus/part-007.md#record-c0722)<br>`C0722` | [Leviticus 25:11](https://saints.bible/bible/law/leviticus/chapter-25/#v25-11) | Israelite cultivators observing Jubilee | Heavenly (God-given) |
+| [Do not gather the unpruned vine's produce as an ordinary harvest in the Jubilee year](../../books/leviticus/part-007.md#record-c0723)<br>`C0723` | [Leviticus 25:11](https://saints.bible/bible/law/leviticus/chapter-25/#v25-11) | Israelite vineyard cultivators observing Jubilee | Heavenly (God-given) |
+| [Use the Jubilee produce as the prescribed field food](../../books/leviticus/part-007.md#record-c0724)<br>`C0724` | [Leviticus 25:12](https://saints.bible/bible/law/leviticus/chapter-25/#v25-12) | Israelites observing Jubilee | Heavenly (God-given) |
+| [Do not wrong your neighbour when buying or selling](../../books/leviticus/part-007.md#record-aud-03-25-14)<br>`AUD-03-25-14` | [Leviticus 25:14](https://saints.bible/bible/law/leviticus/chapter-25/#v25-14) | Israel | Heavenly (God-given) |
+| [Price land transfers according to the remaining harvest years before Jubilee](../../books/leviticus/part-007.md#record-c0725)<br>`C0725` | [Leviticus 25:15–16](https://saints.bible/bible/law/leviticus/chapter-25/#v25-15) | Israelite buyers and sellers of land use | Heavenly (God-given) |
+| [Do not oppress one another, but fear your God](../../books/leviticus/part-007.md#record-aud-03-25-17)<br>`AUD-03-25-17` | [Leviticus 25:17](https://saints.bible/bible/law/leviticus/chapter-25/#v25-17) | Israel | Heavenly (God-given) |
 | [Do not sell the land permanently](../../books/leviticus/part-007.md#record-c0726)<br>`C0726` | [Leviticus 25:23](https://saints.bible/bible/law/leviticus/chapter-25/#v25-23) | Israelite holders and buyers of land | Heavenly (God-given) |
 | [Permit and calculate redemption of ancestral land according to the prescribed rules](../../books/leviticus/part-007.md#record-c0727)<br>`C0727` | [Leviticus 25:24–28](https://saints.bible/bible/law/leviticus/chapter-25/#v25-24) | Israelite land sellers, their redeemers, and purchasers | Heavenly (God-given) |
 | [Apply the stated redemption periods and Jubilee distinctions for walled-city and village houses](../../books/leviticus/part-007.md#record-c0728)<br>`C0728` | [Leviticus 25:29–31](https://saints.bible/bible/law/leviticus/chapter-25/#v25-29) | Israelite house sellers, purchasers, and redeemers | Heavenly (God-given) |
@@ -28,6 +34,7 @@ Records 226–263 of 263.
 | [Apply the prescribed person-vow valuations, including the poor person's assessment](../../books/leviticus/part-007.md#record-c0740)<br>`C0740` | [Leviticus 27:2–8](https://saints.bible/bible/law/leviticus/chapter-27/#v27-2) | Israelites making person-vows and priests assessing them | Heavenly (God-given) |
 | [Do not exchange a consecrated sacrificial animal](../../books/leviticus/part-007.md#record-c0741)<br>`C0741` | [Leviticus 27:10](https://saints.bible/bible/law/leviticus/chapter-27/#v27-10) | Israelites who have dedicated sacrificial animals | Heavenly (God-given) |
 | [Treat both original and substituted sacrificial animals as holy](../../books/leviticus/part-007.md#record-c0742)<br>`C0742` | [Leviticus 27:10](https://saints.bible/bible/law/leviticus/chapter-27/#v27-10) | Israelites who exchange a consecrated sacrificial animal | Heavenly (God-given) |
+| [Treat the priest’s valuation of the specified vowed livestock or consecrated house as binding](../../books/leviticus/part-007.md#record-c0743)<br>`C0743` | [Leviticus 27:11–12, 14](https://saints.bible/bible/law/leviticus/chapter-27/#v27-11) | Israelite dedicators and priests appraising the specified livestock or houses | Heavenly (God-given) |
 | [Add a fifth when redeeming the vowed animal](../../books/leviticus/part-007.md#record-c0744)<br>`C0744` | [Leviticus 27:11–13](https://saints.bible/bible/law/leviticus/chapter-27/#v27-11) | Israelite who redeems the vowed animal | Heavenly (God-given) |
 | [Add a fifth when redeeming the consecrated house](../../books/leviticus/part-007.md#record-c0746)<br>`C0746` | [Leviticus 27:14–15](https://saints.bible/bible/law/leviticus/chapter-27/#v27-14) | Israelite who redeems the consecrated house | Heavenly (God-given) |
 | [Value a consecrated ancestral field by its seed and remaining Jubilee years](../../books/leviticus/part-007.md#record-c0747)<br>`C0747` | [Leviticus 27:16–18](https://saints.bible/bible/law/leviticus/chapter-27/#v27-16) | Israelite ancestral field dedicator and assessing priest | Heavenly (God-given) |

@@ -4,16 +4,16 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**496 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**495 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (191)](../../record-types/law/part-001.md#book-exodus) · [Command (108)](../../record-types/command/part-003.md#book-exodus) · [Commission (32)](../../record-types/commission/part-001.md#book-exodus) · [Instruction (154)](../../record-types/instruction/part-001.md#book-exodus) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-exodus) · [Study Context (10)](../../record-types/study-context/part-001.md#book-exodus)
+**Jump by Record type:** [Law (191)](../../record-types/law/part-001.md#book-exodus) · [Command (108)](../../record-types/command/part-003.md#book-exodus) · [Commission (32)](../../record-types/commission/part-001.md#book-exodus) · [Instruction (153)](../../record-types/instruction/part-001.md#book-exodus) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-exodus) · [Study Context (10)](../../record-types/study-context/part-001.md#book-exodus)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
 | [Part 1](part-001.md) | 75 | Exodus 1:10 | Exodus 10:7–8 |
 | [Part 2](part-002.md) | 75 | Exodus 10:11 | Exodus 16:23–25 |
 | [Part 3](part-003.md) | 75 | Exodus 16:29 | Exodus 21:12–17 |
-| [Part 4](part-004.md) | 75 | Exodus 21:14 | Exodus 23:8 |
-| [Part 5](part-005.md) | 75 | Exodus 23:9 | Exodus 27:19 |
-| [Part 6](part-006.md) | 75 | Exodus 27:20 | Exodus 30:34–38 |
-| [Part 7](part-007.md) | 46 | Exodus 30:36 | Exodus 40:8 |
+| [Part 4](part-004.md) | 75 | Exodus 21:14 | Exodus 23:9 |
+| [Part 5](part-005.md) | 75 | Exodus 23:10 | Exodus 27:20 |
+| [Part 6](part-006.md) | 75 | Exodus 27:21 | Exodus 30:36 |
+| [Part 7](part-007.md) | 45 | Exodus 30:36 | Exodus 40:8 |

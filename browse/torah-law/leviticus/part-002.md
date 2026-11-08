@@ -6,7 +6,7 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 263.
+Records 76–150 of 270.
 
 | Torah Law | Scripture | Original audience | Origin |
 | --- | --- | --- | --- |
@@ -16,6 +16,7 @@ Records 76–150 of 263.
 | [Bring the prescribed sacrifices to God's appointed sanctuary](../../books/leviticus/part-004.md#record-c0571)<br>`C0571` | [Leviticus 17:3–5](https://saints.bible/bible/law/leviticus/chapter-17/#v17-3) | Israelites and resident foreigners | Heavenly (God-given) |
 | [Do not sacrifice to the vain or demonic objects of worship](../../books/leviticus/part-004.md#record-c0572)<br>`C0572` | [Leviticus 17:7](https://saints.bible/bible/law/leviticus/chapter-17/#v17-7) | Israel | Heavenly (God-given) |
 | [Do not eat blood](../../books/leviticus/part-004.md#record-tl-03-17-10)<br>`TL-03-17-10` | [Leviticus 17:10–12, 14](https://saints.bible/bible/law/leviticus/chapter-17/#v17-10) | Native Israelites and resident foreigners attached to Israel | Heavenly (God-given) |
+| [Cover the hunted animal's blood with earth](../../books/leviticus/part-004.md#record-c0574)<br>`C0574` | [Leviticus 17:13](https://saints.bible/bible/law/leviticus/chapter-17/#v17-13) | Israelite or resident foreigner hunting an edible animal or bird | Heavenly (God-given) |
 | [Carcass eaters must wash and bathe and remain unclean until evening](../../books/leviticus/part-004.md#record-c0575)<br>`C0575` | [Leviticus 17:15–16](https://saints.bible/bible/law/leviticus/chapter-17/#v17-15) | Native Israelites and resident foreigners who eat an animal that died or was taken by wild beasts | Heavenly (God-given) |
 | [Do not follow the practices of Egypt or Canaan](../../books/leviticus/part-004.md#record-aud-03-18-3)<br>`AUD-03-18-3` | [Leviticus 18:3](https://saints.bible/bible/law/leviticus/chapter-18/#v18-3) | Israel | Heavenly (God-given) |
 | [Do not approach close kin for prohibited sexual relations](../../books/leviticus/part-004.md#record-c0576)<br>`C0576` | [Leviticus 18:6](https://saints.bible/bible/law/leviticus/chapter-18/#v18-6) | Israelites and resident foreigners within the community | Heavenly (God-given) |
@@ -32,7 +33,7 @@ Records 76–150 of 263.
 | [Do not take a woman together with her daughter or granddaughter for sexual relations](../../books/leviticus/part-004.md#record-c0587)<br>`C0587` | [Leviticus 18:17](https://saints.bible/bible/law/leviticus/chapter-18/#v18-17) | Men among Israel and its resident foreigners | Heavenly (God-given) |
 | [Do not take a wife's sister as a rival during your wife's lifetime](../../books/leviticus/part-004.md#record-c0588)<br>`C0588` | [Leviticus 18:18](https://saints.bible/bible/law/leviticus/chapter-18/#v18-18) | Men among Israel and its resident foreigners | Heavenly (God-given) |
 | [Do not have sexual relations during menstrual separation](../../books/leviticus/part-004.md#record-c0589)<br>`C0589` | [Leviticus 18:19](https://saints.bible/bible/law/leviticus/chapter-18/#v18-19) | Men among Israel and its resident foreigners | Heavenly (God-given) |
-| [Do not give offspring to the prohibited cultic service or fire rite](../../books/leviticus/part-004.md#record-c0590)<br>`C0590` | [Leviticus 18:21](https://saints.bible/bible/law/leviticus/chapter-18/#v18-21) | Israelites and resident foreigners giving offspring to the prohibited service | Heavenly (God-given) |
+| [Do not give your offspring to serve a ruler in the stated cultic practice](../../books/leviticus/part-004.md#record-c0590)<br>`C0590` | [Leviticus 18:21](https://saints.bible/bible/law/leviticus/chapter-18/#v18-21) | Israelites and resident foreigners giving offspring to the prohibited service | Heavenly (God-given) |
 | [Do not profane God's holy name](../../books/leviticus/part-004.md#record-c0591)<br>`C0591` | [Leviticus 18:21](https://saints.bible/bible/law/leviticus/chapter-18/#v18-21) | Israelites and resident foreigners | Heavenly (God-given) |
 | [Do not have male-male intercourse as with a woman](../../books/leviticus/part-004.md#record-c0592)<br>`C0592` | [Leviticus 18:22](https://saints.bible/bible/law/leviticus/chapter-18/#v18-22) | Men among Israel and its resident foreigners | Heavenly (God-given) |
 | [Do not have sexual relations with an animal](../../books/leviticus/part-004.md#record-c0593)<br>`C0593` | [Leviticus 18:23](https://saints.bible/bible/law/leviticus/chapter-18/#v18-23) | Israelites and resident foreigners | Heavenly (God-given) |
@@ -46,7 +47,7 @@ Records 76–150 of 263.
 | [Leave the prescribed harvest portions for the poor and resident foreigner](../../books/leviticus/part-004.md#record-c0601)<br>`C0601` | [Leviticus 19:10](https://saints.bible/bible/law/leviticus/chapter-19/#v19-10) | Israelite field and vineyard owners | Heavenly (God-given) |
 | [Do not lie](../../books/leviticus/part-004.md#record-c0602)<br>`C0602` | [Leviticus 19:11](https://saints.bible/bible/law/leviticus/chapter-19/#v19-11) | Israel | Heavenly (God-given) |
 | [Do not defraud your neighbour](../../books/leviticus/part-004.md#record-c0603)<br>`C0603` | [Leviticus 19:11](https://saints.bible/bible/law/leviticus/chapter-19/#v19-11) | Israel | Heavenly (God-given) |
-| [Do not swear falsely by God's name](../../books/leviticus/part-005.md#record-c0604)<br>`C0604` | [Leviticus 19:12](https://saints.bible/bible/law/leviticus/chapter-19/#v19-12) | Israel | Heavenly (God-given) |
+| [Do not swear falsely by God's name](../../books/leviticus/part-004.md#record-c0604)<br>`C0604` | [Leviticus 19:12](https://saints.bible/bible/law/leviticus/chapter-19/#v19-12) | Israel | Heavenly (God-given) |
 | [Do not wrong your neighbour](../../books/leviticus/part-005.md#record-c0605)<br>`C0605` | [Leviticus 19:13](https://saints.bible/bible/law/leviticus/chapter-19/#v19-13) | Israel | Heavenly (God-given) |
 | [Do not rob your neighbour](../../books/leviticus/part-005.md#record-c0606)<br>`C0606` | [Leviticus 19:13](https://saints.bible/bible/law/leviticus/chapter-19/#v19-13) | Israel | Heavenly (God-given) |
 | [Do not withhold the hired worker's wages beyond the prescribed time](../../books/leviticus/part-005.md#record-c0607)<br>`C0607` | [Leviticus 19:13](https://saints.bible/bible/law/leviticus/chapter-19/#v19-13) | Israelites employing hired workers | Heavenly (God-given) |
@@ -57,7 +58,8 @@ Records 76–150 of 263.
 | [Do not go about deceitfully among your people](../../books/leviticus/part-005.md#record-c0613)<br>`C0613` | [Leviticus 19:16](https://saints.bible/bible/law/leviticus/chapter-19/#v19-16) | Israel | Heavenly (God-given) |
 | [Do not conspire against your neighbour's life](../../books/leviticus/part-005.md#record-c0614)<br>`C0614` | [Leviticus 19:16](https://saints.bible/bible/law/leviticus/chapter-19/#v19-16) | Israel | Heavenly (God-given) |
 | [Do not hate your brother inwardly](../../books/leviticus/part-005.md#record-c0615)<br>`C0615` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | Israel | Heavenly (God-given) |
-| [Do not share in your neighbour's sin](../../books/leviticus/part-005.md#record-c0617)<br>`C0617` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | Israel | Heavenly (God-given) |
+| [Reprove your neighbour](../../books/leviticus/part-005.md#record-c0616)<br>`C0616` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | Israel | Heavenly (God-given) |
+| [Do not bear sin because of your neighbour](../../books/leviticus/part-005.md#record-c0617)<br>`C0617` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | Israel | Heavenly (God-given) |
 | [Do not take vengeance](../../books/leviticus/part-005.md#record-c0618)<br>`C0618` | [Leviticus 19:18](https://saints.bible/bible/law/leviticus/chapter-19/#v19-18) | Israel | Heavenly (God-given) |
 | [Do not hold a grudge](../../books/leviticus/part-005.md#record-c0619)<br>`C0619` | [Leviticus 19:18](https://saints.bible/bible/law/leviticus/chapter-19/#v19-18) | Israel | Heavenly (God-given) |
 | [Do not mate livestock of different kinds](../../books/leviticus/part-005.md#record-c0621)<br>`C0621` | [Leviticus 19:19](https://saints.bible/bible/law/leviticus/chapter-19/#v19-19) | Israelite livestock keepers | Heavenly (God-given) |
@@ -76,14 +78,12 @@ Records 76–150 of 263.
 | [Do not perform the prohibited bodily mourning rites for the dead](../../books/leviticus/part-005.md#record-c0633)<br>`C0633` | [Leviticus 19:28](https://saints.bible/bible/law/leviticus/chapter-19/#v19-28) | Israel | Heavenly (God-given) |
 | [Do not put tattooed inscriptions on your body](../../books/leviticus/part-005.md#record-c0634)<br>`C0634` | [Leviticus 19:28](https://saints.bible/bible/law/leviticus/chapter-19/#v19-28) | Israel | Heavenly (God-given) |
 | [Do not make your daughter a prostitute](../../books/leviticus/part-005.md#record-c0635)<br>`C0635` | [Leviticus 19:29](https://saints.bible/bible/law/leviticus/chapter-19/#v19-29) | Israelites responsible for daughters | Heavenly (God-given) |
+| [Revere the Lord’s holy things](../../books/leviticus/part-005.md#record-c0636)<br>`C0636` | [Leviticus 19:30](https://saints.bible/bible/law/leviticus/chapter-19/#v19-30) | Israel | Heavenly (God-given) |
 | [Do not consult spirit mediums](../../books/leviticus/part-005.md#record-c0637)<br>`C0637` | [Leviticus 19:31](https://saints.bible/bible/law/leviticus/chapter-19/#v19-31) | Israel | Heavenly (God-given) |
 | [Do not turn to enchanters](../../books/leviticus/part-005.md#record-c0638)<br>`C0638` | [Leviticus 19:31](https://saints.bible/bible/law/leviticus/chapter-19/#v19-31) | Israel | Heavenly (God-given) |
+| [Rise before the grey-haired and honour the elder](../../books/leviticus/part-005.md#record-c0640)<br>`C0640` | [Leviticus 19:32](https://saints.bible/bible/law/leviticus/chapter-19/#v19-32) | Israel | Heavenly (God-given) |
 | [Use just scales, weights and measures](../../books/leviticus/part-005.md#record-c0643)<br>`C0643` | [Leviticus 19:35–36](https://saints.bible/bible/law/leviticus/chapter-19/#v19-35) | Israelites using weights and measures | Heavenly (God-given) |
 | [Execute by stoning the person giving offspring to the prohibited cultic service](../../books/leviticus/part-005.md#record-c0644)<br>`C0644` | [Leviticus 20:2](https://saints.bible/bible/law/leviticus/chapter-20/#v20-2) | People of the land charged with judgment | Heavenly (God-given) |
 | [Do not overlook the prohibited offering of offspring](../../books/leviticus/part-005.md#record-c0645)<br>`C0645` | [Leviticus 20:4](https://saints.bible/bible/law/leviticus/chapter-20/#v20-4) | People of the land charged with judgment | Heavenly (God-given) |
-| [Apply the prescribed death judgment to the adulterer and adulteress](../../books/leviticus/part-005.md#record-c0646)<br>`C0646` | [Leviticus 20:10](https://saints.bible/bible/law/leviticus/chapter-20/#v20-10) | Israelites administering judgment | Heavenly (God-given) |
-| [Apply the prescribed death judgment for intercourse with the father's wife](../../books/leviticus/part-005.md#record-c0647)<br>`C0647` | [Leviticus 20:11](https://saints.bible/bible/law/leviticus/chapter-20/#v20-11) | Israelites administering judgment | Heavenly (God-given) |
-| [Apply the prescribed death judgment for intercourse with the daughter-in-law](../../books/leviticus/part-005.md#record-c0648)<br>`C0648` | [Leviticus 20:12](https://saints.bible/bible/law/leviticus/chapter-20/#v20-12) | Israelites administering judgment | Heavenly (God-given) |
-| [Apply the prescribed death judgment for male-male intercourse](../../books/leviticus/part-005.md#record-c0649)<br>`C0649` | [Leviticus 20:13](https://saints.bible/bible/law/leviticus/chapter-20/#v20-13) | Israelites administering judgment | Heavenly (God-given) |
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)

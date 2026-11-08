@@ -4,15 +4,15 @@
 
 [Browse the current catalogue](browse/README.md) · [By Bible book](browse/books/README.md) · [By record type](browse/record-types/README.md) · [By topic](browse/categories/README.md)
 
-The current catalogue contains **6,613 study records** across all 70 books, including **2,219 added since the 6 November 2026 import**. It has **5,459 General** and **1,154 Personal** records and **1,056 supplementary Scripture links**.
+The current catalogue contains **6,597 study records** across all 70 books, including **2,219 with no matching record in the 6 November 2026 archive**. It has **5,443 General** and **1,154 Personal** records and **1,071 supplementary Scripture links**.
 
 The seven record types are Law, Command, Commission, Instruction, Wisdom, Study Context, and Mixed. Record type describes the form of the material. Origin, original audience, and application are recorded separately.
 
-[Download the current workbook](source/current/Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)
+[Download the current workbook](source/current/Saints-Bible-Instructions-Catalogue-Torah-Law-Followup.xlsx) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)
 
 The origin review records the source evidence for all 26 reassigned entries. [Origin decisions](audit/origin-review.json)
 
-The Torah Law audit reviewed all 137 chapters in Exodus through Deuteronomy. [Browse the 638 Torah Law records](browse/torah-law/README.md) · [Audit decisions and merge index](audit/torah-law/README.md)
+The Torah Law audit reviewed all 137 chapters in Exodus through Deuteronomy. [Browse the 646 Torah Law records](browse/torah-law/README.md) · [Follow-up decisions and merge index](audit/torah-law/followup.md)
 
 [The 70-book Record type audit](audit/record-types/README.md) documents the verified additions and corrections for Command, Instruction, Commission, and Wisdom.
 

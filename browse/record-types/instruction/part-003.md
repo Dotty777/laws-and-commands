@@ -6,11 +6,10 @@
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)
 
-Records 151–225 of 1,106.
+Records 151–225 of 1,092.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| [Slaughter the consecration bull before God](../../books/exodus/part-006.md#record-c0305)<br>`C0305` | [Exodus 29:11](https://saints.bible/bible/law/exodus/chapter-29/#v29-11) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Apply the consecration bull's blood to the altar horns](../../books/exodus/part-006.md#record-c0306)<br>`C0306` | [Exodus 29:12](https://saints.bible/bible/law/exodus/chapter-29/#v29-12) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Pour the consecration bull's remaining blood at the altar base](../../books/exodus/part-006.md#record-c0307)<br>`C0307` | [Exodus 29:12](https://saints.bible/bible/law/exodus/chapter-29/#v29-12) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Offer the designated fat and organs of the consecration bull on the altar](../../books/exodus/part-006.md#record-c0308)<br>`C0308` | [Exodus 29:13](https://saints.bible/bible/law/exodus/chapter-29/#v29-13) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
@@ -43,7 +42,7 @@ Records 151–225 of 1,106.
 | [Prepare the holy anointing oil with the prescribed composition](../../books/exodus/part-006.md#record-c0346)<br>`C0346` | [Exodus 30:23–25](https://saints.bible/bible/law/exodus/chapter-30/#v30-23) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Anoint and consecrate the tabernacle and its designated furnishings](../../books/exodus/part-006.md#record-c0347)<br>`C0347` | [Exodus 30:26–29](https://saints.bible/bible/law/exodus/chapter-30/#v30-26) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Prepare the holy incense with the prescribed composition](../../books/exodus/part-006.md#record-c0350)<br>`C0350` | [Exodus 30:34–35](https://saints.bible/bible/law/exodus/chapter-30/#v30-34) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Grind the prescribed incense finely](../../books/exodus/part-007.md#record-c0351)<br>`C0351` | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
+| [Grind the prescribed incense finely](../../books/exodus/part-006.md#record-c0351)<br>`C0351` | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Place the prescribed incense before the Testimony](../../books/exodus/part-007.md#record-c1230)<br>`C1230` | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Descend from Sinai; judgment after the calf; resume leading the people](../../books/exodus/part-007.md#record-torah-exodus-32-26)<br>`torah-exodus-32-26` | [Exodus 32:26–35](https://saints.bible/bible/law/exodus/chapter-32/#v32-26) | [Exodus](../../books/exodus/README.md) | Mixed origins | General |
 | [Proceed toward the land; remove ornaments; Moses stands on the rock](../../books/exodus/part-007.md#record-torah-exodus-33-1)<br>`torah-exodus-33-1` | [Exodus 33:1–6](https://saints.bible/bible/law/exodus/chapter-33/#v33-1) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
@@ -85,5 +84,6 @@ Records 151–225 of 1,106.
 | [Priest: bring the designated sin offering blood into the tent](../../books/leviticus/part-001.md#record-c0403)<br>`C0403` | [Leviticus 4:5–6](https://saints.bible/bible/law/leviticus/chapter-4/#v4-5) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Priest: sprinkle the designated sin offering blood seven times toward the veil](../../books/leviticus/part-001.md#record-c1233)<br>`C1233` | [Leviticus 4:5–6](https://saints.bible/bible/law/leviticus/chapter-4/#v4-5) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Apply the designated sin offering blood to the incense altar horns](../../books/leviticus/part-001.md#record-c0404)<br>`C0404` | [Leviticus 4:7](https://saints.bible/bible/law/leviticus/chapter-4/#v4-7) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
+| [Pour the sin offering's remaining blood at the burnt altar base](../../books/leviticus/part-001.md#record-c0405)<br>`C0405` | [Leviticus 4:7](https://saints.bible/bible/law/leviticus/chapter-4/#v4-7) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)

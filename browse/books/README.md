@@ -9,10 +9,10 @@ Books follow the Saints.Bible order. Each record has its own link within the boo
 | No. | Book | Records |
 | ---: | --- | ---: |
 | 1 | [Genesis](genesis/README.md) | 317 |
-| 2 | [Exodus](exodus/README.md) | 496 |
-| 3 | [Leviticus](leviticus/README.md) | 516 |
-| 4 | [Numbers](numbers/README.md) | 339 |
-| 5 | [Deuteronomy](deuteronomy/README.md) | 401 |
+| 2 | [Exodus](exodus/README.md) | 495 |
+| 3 | [Leviticus](leviticus/README.md) | 511 |
+| 4 | [Numbers](numbers/README.md) | 337 |
+| 5 | [Deuteronomy](deuteronomy/README.md) | 393 |
 | 6 | [Joshua](joshua/README.md) | 87 |
 | 7 | [Judges](judges/README.md) | 111 |
 | 8 | [Ruth](ruth/README.md) | 25 |

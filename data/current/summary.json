@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
   "workbook": {
-    "path": "source/current/Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx",
-    "sha256": "e50372b887f82379fd995ab91d2985565b8adf64521cdb21fad9cec91ce04a3f",
-    "production_url": "https://saints.bible/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx",
-    "staging_url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx"
+    "path": "source/current/Saints-Bible-Instructions-Catalogue-Torah-Law-Followup.xlsx",
+    "sha256": "2261581ac9b2b791b9fd84e4cf7258ebde08488673e5b657f8f02817ecec1c47",
+    "production_url": null,
+    "staging_url": null
   },
-  "records": 6613,
+  "records": 6597,
   "canonical_books": 70,
   "audiences": {
-    "General": 5459,
+    "General": 5443,
     "Personal": 1154
   },
   "record_types": {
-    "Command": 1882,
+    "Command": 1874,
     "Commission": 548,
-    "Instruction": 1106,
-    "Law": 1017,
+    "Instruction": 1092,
+    "Law": 1023,
     "Mixed": 11,
     "Study Context": 553,
     "Wisdom": 1496
@@ -24,15 +24,15 @@
   "origins": {
     "Context only": 360,
     "Earthly (Man-made)": 3304,
-    "Heavenly (God-given)": 2872,
+    "Heavenly (God-given)": 2856,
     "Mixed origins": 77
   },
   "books": {
     "Genesis": 317,
-    "Exodus": 496,
-    "Leviticus": 516,
-    "Numbers": 339,
-    "Deuteronomy": 401,
+    "Exodus": 495,
+    "Leviticus": 511,
+    "Numbers": 337,
+    "Deuteronomy": 393,
     "Joshua": 87,
     "Judges": 111,
     "Ruth": 25,
@@ -99,9 +99,9 @@
     "Jude": 6,
     "Revelation": 52
   },
-  "additional_scripture_links": 1056,
-  "records_with_additional_scripture": 763,
-  "torah_laws": 638,
+  "additional_scripture_links": 1071,
+  "records_with_additional_scripture": 769,
+  "torah_laws": 646,
   "merged_record_ids": {
     "C0098": "C0097",
     "C0105": "C0109",
@@ -148,13 +148,30 @@
     "ot-nehemiah-v2-18": "ot-nehemiah-v2-17",
     "ot-micah-v6-8": "X008",
     "ot-haggai-v2-5": "ot-haggai-v2-4",
-    "A119": "A020"
+    "A119": "A020",
+    "C0995": "C0146",
+    "C0949": "C1086",
+    "C1054": "C1086",
+    "TL-03-20-15": "C0201",
+    "C1174": "C0207",
+    "S136": "C0738",
+    "C1022": "C1023",
+    "C0801": "C0800",
+    "C0719": "C0717",
+    "C0745": "C0743",
+    "C0639": "C0640",
+    "C1041": "C1037",
+    "C1044": "C0164",
+    "C0215": "C0214",
+    "C1150": "C1151",
+    "C1181": "C1182",
+    "C0573": "TL-05-12-16"
   },
   "archive_join": {
     "path": "data/commands.json",
     "field": "archived_record_id",
-    "matched": 4394,
+    "matched": 4378,
     "current_only": 2219,
-    "merged": 46
+    "merged": 62
   }
 }

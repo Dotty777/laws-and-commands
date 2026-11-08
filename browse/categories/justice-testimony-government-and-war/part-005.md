@@ -6,14 +6,10 @@
 
 [Previous part](part-004.md) · [All parts](README.md)
 
-Records 301–362 of 362.
+Records 301–358 of 358.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Do not favor the impious or turn aside justice in judgment](../../books/proverbs/part-004.md#record-aud-22-18-5)<br>`AUD-22-18-5` | [Proverbs 18:5](https://saints.bible/bible/wisdom/proverbs/chapter-18/#v18-5) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
-| [The lot ends disputes and decides between the powerful](../../books/proverbs/part-004.md#record-aud-22-18-18)<br>`AUD-22-18-18` | [Proverbs 18:18](https://saints.bible/bible/wisdom/proverbs/chapter-18/#v18-18) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
-| [Do not provoke a king, whose threat is like a lion's roar](../../books/proverbs/part-004.md#record-aud-22-19-12)<br>`AUD-22-19-12` | [Proverbs 19:12](https://saints.bible/bible/wisdom/proverbs/chapter-19/#v19-12) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
-| [A righteous king on his throne lets no evil stand](../../books/proverbs/part-005.md#record-aud-22-20-8)<br>`AUD-22-20-8` | [Proverbs 20:8](https://saints.bible/bible/wisdom/proverbs/chapter-20/#v20-8) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
 | [A wise king winnows out the wicked](../../books/proverbs/part-005.md#record-aud-22-20-26)<br>`AUD-22-20-26` | [Proverbs 20:26](https://saints.bible/bible/wisdom/proverbs/chapter-20/#v20-26) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
 | [Mercy and truth guard a king's throne](../../books/proverbs/part-005.md#record-aud-22-20-28)<br>`AUD-22-20-28` | [Proverbs 20:28](https://saints.bible/bible/wisdom/proverbs/chapter-20/#v20-28) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
 | [Wisdom surpasses strength, and counsel provides help in war](../../books/proverbs/part-006.md#record-aud-22-24-5)<br>`AUD-22-24-5` | [Proverbs 24:5–6](https://saints.bible/bible/wisdom/proverbs/chapter-24/#v24-5) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |

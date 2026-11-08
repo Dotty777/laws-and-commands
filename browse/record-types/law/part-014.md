@@ -6,10 +6,16 @@
 
 [Previous part](part-013.md) · [All parts](README.md)
 
-Records 976–1,017 of 1,017.
+Records 976–1,023 of 1,023.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
+| [The ruler may give from his own land without taking the people’s inheritance](../../books/ezekiel/part-003.md#record-ot-ezekiel-v46-18)<br>`ot-ezekiel-v46-18` | [Ezekiel 46:18](https://saints.bible/bible/providence/ezekiel/chapter-46/#v46-18) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
+| [The vision describes the land to be inherited by Israel’s twelve tribes](../../books/ezekiel/part-003.md#record-ot-ezekiel-v47-13)<br>`ot-ezekiel-v47-13` | [Ezekiel 47:13–14](https://saints.bible/bible/providence/ezekiel/chapter-47/#v47-13) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
+| [The vision traces the northern boundary of the land](../../books/ezekiel/part-003.md#record-ot-ezekiel-v47-15)<br>`ot-ezekiel-v47-15` | [Ezekiel 47:15–21](https://saints.bible/bible/providence/ezekiel/chapter-47/#v47-15) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
+| [Resident foreigners with children are included in the inheritance](../../books/ezekiel/part-003.md#record-ot-ezekiel-v47-22)<br>`ot-ezekiel-v47-22` | [Ezekiel 47:22](https://saints.bible/bible/providence/ezekiel/chapter-47/#v47-22) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
+| [Resident foreigners receive an inheritance in the tribe where they live](../../books/ezekiel/part-003.md#record-ot-ezekiel-v47-23)<br>`ot-ezekiel-v47-23` | [Ezekiel 47:23](https://saints.bible/bible/providence/ezekiel/chapter-47/#v47-23) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
+| [The tribal allotments begin along the northern boundary](../../books/ezekiel/part-003.md#record-ot-ezekiel-v48-1)<br>`ot-ezekiel-v48-1` | [Ezekiel 48:1–8](https://saints.bible/bible/providence/ezekiel/chapter-48/#v48-1) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
 | [The dimensions of the land set apart for the Lord](../../books/ezekiel/part-003.md#record-ot-ezekiel-v48-9)<br>`ot-ezekiel-v48-9` | [Ezekiel 48:9](https://saints.bible/bible/providence/ezekiel/chapter-48/#v48-9) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
 | [The priests receive a holy portion adjoining the sanctuary](../../books/ezekiel/part-003.md#record-ot-ezekiel-v48-10)<br>`ot-ezekiel-v48-10` | [Ezekiel 48:10–12](https://saints.bible/bible/providence/ezekiel/chapter-48/#v48-10) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
 | [The Levites receive a portion adjoining the priests’ land](../../books/ezekiel/part-003.md#record-ot-ezekiel-v48-13)<br>`ot-ezekiel-v48-13` | [Ezekiel 48:13–15](https://saints.bible/bible/providence/ezekiel/chapter-48/#v48-13) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |

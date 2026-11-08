@@ -1,5 +1,7 @@
 # Torah Law audit
 
+The [follow-up review](followup.md) brings the GitHub count to **646**. The figures and merge index below describe the prior audit.
+
 The review compared each chapter of Exodus, Leviticus, Numbers and Deuteronomy against the Saints Translation and the pre-audit catalogue. Torah Law counts distinct standing provisions within their stated covenant setting. Duties, prohibitions, legal permissions and conditions of eligibility can qualify. A provision can be stated as a command. One-time orders, the steps that implement a provision, chapter summaries, and explanatory material are filed according to their own purpose.
 
 **638 records tagged Torah Law**, up from 556. The total uses the catalogue’s review criteria; it is not a reconciliation to a traditional count of mitzvot. Across the full catalogue: **21 provisions added**, **184 surviving records revised**, and **30 earlier IDs merged**. The original archive remains available.

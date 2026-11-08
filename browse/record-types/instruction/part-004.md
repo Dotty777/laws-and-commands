@@ -6,11 +6,10 @@
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)
 
-Records 226–300 of 1,106.
+Records 226–300 of 1,092.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| [Pour the sin offering's remaining blood at the burnt altar base](../../books/leviticus/part-001.md#record-c0405)<br>`C0405` | [Leviticus 4:7](https://saints.bible/bible/law/leviticus/chapter-4/#v4-7) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Remove the sin offering’s prescribed fat and organs](../../books/leviticus/part-001.md#record-c0406)<br>`C0406` | [Leviticus 4:8–10](https://saints.bible/bible/law/leviticus/chapter-4/#v4-8) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Offer the sin offering’s prescribed fat and organs on the altar](../../books/leviticus/part-001.md#record-c1234)<br>`C1234` | [Leviticus 4:8–10](https://saints.bible/bible/law/leviticus/chapter-4/#v4-8) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Burn outside the camp the sin offering carcass whose blood is brought inside](../../books/leviticus/part-001.md#record-c0407)<br>`C0407` | [Leviticus 4:11–12](https://saints.bible/bible/law/leviticus/chapter-4/#v4-11) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
@@ -52,6 +51,7 @@ Records 226–300 of 1,106.
 | [Present a suspected or changing skin lesion to the priest](../../books/leviticus/part-002.md#record-c0484)<br>`C0484` | [Leviticus 13:2](https://saints.bible/bible/law/leviticus/chapter-13/#v13-2) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Isolate suspected skin or scalp lesions for the specified examination periods](../../books/leviticus/part-002.md#record-c0486)<br>`C0486` | [Leviticus 13:4–5](https://saints.bible/bible/law/leviticus/chapter-13/#v13-4) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Wash garments after clearance of the specified skin or scalp lesion](../../books/leviticus/part-002.md#record-c0487)<br>`C0487` | [Leviticus 13:6](https://saints.bible/bible/law/leviticus/chapter-13/#v13-6) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
+| [Priests: reexamine the specified scalp or beard lesion on the seventh day](../../books/leviticus/part-002.md#record-ot-leviticus-v13-32)<br>`ot-leviticus-v13-32` | [Leviticus 13:32](https://saints.bible/bible/law/leviticus/chapter-13/#v13-32) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Shave the surrounding scalp for the prescribed examination](../../books/leviticus/part-003.md#record-c0488)<br>`C0488` | [Leviticus 13:33](https://saints.bible/bible/law/leviticus/chapter-13/#v13-33) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Do not shave the affected patch during that examination](../../books/leviticus/part-003.md#record-c0489)<br>`C0489` | [Leviticus 13:33](https://saints.bible/bible/law/leviticus/chapter-13/#v13-33) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Present the suspected garment or leather lesion to the priest](../../books/leviticus/part-003.md#record-c0495)<br>`C0495` | [Leviticus 13:49](https://saints.bible/bible/law/leviticus/chapter-13/#v13-49) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |

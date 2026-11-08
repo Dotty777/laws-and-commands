@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 176.
+Records 1–75 of 173.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
@@ -15,11 +15,10 @@ Records 1–75 of 176.
 | [Do not consume blood in the prohibited forms](../../books/genesis/part-001.md#record-c0019)<br>`C0019` | [Genesis 9:4](https://saints.bible/bible/law/genesis/chapter-9/#v9-4) | [Genesis](../../books/genesis/README.md) | [Law](../../record-types/law/part-001.md#book-genesis) | General |
 | [The prohibition on consuming blood](../../books/genesis/part-001.md#record-s009)<br>`S009` | [Genesis 9:4](https://saints.bible/bible/law/genesis/chapter-9/#v9-4) | [Genesis](../../books/genesis/README.md) | [Law](../../record-types/law/part-001.md#book-genesis) | General |
 | [Be holy to God](../../books/exodus/part-004.md#record-c0213)<br>`C0213` | [Exodus 22:30](https://saints.bible/bible/law/exodus/chapter-22/#v22-30) | [Exodus](../../books/exodus/README.md) | [Command](../../record-types/command/part-003.md#book-exodus) | General |
-| [Do not eat flesh torn by wild animals](../../books/exodus/part-004.md#record-c0214)<br>`C0214` | [Exodus 22:30](https://saints.bible/bible/law/exodus/chapter-22/#v22-30) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
-| [Dispose of the torn flesh by giving it to dogs](../../books/exodus/part-004.md#record-c0215)<br>`C0215` | [Exodus 22:30](https://saints.bible/bible/law/exodus/chapter-22/#v22-30) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
+| [Do not eat flesh torn by wild animals and throw it to the dogs](../../books/exodus/part-004.md#record-c0214)<br>`C0214` | [Exodus 22:30](https://saints.bible/bible/law/exodus/chapter-22/#v22-30) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Meat torn by animals in Israel’s food law](../../books/exodus/part-004.md#record-s039)<br>`S039` | [Exodus 22:30](https://saints.bible/bible/law/exodus/chapter-22/#v22-30) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Bring the firstfruits of the land to God's house](../../books/exodus/part-005.md#record-c0237)<br>`C0237` | [Exodus 23:19](https://saints.bible/bible/law/exodus/chapter-23/#v23-19) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
-| [Do not boil a young animal in its mother's milk](../../books/exodus/part-005.md#record-c0238)<br>`C0238` | [Exodus 23:19](https://saints.bible/bible/law/exodus/chapter-23/#v23-19) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
+| [Do not boil a lamb in its mother’s milk](../../books/exodus/part-005.md#record-c0238)<br>`C0238` | [Exodus 23:19](https://saints.bible/bible/law/exodus/chapter-23/#v23-19) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [The specific prohibition on a kid in its mother’s milk](../../books/exodus/part-005.md#record-s051)<br>`S051` | [Exodus 23:19](https://saints.bible/bible/law/exodus/chapter-23/#v23-19) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Peace or deliverance sacrifices; cattle, sheep and goats; blood, fat and altar portions](../../books/leviticus/part-001.md#record-torah-leviticus-3-1)<br>`torah-leviticus-3-1` | [Leviticus 3:1–17](https://saints.bible/bible/law/leviticus/chapter-3/#v3-1) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
 | [Remove the prescribed peace offering fat and organs](../../books/leviticus/part-001.md#record-c0398)<br>`C0398` | [Leviticus 3:3–5](https://saints.bible/bible/law/leviticus/chapter-3/#v3-3) | [Leviticus](../../books/leviticus/README.md) | [Instruction](../../record-types/instruction/part-003.md#book-leviticus) | General |
@@ -85,5 +84,6 @@ Records 1–75 of 176.
 | [Perform the prescribed sin, burnt and grain offerings completing the person's purification](../../books/leviticus/part-003.md#record-c0518)<br>`C0518` | [Leviticus 14:19–20](https://saints.bible/bible/law/leviticus/chapter-14/#v14-19) | [Leviticus](../../books/leviticus/README.md) | [Instruction](../../record-types/instruction/part-003.md#book-leviticus) | General |
 | [The house owner: report a suspected house lesion to the priest](../../books/leviticus/part-003.md#record-c0519)<br>`C0519` | [Leviticus 14:35](https://saints.bible/bible/law/leviticus/chapter-14/#v14-35) | [Leviticus](../../books/leviticus/README.md) | [Instruction](../../record-types/instruction/part-003.md#book-leviticus) | General |
 | [Empty the house before the priest's examination](../../books/leviticus/part-003.md#record-c0520)<br>`C0520` | [Leviticus 14:36](https://saints.bible/bible/law/leviticus/chapter-14/#v14-36) | [Leviticus](../../books/leviticus/README.md) | [Instruction](../../record-types/instruction/part-003.md#book-leviticus) | General |
+| [Determine whether the house lesion is clean or unclean by the applicable signs](../../books/leviticus/part-003.md#record-c0521)<br>`C0521` | [Leviticus 14:36–39](https://saints.bible/bible/law/leviticus/chapter-14/#v14-36) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
 
 [All parts](README.md) · [Next part](part-002.md)

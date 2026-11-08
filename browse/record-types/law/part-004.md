@@ -6,7 +6,7 @@
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)
 
-Records 226–300 of 1,017.
+Records 226–300 of 1,023.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
@@ -58,7 +58,6 @@ Records 226–300 of 1,017.
 | [Discharges, skin conditions and ritual cleansing](../../books/leviticus/part-002.md#record-s063)<br>`S063` | [Leviticus 13:1–8](https://saints.bible/bible/law/leviticus/chapter-13/#v13-1) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Priestly inspection, quarantine, skin and hair lesions, burns, isolation, clothing and leather](../../books/leviticus/part-002.md#record-torah-leviticus-13-1)<br>`torah-leviticus-13-1` | [Leviticus 13:1–59](https://saints.bible/bible/law/leviticus/chapter-13/#v13-1) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Declare skin and scalp lesions clean or unclean by their prescribed criteria](../../books/leviticus/part-002.md#record-c0485)<br>`C0485` | [Leviticus 13:3](https://saints.bible/bible/law/leviticus/chapter-13/#v13-3) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
-| [The priest reexamines the skin lesion on the seventh day](../../books/leviticus/part-002.md#record-ot-leviticus-v13-32)<br>`ot-leviticus-v13-32` | [Leviticus 13:32](https://saints.bible/bible/law/leviticus/chapter-13/#v13-32) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Observe the prescribed public signs while the lesion remains unclean](../../books/leviticus/part-003.md#record-c0490)<br>`C0490` | [Leviticus 13:45](https://saints.bible/bible/law/leviticus/chapter-13/#v13-45) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [A person with the unclean lesion: dwell apart outside the camp while the lesion persists](../../books/leviticus/part-003.md#record-c0494)<br>`C0494` | [Leviticus 13:46](https://saints.bible/bible/law/leviticus/chapter-13/#v13-46) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Cleansing the afflicted person, birds, washing, shaving, blood and oil, offerings, poverty provision and affected houses](../../books/leviticus/part-003.md#record-torah-leviticus-14-1)<br>`torah-leviticus-14-1` | [Leviticus 14:1–57](https://saints.bible/bible/law/leviticus/chapter-14/#v14-1) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
@@ -85,5 +84,6 @@ Records 226–300 of 1,017.
 | [Keep others out of the tent during the high priest's atonement entry](../../books/leviticus/part-004.md#record-c0558)<br>`C0558` | [Leviticus 16:17](https://saints.bible/bible/law/leviticus/chapter-16/#v16-17) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Humble yourselves on the appointed Day of Atonement](../../books/leviticus/part-004.md#record-c0568)<br>`C0568` | [Leviticus 16:29](https://saints.bible/bible/law/leviticus/chapter-16/#v16-29) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Do no work on the Day of Atonement](../../books/leviticus/part-004.md#record-c0569)<br>`C0569` | [Leviticus 16:29](https://saints.bible/bible/law/leviticus/chapter-16/#v16-29) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
+| [The Day of Atonement](../../books/leviticus/part-004.md#record-s064)<br>`S064` | [Leviticus 16:29–34](https://saints.bible/bible/law/leviticus/chapter-16/#v16-29) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)

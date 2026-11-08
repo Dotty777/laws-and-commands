@@ -6,12 +6,10 @@
 
 [Previous part](part-001.md) · [All parts](README.md)
 
-Records 76–92 of 92.
+Records 76–90 of 90.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Divorce regulation and Jesus’ teaching](../../books/deuteronomy/part-005.md#record-s149)<br>`S149` | [Deuteronomy 24:1–4](https://saints.bible/bible/law/deuteronomy/chapter-24/#v24-1) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
-| [Limit flogging; unmuzzled ox; levirate duty and refusal; assault; honest weights; remember Amalek](../../books/deuteronomy/part-005.md#record-torah-deuteronomy-25-1)<br>`torah-deuteronomy-25-1` | [Deuteronomy 25:1–19](https://saints.bible/bible/law/deuteronomy/chapter-25/#v25-1) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
 | [The childless widow in the stated levirate case: do not marry outside the prescribed kinship](../../books/deuteronomy/part-005.md#record-c1184)<br>`C1184` | [Deuteronomy 25:5](https://saints.bible/bible/law/deuteronomy/chapter-25/#v25-5) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
 | [The surviving brother in the stated levirate case: undertake the prescribed marriage duty](../../books/deuteronomy/part-005.md#record-c1185)<br>`C1185` | [Deuteronomy 25:5](https://saints.bible/bible/law/deuteronomy/chapter-25/#v25-5) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
 | [Levirate marriage in an Israelite household](../../books/deuteronomy/part-005.md#record-s156)<br>`S156` | [Deuteronomy 25:5–10](https://saints.bible/bible/law/deuteronomy/chapter-25/#v25-5) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
