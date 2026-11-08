@@ -6,9 +6,9 @@
 
 **2 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Command (1)](../../record-types/command/part-024.md#book-philemon) · [Instruction (1)](../../record-types/instruction/part-014.md#book-philemon)
+**Jump by Record type:** [Command (1)](../../record-types/command/part-025.md#book-philemon) · [Instruction (1)](../../record-types/instruction/part-014.md#book-philemon)
 
 | Study record | Scripture | Record type | Origin | Filing |
 | --- | --- | --- | --- | --- |
 | <a name="record-a029"></a>[Paul appeals to Philemon to welcome Onesimus as a brother and charge any debt to Paul](https://saints.bible/instructions/personal/?instruction_id=A029#audience-A029)<br>`A029` · [Archive](../../../categories/major-teachings-the-word-of-christ-handed-on/part-002.md#A029) | [Philemon 1:8–21](https://saints.bible/bible/discipleship/philemon/chapter-1/#v1-8)<br>Also: [Philemon 1:8–14](https://saints.bible/bible/discipleship/philemon/chapter-1/#v1-8), [Philemon 1:18–20](https://saints.bible/bible/discipleship/philemon/chapter-1/#v1-18) | [Instruction](../../record-types/instruction/part-014.md#book-philemon) | Earthly (Man-made) | Personal |
-| <a name="record-aud-61-1-22"></a>[Paul asks Philemon to prepare a guest room for him](https://saints.bible/instructions/?instruction_id=AUD-61-1-22#saints-command-catalogue)<br>`AUD-61-1-22` | [Philemon 1:22](https://saints.bible/bible/discipleship/philemon/chapter-1/#v1-22) | [Command](../../record-types/command/part-024.md#book-philemon) | Earthly (Man-made) | Personal |
+| <a name="record-aud-61-1-22"></a>[Paul asks Philemon to prepare a guest room for him](https://saints.bible/instructions/?instruction_id=AUD-61-1-22#saints-command-catalogue)<br>`AUD-61-1-22` | [Philemon 1:22](https://saints.bible/bible/discipleship/philemon/chapter-1/#v1-22) | [Command](../../record-types/command/part-025.md#book-philemon) | Earthly (Man-made) | Personal |

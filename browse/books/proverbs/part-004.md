@@ -6,7 +6,7 @@
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)
 
-Records 226–300 of 540.
+Records 226–300 of 543.
 
 | Study record | Scripture | Record type | Origin | Filing |
 | --- | --- | --- | --- | --- |

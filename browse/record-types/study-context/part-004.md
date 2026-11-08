@@ -6,13 +6,10 @@
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)
 
-Records 226–300 of 561.
+Records 226–300 of 553.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| [The gates are summoned to receive the King of glory](../../books/psalms/part-001.md#record-ot-psalms-v23-7)<br>`ot-psalms-v23-7` | [Greek Psalm 23:7](https://saints.bible/bible/wisdom/psalms/greek-psalm-23/#v23-7) | [Psalms](../../books/psalms/README.md) | Context only | General |
-| [The call for the gates to open is repeated](../../books/psalms/part-001.md#record-ot-psalms-v23-9)<br>`ot-psalms-v23-9` | [Greek Psalm 23:9](https://saints.bible/bible/wisdom/psalms/greek-psalm-23/#v23-9) | [Psalms](../../books/psalms/README.md) | Context only | General |
-| [The psalmist prays for those who support his cause](../../books/psalms/part-001.md#record-ot-psalms-v34-27)<br>`ot-psalms-v34-27` | [Greek Psalm 34:27](https://saints.bible/bible/wisdom/psalms/greek-psalm-34/#v34-27) | [Psalms](../../books/psalms/README.md) | Context only | General |
 | [The psalmist calls his instruments to wake with the dawn](../../books/psalms/part-002.md#record-ot-psalms-v56-9)<br>`ot-psalms-v56-9` | [Greek Psalm 56:9](https://saints.bible/bible/wisdom/psalms/greek-psalm-56/#v56-9) | [Psalms](../../books/psalms/README.md) | Context only | General |
 | [The skies, earth, and sea are called to praise God](../../books/psalms/part-002.md#record-ot-psalms-v68-35)<br>`ot-psalms-v68-35` | [Greek Psalm 68:35](https://saints.bible/bible/wisdom/psalms/greek-psalm-68/#v68-35) | [Psalms](../../books/psalms/README.md) | Context only | General |
 | [A blessing for the king and all nations through him](../../books/psalms/part-002.md#record-ot-psalms-v71-17)<br>`ot-psalms-v71-17` | [Greek Psalm 71:17](https://saints.bible/bible/wisdom/psalms/greek-psalm-71/#v71-17) | [Psalms](../../books/psalms/README.md) | Context only | General |
@@ -85,5 +82,8 @@ Records 226–300 of 561.
 | [The sea calls Sidon to shame in Isaiah’s oracle](../../books/isaiah/part-001.md#record-ot-isaiah-v23-4)<br>`ot-isaiah-v23-4` | [Isaiah 23:4](https://saints.bible/bible/providence/isaiah/chapter-23/#v23-4) | [Isaiah](../../books/isaiah/README.md) | Context only | General |
 | [Forgotten Tyre is pictured playing a lyre to be remembered](../../books/isaiah/part-001.md#record-ot-isaiah-v23-16)<br>`ot-isaiah-v23-16` | [Isaiah 23:16](https://saints.bible/bible/providence/isaiah/chapter-23/#v23-16) | [Isaiah](../../books/isaiah/README.md) | Context only | General |
 | [Judah’s song pictures open gates for a faithful people](../../books/isaiah/part-001.md#record-ot-isaiah-v26-2)<br>`ot-isaiah-v26-2` | [Isaiah 26:2](https://saints.bible/bible/providence/isaiah/chapter-26/#v26-2) | [Isaiah](../../books/isaiah/README.md) | Context only | General |
+| [A prayer seeks God at night and calls the earth to righteousness](../../books/isaiah/part-001.md#record-ot-isaiah-v26-9)<br>`ot-isaiah-v26-9` | [Isaiah 26:9](https://saints.bible/bible/providence/isaiah/chapter-26/#v26-9) | [Isaiah](../../books/isaiah/README.md) | Context only | General |
+| [The song depicts the ungodly refusing to learn righteousness](../../books/isaiah/part-001.md#record-ot-isaiah-v26-10)<br>`ot-isaiah-v26-10` | [Isaiah 26:10](https://saints.bible/bible/providence/isaiah/chapter-26/#v26-10) | [Isaiah](../../books/isaiah/README.md) | Context only | General |
+| [The prayer asks the Lord to bring trouble upon the earth’s proud](../../books/isaiah/part-001.md#record-ot-isaiah-v26-15)<br>`ot-isaiah-v26-15` | [Isaiah 26:15](https://saints.bible/bible/providence/isaiah/chapter-26/#v26-15) | [Isaiah](../../books/isaiah/README.md) | Context only | General |
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)

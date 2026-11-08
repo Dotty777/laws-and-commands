@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 1,091.
+Records 1–75 of 1,106.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
@@ -31,6 +31,7 @@ Records 1–75 of 1,091.
 | [Abraham and Isaac: the test, followed by the command not to harm Isaac](../../books/genesis/part-002.md#record-torah-genesis-22-1)<br>`torah-genesis-22-1` | [Genesis 22:1–14](https://saints.bible/bible/law/genesis/chapter-22/#v22-1) | [Genesis](../../books/genesis/README.md) | Heavenly (God-given) | Personal |
 | [Abraham states when his servant’s oath will end](../../books/genesis/part-002.md#record-ot-genesis-v24-8)<br>`ot-genesis-v24-8` | [Genesis 24:8](https://saints.bible/bible/law/genesis/chapter-24/#v24-8) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | General |
 | [Isaac: remain in the land, do not go to Egypt, and do not fear](../../books/genesis/part-003.md#record-torah-genesis-26-1)<br>`torah-genesis-26-1` | [Genesis 26:1–5](https://saints.bible/bible/law/genesis/chapter-26/#v26-1) | [Genesis](../../books/genesis/README.md) | Heavenly (God-given) | Personal |
+| [Abimelech’s party asks Isaac to swear a covenant of nonaggression](../../books/genesis/part-003.md#record-ft-01-26-28)<br>`FT-01-26-28` | [Genesis 26:28–29](https://saints.bible/bible/law/genesis/chapter-26/#v26-28) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | Personal |
 | [Isaac sends Esau to hunt and prepare a meal](../../books/genesis/part-003.md#record-ot-genesis-v27-3)<br>`ot-genesis-v27-3` | [Genesis 27:3–4](https://saints.bible/bible/law/genesis/chapter-27/#v27-3) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | General |
 | [Rebekah tells Jacob to stay with Laban until Esau calms](../../books/genesis/part-003.md#record-ot-genesis-v27-44)<br>`ot-genesis-v27-44` | [Genesis 27:42–45](https://saints.bible/bible/law/genesis/chapter-27/#v27-42) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | General |
 | [Rachel proposes that Jacob have children through Bilhah](../../books/genesis/part-003.md#record-ot-genesis-v30-3)<br>`ot-genesis-v30-3` | [Genesis 30:3](https://saints.bible/bible/law/genesis/chapter-30/#v30-3) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | Personal |
@@ -38,7 +39,7 @@ Records 1–75 of 1,091.
 | [Laban proposes a covenant with Jacob](../../books/genesis/part-003.md#record-ot-genesis-v31-44)<br>`ot-genesis-v31-44` | [Genesis 31:44](https://saints.bible/bible/law/genesis/chapter-31/#v31-44) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | Personal |
 | [Jacob prepares his servant for Esau’s questions](../../books/genesis/part-003.md#record-ot-genesis-v32-17)<br>`ot-genesis-v32-17` | [Genesis 32:17–19](https://saints.bible/bible/law/genesis/chapter-32/#v32-17) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | General |
 | [Esau proposes traveling together](../../books/genesis/part-003.md#record-ot-genesis-v33-12)<br>`ot-genesis-v33-12` | [Genesis 33:12](https://saints.bible/bible/law/genesis/chapter-33/#v33-12) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | General |
-| [Hamor and Shechem appeal to their townsmen’s interest in the livestock](../../books/genesis/part-004.md#record-ot-genesis-v34-23)<br>`ot-genesis-v34-23` | [Genesis 34:23](https://saints.bible/bible/law/genesis/chapter-34/#v34-23) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | General |
+| [Hamor and Shechem appeal to their townsmen’s interest in the livestock](../../books/genesis/part-003.md#record-ot-genesis-v34-23)<br>`ot-genesis-v34-23` | [Genesis 34:23](https://saints.bible/bible/law/genesis/chapter-34/#v34-23) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | General |
 | [Jacob: go to Bethel and make an altar; the household removes foreign gods](../../books/genesis/part-004.md#record-torah-genesis-35-1)<br>`torah-genesis-35-1` | [Genesis 35:1–4](https://saints.bible/bible/law/genesis/chapter-35/#v35-1) | [Genesis](../../books/genesis/README.md) | Mixed origins | Personal |
 | [Jacob calls his household to go to Bethel and build an altar](../../books/genesis/part-004.md#record-ot-genesis-v35-3)<br>`ot-genesis-v35-3` | [Genesis 35:3](https://saints.bible/bible/law/genesis/chapter-35/#v35-3) | [Genesis](../../books/genesis/README.md) | Heavenly (God-given) | General |
 | [Joseph’s brothers plot to kill him and conceal it](../../books/genesis/part-004.md#record-ot-genesis-v37-20)<br>`ot-genesis-v37-20` | [Genesis 37:20](https://saints.bible/bible/law/genesis/chapter-37/#v37-20) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | General |
@@ -53,6 +54,7 @@ Records 1–75 of 1,091.
 | [The Egyptians plead for bread and Joseph proposes a livestock exchange](../../books/genesis/part-004.md#record-ot-genesis-v47-15)<br>`ot-genesis-v47-15` | [Genesis 47:15–16](https://saints.bible/bible/law/genesis/chapter-47/#v47-15) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | General |
 | [Joseph gives the Egyptians seed to sow Pharaoh’s land](../../books/genesis/part-004.md#record-ot-genesis-v47-23)<br>`ot-genesis-v47-23` | [Genesis 47:23](https://saints.bible/bible/law/genesis/chapter-47/#v47-23) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | General |
 | [Jacob explains how Joseph’s later children will inherit](../../books/genesis/part-005.md#record-ot-genesis-v48-6)<br>`ot-genesis-v48-6` | [Genesis 48:5–6](https://saints.bible/bible/law/genesis/chapter-48/#v48-5) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | General |
+| [Jacob warns Reuben against his insolence](../../books/genesis/part-005.md#record-ft-01-49-4)<br>`FT-01-49-4` | [Genesis 49:3–4](https://saints.bible/bible/law/genesis/chapter-49/#v49-3) | [Genesis](../../books/genesis/README.md) | Earthly (Man-made) | Personal |
 | <a name="book-exodus"></a>[Pharaoh proposes a scheme to control the Israelites](../../books/exodus/part-001.md#record-ot-exodus-v1-10)<br>`ot-exodus-v1-10` | [Exodus 1:10](https://saints.bible/bible/law/exodus/chapter-1/#v1-10) | [Exodus](../../books/exodus/README.md) | Earthly (Man-made) | General |
 | [Israel's elders: accompany Moses to petition Pharaoh](../../books/exodus/part-001.md#record-c0068)<br>`C0068` | [Exodus 3:18](https://saints.bible/bible/law/exodus/chapter-3/#v3-18) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Israel: request silver, gold and clothing from Egyptian neighbours](../../books/exodus/part-001.md#record-c0069)<br>`C0069` | [Exodus 3:22](https://saints.bible/bible/law/exodus/chapter-3/#v3-22) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
@@ -83,7 +85,5 @@ Records 1–75 of 1,091.
 | [Manna: daily portions, no ordinary overnight storage, sixth-day preparation, Sabbath rest and memorial jar](../../books/exodus/part-002.md#record-torah-exodus-16-16)<br>`torah-exodus-16-16` | [Exodus 16:16–30](https://saints.bible/bible/law/exodus/chapter-16/#v16-16) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Israel: do not keep ordinary-day manna until morning](../../books/exodus/part-002.md#record-c0127)<br>`C0127` | [Exodus 16:19](https://saints.bible/bible/law/exodus/chapter-16/#v16-19) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Israel: preserve the sixth-day manna until the Sabbath morning](../../books/exodus/part-002.md#record-c0128)<br>`C0128` | [Exodus 16:23–25](https://saints.bible/bible/law/exodus/chapter-16/#v16-23) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Israel: eat the preserved manna on the Sabbath](../../books/exodus/part-002.md#record-c1228)<br>`C1228` | [Exodus 16:23–25](https://saints.bible/bible/law/exodus/chapter-16/#v16-23) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Israel: remain in your places on the Sabbath instead of going out to gather manna](../../books/exodus/part-002.md#record-c0130)<br>`C0130` | [Exodus 16:29](https://saints.bible/bible/law/exodus/chapter-16/#v16-29) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 
 [All parts](README.md) · [Next part](part-002.md)

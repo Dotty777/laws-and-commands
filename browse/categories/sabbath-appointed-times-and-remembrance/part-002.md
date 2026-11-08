@@ -6,7 +6,7 @@
 
 [Previous part](part-001.md) · [All parts](README.md)
 
-Records 76–108 of 108.
+Records 76–110 of 110.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
@@ -39,8 +39,10 @@ Records 76–108 of 108.
 | [Include the named household members and neighbors in the Feast of Weeks](../../books/deuteronomy/part-003.md#record-c1050)<br>`C1050` | [Deuteronomy 16:11](https://saints.bible/bible/law/deuteronomy/chapter-16/#v16-11) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
 | [Three annual appearances before the Lord](../../books/deuteronomy/part-003.md#record-s134)<br>`S134` | [Deuteronomy 16:16–17](https://saints.bible/bible/law/deuteronomy/chapter-16/#v16-16) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
 | [Israel's daughters lament Jephthah's daughter for four days each year](../../books/judges/part-001.md#record-aud-07-11-39)<br>`AUD-07-11-39` | [Judges 11:40](https://saints.bible/bible/judgement/judges/chapter-11/#v11-40) | [Judges](../../books/judges/README.md) | [Law](../../record-types/law/part-012.md#book-judges) | General |
+| [Hezekiah and the assembly issue a call to keep Passover in the second month](../../books/2-chronicles/part-001.md#record-aud-14-30-2)<br>`AUD-14-30-2` | [2 Chronicles 30:2–5](https://saints.bible/bible/judgement/2-chronicles/chapter-30/#v30-2) | [2 Chronicles](../../books/2-chronicles/README.md) | [Command](../../record-types/command/part-014.md#book-2-chronicles) | General |
 | [Simon decrees a yearly celebration of the citadel’s capture](../../books/1-maccabees/part-002.md#record-aud-15-13-51)<br>`AUD-15-13-51` | [1 Maccabees 13:51–52](https://saints.bible/bible/judgement/1-maccabees/chapter-13/#v13-51) | [1 Maccabees](../../books/1-maccabees/README.md) | [Law](../../record-types/law/part-012.md#book-1-maccabees) | General |
-| [Nehemiah charges the Levites to guard the gates and hallow the Sabbath](../../books/nehemiah/README.md#record-aud-18-13-22)<br>`AUD-18-13-22` | [Nehemiah 13:22](https://saints.bible/bible/judgement/nehemiah/chapter-13/#v13-22) | [Nehemiah](../../books/nehemiah/README.md) | [Command](../../record-types/command/part-015.md#book-nehemiah) | General |
+| [Nicanor commands arms taken up on the Sabbath for the king’s business](../../books/2-maccabees/README.md#record-aud-16-15-5)<br>`AUD-16-15-5` | [2 Maccabees 15:5](https://saints.bible/bible/judgement/2-maccabees/chapter-15/#v15-5) | [2 Maccabees](../../books/2-maccabees/README.md) | [Command](../../record-types/command/part-015.md#book-2-maccabees) | General |
+| [Nehemiah charges the Levites to guard the gates and hallow the Sabbath](../../books/nehemiah/README.md#record-aud-18-13-22)<br>`AUD-18-13-22` | [Nehemiah 13:22](https://saints.bible/bible/judgement/nehemiah/chapter-13/#v13-22) | [Nehemiah](../../books/nehemiah/README.md) | [Command](../../record-types/command/part-016.md#book-nehemiah) | General |
 | [The ruler's Sabbath burnt offering: six lambs and a ram](../../books/ezekiel/part-003.md#record-aud-30-46-4)<br>`AUD-30-46-4` | [Ezekiel 46:4–5](https://saints.bible/bible/providence/ezekiel/chapter-46/#v46-4) | [Ezekiel](../../books/ezekiel/README.md) | [Law](../../record-types/law/part-013.md#book-ezekiel) | General |
 | [The new-moon offering: a calf, six lambs and a ram](../../books/ezekiel/part-003.md#record-aud-30-46-6)<br>`AUD-30-46-6` | [Ezekiel 46:6–7](https://saints.bible/bible/providence/ezekiel/chapter-46/#v46-6) | [Ezekiel](../../books/ezekiel/README.md) | [Law](../../record-types/law/part-013.md#book-ezekiel) | General |
 

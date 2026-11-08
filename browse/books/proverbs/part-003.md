@@ -6,7 +6,7 @@
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)
 
-Records 151–225 of 540.
+Records 151–225 of 543.
 
 | Study record | Scripture | Record type | Origin | Filing |
 | --- | --- | --- | --- | --- |

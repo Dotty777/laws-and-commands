@@ -4,11 +4,12 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**2 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**3 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Instruction (2)](../../record-types/instruction/part-015.md#book-3-john)
+**Jump by Record type:** [Command (1)](../../record-types/command/part-025.md#book-3-john) · [Instruction (2)](../../record-types/instruction/part-015.md#book-3-john)
 
 | Study record | Scripture | Record type | Origin | Filing |
 | --- | --- | --- | --- | --- |
 | <a name="record-a030"></a>[John urges support for those who travel for the sake of the Name](https://saints.bible/instructions/general/?instruction_id=A030#audience-A030)<br>`A030` · [Archive](../../../categories/major-teachings-the-word-of-christ-handed-on/part-001.md#A030) | [3 John 1:5–8](https://saints.bible/bible/discipleship/3-john/chapter-1/#v1-5) | [Instruction](../../record-types/instruction/part-015.md#book-3-john) | Earthly (Man-made) | General |
 | <a name="record-aud-68-1-9"></a>[Imitate good and avoid imitating evil](https://saints.bible/instructions/?instruction_id=AUD-68-1-9#saints-command-catalogue)<br>`AUD-68-1-9` | [3 John 1:9–12](https://saints.bible/bible/discipleship/3-john/chapter-1/#v1-9) | [Instruction](../../record-types/instruction/part-015.md#book-3-john) | Earthly (Man-made) | Personal |
+| <a name="record-ft-68-01-15"></a>[Gaius: greet the friends by name](https://saints.bible/instructions/?instruction_id=FT-68-01-15#saints-command-catalogue)<br>`FT-68-01-15` | [3 John 1:15](https://saints.bible/bible/discipleship/3-john/chapter-1/#v1-15) | [Command](../../record-types/command/part-025.md#book-3-john) | Earthly (Man-made) | Personal |

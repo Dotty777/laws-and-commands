@@ -4,9 +4,9 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**540 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**543 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Wisdom (537)](../../record-types/wisdom/part-003.md#book-proverbs) · [Study Context (3)](../../record-types/study-context/part-004.md#book-proverbs)
+**Jump by Record type:** [Wisdom (540)](../../record-types/wisdom/part-003.md#book-proverbs) · [Study Context (3)](../../record-types/study-context/part-004.md#book-proverbs)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
@@ -14,7 +14,7 @@
 | [Part 2](part-002.md) | 75 | Proverbs 9:7–12 | Proverbs 13:1 |
 | [Part 3](part-003.md) | 75 | Proverbs 13:2 | Proverbs 15:32 |
 | [Part 4](part-004.md) | 75 | Proverbs 15:33 | Proverbs 19:21 |
-| [Part 5](part-005.md) | 75 | Proverbs 19:22 | Proverbs 22:22–23 |
-| [Part 6](part-006.md) | 75 | Proverbs 22:24–25 | Proverbs 26:28 |
-| [Part 7](part-007.md) | 75 | Proverbs 27:1 | Proverbs 30:11–14 |
-| [Part 8](part-008.md) | 15 | Proverbs 30:17 | Proverbs 31:28–31 |
+| [Part 5](part-005.md) | 75 | Proverbs 19:22 | Proverbs 22:17–21 |
+| [Part 6](part-006.md) | 75 | Proverbs 22:22–23 | Proverbs 26:27 |
+| [Part 7](part-007.md) | 75 | Proverbs 26:28 | Proverbs 30:5–6 |
+| [Part 8](part-008.md) | 18 | Proverbs 30:10 | Proverbs 31:28–31 |

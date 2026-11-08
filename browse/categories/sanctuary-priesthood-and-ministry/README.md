@@ -4,13 +4,14 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**299 current study records.** Select a study title to open its entry in the book view.
+**308 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/sanctuary-priesthood-and-ministry.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
 | [Part 1](part-001.md) | 75 | Exodus 20:18–26 | Exodus 29:17 |
-| [Part 2](part-002.md) | 75 | Exodus 29:18 | Leviticus 10:10 |
-| [Part 3](part-003.md) | 75 | Leviticus 10:11 | Numbers 4:13–14 |
-| [Part 4](part-004.md) | 74 | Numbers 4:13–14 | Zechariah 3:6–7 |
+| [Part 2](part-002.md) | 75 | Exodus 29:18 | Leviticus 10:9 |
+| [Part 3](part-003.md) | 75 | Leviticus 10:10 | Numbers 4:12 |
+| [Part 4](part-004.md) | 75 | Numbers 4:13–14 | Greek Psalm 109:4 |
+| [Part 5](part-005.md) | 8 | Sirach 7:29–31 | Zechariah 3:6–7 |

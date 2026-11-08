@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**91 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**95 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Command (21)](../../record-types/command/part-016.md#book-job) · [Instruction (1)](../../record-types/instruction/part-010.md#book-job) · [Wisdom (38)](../../record-types/wisdom/part-001.md#book-job) · [Study Context (31)](../../record-types/study-context/part-003.md#book-job)
+**Jump by Record type:** [Command (21)](../../record-types/command/part-017.md#book-job) · [Instruction (1)](../../record-types/instruction/part-010.md#book-job) · [Wisdom (42)](../../record-types/wisdom/part-001.md#book-job) · [Study Context (31)](../../record-types/study-context/part-003.md#book-job)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Job 1:12 | Job 36:24 |
-| [Part 2](part-002.md) | 16 | Job 37:2 | Job 42:7–8 |
+| [Part 1](part-001.md) | 75 | Job 1:12 | Job 36:5–7 |
+| [Part 2](part-002.md) | 20 | Job 36:10–12 | Job 42:7–8 |

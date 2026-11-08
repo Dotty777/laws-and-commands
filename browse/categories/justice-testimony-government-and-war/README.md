@@ -4,14 +4,14 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**311 current study records.** Select a study title to open its entry in the book view.
+**362 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/justice-testimony-government-and-war.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Exodus 12:48–49 | Leviticus 24:15 |
-| [Part 2](part-002.md) | 75 | Leviticus 24:19–20 | Deuteronomy 20:10 |
-| [Part 3](part-003.md) | 75 | Deuteronomy 20:11 | 1 Maccabees 15:7–8 |
-| [Part 4](part-004.md) | 75 | 1 Maccabees 15:16–19 | Acts 22:22–23 |
-| [Part 5](part-005.md) | 11 | Acts 22:30 | Acts 26:1–3 |
+| [Part 1](part-001.md) | 75 | Exodus 12:48–49 | Leviticus 24:16 |
+| [Part 2](part-002.md) | 75 | Leviticus 24:15 | Deuteronomy 20:9 |
+| [Part 3](part-003.md) | 75 | Deuteronomy 20:10 | 2 Kings 3:23 |
+| [Part 4](part-004.md) | 75 | 1 Chronicles 26:31–32 | Proverbs 17:26 |
+| [Part 5](part-005.md) | 62 | Proverbs 18:5 | Acts 26:1–3 |

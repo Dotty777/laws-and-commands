@@ -6,10 +6,12 @@
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)
 
-Records 151–225 of 584.
+Records 151–225 of 589.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
+| [The fruit of righteousness grows a tree of life](../../books/proverbs/part-002.md#record-aud-22-11-30)<br>`AUD-22-11-30` | [Proverbs 11:30](https://saints.bible/bible/wisdom/proverbs/chapter-11/#v11-30) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
+| [Lawlessness establishes no one; the roots of the righteous hold fast](../../books/proverbs/part-002.md#record-aud-22-12-3)<br>`AUD-22-12-3` | [Proverbs 12:3](https://saints.bible/bible/wisdom/proverbs/chapter-12/#v12-3) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
 | [The thoughts of the righteous are just; impious words are deceitful](../../books/proverbs/part-002.md#record-aud-22-12-5)<br>`AUD-22-12-5` | [Proverbs 12:5–6](https://saints.bible/bible/wisdom/proverbs/chapter-12/#v12-5) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
 | [The impious vanish wherever they turn; the righteous house stands](../../books/proverbs/part-002.md#record-aud-22-12-7)<br>`AUD-22-12-7` | [Proverbs 12:7](https://saints.bible/bible/wisdom/proverbs/chapter-12/#v12-7) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
 | [The understanding are praised; the sluggish of heart are sneered at](../../books/proverbs/part-002.md#record-aud-22-12-8)<br>`AUD-22-12-8` | [Proverbs 12:8](https://saints.bible/bible/wisdom/proverbs/chapter-12/#v12-8) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
@@ -83,7 +85,5 @@ Records 151–225 of 584.
 | [Words of the heart are deep water, a fountain of life](../../books/proverbs/part-004.md#record-aud-22-18-4)<br>`AUD-22-18-4` | [Proverbs 18:4](https://saints.bible/bible/wisdom/proverbs/chapter-18/#v18-4) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
 | [A fool's lips lead to evil; his mouth is his ruin](../../books/proverbs/part-004.md#record-aud-22-18-6)<br>`AUD-22-18-6` | [Proverbs 18:6–7](https://saints.bible/bible/wisdom/proverbs/chapter-18/#v18-6) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
 | [The heart is lifted before ruin and humbled before glory](../../books/proverbs/part-004.md#record-aud-22-18-12)<br>`AUD-22-18-12` | [Proverbs 18:12](https://saints.bible/bible/wisdom/proverbs/chapter-18/#v18-12) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
-| [Death and life lie in the tongue; its masters eat its fruit](../../books/proverbs/part-004.md#record-aud-22-18-20)<br>`AUD-22-18-20` | [Proverbs 18:20–21](https://saints.bible/bible/wisdom/proverbs/chapter-18/#v18-20) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
-| [Do not blame God for ruin your own folly causes](../../books/proverbs/part-004.md#record-aud-22-19-3)<br>`AUD-22-19-3` | [Proverbs 19:3](https://saints.bible/bible/wisdom/proverbs/chapter-19/#v19-3) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)

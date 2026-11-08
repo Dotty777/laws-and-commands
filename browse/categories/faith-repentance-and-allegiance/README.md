@@ -4,18 +4,18 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**639 current study records.** Select a study title to open its entry in the book view.
+**648 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/faith-repentance-and-allegiance.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 1:3 | Judges 10:14 |
-| [Part 2](part-002.md) | 75 | Judges 13:13–14 | 2 Kings 1:11 |
-| [Part 3](part-003.md) | 75 | 2 Kings 1:15 | Greek Psalm 7:13–14 |
-| [Part 4](part-004.md) | 75 | Greek Psalm 13:1 | Proverbs 22:4 |
-| [Part 5](part-005.md) | 75 | Proverbs 22:12 | Isaiah 7:13–14 |
-| [Part 6](part-006.md) | 75 | Isaiah 8:1 | Jeremiah 9:16 |
-| [Part 7](part-007.md) | 75 | Jeremiah 10:1–2 | Ezekiel 13:18 |
-| [Part 8](part-008.md) | 75 | Ezekiel 15:6 | Zephaniah 1:11 |
-| [Part 9](part-009.md) | 39 | Zechariah 1:3 | Revelation 20:6 |
+| [Part 1](part-001.md) | 75 | Genesis 1:3 | Ruth 1:16–17 |
+| [Part 2](part-002.md) | 75 | Ruth 3:13 | 2 Kings 1:9 |
+| [Part 3](part-003.md) | 75 | 2 Kings 1:11 | Job 40:13 |
+| [Part 4](part-004.md) | 75 | Job 40:32 | Proverbs 20:27 |
+| [Part 5](part-005.md) | 75 | Proverbs 21:1 | Isaiah 5:18 |
+| [Part 6](part-006.md) | 75 | Isaiah 6:8–11 | Jeremiah 7:12 |
+| [Part 7](part-007.md) | 75 | Jeremiah 7:29 | Ezekiel 12:28 |
+| [Part 8](part-008.md) | 75 | Ezekiel 13:2–3 | Habakkuk 1:5 |
+| [Part 9](part-009.md) | 48 | Habakkuk 2:2–4 | Revelation 20:6 |

@@ -15,16 +15,16 @@ from zipfile import ZipFile
 
 
 ROOT = Path(__file__).resolve().parents[1]
-WORKBOOK_NAME = "Saints-Bible-Instructions-Catalogue-Torah-Law-Audit.xlsx"
+WORKBOOK_NAME = "Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx"
 WORKBOOK_PATH = f"source/current/{WORKBOOK_NAME}"
-WORKBOOK_SHA256 = "2e03d11e772fb46475e72dbba843cb2758292a5716776141e60b3d307bf3c9e3"
-LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Torah-Law-Audit.xlsx"
-STAGING_LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Torah-Law-Audit.xlsx"
+WORKBOOK_SHA256 = "e50372b887f82379fd995ab91d2985565b8adf64521cdb21fad9cec91ce04a3f"
+LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx"
+STAGING_LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx"
 ARCHIVE = "data/commands.json"
-MERGE_AUDIT = "audit/torah-law/decisions.json"
-RECORD_COUNT = 6407
+MERGE_AUDIT = "audit/record-types/decisions.json"
+RECORD_COUNT = 6613
 ARCHIVE_COUNT = 4440
-SOURCE_COUNT = 902
+SOURCE_COUNT = 1056
 X = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
 R = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
 P = "http://schemas.openxmlformats.org/package/2006/relationships"

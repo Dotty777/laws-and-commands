@@ -6,10 +6,14 @@
 
 [Previous part](part-004.md) · [All parts](README.md) · [Next part](part-006.md)
 
-Records 301–375 of 1,091.
+Records 301–375 of 1,106.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
+| [Provide the two birds and appointed materials for cleansing the house](../../books/leviticus/part-003.md#record-c0529)<br>`C0529` | [Leviticus 14:49](https://saints.bible/bible/law/leviticus/chapter-14/#v14-49) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
+| [Slaughter the house-purification bird over living water in an earthen vessel](../../books/leviticus/part-003.md#record-c0530)<br>`C0530` | [Leviticus 14:50](https://saints.bible/bible/law/leviticus/chapter-14/#v14-50) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
+| [Dip the appointed house-purification materials in the bird’s blood over living water](../../books/leviticus/part-003.md#record-c0531)<br>`C0531` | [Leviticus 14:51–52](https://saints.bible/bible/law/leviticus/chapter-14/#v14-51) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
+| [Sprinkle the house seven times with the prescribed purification materials](../../books/leviticus/part-003.md#record-c1238)<br>`C1238` | [Leviticus 14:51–52](https://saints.bible/bible/law/leviticus/chapter-14/#v14-51) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Release the living bird outside the city after the house purification](../../books/leviticus/part-003.md#record-c0532)<br>`C0532` | [Leviticus 14:53](https://saints.bible/bible/law/leviticus/chapter-14/#v14-53) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Wash garments after the specified contact with a discharge or contaminated bedding](../../books/leviticus/part-003.md#record-c0534)<br>`C0534` | [Leviticus 15:5–8](https://saints.bible/bible/law/leviticus/chapter-15/#v15-5) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Bathe after the specified contact with a discharge or contaminated bedding](../../books/leviticus/part-003.md#record-c0535)<br>`C0535` | [Leviticus 15:5–8](https://saints.bible/bible/law/leviticus/chapter-15/#v15-5) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
@@ -81,9 +85,5 @@ Records 301–375 of 1,091.
 | [Priests: cover and prepare the table and its vessels for transport](../../books/numbers/part-001.md#record-c0786)<br>`C0786` | [Numbers 4:7–8](https://saints.bible/bible/law/numbers/chapter-4/#v4-7) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
 | [Priests: cover and prepare the lampstand and its equipment for transport](../../books/numbers/part-001.md#record-c0787)<br>`C0787` | [Numbers 4:9–10](https://saints.bible/bible/law/numbers/chapter-4/#v4-9) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
 | [Priests: cover and prepare the golden altar for transport](../../books/numbers/part-001.md#record-c0788)<br>`C0788` | [Numbers 4:11](https://saints.bible/bible/law/numbers/chapter-4/#v4-11) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
-| [Priests: cover and prepare the other holy utensils for transport](../../books/numbers/part-001.md#record-c0789)<br>`C0789` | [Numbers 4:12](https://saints.bible/bible/law/numbers/chapter-4/#v4-12) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
-| [Priests: cover and prepare the bronze altar and its utensils for transport](../../books/numbers/part-001.md#record-c0790)<br>`C0790` | [Numbers 4:13–14](https://saints.bible/bible/law/numbers/chapter-4/#v4-13) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
-| [Priests: cover and prepare the basin and its stand for transport](../../books/numbers/part-001.md#record-c0791)<br>`C0791` | [Numbers 4:13–14](https://saints.bible/bible/law/numbers/chapter-4/#v4-13) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
-| [Protect the Kohathites by assigning each person's permitted burden before approach](../../books/numbers/part-001.md#record-c0793)<br>`C0793` | [Numbers 4:18–19](https://saints.bible/bible/law/numbers/chapter-4/#v4-18) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
 
 [Previous part](part-004.md) · [All parts](README.md) · [Next part](part-006.md)

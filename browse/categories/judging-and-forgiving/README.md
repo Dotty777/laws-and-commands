@@ -4,13 +4,14 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**9 current study records.** Select a study title to open its entry in the book view.
+**10 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/judging-and-forgiving.md)
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
 | [Aaron begs Moses not to hold their sin against them](../../books/numbers/part-002.md#record-aud-04-12-11)<br>`AUD-04-12-11` | [Numbers 12:11–12](https://saints.bible/bible/law/numbers/chapter-12/#v12-11) | [Numbers](../../books/numbers/README.md) | [Command](../../record-types/command/part-005.md#book-numbers) | Personal |
+| [David asks Saul to recognize that he spared him and leave judgment to the Lord](../../books/1-samuel/part-003.md#record-aud-09-24-10)<br>`AUD-09-24-10` | [1 Samuel 24:12–13](https://saints.bible/bible/judgement/1-samuel/chapter-24/#v24-12) | [1 Samuel](../../books/1-samuel/README.md) | [Command](../../record-types/command/part-008.md#book-1-samuel) | Personal |
 | [Abigail asks David to forgive her trespass](../../books/1-samuel/part-003.md#record-aud-09-25-28)<br>`AUD-09-25-28` | [1 Samuel 25:28](https://saints.bible/bible/judgement/1-samuel/chapter-25/#v25-28) | [1 Samuel](../../books/1-samuel/README.md) | [Command](../../record-types/command/part-008.md#book-1-samuel) | Personal |
 | [Hatred stirs up strife, but friendship covers those who shun it](../../books/proverbs/part-002.md#record-aud-22-10-12)<br>`AUD-22-10-12` | [Proverbs 10:12](https://saints.bible/bible/wisdom/proverbs/chapter-10/#v10-12) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
 | [Righteousness leads to life; remembering wrongs leads to death](../../books/proverbs/part-002.md#record-aud-22-12-28)<br>`AUD-22-12-28` | [Proverbs 12:28](https://saints.bible/bible/wisdom/proverbs/chapter-12/#v12-28) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |

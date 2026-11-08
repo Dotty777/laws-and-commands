@@ -4,12 +4,12 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**191 current study records.** Select a study title to open its entry in the book view.
+**196 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/mercy-neighbors-and-the-vulnerable.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 11:3 | Proverbs 19:7 |
-| [Part 2](part-002.md) | 75 | Proverbs 19:17 | Sirach 50:24 |
-| [Part 3](part-003.md) | 41 | Sirach 51:29 | Philemon 1:22 |
+| [Part 1](part-001.md) | 75 | Genesis 11:3 | Proverbs 12:10 |
+| [Part 2](part-002.md) | 75 | Proverbs 12:13a | Sirach 31:31 |
+| [Part 3](part-003.md) | 46 | Sirach 34:20–22 | Philemon 1:22 |

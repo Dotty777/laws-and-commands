@@ -6,10 +6,12 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 1,091.
+Records 76–150 of 1,106.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
+| [Israel: eat the preserved manna on the Sabbath](../../books/exodus/part-002.md#record-c1228)<br>`C1228` | [Exodus 16:23–25](https://saints.bible/bible/law/exodus/chapter-16/#v16-23) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
+| [Israel: remain in your places on the Sabbath instead of going out to gather manna](../../books/exodus/part-003.md#record-c0130)<br>`C0130` | [Exodus 16:29](https://saints.bible/bible/law/exodus/chapter-16/#v16-29) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Preserve an omer of manna in a jar before the Testimony](../../books/exodus/part-003.md#record-c0131)<br>`C0131` | [Exodus 16:32–34](https://saints.bible/bible/law/exodus/chapter-16/#v16-32) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | Personal |
 | [Moses: go before the people with elders and the staff to the rock](../../books/exodus/part-003.md#record-c0132)<br>`C0132` | [Exodus 17:5](https://saints.bible/bible/law/exodus/chapter-17/#v17-5) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | Personal |
 | [Water from the rock; Moses' battle instructions; record Amalek in the memorial book](../../books/exodus/part-003.md#record-torah-exodus-17-5)<br>`torah-exodus-17-5` | [Exodus 17:5–6](https://saints.bible/bible/law/exodus/chapter-17/#v17-5) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
@@ -57,7 +59,7 @@ Records 76–150 of 1,091.
 | [Install the veil to screen the ark and divide the holy places](../../books/exodus/part-005.md#record-c0274)<br>`C0274` | [Exodus 26:33–34](https://saints.bible/bible/law/exodus/chapter-26/#v26-33) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Place the table and lampstand on their designated sides](../../books/exodus/part-005.md#record-c0275)<br>`C0275` | [Exodus 26:35](https://saints.bible/bible/law/exodus/chapter-26/#v26-35) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Make the entrance screen with its posts and bases](../../books/exodus/part-005.md#record-c0276)<br>`C0276` | [Exodus 26:36–37](https://saints.bible/bible/law/exodus/chapter-26/#v26-36) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Make the bronze-covered altar with horns, grating and rings](../../books/exodus/part-005.md#record-c0277)<br>`C0277` | [Exodus 27:1–5](https://saints.bible/bible/law/exodus/chapter-27/#v27-1) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
+| [Make the bronze-covered altar hollow, with horns, grating and rings](../../books/exodus/part-005.md#record-c0277)<br>`C0277` | [Exodus 27:1–5, 8](https://saints.bible/bible/law/exodus/chapter-27/#v27-1) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Altar, utensils, court, entrance, lamp oil and lamp service](../../books/exodus/part-005.md#record-torah-exodus-27-1)<br>`torah-exodus-27-1` | [Exodus 27:1–21](https://saints.bible/bible/law/exodus/chapter-27/#v27-1) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Make the altar's bronze utensils](../../books/exodus/part-005.md#record-c0278)<br>`C0278` | [Exodus 27:3](https://saints.bible/bible/law/exodus/chapter-27/#v27-3) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Make the altar's bronze-covered carrying poles](../../books/exodus/part-005.md#record-c0279)<br>`C0279` | [Exodus 27:6](https://saints.bible/bible/law/exodus/chapter-27/#v27-6) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
@@ -83,7 +85,5 @@ Records 76–150 of 1,091.
 | [Consecration, washing, clothing, anointing, offerings, blood, portions, holy food and daily offerings](../../books/exodus/part-006.md#record-torah-exodus-29-1)<br>`torah-exodus-29-1` | [Exodus 29:1–46](https://saints.bible/bible/law/exodus/chapter-29/#v29-1) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Wash Aaron and his sons at the tent entrance](../../books/exodus/part-006.md#record-c0303)<br>`C0303` | [Exodus 29:4](https://saints.bible/bible/law/exodus/chapter-29/#v29-4) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Aaron and sons: lay hands on the consecration bull](../../books/exodus/part-006.md#record-c0304)<br>`C0304` | [Exodus 29:10](https://saints.bible/bible/law/exodus/chapter-29/#v29-10) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Slaughter the consecration bull before God](../../books/exodus/part-006.md#record-c0305)<br>`C0305` | [Exodus 29:11](https://saints.bible/bible/law/exodus/chapter-29/#v29-11) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Apply the consecration bull's blood to the altar horns](../../books/exodus/part-006.md#record-c0306)<br>`C0306` | [Exodus 29:12](https://saints.bible/bible/law/exodus/chapter-29/#v29-12) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)

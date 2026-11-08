@@ -6,10 +6,11 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 311.
+Records 76–150 of 362.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
+| [Do not curse God](../../books/leviticus/part-006.md#record-c0710)<br>`C0710` | [Leviticus 24:15](https://saints.bible/bible/law/leviticus/chapter-24/#v24-15) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
 | [Proportionate justice and Jesus’ teaching on retaliation](../../books/leviticus/part-007.md#record-s100)<br>`S100` | [Leviticus 24:19–20](https://saints.bible/bible/law/leviticus/chapter-24/#v24-19) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
 | [Apply one judgment to native Israelites and resident foreigners in the stated cases](../../books/leviticus/part-007.md#record-aud-03-24-22)<br>`AUD-03-24-22` | [Leviticus 24:22](https://saints.bible/bible/law/leviticus/chapter-24/#v24-22) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
 | [God orders the Sabbath-breaker stoned outside the camp](../../books/numbers/part-002.md#record-aud-04-15-35)<br>`AUD-04-15-35` | [Numbers 15:35–36](https://saints.bible/bible/law/numbers/chapter-15/#v15-35) | [Numbers](../../books/numbers/README.md) | [Command](../../record-types/command/part-005.md#book-numbers) | General |
@@ -84,6 +85,5 @@ Records 76–150 of 311.
 | [Priest: address and encourage the army before the prescribed battle](../../books/deuteronomy/part-003.md#record-c1092)<br>`C1092` | [Deuteronomy 20:2–4](https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-2) | [Deuteronomy](../../books/deuteronomy/README.md) | [Instruction](../../record-types/instruction/part-007.md#book-deuteronomy) | General |
 | [Honor the prescribed exemptions from battle for a house, vineyard, betrothal or fear](../../books/deuteronomy/part-003.md#record-c1093)<br>`C1093` | [Deuteronomy 20:5–8](https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-5) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
 | [Appoint commanders to lead the army after the exemption announcements](../../books/deuteronomy/part-003.md#record-c1094)<br>`C1094` | [Deuteronomy 20:9](https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-9) | [Deuteronomy](../../books/deuteronomy/README.md) | [Instruction](../../record-types/instruction/part-007.md#book-deuteronomy) | General |
-| [Offer the specified distant city peace before besieging it](../../books/deuteronomy/part-003.md#record-c1095)<br>`C1095` | [Deuteronomy 20:10](https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-10) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)

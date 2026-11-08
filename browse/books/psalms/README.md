@@ -6,7 +6,7 @@
 
 **235 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (1)](../../record-types/law/part-013.md#book-psalms) · [Command (77)](../../record-types/command/part-016.md#book-psalms) · [Commission (1)](../../record-types/commission/part-004.md#book-psalms) · [Instruction (27)](../../record-types/instruction/part-010.md#book-psalms) · [Wisdom (103)](../../record-types/wisdom/part-002.md#book-psalms) · [Study Context (26)](../../record-types/study-context/part-003.md#book-psalms)
+**Jump by Record type:** [Law (1)](../../record-types/law/part-013.md#book-psalms) · [Command (77)](../../record-types/command/part-017.md#book-psalms) · [Commission (1)](../../record-types/commission/part-005.md#book-psalms) · [Instruction (27)](../../record-types/instruction/part-010.md#book-psalms) · [Wisdom (103)](../../record-types/wisdom/part-002.md#book-psalms) · [Study Context (26)](../../record-types/study-context/part-003.md#book-psalms)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

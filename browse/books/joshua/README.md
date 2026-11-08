@@ -6,9 +6,9 @@
 
 **87 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (3)](../../record-types/law/part-012.md#book-joshua) · [Command (57)](../../record-types/command/part-007.md#book-joshua) · [Commission (8)](../../record-types/commission/part-002.md#book-joshua) · [Instruction (18)](../../record-types/instruction/part-008.md#book-joshua) · [Study Context (1)](../../record-types/study-context/part-002.md#book-joshua)
+**Jump by Record type:** [Law (3)](../../record-types/law/part-012.md#book-joshua) · [Command (56)](../../record-types/command/part-006.md#book-joshua) · [Commission (8)](../../record-types/commission/part-002.md#book-joshua) · [Instruction (18)](../../record-types/instruction/part-008.md#book-joshua) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-joshua) · [Study Context (1)](../../record-types/study-context/part-002.md#book-joshua)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Joshua 1:2 | Joshua 18:8 |
-| [Part 2](part-002.md) | 12 | Joshua 19:49–50 | Joshua 24:23 |
+| [Part 1](part-001.md) | 75 | Joshua 1:2 | Joshua 19:49–50 |
+| [Part 2](part-002.md) | 12 | Joshua 20:2 | Joshua 24:23 |

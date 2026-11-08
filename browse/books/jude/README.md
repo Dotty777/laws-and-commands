@@ -4,13 +4,14 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**5 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**6 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Instruction (4)](../../record-types/instruction/part-015.md#book-jude) · [Wisdom (1)](../../record-types/wisdom/part-020.md#book-jude)
+**Jump by Record type:** [Instruction (4)](../../record-types/instruction/part-015.md#book-jude) · [Wisdom (2)](../../record-types/wisdom/part-020.md#book-jude)
 
 | Study record | Scripture | Record type | Origin | Filing |
 | --- | --- | --- | --- | --- |
 | <a name="record-aud-69-1-3"></a>[Contend for the faith delivered to the saints](https://saints.bible/instructions/?instruction_id=AUD-69-1-3#saints-command-catalogue)<br>`AUD-69-1-3` | [Jude 1:3–4](https://saints.bible/bible/discipleship/jude/chapter-1/#v1-3)<br>Also: [Jude 1:5–10](https://saints.bible/bible/discipleship/jude/chapter-1/#v1-5) | [Instruction](../../record-types/instruction/part-015.md#book-jude) | Earthly (Man-made) | General |
+| <a name="record-ft-69-01-08"></a>[Learn from Michael’s restraint in contrast with slanderous speech](https://saints.bible/instructions/?instruction_id=FT-69-01-08#saints-command-catalogue)<br>`FT-69-01-08` | [Jude 1:8–10](https://saints.bible/bible/discipleship/jude/chapter-1/#v1-8)<br>Also: [2 Peter 2:10–11](https://saints.bible/bible/discipleship/2-peter/chapter-2/#v2-10) | [Wisdom](../../record-types/wisdom/part-020.md#book-jude) | Earthly (Man-made) | General |
 | <a name="record-a095"></a>[Jude condemns conduct like Cain’s, Balaam’s, and Korah’s](https://saints.bible/instructions/general/?instruction_id=A095#audience-A095)<br>`A095` · [Archive](../../../categories/minor-teachings-the-scriptures-read-in-christ/part-001.md#A095) | [Jude 1:11–16](https://saints.bible/bible/discipleship/jude/chapter-1/#v1-11) | [Wisdom](../../record-types/wisdom/part-020.md#book-jude) | Context only | General |
 | <a name="record-aud-69-1-17"></a>[Remember the apostles’ warning about divisive scoffers](https://saints.bible/instructions/?instruction_id=AUD-69-1-17#saints-command-catalogue)<br>`AUD-69-1-17` | [Jude 1:17–19](https://saints.bible/bible/discipleship/jude/chapter-1/#v1-17) | [Instruction](../../record-types/instruction/part-015.md#book-jude) | Earthly (Man-made) | General |
 | <a name="record-aud-69-1-20"></a>[Build up faith, pray and remain in God’s love](https://saints.bible/instructions/?instruction_id=AUD-69-1-20#saints-command-catalogue)<br>`AUD-69-1-20` | [Jude 1:20–21](https://saints.bible/bible/discipleship/jude/chapter-1/#v1-20) | [Instruction](../../record-types/instruction/part-015.md#book-jude) | Earthly (Man-made) | General |

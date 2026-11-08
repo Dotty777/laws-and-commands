@@ -4,13 +4,13 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**251 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**255 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (3)](../../record-types/law/part-013.md#book-jeremiah) · [Command (83)](../../record-types/command/part-018.md#book-jeremiah) · [Commission (48)](../../record-types/commission/part-004.md#book-jeremiah) · [Instruction (58)](../../record-types/instruction/part-010.md#book-jeremiah) · [Wisdom (7)](../../record-types/wisdom/part-017.md#book-jeremiah) · [Study Context (52)](../../record-types/study-context/part-005.md#book-jeremiah)
+**Jump by Record type:** [Law (3)](../../record-types/law/part-013.md#book-jeremiah) · [Command (87)](../../record-types/command/part-019.md#book-jeremiah) · [Commission (48)](../../record-types/commission/part-005.md#book-jeremiah) · [Instruction (58)](../../record-types/instruction/part-010.md#book-jeremiah) · [Wisdom (7)](../../record-types/wisdom/part-018.md#book-jeremiah) · [Study Context (52)](../../record-types/study-context/part-005.md#book-jeremiah)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Jeremiah 1:5–8 | Jeremiah 13:15–16 |
-| [Part 2](part-002.md) | 75 | Jeremiah 13:18 | Jeremiah 28:12 |
-| [Part 3](part-003.md) | 75 | Jeremiah 28:27–28 | Jeremiah 43:29 |
-| [Part 4](part-004.md) | 26 | Jeremiah 44:3 | Jeremiah 51:34–35 |
+| [Part 1](part-001.md) | 75 | Jeremiah 1:5–8 | Jeremiah 13:12–14 |
+| [Part 2](part-002.md) | 75 | Jeremiah 13:15–16 | Jeremiah 28:8 |
+| [Part 3](part-003.md) | 75 | Jeremiah 28:9–10 | Jeremiah 43:21 |
+| [Part 4](part-004.md) | 30 | Jeremiah 43:25 | Jeremiah 51:34–35 |

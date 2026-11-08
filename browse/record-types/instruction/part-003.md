@@ -6,10 +6,12 @@
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)
 
-Records 151–225 of 1,091.
+Records 151–225 of 1,106.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
+| [Slaughter the consecration bull before God](../../books/exodus/part-006.md#record-c0305)<br>`C0305` | [Exodus 29:11](https://saints.bible/bible/law/exodus/chapter-29/#v29-11) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
+| [Apply the consecration bull's blood to the altar horns](../../books/exodus/part-006.md#record-c0306)<br>`C0306` | [Exodus 29:12](https://saints.bible/bible/law/exodus/chapter-29/#v29-12) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Pour the consecration bull's remaining blood at the altar base](../../books/exodus/part-006.md#record-c0307)<br>`C0307` | [Exodus 29:12](https://saints.bible/bible/law/exodus/chapter-29/#v29-12) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Offer the designated fat and organs of the consecration bull on the altar](../../books/exodus/part-006.md#record-c0308)<br>`C0308` | [Exodus 29:13](https://saints.bible/bible/law/exodus/chapter-29/#v29-13) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Burn the consecration bull's remaining carcass outside the camp](../../books/exodus/part-006.md#record-c0309)<br>`C0309` | [Exodus 29:14](https://saints.bible/bible/law/exodus/chapter-29/#v29-14) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
@@ -41,8 +43,8 @@ Records 151–225 of 1,091.
 | [Prepare the holy anointing oil with the prescribed composition](../../books/exodus/part-006.md#record-c0346)<br>`C0346` | [Exodus 30:23–25](https://saints.bible/bible/law/exodus/chapter-30/#v30-23) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Anoint and consecrate the tabernacle and its designated furnishings](../../books/exodus/part-006.md#record-c0347)<br>`C0347` | [Exodus 30:26–29](https://saints.bible/bible/law/exodus/chapter-30/#v30-26) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Prepare the holy incense with the prescribed composition](../../books/exodus/part-006.md#record-c0350)<br>`C0350` | [Exodus 30:34–35](https://saints.bible/bible/law/exodus/chapter-30/#v30-34) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Grind the prescribed incense finely](../../books/exodus/part-006.md#record-c0351)<br>`C0351` | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Place the prescribed incense before the Testimony](../../books/exodus/part-006.md#record-c1230)<br>`C1230` | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
+| [Grind the prescribed incense finely](../../books/exodus/part-007.md#record-c0351)<br>`C0351` | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
+| [Place the prescribed incense before the Testimony](../../books/exodus/part-007.md#record-c1230)<br>`C1230` | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Descend from Sinai; judgment after the calf; resume leading the people](../../books/exodus/part-007.md#record-torah-exodus-32-26)<br>`torah-exodus-32-26` | [Exodus 32:26–35](https://saints.bible/bible/law/exodus/chapter-32/#v32-26) | [Exodus](../../books/exodus/README.md) | Mixed origins | General |
 | [Proceed toward the land; remove ornaments; Moses stands on the rock](../../books/exodus/part-007.md#record-torah-exodus-33-1)<br>`torah-exodus-33-1` | [Exodus 33:1–6](https://saints.bible/bible/law/exodus/chapter-33/#v33-1) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Proceed toward the land; remove ornaments; Moses stands on the rock](../../books/exodus/part-007.md#record-torah-exodus-33-12)<br>`torah-exodus-33-12` | [Exodus 33:12–23](https://saints.bible/bible/law/exodus/chapter-33/#v33-12) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
@@ -53,6 +55,7 @@ Records 151–225 of 1,091.
 | [Craftsmanship, sufficiency of contributions and the priestly garments in the Saints Greek order](../../books/exodus/part-007.md#record-torah-exodus-36-1)<br>`torah-exodus-36-1` | [Exodus 36:1–38](https://saints.bible/bible/law/exodus/chapter-36/#v36-1) | [Exodus](../../books/exodus/README.md) | Mixed origins | General |
 | [Keep the judgment breastpiece secured to the shoulder-piece](../../books/exodus/part-007.md#record-c0366)<br>`C0366` | [Exodus 36:28](https://saints.bible/bible/law/exodus/chapter-36/#v36-28) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Set up the tent, arrange and consecrate its furnishings, wash and vest the priests](../../books/exodus/part-007.md#record-torah-exodus-40-1)<br>`torah-exodus-40-1` | [Exodus 40:1–38](https://saints.bible/bible/law/exodus/chapter-40/#v40-1) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
+| [Bring in and arrange the table and the lampstand](../../books/exodus/part-007.md#record-aud-02-40-4)<br>`AUD-02-40-4` | [Exodus 40:4](https://saints.bible/bible/law/exodus/chapter-40/#v40-4) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Install the tent entrance screen](../../books/exodus/part-007.md#record-c0368)<br>`C0368` | [Exodus 40:5](https://saints.bible/bible/law/exodus/chapter-40/#v40-5) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Position the altar of offerings at the tent entrance](../../books/exodus/part-007.md#record-c0369)<br>`C0369` | [Exodus 40:6](https://saints.bible/bible/law/exodus/chapter-40/#v40-6) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Set up and consecrate the surrounding court](../../books/exodus/part-007.md#record-c0370)<br>`C0370` | [Exodus 40:8](https://saints.bible/bible/law/exodus/chapter-40/#v40-8) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
@@ -82,8 +85,5 @@ Records 151–225 of 1,091.
 | [Priest: bring the designated sin offering blood into the tent](../../books/leviticus/part-001.md#record-c0403)<br>`C0403` | [Leviticus 4:5–6](https://saints.bible/bible/law/leviticus/chapter-4/#v4-5) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Priest: sprinkle the designated sin offering blood seven times toward the veil](../../books/leviticus/part-001.md#record-c1233)<br>`C1233` | [Leviticus 4:5–6](https://saints.bible/bible/law/leviticus/chapter-4/#v4-5) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Apply the designated sin offering blood to the incense altar horns](../../books/leviticus/part-001.md#record-c0404)<br>`C0404` | [Leviticus 4:7](https://saints.bible/bible/law/leviticus/chapter-4/#v4-7) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
-| [Pour the sin offering's remaining blood at the burnt altar base](../../books/leviticus/part-001.md#record-c0405)<br>`C0405` | [Leviticus 4:7](https://saints.bible/bible/law/leviticus/chapter-4/#v4-7) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
-| [Remove the sin offering’s prescribed fat and organs](../../books/leviticus/part-001.md#record-c0406)<br>`C0406` | [Leviticus 4:8–10](https://saints.bible/bible/law/leviticus/chapter-4/#v4-8) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
-| [Offer the sin offering’s prescribed fat and organs on the altar](../../books/leviticus/part-001.md#record-c1234)<br>`C1234` | [Leviticus 4:8–10](https://saints.bible/bible/law/leviticus/chapter-4/#v4-8) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)

@@ -10,5 +10,5 @@
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Jesus tells the rich man to keep the commandments](../../books/matthew/part-002.md#record-k019)<br>`K019` | [Matthew 19:16–19](https://saints.bible/bible/salvation/matthew/chapter-19/#v19-16) | [Matthew](../../books/matthew/README.md) | [Command](../../record-types/command/part-021.md#book-matthew) | General |
-| [Jesus tells the rich man to sell his possessions and follow him](../../books/mark/README.md#record-k020)<br>`K020` | [Mark 10:21](https://saints.bible/bible/salvation/mark/chapter-10/#v10-21) | [Mark](../../books/mark/README.md) | [Command](../../record-types/command/part-022.md#book-mark) | Personal |
+| [Jesus tells the rich man to keep the commandments](../../books/matthew/part-002.md#record-k019)<br>`K019` | [Matthew 19:16–19](https://saints.bible/bible/salvation/matthew/chapter-19/#v19-16) | [Matthew](../../books/matthew/README.md) | [Command](../../record-types/command/part-022.md#book-matthew) | General |
+| [Jesus tells the rich man to sell his possessions and follow him](../../books/mark/README.md#record-k020)<br>`K020` | [Mark 10:21](https://saints.bible/bible/salvation/mark/chapter-10/#v10-21) | [Mark](../../books/mark/README.md) | [Command](../../record-types/command/part-023.md#book-mark) | Personal |

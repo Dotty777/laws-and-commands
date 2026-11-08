@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**112 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**133 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (3)](../../record-types/law/part-012.md#book-2-kings) · [Command (82)](../../record-types/command/part-012.md#book-2-kings) · [Commission (9)](../../record-types/commission/part-003.md#book-2-kings) · [Instruction (11)](../../record-types/instruction/part-009.md#book-2-kings) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-2-kings) · [Study Context (6)](../../record-types/study-context/part-002.md#book-2-kings)
+**Jump by Record type:** [Law (3)](../../record-types/law/part-012.md#book-2-kings) · [Command (92)](../../record-types/command/part-013.md#book-2-kings) · [Commission (18)](../../record-types/commission/part-003.md#book-2-kings) · [Instruction (13)](../../record-types/instruction/part-009.md#book-2-kings) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-2-kings) · [Study Context (6)](../../record-types/study-context/part-002.md#book-2-kings)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | 2 Kings 1:2–3 | 2 Kings 12:8 |
-| [Part 2](part-002.md) | 37 | 2 Kings 13:15–16 | 2 Kings 25:24 |
+| [Part 1](part-001.md) | 75 | 2 Kings 1:2–3 | 2 Kings 10:14 |
+| [Part 2](part-002.md) | 58 | 2 Kings 10:16 | 2 Kings 25:24 |

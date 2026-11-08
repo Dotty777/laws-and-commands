@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**76 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**90 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (1)](../../record-types/law/part-012.md#book-2-chronicles) · [Command (45)](../../record-types/command/part-014.md#book-2-chronicles) · [Commission (12)](../../record-types/commission/part-003.md#book-2-chronicles) · [Instruction (4)](../../record-types/instruction/part-009.md#book-2-chronicles) · [Wisdom (3)](../../record-types/wisdom/part-001.md#book-2-chronicles) · [Study Context (11)](../../record-types/study-context/part-003.md#book-2-chronicles)
+**Jump by Record type:** [Law (1)](../../record-types/law/part-012.md#book-2-chronicles) · [Command (51)](../../record-types/command/part-014.md#book-2-chronicles) · [Commission (18)](../../record-types/commission/part-003.md#book-2-chronicles) · [Instruction (6)](../../record-types/instruction/part-009.md#book-2-chronicles) · [Wisdom (3)](../../record-types/wisdom/part-001.md#book-2-chronicles) · [Study Context (11)](../../record-types/study-context/part-003.md#book-2-chronicles)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | 2 Chronicles 1:7 | 2 Chronicles 35:21 |
-| [Part 2](part-002.md) | 1 | 2 Chronicles 35:23 | 2 Chronicles 35:23 |
+| [Part 1](part-001.md) | 75 | 2 Chronicles 1:7 | 2 Chronicles 32:6 |
+| [Part 2](part-002.md) | 15 | 2 Chronicles 32:7–8 | 2 Chronicles 36:10, 13 |

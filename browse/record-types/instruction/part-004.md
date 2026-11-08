@@ -6,10 +6,13 @@
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)
 
-Records 226–300 of 1,091.
+Records 226–300 of 1,106.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
+| [Pour the sin offering's remaining blood at the burnt altar base](../../books/leviticus/part-001.md#record-c0405)<br>`C0405` | [Leviticus 4:7](https://saints.bible/bible/law/leviticus/chapter-4/#v4-7) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
+| [Remove the sin offering’s prescribed fat and organs](../../books/leviticus/part-001.md#record-c0406)<br>`C0406` | [Leviticus 4:8–10](https://saints.bible/bible/law/leviticus/chapter-4/#v4-8) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
+| [Offer the sin offering’s prescribed fat and organs on the altar](../../books/leviticus/part-001.md#record-c1234)<br>`C1234` | [Leviticus 4:8–10](https://saints.bible/bible/law/leviticus/chapter-4/#v4-8) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Burn outside the camp the sin offering carcass whose blood is brought inside](../../books/leviticus/part-001.md#record-c0407)<br>`C0407` | [Leviticus 4:11–12](https://saints.bible/bible/law/leviticus/chapter-4/#v4-11) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Apply the external sin offering blood to the burnt altar horns](../../books/leviticus/part-001.md#record-c0408)<br>`C0408` | [Leviticus 4:25](https://saints.bible/bible/law/leviticus/chapter-4/#v4-25) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Offer the poor person's sin-offering bird before the burnt-offering bird](../../books/leviticus/part-001.md#record-c0412)<br>`C0412` | [Leviticus 5:8](https://saints.bible/bible/law/leviticus/chapter-5/#v5-8) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
@@ -40,6 +43,7 @@ Records 226–300 of 1,091.
 | [Aaron's and Israel's offerings, approach to the altar, sacrifice and blessing](../../books/leviticus/part-002.md#record-torah-leviticus-9-1)<br>`torah-leviticus-9-1` | [Leviticus 9:1–24](https://saints.bible/bible/law/leviticus/chapter-9/#v9-1) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Unauthorized fire; removal of bodies; mourning and attendance restrictions; no wine; discern and teach; sacred food](../../books/leviticus/part-002.md#record-torah-leviticus-10-1)<br>`torah-leviticus-10-1` | [Leviticus 10:1–20](https://saints.bible/bible/law/leviticus/chapter-10/#v10-1) | [Leviticus](../../books/leviticus/README.md) | Mixed origins | General |
 | [Distinguish holy from common](../../books/leviticus/part-002.md#record-c0464)<br>`C0464` | [Leviticus 10:10](https://saints.bible/bible/law/leviticus/chapter-10/#v10-10) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
+| [Moses tells Aaron’s remaining sons to eat the sin offering in the holy place](../../books/leviticus/part-002.md#record-ft-03-10-18)<br>`FT-03-10-18` | [Leviticus 10:16–20](https://saints.bible/bible/law/leviticus/chapter-10/#v10-16) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | Personal |
 | [Wash garments after the specified carcass contact or consumption](../../books/leviticus/part-002.md#record-c0473)<br>`C0473` | [Leviticus 11:25](https://saints.bible/bible/law/leviticus/chapter-11/#v11-25) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Immerse a contaminated washable article and keep it unclean until evening](../../books/leviticus/part-002.md#record-c0474)<br>`C0474` | [Leviticus 11:32](https://saints.bible/bible/law/leviticus/chapter-11/#v11-32) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Break an earthen vessel contaminated by a prohibited carcass](../../books/leviticus/part-002.md#record-c0475)<br>`C0475` | [Leviticus 11:33](https://saints.bible/bible/law/leviticus/chapter-11/#v11-33) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
@@ -81,9 +85,5 @@ Records 226–300 of 1,091.
 | [Replace the removed stones and replaster the house](../../books/leviticus/part-003.md#record-c0525)<br>`C0525` | [Leviticus 14:42](https://saints.bible/bible/law/leviticus/chapter-14/#v14-42) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Carry the demolished affected house’s materials to an unclean place outside the city](../../books/leviticus/part-003.md#record-c1237)<br>`C1237` | [Leviticus 14:45](https://saints.bible/bible/law/leviticus/chapter-14/#v14-45) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 | [Wash garments after sleeping or eating in the affected house](../../books/leviticus/part-003.md#record-c0528)<br>`C0528` | [Leviticus 14:47](https://saints.bible/bible/law/leviticus/chapter-14/#v14-47) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
-| [Provide the two birds and appointed materials for cleansing the house](../../books/leviticus/part-003.md#record-c0529)<br>`C0529` | [Leviticus 14:49](https://saints.bible/bible/law/leviticus/chapter-14/#v14-49) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
-| [Slaughter the house-purification bird over living water in an earthen vessel](../../books/leviticus/part-003.md#record-c0530)<br>`C0530` | [Leviticus 14:50](https://saints.bible/bible/law/leviticus/chapter-14/#v14-50) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
-| [Dip the appointed house-purification materials in the bird’s blood over living water](../../books/leviticus/part-003.md#record-c0531)<br>`C0531` | [Leviticus 14:51–52](https://saints.bible/bible/law/leviticus/chapter-14/#v14-51) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
-| [Sprinkle the house seven times with the prescribed purification materials](../../books/leviticus/part-003.md#record-c1238)<br>`C1238` | [Leviticus 14:51–52](https://saints.bible/bible/law/leviticus/chapter-14/#v14-51) | [Leviticus](../../books/leviticus/README.md) | Heavenly (God-given) | General |
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)

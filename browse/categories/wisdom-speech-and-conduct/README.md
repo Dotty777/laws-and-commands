@@ -4,17 +4,17 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**584 current study records.** Select a study title to open its entry in the book view.
+**589 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/wisdom-speech-and-conduct.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 11:7 | Greek Psalm 14:1–5 |
-| [Part 2](part-002.md) | 75 | Greek Psalm 26:14 | Proverbs 12:3 |
-| [Part 3](part-003.md) | 75 | Proverbs 12:5–6 | Proverbs 19:3 |
-| [Part 4](part-004.md) | 75 | Proverbs 19:6 | Proverbs 27:21 |
-| [Part 5](part-005.md) | 75 | Proverbs 27:21a | Wisdom of Solomon 7:5–6 |
-| [Part 6](part-006.md) | 75 | Wisdom of Solomon 8:16 | Sirach 20:22–23 |
-| [Part 7](part-007.md) | 75 | Sirach 20:27 | Sirach 51:23–28 |
-| [Part 8](part-008.md) | 59 | Sirach 51:30 | 1 Corinthians 8:1–3 |
+| [Part 1](part-001.md) | 75 | Genesis 11:7 | Greek Psalm 6:9 |
+| [Part 2](part-002.md) | 75 | Greek Psalm 10:5 | Proverbs 11:27 |
+| [Part 3](part-003.md) | 75 | Proverbs 11:30 | Proverbs 18:12 |
+| [Part 4](part-004.md) | 75 | Proverbs 18:20–21 | Proverbs 27:17 |
+| [Part 5](part-005.md) | 75 | Proverbs 27:19 | Wisdom of Solomon 4:12 |
+| [Part 6](part-006.md) | 75 | Wisdom of Solomon 5:8–13 | Sirach 20:5–8 |
+| [Part 7](part-007.md) | 75 | Sirach 20:13 | Sirach 40:18–20 |
+| [Part 8](part-008.md) | 64 | Sirach 40:21–23 | 1 Corinthians 8:1–3 |

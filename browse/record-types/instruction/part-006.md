@@ -6,10 +6,14 @@
 
 [Previous part](part-005.md) · [All parts](README.md) · [Next part](part-007.md)
 
-Records 376–450 of 1,091.
+Records 376–450 of 1,106.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
+| [Priests: cover and prepare the other holy utensils for transport](../../books/numbers/part-001.md#record-c0789)<br>`C0789` | [Numbers 4:12](https://saints.bible/bible/law/numbers/chapter-4/#v4-12) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
+| [Priests: cover and prepare the bronze altar and its utensils for transport](../../books/numbers/part-001.md#record-c0790)<br>`C0790` | [Numbers 4:13–14](https://saints.bible/bible/law/numbers/chapter-4/#v4-13) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
+| [Priests: cover and prepare the basin and its stand for transport](../../books/numbers/part-001.md#record-c0791)<br>`C0791` | [Numbers 4:13–14](https://saints.bible/bible/law/numbers/chapter-4/#v4-13) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
+| [Protect the Kohathites by assigning each person's permitted burden before approach](../../books/numbers/part-001.md#record-c0793)<br>`C0793` | [Numbers 4:18–19](https://saints.bible/bible/law/numbers/chapter-4/#v4-18) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
 | [Register the assigned carriers and burdens by name](../../books/numbers/part-001.md#record-c0795)<br>`C0795` | [Numbers 4:27](https://saints.bible/bible/law/numbers/chapter-4/#v4-27) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
 | [The jealous husband: bring his wife and the prescribed barley offering to the priest](../../books/numbers/part-001.md#record-c0799)<br>`C0799` | [Numbers 5:15](https://saints.bible/bible/law/numbers/chapter-5/#v5-15) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
 | [Do not put oil on the jealousy offering](../../books/numbers/part-001.md#record-c0800)<br>`C0800` | [Numbers 5:15](https://saints.bible/bible/law/numbers/chapter-5/#v5-15) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
@@ -55,6 +59,7 @@ Records 376–450 of 1,091.
 | [The scouts: follow the designated exploration route](../../books/numbers/part-002.md#record-m015)<br>`M015` | [Numbers 13:17–20](https://saints.bible/bible/law/numbers/chapter-13/#v13-17) | [Numbers](../../books/numbers/README.md) | Earthly (Man-made) | General |
 | [The scouts: inspect the land, people and fortifications](../../books/numbers/part-002.md#record-m016)<br>`M016` | [Numbers 13:17–20](https://saints.bible/bible/law/numbers/chapter-13/#v13-17) | [Numbers](../../books/numbers/README.md) | Earthly (Man-made) | General |
 | [Do not rebel or fear; wilderness judgment; turn toward the wilderness; do not attack without God's presence](../../books/numbers/part-002.md#record-torah-numbers-14-1)<br>`torah-numbers-14-1` | [Numbers 14:1–45](https://saints.bible/bible/law/numbers/chapter-14/#v14-1) | [Numbers](../../books/numbers/README.md) | Mixed origins | General |
+| [The Israelites propose appointing a leader and going back to Egypt](../../books/numbers/part-002.md#record-ft-04-14-04)<br>`FT-04-14-04` | [Numbers 14:3–4](https://saints.bible/bible/law/numbers/chapter-14/#v14-3) | [Numbers](../../books/numbers/README.md) | Earthly (Man-made) | Personal |
 | [Provide the prescribed grain, oil and wine accompaniments for each lamb, ram or bull offering](../../books/numbers/part-002.md#record-c0857)<br>`C0857` | [Numbers 15:3–12](https://saints.bible/bible/law/numbers/chapter-15/#v15-3) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
 | [Bring the prescribed congregational bull and goat for the stated inadvertent failure](../../books/numbers/part-002.md#record-c0859)<br>`C0859` | [Numbers 15:22–26](https://saints.bible/bible/law/numbers/chapter-15/#v15-22) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
 | [Censers and presentation; the assembly must separate from the rebels](../../books/numbers/part-003.md#record-torah-numbers-16-5)<br>`torah-numbers-16-5` | [Numbers 16:5–11](https://saints.bible/bible/law/numbers/chapter-16/#v16-5) | [Numbers](../../books/numbers/README.md) | Earthly (Man-made) | General |
@@ -80,10 +85,5 @@ Records 376–450 of 1,091.
 | [Wash garments after the corpse-purification sprinkling](../../books/numbers/part-003.md#record-c0900)<br>`C0900` | [Numbers 19:19](https://saints.bible/bible/law/numbers/chapter-19/#v19-19) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
 | [The purification sprinkler: wash garments](../../books/numbers/part-003.md#record-c0902)<br>`C0902` | [Numbers 19:21](https://saints.bible/bible/law/numbers/chapter-19/#v19-21) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
 | [Speak to the rock; Moses and Aaron's exclusion; transfer Aaron's garments to Eleazar](../../books/numbers/part-003.md#record-torah-numbers-20-7)<br>`torah-numbers-20-7` | [Numbers 20:7–13](https://saints.bible/bible/law/numbers/chapter-20/#v20-7) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
-| [Moses and Aaron: assemble the congregation before the rock](../../books/numbers/part-003.md#record-c0906)<br>`C0906` | [Numbers 20:8](https://saints.bible/bible/law/numbers/chapter-20/#v20-8) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | Personal |
-| [Give the congregation and livestock the supplied water](../../books/numbers/part-003.md#record-c0908)<br>`C0908` | [Numbers 20:8](https://saints.bible/bible/law/numbers/chapter-20/#v20-8) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
-| [Speak to the rock; Moses and Aaron's exclusion; transfer Aaron's garments to Eleazar](../../books/numbers/part-003.md#record-torah-numbers-20-23)<br>`torah-numbers-20-23` | [Numbers 20:23–29](https://saints.bible/bible/law/numbers/chapter-20/#v20-23) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
-| [Transfer Aaron's priestly garments to Eleazar at Mount Hor](../../books/numbers/part-003.md#record-c0911)<br>`C0911` | [Numbers 20:26](https://saints.bible/bible/law/numbers/chapter-20/#v20-26) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | General |
-| [The raised serpent, gathering for water and the command concerning Og](../../books/numbers/part-003.md#record-torah-numbers-21-7)<br>`torah-numbers-21-7` | [Numbers 21:7–9](https://saints.bible/bible/law/numbers/chapter-21/#v21-7) | [Numbers](../../books/numbers/README.md) | Mixed origins | General |
 
 [Previous part](part-005.md) · [All parts](README.md) · [Next part](part-007.md)

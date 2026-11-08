@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 311.
+Records 1–75 of 362.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
@@ -15,10 +15,11 @@ Records 1–75 of 311.
 | [Moses appoints leaders of thousands, hundreds, fifties and tens](../../books/exodus/part-003.md#record-aud-02-18-25)<br>`AUD-02-18-25` | [Exodus 18:25–26](https://saints.bible/bible/law/exodus/chapter-18/#v18-25) | [Exodus](../../books/exodus/README.md) | [Commission](../../record-types/commission/part-001.md#book-exodus) | General |
 | [Do not bear false witness against your neighbour](../../books/exodus/part-003.md#record-c0157)<br>`C0157` | [Exodus 20:16](https://saints.bible/bible/law/exodus/chapter-20/#v20-16) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Truthful testimony about a neighbor](../../books/exodus/part-003.md#record-s027)<br>`S027` | [Exodus 20:16](https://saints.bible/bible/law/exodus/chapter-20/#v20-16) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
+| [God tells Moses to set the ordinances before Israel](../../books/exodus/part-003.md#record-aud-02-21-1)<br>`AUD-02-21-1` | [Exodus 21:1](https://saints.bible/bible/law/exodus/chapter-21/#v21-1) | [Exodus](../../books/exodus/README.md) | [Commission](../../record-types/commission/part-001.md#book-exodus) | General |
 | [Justice in cases of violence, theft and loss](../../books/exodus/part-003.md#record-s032)<br>`S032` | [Exodus 21:12–36](https://saints.bible/bible/law/exodus/chapter-21/#v21-12) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Homicide, refuge, violence or reviling against parents, and kidnapping](../../books/exodus/part-003.md#record-torah-exodus-21-12)<br>`torah-exodus-21-12` | [Exodus 21:12–17](https://saints.bible/bible/law/exodus/chapter-21/#v21-12) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
-| [Remove the deliberate murderer from sanctuary protection for judgment](../../books/exodus/part-003.md#record-c0173)<br>`C0173` | [Exodus 21:14](https://saints.bible/bible/law/exodus/chapter-21/#v21-14) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
-| [Execute the person who strikes father or mother](../../books/exodus/part-003.md#record-c0174)<br>`C0174` | [Exodus 21:15](https://saints.bible/bible/law/exodus/chapter-21/#v21-15) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
+| [Remove the deliberate murderer from sanctuary protection for judgment](../../books/exodus/part-004.md#record-c0173)<br>`C0173` | [Exodus 21:14](https://saints.bible/bible/law/exodus/chapter-21/#v21-14) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
+| [Execute the person who strikes father or mother](../../books/exodus/part-004.md#record-c0174)<br>`C0174` | [Exodus 21:15](https://saints.bible/bible/law/exodus/chapter-21/#v21-15) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Apply the prescribed death judgment for reviling father or mother](../../books/exodus/part-004.md#record-c0175)<br>`C0175` | [Exodus 21:16](https://saints.bible/bible/law/exodus/chapter-21/#v21-16) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Execute the kidnapper who enslaves or sells the victim](../../books/exodus/part-004.md#record-c0176)<br>`C0176` | [Exodus 21:17](https://saints.bible/bible/law/exodus/chapter-21/#v21-17) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Compensate the injured person's lost labour and healing costs](../../books/exodus/part-004.md#record-c0177)<br>`C0177` | [Exodus 21:18–19](https://saints.bible/bible/law/exodus/chapter-21/#v21-18) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
@@ -84,6 +85,5 @@ Records 1–75 of 311.
 | [Bring the blasphemer outside the camp for judgment](../../books/leviticus/part-006.md#record-c0707)<br>`C0707` | [Leviticus 24:14](https://saints.bible/bible/law/leviticus/chapter-24/#v24-14) | [Leviticus](../../books/leviticus/README.md) | [Command](../../record-types/command/part-004.md#book-leviticus) | General |
 | [The witnesses: lay hands on the blasphemer's head](../../books/leviticus/part-006.md#record-c0708)<br>`C0708` | [Leviticus 24:14](https://saints.bible/bible/law/leviticus/chapter-24/#v24-14) | [Leviticus](../../books/leviticus/README.md) | [Command](../../record-types/command/part-004.md#book-leviticus) | General |
 | [Apply the prescribed stoning judgment for the blasphemy described in the text](../../books/leviticus/part-006.md#record-c0709)<br>`C0709` | [Leviticus 24:16](https://saints.bible/bible/law/leviticus/chapter-24/#v24-16) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
-| [Do not curse God](../../books/leviticus/part-006.md#record-c0710)<br>`C0710` | [Leviticus 24:15](https://saints.bible/bible/law/leviticus/chapter-24/#v24-15) | [Leviticus](../../books/leviticus/README.md) | [Law](../../record-types/law/part-003.md#book-leviticus) | General |
 
 [All parts](README.md) · [Next part](part-002.md)

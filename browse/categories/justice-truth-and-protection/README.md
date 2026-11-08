@@ -4,12 +4,13 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**223 current study records.** Select a study title to open its entry in the book view.
+**229 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/justice-truth-and-protection.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 18:19 | Greek Psalm 149:9 |
-| [Part 2](part-002.md) | 75 | Proverbs 2:20–22 | Isaiah 45:19 |
-| [Part 3](part-003.md) | 73 | Isaiah 51:4 | Malachi 3:24 |
+| [Part 1](part-001.md) | 75 | Genesis 18:19 | Greek Psalm 104:5 |
+| [Part 2](part-002.md) | 75 | Greek Psalm 105:3 | Isaiah 35:4 |
+| [Part 3](part-003.md) | 75 | Isaiah 40:27–31 | Malachi 3:6–7 |
+| [Part 4](part-004.md) | 4 | Malachi 3:24 | Galatians 4:16–19 |

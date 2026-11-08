@@ -6,13 +6,10 @@
 
 [Previous part](part-005.md) · [All parts](README.md) · [Next part](part-007.md)
 
-Records 376–450 of 561.
+Records 376–450 of 553.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| [Jerusalem is asked to look at the attackers coming from the north](../../books/jeremiah/part-002.md#record-ot-jeremiah-v13-20)<br>`ot-jeremiah-v13-20` | [Jeremiah 13:20](https://saints.bible/bible/providence/jeremiah/chapter-13/#v13-20) | [Jeremiah](../../books/jeremiah/README.md) | Heavenly (God-given) | General |
-| [Jeremiah reports the people’s demand to see God’s word fulfilled](../../books/jeremiah/part-002.md#record-ot-jeremiah-v17-15)<br>`ot-jeremiah-v17-15` | [Jeremiah 17:15](https://saints.bible/bible/providence/jeremiah/chapter-17/#v17-15) | [Jeremiah](../../books/jeremiah/README.md) | Earthly (Man-made) | Personal |
-| [Jeremiah prays for protection and for his pursuers to face judgment](../../books/jeremiah/part-002.md#record-ot-jeremiah-v17-17)<br>`ot-jeremiah-v17-17` | [Jeremiah 17:17–18](https://saints.bible/bible/providence/jeremiah/chapter-17/#v17-17) | [Jeremiah](../../books/jeremiah/README.md) | Context only | General |
 | [God makes a promise to Jerusalem if it honors the Sabbath](../../books/jeremiah/part-002.md#record-ot-jeremiah-v17-24)<br>`ot-jeremiah-v17-24` | [Jeremiah 17:24](https://saints.bible/bible/providence/jeremiah/chapter-17/#v17-24) | [Jeremiah](../../books/jeremiah/README.md) | Heavenly (God-given) | General |
 | [The Lord challenges the nations to name wrongdoing like Israel’s](../../books/jeremiah/part-002.md#record-ot-jeremiah-v18-13)<br>`ot-jeremiah-v18-13` | [Jeremiah 18:13](https://saints.bible/bible/providence/jeremiah/chapter-18/#v18-13) | [Jeremiah](../../books/jeremiah/README.md) | Heavenly (God-given) | General |
 | [Jeremiah asks the Lord to hear his plea](../../books/jeremiah/part-002.md#record-ot-jeremiah-v18-19)<br>`ot-jeremiah-v18-19` | [Jeremiah 18:19](https://saints.bible/bible/providence/jeremiah/chapter-18/#v18-19) | [Jeremiah](../../books/jeremiah/README.md) | Context only | General |
@@ -85,5 +82,8 @@ Records 376–450 of 561.
 | [The cauldron is heated until its contents melt down](../../books/ezekiel/part-002.md#record-ot-ezekiel-v24-10)<br>`ot-ezekiel-v24-10` | [Ezekiel 24:10](https://saints.bible/bible/providence/ezekiel/chapter-24/#v24-10) | [Ezekiel](../../books/ezekiel/README.md) | Context only | General |
 | [God says He will profane the sanctuary Israel takes pride in](../../books/ezekiel/part-002.md#record-ot-ezekiel-v24-21)<br>`ot-ezekiel-v24-21` | [Ezekiel 24:21](https://saints.bible/bible/providence/ezekiel/chapter-24/#v24-21) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
 | [God calls Ammon to account for rejoicing over Israel’s calamity](../../books/ezekiel/part-002.md#record-ot-ezekiel-v25-3)<br>`ot-ezekiel-v25-3` | [Ezekiel 25:3](https://saints.bible/bible/providence/ezekiel/chapter-25/#v25-3) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
+| [God announces judgment against Sidon](../../books/ezekiel/part-002.md#record-ot-ezekiel-v28-22)<br>`ot-ezekiel-v28-22` | [Ezekiel 28:22](https://saints.bible/bible/providence/ezekiel/chapter-28/#v28-22) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
+| [Pharaoh is pictured as a dragon claiming Egypt’s rivers](../../books/ezekiel/part-002.md#record-ot-ezekiel-v29-3)<br>`ot-ezekiel-v29-3` | [Ezekiel 29:3](https://saints.bible/bible/providence/ezekiel/chapter-29/#v29-3) | [Ezekiel](../../books/ezekiel/README.md) | Heavenly (God-given) | General |
+| [God declares judgment on Sais and Memphis](../../books/ezekiel/part-002.md#record-ot-ezekiel-v30-15)<br>`ot-ezekiel-v30-15` | [Ezekiel 30:15](https://saints.bible/bible/providence/ezekiel/chapter-30/#v30-15) | [Ezekiel](../../books/ezekiel/README.md) | Context only | General |
 
 [Previous part](part-005.md) · [All parts](README.md) · [Next part](part-007.md)

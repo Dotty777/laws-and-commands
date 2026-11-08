@@ -11,4 +11,4 @@
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
 | [The bread, cup, and remembrance at Jesus’ supper](../../books/luke/part-001.md#record-k091)<br>`K091` | [Luke 22:19–20](https://saints.bible/bible/salvation/luke/chapter-22/#v22-19) | [Luke](../../books/luke/README.md) | [Instruction](../../record-types/instruction/part-012.md#book-luke) | General |
-| [Jesus teaches about eating his flesh and drinking his blood](../../books/john/part-001.md#record-k092)<br>`K092` | [John 6:48–58](https://saints.bible/bible/salvation/john/chapter-6/#v6-48) | [John](../../books/john/README.md) | [Study Context](../../record-types/study-context/part-008.md#book-john) | General |
+| [Jesus teaches about eating his flesh and drinking his blood](../../books/john/part-001.md#record-k092)<br>`K092` | [John 6:48–58](https://saints.bible/bible/salvation/john/chapter-6/#v6-48) | [John](../../books/john/README.md) | [Study Context](../../record-types/study-context/part-007.md#book-john) | General |

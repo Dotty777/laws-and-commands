@@ -4,35 +4,35 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../README.md) · [All topics](../../categories/README.md)
 
-**1,468 current study records.** Counsel, maxim, or teaching illustration. Select a study title to open its entry in the book view.
+**1,496 current study records.** Counsel, maxim, or teaching illustration. Select a study title to open its entry in the book view.
 
 ## Jump to a book
 
-**Old Testament:** [Genesis (1)](part-001.md#book-genesis) · [Exodus (1)](part-001.md#book-exodus) · [Deuteronomy (11)](part-001.md#book-deuteronomy) · [Judges (1)](part-001.md#book-judges) · [1 Samuel (7)](part-001.md#book-1-samuel) · [1 Kings (1)](part-001.md#book-1-kings) · [2 Kings (1)](part-001.md#book-2-kings) · [1 Chronicles (3)](part-001.md#book-1-chronicles) · [2 Chronicles (3)](part-001.md#book-2-chronicles) · [1 Maccabees (3)](part-001.md#book-1-maccabees) · [2 Maccabees (5)](part-001.md#book-2-maccabees) · [Job (38)](part-001.md#book-job) · [Psalms (103)](part-002.md#book-psalms) · [Proverbs (537)](part-003.md#book-proverbs) · [Ecclesiastes (78)](part-010.md#book-ecclesiastes) · [Song of Songs (4)](part-011.md#book-song-of-songs) · [Lamentations (3)](part-011.md#book-lamentations) · [Wisdom of Solomon (35)](part-011.md#book-wisdom-of-solomon) · [Sirach (411)](part-012.md#book-sirach) · [Isaiah (14)](part-017.md#book-isaiah) · [Jeremiah (7)](part-017.md#book-jeremiah) · [Daniel (4)](part-017.md#book-daniel) · [Hosea (3)](part-017.md#book-hosea) · [Amos (3)](part-017.md#book-amos) · [Jonah (1)](part-018.md#book-jonah) · [Habakkuk (2)](part-018.md#book-habakkuk) · [Haggai (2)](part-018.md#book-haggai) · [Zechariah (2)](part-018.md#book-zechariah) · [Malachi (1)](part-018.md#book-malachi)
+**Old Testament:** [Genesis (1)](part-001.md#book-genesis) · [Exodus (1)](part-001.md#book-exodus) · [Numbers (1)](part-001.md#book-numbers) · [Deuteronomy (13)](part-001.md#book-deuteronomy) · [Joshua (1)](part-001.md#book-joshua) · [Judges (1)](part-001.md#book-judges) · [1 Samuel (10)](part-001.md#book-1-samuel) · [1 Kings (1)](part-001.md#book-1-kings) · [2 Kings (1)](part-001.md#book-2-kings) · [1 Chronicles (3)](part-001.md#book-1-chronicles) · [2 Chronicles (3)](part-001.md#book-2-chronicles) · [1 Maccabees (4)](part-001.md#book-1-maccabees) · [2 Maccabees (8)](part-001.md#book-2-maccabees) · [Job (42)](part-001.md#book-job) · [Psalms (103)](part-002.md#book-psalms) · [Proverbs (540)](part-003.md#book-proverbs) · [Ecclesiastes (78)](part-010.md#book-ecclesiastes) · [Song of Songs (4)](part-011.md#book-song-of-songs) · [Lamentations (3)](part-011.md#book-lamentations) · [Wisdom of Solomon (35)](part-011.md#book-wisdom-of-solomon) · [Sirach (411)](part-012.md#book-sirach) · [Isaiah (15)](part-017.md#book-isaiah) · [Jeremiah (7)](part-018.md#book-jeremiah) · [Daniel (4)](part-018.md#book-daniel) · [Hosea (3)](part-018.md#book-hosea) · [Amos (3)](part-018.md#book-amos) · [Jonah (1)](part-018.md#book-jonah) · [Micah (1)](part-018.md#book-micah) · [Habakkuk (4)](part-018.md#book-habakkuk) · [Haggai (2)](part-018.md#book-haggai) · [Zechariah (2)](part-018.md#book-zechariah) · [Malachi (1)](part-018.md#book-malachi)
 
-**New Testament:** [Matthew (41)](part-018.md#book-matthew) · [Mark (6)](part-018.md#book-mark) · [Luke (31)](part-018.md#book-luke) · [John (8)](part-019.md#book-john) · [Acts (6)](part-019.md#book-acts) · [Romans (6)](part-019.md#book-romans) · [1 Corinthians (9)](part-019.md#book-1-corinthians) · [2 Corinthians (8)](part-019.md#book-2-corinthians) · [Galatians (2)](part-019.md#book-galatians) · [Ephesians (2)](part-019.md#book-ephesians) · [Philippians (3)](part-019.md#book-philippians) · [1 Timothy (4)](part-019.md#book-1-timothy) · [2 Timothy (4)](part-019.md#book-2-timothy) · [Titus (1)](part-019.md#book-titus) · [Hebrews (7)](part-019.md#book-hebrews) · [James (18)](part-019.md#book-james) · [1 Peter (5)](part-020.md#book-1-peter) · [2 Peter (4)](part-020.md#book-2-peter) · [1 John (8)](part-020.md#book-1-john) · [Jude (1)](part-020.md#book-jude) · [Revelation (9)](part-020.md#book-revelation)
+**New Testament:** [Matthew (41)](part-018.md#book-matthew) · [Mark (7)](part-018.md#book-mark) · [Luke (31)](part-019.md#book-luke) · [John (8)](part-019.md#book-john) · [Acts (6)](part-019.md#book-acts) · [Romans (7)](part-019.md#book-romans) · [1 Corinthians (9)](part-019.md#book-1-corinthians) · [2 Corinthians (9)](part-019.md#book-2-corinthians) · [Galatians (3)](part-020.md#book-galatians) · [Ephesians (2)](part-020.md#book-ephesians) · [Philippians (3)](part-020.md#book-philippians) · [1 Timothy (4)](part-020.md#book-1-timothy) · [2 Timothy (4)](part-020.md#book-2-timothy) · [Titus (1)](part-020.md#book-titus) · [Hebrews (10)](part-020.md#book-hebrews) · [James (17)](part-020.md#book-james) · [1 Peter (4)](part-020.md#book-1-peter) · [2 Peter (6)](part-020.md#book-2-peter) · [1 John (6)](part-020.md#book-1-john) · [Jude (2)](part-020.md#book-jude) · [Revelation (9)](part-020.md#book-revelation)
 
 ## All parts
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 4:6–7 | Job 37:23–24 |
-| [Part 2](part-002.md) | 75 | Greek Psalm 1:1–6 | Greek Psalm 91:13–16 |
-| [Part 3](part-003.md) | 75 | Greek Psalm 93:8 | Proverbs 5:18 |
-| [Part 4](part-004.md) | 75 | Proverbs 5:19–20 | Proverbs 11:28 |
-| [Part 5](part-005.md) | 75 | Proverbs 11:29 | Proverbs 14:35 |
-| [Part 6](part-006.md) | 75 | Proverbs 15:1–4 | Proverbs 18:4 |
-| [Part 7](part-007.md) | 75 | Proverbs 18:5 | Proverbs 21:21 |
-| [Part 8](part-008.md) | 75 | Proverbs 21:22 | Proverbs 25:20–20a |
-| [Part 9](part-009.md) | 75 | Proverbs 25:21 | Proverbs 29:3 |
-| [Part 10](part-010.md) | 75 | Proverbs 29:4 | Ecclesiastes 7:15–16 |
-| [Part 11](part-011.md) | 75 | Ecclesiastes 7:17–18 | Wisdom of Solomon 10:12 |
-| [Part 12](part-012.md) | 75 | Wisdom of Solomon 11:16 | Sirach 7:8 |
-| [Part 13](part-013.md) | 75 | Sirach 7:9–33 | Sirach 12:7 |
-| [Part 14](part-014.md) | 75 | Sirach 12:10–12 | Sirach 21:1 |
-| [Part 15](part-015.md) | 75 | Sirach 21:2–3 | Sirach 29:10–11 |
-| [Part 16](part-016.md) | 75 | Sirach 29:12–13 | Sirach 37:27–28 |
-| [Part 17](part-017.md) | 75 | Sirach 37:29–31 | Amos 5:13 |
-| [Part 18](part-018.md) | 75 | Amos 5:14 | Luke 12:13–21 |
-| [Part 19](part-019.md) | 75 | Luke 13:1–9 | James 1:5–8 |
-| [Part 20](part-020.md) | 43 | James 1:9–11 | Revelation 22:14–15 |
+| [Part 1](part-001.md) | 75 | Genesis 4:6–7 | Job 31:1 |
+| [Part 2](part-002.md) | 75 | Job 31:11–12 | Greek Psalm 63:11 |
+| [Part 3](part-003.md) | 75 | Greek Psalm 65:7–8 | Proverbs 4:2 |
+| [Part 4](part-004.md) | 75 | Proverbs 4:3–5 | Proverbs 11:9 |
+| [Part 5](part-005.md) | 75 | Proverbs 11:10–11 | Proverbs 14:14 |
+| [Part 6](part-006.md) | 75 | Proverbs 14:15–16 | Proverbs 17:16 |
+| [Part 7](part-007.md) | 75 | Proverbs 17:16a | Proverbs 21:3 |
+| [Part 8](part-008.md) | 75 | Proverbs 21:4 | Proverbs 24:27 |
+| [Part 9](part-009.md) | 75 | Proverbs 24:28 | Proverbs 28:15–16 |
+| [Part 10](part-010.md) | 75 | Proverbs 28:17 | Ecclesiastes 4:4–6 |
+| [Part 11](part-011.md) | 75 | Ecclesiastes 4:7–12 | Wisdom of Solomon 3:13–15 |
+| [Part 12](part-012.md) | 75 | Wisdom of Solomon 4:1–6 | Sirach 5:9–10 |
+| [Part 13](part-013.md) | 75 | Sirach 5:11–13 | Sirach 11:4–6 |
+| [Part 14](part-014.md) | 75 | Sirach 11:7 | Sirach 19:13–17 |
+| [Part 15](part-015.md) | 75 | Sirach 19:14 | Sirach 27:16–17 |
+| [Part 16](part-016.md) | 75 | Sirach 27:18–21 | Sirach 35:12–15 |
+| [Part 17](part-017.md) | 75 | Sirach 35:16–18 | Isaiah 31:1 |
+| [Part 18](part-018.md) | 75 | Isaiah 33:14–16 | Mark 4:26–29 |
+| [Part 19](part-019.md) | 75 | Mark 7:14–23 | 2 Corinthians 12:1–10 |
+| [Part 20](part-020.md) | 71 | Galatians 2:11–14 | Revelation 22:14–15 |

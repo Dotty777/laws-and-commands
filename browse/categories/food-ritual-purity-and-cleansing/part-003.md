@@ -6,7 +6,7 @@
 
 [Previous part](part-002.md) · [All parts](README.md)
 
-Records 151–175 of 175.
+Records 151–176 of 176.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
@@ -32,8 +32,9 @@ Records 151–175 of 175.
 | [Allow the escaped slave to settle in the place he chooses among you](../../books/deuteronomy/part-004.md#record-c1157)<br>`C1157` | [Deuteronomy 23:17](https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-17) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
 | [Do not afflict the escaped slave](../../books/deuteronomy/part-004.md#record-c1158)<br>`C1158` | [Deuteronomy 23:17](https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-17) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
 | [Follow the priests' prescribed instructions concerning the skin affliction](../../books/deuteronomy/part-005.md#record-c1170)<br>`C1170` | [Deuteronomy 24:8](https://saints.bible/bible/law/deuteronomy/chapter-24/#v24-8) | [Deuteronomy](../../books/deuteronomy/README.md) | [Instruction](../../record-types/instruction/part-007.md#book-deuteronomy) | General |
-| [Joshua tells the people to purify themselves for tomorrow's wonders](../../books/joshua/part-001.md#record-aud-06-3-5)<br>`AUD-06-3-5` | [Joshua 3:5](https://saints.bible/bible/judgement/joshua/chapter-3/#v3-5) | [Joshua](../../books/joshua/README.md) | [Command](../../record-types/command/part-007.md#book-joshua) | General |
+| [Joshua tells the people to purify themselves for tomorrow's wonders](../../books/joshua/part-001.md#record-aud-06-3-5)<br>`AUD-06-3-5` | [Joshua 3:5](https://saints.bible/bible/judgement/joshua/chapter-3/#v3-5) | [Joshua](../../books/joshua/README.md) | [Command](../../record-types/command/part-006.md#book-joshua) | General |
 | [David asks the priest Abimelech for bread](../../books/1-samuel/part-002.md#record-aud-09-21-4)<br>`AUD-09-21-4` | [1 Samuel 21:4](https://saints.bible/bible/judgement/1-samuel/chapter-21/#v21-4) | [1 Samuel](../../books/1-samuel/README.md) | [Command](../../record-types/command/part-008.md#book-1-samuel) | Personal |
-| [Daniel asks for a ten-day test on legumes and water](../../books/daniel/README.md#record-aud-31-1-8)<br>`AUD-31-1-8` | [Daniel 1:11–13](https://saints.bible/bible/providence/daniel/chapter-1/#v1-11) | [Daniel](../../books/daniel/README.md) | [Command](../../record-types/command/part-020.md#book-daniel) | Personal |
+| [Antiochus tries to force seven brothers and their mother to eat forbidden pork](../../books/2-maccabees/README.md#record-aud-16-7-1)<br>`AUD-16-7-1` | [2 Maccabees 7:1](https://saints.bible/bible/judgement/2-maccabees/chapter-7/#v7-1) | [2 Maccabees](../../books/2-maccabees/README.md) | [Command](../../record-types/command/part-015.md#book-2-maccabees) | General |
+| [Daniel asks for a ten-day test on legumes and water](../../books/daniel/README.md#record-aud-31-1-8)<br>`AUD-31-1-8` | [Daniel 1:11–13](https://saints.bible/bible/providence/daniel/chapter-1/#v1-11) | [Daniel](../../books/daniel/README.md) | [Command](../../record-types/command/part-021.md#book-daniel) | Personal |
 
 [Previous part](part-002.md) · [All parts](README.md)

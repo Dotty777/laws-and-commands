@@ -4,12 +4,12 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**208 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**212 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Command (63)](../../record-types/command/part-017.md#book-isaiah) · [Commission (24)](../../record-types/commission/part-004.md#book-isaiah) · [Instruction (26)](../../record-types/instruction/part-010.md#book-isaiah) · [Wisdom (14)](../../record-types/wisdom/part-017.md#book-isaiah) · [Study Context (81)](../../record-types/study-context/part-004.md#book-isaiah)
+**Jump by Record type:** [Command (65)](../../record-types/command/part-018.md#book-isaiah) · [Commission (25)](../../record-types/commission/part-005.md#book-isaiah) · [Instruction (26)](../../record-types/instruction/part-010.md#book-isaiah) · [Wisdom (15)](../../record-types/wisdom/part-017.md#book-isaiah) · [Study Context (81)](../../record-types/study-context/part-004.md#book-isaiah)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Isaiah 1:2 | Isaiah 29:1 |
-| [Part 2](part-002.md) | 75 | Isaiah 29:11–12 | Isaiah 46:9 |
-| [Part 3](part-003.md) | 58 | Isaiah 46:12 | Isaiah 66:10 |
+| [Part 1](part-001.md) | 75 | Isaiah 1:2 | Isaiah 28:19 |
+| [Part 2](part-002.md) | 75 | Isaiah 28:22 | Isaiah 45:22 |
+| [Part 3](part-003.md) | 62 | Isaiah 46:1 | Isaiah 66:10 |

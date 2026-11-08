@@ -4,14 +4,14 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**340 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**339 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (99)](../../record-types/law/part-008.md#book-numbers) · [Command (83)](../../record-types/command/part-005.md#book-numbers) · [Commission (27)](../../record-types/commission/part-001.md#book-numbers) · [Instruction (126)](../../record-types/instruction/part-005.md#book-numbers) · [Study Context (5)](../../record-types/study-context/part-001.md#book-numbers)
+**Jump by Record type:** [Law (99)](../../record-types/law/part-008.md#book-numbers) · [Command (82)](../../record-types/command/part-005.md#book-numbers) · [Commission (26)](../../record-types/commission/part-001.md#book-numbers) · [Instruction (126)](../../record-types/instruction/part-005.md#book-numbers) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-numbers) · [Study Context (5)](../../record-types/study-context/part-001.md#book-numbers)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
 | [Part 1](part-001.md) | 75 | Numbers 1:1–19 | Numbers 6:13–17 |
-| [Part 2](part-002.md) | 75 | Numbers 6:18 | Numbers 15:39 |
-| [Part 3](part-003.md) | 75 | Numbers 16:5–11 | Numbers 21:8–9 |
+| [Part 2](part-002.md) | 75 | Numbers 6:18 | Numbers 15:38 |
+| [Part 3](part-003.md) | 75 | Numbers 15:39 | Numbers 21:8–9 |
 | [Part 4](part-004.md) | 75 | Numbers 21:8 | Numbers 31:17 |
-| [Part 5](part-005.md) | 40 | Numbers 31:17 | Numbers 36:7 |
+| [Part 5](part-005.md) | 39 | Numbers 31:17–18 | Numbers 36:7 |

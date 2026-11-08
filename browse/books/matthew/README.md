@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**144 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**145 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (3)](../../record-types/law/part-014.md#book-matthew) · [Command (52)](../../record-types/command/part-021.md#book-matthew) · [Commission (10)](../../record-types/commission/part-006.md#book-matthew) · [Instruction (27)](../../record-types/instruction/part-012.md#book-matthew) · [Wisdom (41)](../../record-types/wisdom/part-018.md#book-matthew) · [Study Context (2)](../../record-types/study-context/part-008.md#book-matthew) · [Mixed (9)](../../record-types/mixed/README.md#book-matthew)
+**Jump by Record type:** [Law (3)](../../record-types/law/part-014.md#book-matthew) · [Command (53)](../../record-types/command/part-022.md#book-matthew) · [Commission (10)](../../record-types/commission/part-007.md#book-matthew) · [Instruction (27)](../../record-types/instruction/part-012.md#book-matthew) · [Wisdom (41)](../../record-types/wisdom/part-018.md#book-matthew) · [Study Context (2)](../../record-types/study-context/part-007.md#book-matthew) · [Mixed (9)](../../record-types/mixed/README.md#book-matthew)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
 | [Part 1](part-001.md) | 75 | Matthew 1:20–25 | Matthew 13:47–50 |
-| [Part 2](part-002.md) | 69 | Matthew 13:51–52 | Matthew 28:18–20 |
+| [Part 2](part-002.md) | 70 | Matthew 13:51–52 | Matthew 28:18–20 |

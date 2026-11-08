@@ -6,7 +6,7 @@
 
 **516 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (331)](../../record-types/law/part-003.md#book-leviticus) · [Command (28)](../../record-types/command/part-004.md#book-leviticus) · [Commission (3)](../../record-types/commission/part-001.md#book-leviticus) · [Instruction (153)](../../record-types/instruction/part-003.md#book-leviticus) · [Study Context (1)](../../record-types/study-context/part-001.md#book-leviticus)
+**Jump by Record type:** [Law (331)](../../record-types/law/part-003.md#book-leviticus) · [Command (27)](../../record-types/command/part-004.md#book-leviticus) · [Commission (3)](../../record-types/commission/part-001.md#book-leviticus) · [Instruction (154)](../../record-types/instruction/part-003.md#book-leviticus) · [Study Context (1)](../../record-types/study-context/part-001.md#book-leviticus)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

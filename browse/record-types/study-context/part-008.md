@@ -6,18 +6,10 @@
 
 [Previous part](part-007.md) · [All parts](README.md)
 
-Records 526–561 of 561.
+Records 526–553 of 553.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| <a name="book-matthew"></a>[Jesus fulfils the Law and calls for deeper righteousness](../../books/matthew/part-001.md#record-k001)<br>`K001` | [Matthew 5:17–20](https://saints.bible/bible/salvation/matthew/chapter-5/#v5-17) | [Matthew](../../books/matthew/README.md) | Heavenly (God-given) | General |
-| [Jesus teaches about binding and loosing](../../books/matthew/part-002.md#record-k105)<br>`K105` | [Matthew 18:18](https://saints.bible/bible/salvation/matthew/chapter-18/#v18-18) | [Matthew](../../books/matthew/README.md) | Heavenly (God-given) | General |
-| <a name="book-mark"></a>[Jesus calls the temple a house of prayer for all nations](../../books/mark/README.md#record-k023)<br>`K023` | [Mark 11:17](https://saints.bible/bible/salvation/mark/chapter-11/#v11-17) | [Mark](../../books/mark/README.md) | Heavenly (God-given) | General |
-| <a name="book-john"></a>[Jesus teaches Nicodemus about birth from above](../../books/john/part-001.md#record-k032)<br>`K032` | [John 3:3–15](https://saints.bible/bible/salvation/john/chapter-3/#v3-3) | [John](../../books/john/README.md) | Heavenly (God-given) | General |
-| [Jesus teaches about eating his flesh and drinking his blood](../../books/john/part-001.md#record-k092)<br>`K092` | [John 6:48–58](https://saints.bible/bible/salvation/john/chapter-6/#v6-48) | [John](../../books/john/README.md) | Heavenly (God-given) | General |
-| <a name="book-acts"></a>[Peter connects the outpouring of the Spirit with Joel’s prophecy](../../books/acts/part-001.md#record-a110)<br>`A110` | [Acts 2:16–21](https://saints.bible/bible/discipleship/acts/chapter-2/#v2-16) | [Acts](../../books/acts/README.md) | Heavenly (God-given) | General |
-| [Peter explains how David foresaw Christ’s resurrection](../../books/acts/part-001.md#record-a107)<br>`A107` | [Acts 2:25–32](https://saints.bible/bible/discipleship/acts/chapter-2/#v2-25) | [Acts](../../books/acts/README.md) | Context only | General |
-| [Peter proclaims Jesus exalted at God’s right hand and pouring out the Spirit](../../books/acts/part-001.md#record-a108)<br>`A108` | [Acts 2:33–36](https://saints.bible/bible/discipleship/acts/chapter-2/#v2-33) | [Acts](../../books/acts/README.md) | Heavenly (God-given) | General |
 | [Salvation is found in Jesus alone](../../books/acts/part-001.md#record-a003)<br>`A003` | [Acts 4:12](https://saints.bible/bible/discipleship/acts/chapter-4/#v4-12) | [Acts](../../books/acts/README.md) | Context only | General |
 | [Stephen teaches that the Most High does not dwell in handmade houses](../../books/acts/part-001.md#record-a099)<br>`A099` | [Acts 7:44–50](https://saints.bible/bible/discipleship/acts/chapter-7/#v7-44) | [Acts](../../books/acts/README.md) | Heavenly (God-given) | General |
 | <a name="book-romans"></a>[The gospel reveals God’s righteousness to those who believe](../../books/romans/README.md#record-a071)<br>`A071` | [Romans 1:16–17](https://saints.bible/bible/discipleship/romans/chapter-1/#v1-16) | [Romans](../../books/romans/README.md) | Context only | General |

@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**76 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**77 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (3)](../../record-types/law/part-014.md#book-john) · [Command (37)](../../record-types/command/part-022.md#book-john) · [Commission (14)](../../record-types/commission/part-006.md#book-john) · [Instruction (12)](../../record-types/instruction/part-012.md#book-john) · [Wisdom (8)](../../record-types/wisdom/part-019.md#book-john) · [Study Context (2)](../../record-types/study-context/part-008.md#book-john)
+**Jump by Record type:** [Law (3)](../../record-types/law/part-014.md#book-john) · [Command (38)](../../record-types/command/part-023.md#book-john) · [Commission (14)](../../record-types/commission/part-007.md#book-john) · [Instruction (12)](../../record-types/instruction/part-013.md#book-john) · [Wisdom (8)](../../record-types/wisdom/part-019.md#book-john) · [Study Context (2)](../../record-types/study-context/part-007.md#book-john)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
 | [Part 1](part-001.md) | 75 | John 1:19–22, 24 | John 21:15–17 |
-| [Part 2](part-002.md) | 1 | John 21:18–23 | John 21:18–23 |
+| [Part 2](part-002.md) | 2 | John 21:15–17 | John 21:18–23 |

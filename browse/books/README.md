@@ -8,73 +8,73 @@ Books follow the Saints.Bible order. Each record has its own link within the boo
 
 | No. | Book | Records |
 | ---: | --- | ---: |
-| 1 | [Genesis](genesis/README.md) | 316 |
-| 2 | [Exodus](exodus/README.md) | 491 |
+| 1 | [Genesis](genesis/README.md) | 317 |
+| 2 | [Exodus](exodus/README.md) | 496 |
 | 3 | [Leviticus](leviticus/README.md) | 516 |
-| 4 | [Numbers](numbers/README.md) | 340 |
-| 5 | [Deuteronomy](deuteronomy/README.md) | 399 |
+| 4 | [Numbers](numbers/README.md) | 339 |
+| 5 | [Deuteronomy](deuteronomy/README.md) | 401 |
 | 6 | [Joshua](joshua/README.md) | 87 |
-| 7 | [Judges](judges/README.md) | 105 |
-| 8 | [Ruth](ruth/README.md) | 24 |
-| 9 | [1 Samuel](1-samuel/README.md) | 186 |
-| 10 | [2 Samuel](2-samuel/README.md) | 132 |
-| 11 | [1 Kings](1-kings/README.md) | 120 |
-| 12 | [2 Kings](2-kings/README.md) | 112 |
-| 13 | [1 Chronicles](1-chronicles/README.md) | 57 |
-| 14 | [2 Chronicles](2-chronicles/README.md) | 76 |
-| 15 | [1 Maccabees](1-maccabees/README.md) | 102 |
-| 16 | [2 Maccabees](2-maccabees/README.md) | 44 |
-| 17 | [Ezra](ezra/README.md) | 30 |
-| 18 | [Nehemiah](nehemiah/README.md) | 37 |
-| 19 | [Esther](esther/README.md) | 40 |
-| 20 | [Job](job/README.md) | 91 |
+| 7 | [Judges](judges/README.md) | 111 |
+| 8 | [Ruth](ruth/README.md) | 25 |
+| 9 | [1 Samuel](1-samuel/README.md) | 196 |
+| 10 | [2 Samuel](2-samuel/README.md) | 135 |
+| 11 | [1 Kings](1-kings/README.md) | 133 |
+| 12 | [2 Kings](2-kings/README.md) | 133 |
+| 13 | [1 Chronicles](1-chronicles/README.md) | 60 |
+| 14 | [2 Chronicles](2-chronicles/README.md) | 90 |
+| 15 | [1 Maccabees](1-maccabees/README.md) | 142 |
+| 16 | [2 Maccabees](2-maccabees/README.md) | 75 |
+| 17 | [Ezra](ezra/README.md) | 36 |
+| 18 | [Nehemiah](nehemiah/README.md) | 40 |
+| 19 | [Esther](esther/README.md) | 48 |
+| 20 | [Job](job/README.md) | 95 |
 | 21 | [Psalms](psalms/README.md) | 235 |
-| 22 | [Proverbs](proverbs/README.md) | 540 |
+| 22 | [Proverbs](proverbs/README.md) | 543 |
 | 23 | [Ecclesiastes](ecclesiastes/README.md) | 78 |
 | 24 | [Song of Songs](song-of-songs/README.md) | 24 |
 | 25 | [Lamentations](lamentations/README.md) | 10 |
 | 26 | [Wisdom of Solomon](wisdom-of-solomon/README.md) | 39 |
 | 27 | [Sirach](sirach/README.md) | 425 |
-| 28 | [Isaiah](isaiah/README.md) | 208 |
-| 29 | [Jeremiah](jeremiah/README.md) | 251 |
-| 30 | [Ezekiel](ezekiel/README.md) | 223 |
-| 31 | [Daniel](daniel/README.md) | 66 |
+| 28 | [Isaiah](isaiah/README.md) | 212 |
+| 29 | [Jeremiah](jeremiah/README.md) | 255 |
+| 30 | [Ezekiel](ezekiel/README.md) | 224 |
+| 31 | [Daniel](daniel/README.md) | 69 |
 | 32 | [Hosea](hosea/README.md) | 24 |
 | 33 | [Joel](joel/README.md) | 18 |
-| 34 | [Amos](amos/README.md) | 27 |
+| 34 | [Amos](amos/README.md) | 28 |
 | 35 | [Obadiah](obadiah/README.md) | 3 |
 | 36 | [Jonah](jonah/README.md) | 9 |
-| 37 | [Micah](micah/README.md) | 19 |
+| 37 | [Micah](micah/README.md) | 18 |
 | 38 | [Nahum](nahum/README.md) | 4 |
-| 39 | [Habakkuk](habakkuk/README.md) | 7 |
+| 39 | [Habakkuk](habakkuk/README.md) | 8 |
 | 40 | [Zephaniah](zephaniah/README.md) | 8 |
-| 41 | [Haggai](haggai/README.md) | 9 |
-| 42 | [Zechariah](zechariah/README.md) | 37 |
+| 41 | [Haggai](haggai/README.md) | 8 |
+| 42 | [Zechariah](zechariah/README.md) | 39 |
 | 43 | [Malachi](malachi/README.md) | 12 |
-| 44 | [Matthew](matthew/README.md) | 144 |
-| 45 | [Mark](mark/README.md) | 32 |
+| 44 | [Matthew](matthew/README.md) | 145 |
+| 45 | [Mark](mark/README.md) | 33 |
 | 46 | [Luke](luke/README.md) | 79 |
-| 47 | [John](john/README.md) | 76 |
+| 47 | [John](john/README.md) | 77 |
 | 48 | [Acts](acts/README.md) | 110 |
-| 49 | [Romans](romans/README.md) | 36 |
+| 49 | [Romans](romans/README.md) | 37 |
 | 50 | [1 Corinthians](1-corinthians/README.md) | 40 |
-| 51 | [2 Corinthians](2-corinthians/README.md) | 18 |
-| 52 | [Galatians](galatians/README.md) | 15 |
-| 53 | [Ephesians](ephesians/README.md) | 19 |
-| 54 | [Philippians](philippians/README.md) | 10 |
-| 55 | [Colossians](colossians/README.md) | 10 |
+| 51 | [2 Corinthians](2-corinthians/README.md) | 19 |
+| 52 | [Galatians](galatians/README.md) | 16 |
+| 53 | [Ephesians](ephesians/README.md) | 18 |
+| 54 | [Philippians](philippians/README.md) | 11 |
+| 55 | [Colossians](colossians/README.md) | 11 |
 | 56 | [1 Thessalonians](1-thessalonians/README.md) | 10 |
 | 57 | [2 Thessalonians](2-thessalonians/README.md) | 5 |
 | 58 | [1 Timothy](1-timothy/README.md) | 23 |
-| 59 | [2 Timothy](2-timothy/README.md) | 14 |
-| 60 | [Titus](titus/README.md) | 14 |
+| 59 | [2 Timothy](2-timothy/README.md) | 15 |
+| 60 | [Titus](titus/README.md) | 15 |
 | 61 | [Philemon](philemon/README.md) | 2 |
-| 62 | [Hebrews](hebrews/README.md) | 28 |
+| 62 | [Hebrews](hebrews/README.md) | 32 |
 | 63 | [James](james/README.md) | 28 |
 | 64 | [1 Peter](1-peter/README.md) | 27 |
-| 65 | [2 Peter](2-peter/README.md) | 10 |
+| 65 | [2 Peter](2-peter/README.md) | 12 |
 | 66 | [1 John](1-john/README.md) | 17 |
 | 67 | [2 John](2-john/README.md) | 2 |
-| 68 | [3 John](3-john/README.md) | 2 |
-| 69 | [Jude](jude/README.md) | 5 |
-| 70 | [Revelation](revelation/README.md) | 50 |
+| 68 | [3 John](3-john/README.md) | 3 |
+| 69 | [Jude](jude/README.md) | 6 |
+| 70 | [Revelation](revelation/README.md) | 52 |

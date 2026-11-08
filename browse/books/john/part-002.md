@@ -6,10 +6,11 @@
 
 [Previous part](part-001.md) · [All parts](README.md)
 
-Records 76–76 of 76.
+Records 76–77 of 77.
 
 | Study record | Scripture | Record type | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| <a name="record-aud-47-21-20"></a>[Follow Jesus without speculating about the other disciple](https://saints.bible/instructions/?instruction_id=AUD-47-21-20#saints-command-catalogue)<br>`AUD-47-21-20` | [John 21:18–23](https://saints.bible/bible/salvation/john/chapter-21/#v21-18) | [Command](../../record-types/command/part-022.md#book-john) | Heavenly (God-given) | General |
+| <a name="record-w6-4"></a>[Shepherds of the Flock](https://saints.bible/instructions/general/?instruction_id=w6-4#audience-w6-4)<br>`w6-4` · [Archive](../../../categories/cross-scripture-studies/part-005.md#w6-4) | [John 21:15–17](https://saints.bible/bible/salvation/john/chapter-21/#v21-15) | [Commission](../../record-types/commission/part-007.md#book-john) | Mixed origins | General |
+| <a name="record-aud-47-21-20"></a>[Follow Jesus without speculating about the other disciple](https://saints.bible/instructions/?instruction_id=AUD-47-21-20#saints-command-catalogue)<br>`AUD-47-21-20` | [John 21:18–23](https://saints.bible/bible/salvation/john/chapter-21/#v21-18) | [Command](../../record-types/command/part-023.md#book-john) | Heavenly (God-given) | General |
 
 [Previous part](part-001.md) · [All parts](README.md)

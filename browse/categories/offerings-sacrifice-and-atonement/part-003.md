@@ -6,10 +6,12 @@
 
 [Previous part](part-002.md) · [All parts](README.md)
 
-Records 151–152 of 152.
+Records 151–154 of 154.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
+| [Praise in song pleases God more than a sacrificial bull](../../books/psalms/part-002.md#record-aud-21-68-31)<br>`AUD-21-68-31` | [Greek Psalm 68:31–32](https://saints.bible/bible/wisdom/psalms/greek-psalm-68/#v68-31) | [Psalms](../../books/psalms/README.md) | [Wisdom](../../record-types/wisdom/part-002.md#book-psalms) | General |
+| [Keeping the law, kindness and almsgiving are true sacrifices](../../books/sirach/part-005.md#record-aud-27-35-1)<br>`AUD-27-35-1` | [Sirach 35:1–3](https://saints.bible/bible/wisdom/sirach/chapter-35/#v35-1) | [Sirach](../../books/sirach/README.md) | [Wisdom](../../record-types/wisdom/part-012.md#book-sirach) | General |
 | [Festival grain offerings: a cake for each calf and ram](../../books/ezekiel/part-003.md#record-aud-30-46-11)<br>`AUD-30-46-11` | [Ezekiel 46:11](https://saints.bible/bible/providence/ezekiel/chapter-46/#v46-11) | [Ezekiel](../../books/ezekiel/README.md) | [Law](../../record-types/law/part-013.md#book-ezekiel) | General |
 | [The ruler opens and closes the east gate for his pledged offering](../../books/ezekiel/part-003.md#record-aud-30-46-12)<br>`AUD-30-46-12` | [Ezekiel 46:12](https://saints.bible/bible/providence/ezekiel/chapter-46/#v46-12) | [Ezekiel](../../books/ezekiel/README.md) | [Law](../../record-types/law/part-013.md#book-ezekiel) | General |
 

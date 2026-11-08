@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**126 current study records.** Select a study title to open its entry in the book view.
+**128 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/work-possessions-and-stewardship.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 4:8 | Ecclesiastes 2:18–23 |
-| [Part 2](part-002.md) | 51 | Ecclesiastes 2:24–26 | John 21:4–13 |
+| [Part 1](part-001.md) | 75 | Genesis 4:8 | Proverbs 31:17–20 |
+| [Part 2](part-002.md) | 53 | Ecclesiastes 2:4–11 | John 21:4–13 |

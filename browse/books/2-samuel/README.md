@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**132 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**135 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (1)](../../record-types/law/part-012.md#book-2-samuel) · [Command (88)](../../record-types/command/part-010.md#book-2-samuel) · [Commission (21)](../../record-types/commission/part-002.md#book-2-samuel) · [Instruction (9)](../../record-types/instruction/part-009.md#book-2-samuel) · [Study Context (13)](../../record-types/study-context/part-002.md#book-2-samuel)
+**Jump by Record type:** [Law (1)](../../record-types/law/part-012.md#book-2-samuel) · [Command (91)](../../record-types/command/part-010.md#book-2-samuel) · [Commission (22)](../../record-types/commission/part-002.md#book-2-samuel) · [Instruction (9)](../../record-types/instruction/part-009.md#book-2-samuel) · [Study Context (12)](../../record-types/study-context/part-002.md#book-2-samuel)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | 2 Samuel 1:4 | 2 Samuel 15:12 |
-| [Part 2](part-002.md) | 57 | 2 Samuel 15:14 | 2 Samuel 24:22 |
+| [Part 1](part-001.md) | 75 | 2 Samuel 1:4 | 2 Samuel 15:10 |
+| [Part 2](part-002.md) | 60 | 2 Samuel 15:12 | 2 Samuel 24:22 |
