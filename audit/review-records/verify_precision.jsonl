@@ -1,0 +1,110 @@
+{"key": "B01#1", "verdict": "partly", "problem": "Reference starts mid-sentence: Abram's oath to the king of Sodom begins at 14:22.", "fix": "Reference Genesis 14:22–24."}
+{"key": "B01#2", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B01#16", "verdict": "partly", "problem": "The extension is right (24:44 finishes the sentence), but the existing record is Study Context / Context only (a recounted prayer to God), not Command / Earthly.", "fix": "Extend ot-genesis-v24-43 to 24:43–44 and keep its own record type and origin."}
+{"key": "B01#27", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B01#42", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B01#50", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B02#6", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B02#126", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B03#11", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B03#24", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B03#43", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B03#69", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B03#85", "verdict": "partly", "problem": "Reference leaves out 23:27, where Leviticus 23 itself says 'you shall humble your souls'; the records already on 23:27 (C0695, C0696) cover only the assembly and the offering.", "fix": "Link Leviticus 23:27, 29, 32 to C0568."}
+{"key": "B04#22", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B04#66", "verdict": "correct", "problem": "", "fix": "S022 (Exodus 20:8–11) would also be a fitting home."}
+{"key": "B04#68", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B04#138", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B05#17", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B05#32", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B05#33", "verdict": "partly", "problem": "The existing record is only the call to keep silence and listen (27:9); 27:10 adds a different directive (obey the Lord's voice and do all His commandments) that it does not state.", "fix": "Retitle the record when extending it (a call to listen and obey), or record 27:10 separately."}
+{"key": "B06#18", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B06#21", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B06#28", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B06#34", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B06#87", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S02#41", "verdict": "partly", "problem": "Audience should be Personal: David speaks to two named men and gives the order to his young men on one occasion (compare the brief's embalmers example).", "fix": "Set audience to Personal; merge with first-pass P00761 as one record on 4:9–12."}
+{"key": "B07#19", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S03#11", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S03#14", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B08#5", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B08#61", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S03#52", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S03#70", "verdict": "correct", "problem": "", "fix": "Link to first-pass P00886 (1 Kings 22:16) as Additional Scripture rather than adding a separate record."}
+{"key": "B09#67", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B09#107", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B10#1", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B10#31", "verdict": "partly", "problem": "Audience should be Personal: the request is made to one person (Ezra) on one occasion.", "fix": "Set audience to Personal."}
+{"key": "B11#27", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B11#34", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S05#28", "verdict": "correct", "problem": "", "fix": "Borderline (a conditional covenant promise); merge with first-pass P01550 (Greek Psalm 88:31–35) rather than adding a second record."}
+{"key": "B12#67", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B12#71", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B12#94", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B12#139", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B12#156", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B12#233", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B12#236", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B12#258", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B12#260", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B12#271", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B12#288", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#4", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#47", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#48", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#63", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#91", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#120", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#121", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#137", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#155", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#202", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#219", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#227", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#245", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B13#264", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B14#32", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B14#53", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S06#1", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S06#12", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B14#64", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B14#90", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B15#122", "verdict": "correct", "problem": "", "fix": "Reconcile with first-pass P01862, which extends the same record the other way (42:11–14)."}
+{"key": "B15#146", "verdict": "wrong", "problem": "Autobiographical testimony with no maxim or direction. The catalogue does not itemize such testimonies (none for Wisdom 7–8), and the invitation it leads to is already ot-sirach-v51-23.", "fix": "Drop."}
+{"key": "B16#2", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B16#44", "verdict": "wrong", "problem": "A contrary-to-fact lament over Israel's past disobedience ('If you had listened…'). It directs no one, and the title supplies a maxim the text does not state.", "fix": "Drop."}
+{"key": "B16#54", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B17#23", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B17#29", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S06#36", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B17#40", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S06#38", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S06#41", "verdict": "correct", "problem": "", "fix": "As the note says, also link 20:12 to ot-ezekiel-v20-20."}
+{"key": "B18#18", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B18#19", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B18#51", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B18#61", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B20#8", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B20#29", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B20#100", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B20#107", "verdict": "correct", "problem": "", "fix": "Merge with first-pass P02510 (Matthew 8:18) and P02702 (Luke 8:22) into one record."}
+{"key": "B20#128", "verdict": "correct", "problem": "", "fix": "The note's citation is wrong: K071 is Mark 11:22–24, and Matthew 17:19–20 has no record."}
+{"key": "B20#146", "verdict": "wrong", "problem": "A prediction of the betrayal plus a judgment-woe on one man (Judas). It is not a general woe or teaching, and the reference is mostly narrative.", "fix": "Drop it, and its parallel first-pass P02586 (Matthew 26:20–25)."}
+{"key": "B20#162", "verdict": "wrong", "problem": "Narrative of Zechariah's customary incense service. It neither restates nor quotes Exodus 30:7–8, so it is not a parallel of C0337.", "fix": "Drop."}
+{"key": "B21#4", "verdict": "correct", "problem": "", "fix": "Merge with first-pass P02530 (Matthew 11:20–24)."}
+{"key": "B21#8", "verdict": "correct", "problem": "", "fix": "Merge with first-pass P02536 (Matthew 12:38–42)."}
+{"key": "B21#10", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S08#9", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B21#77", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S08#14", "verdict": "wrong", "problem": "'I thirst' is a declaration that John presents as fulfilling Scripture, not a request or an order; the bystanders' response is narrative.", "fix": "Drop."}
+{"key": "S08#17", "verdict": "correct", "problem": "", "fix": "Link to first-pass P02668 (Mark 15:42–46) rather than adding a separate record."}
+{"key": "B21#97", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B21#100", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "S08#23", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B21#118", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B22#20", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B23#7", "verdict": "partly", "problem": "Only 11:30 matches the record's choice to boast in weakness. 11:16–29 is autobiography (the fool's speech and the list of sufferings), and 11:16–30 does not adjoin 12:7–10.", "fix": "Make it a parallel: link 2 Corinthians 11:30 to AUD-51-12-7."}
+{"key": "B23#17", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B23#38", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B23#93", "verdict": "correct", "problem": "", "fix": ""}
+{"key": "B24#37", "verdict": "correct", "problem": "", "fix": ""}
