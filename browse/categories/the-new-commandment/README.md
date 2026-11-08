@@ -10,7 +10,7 @@
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Love your enemies, do good, and lend freely](../../books/luke/README.md#record-k048)<br>`K048` | [Luke 6:35](https://saints.bible/bible/salvation/luke/chapter-6/#v6-35) | [Luke](../../books/luke/README.md) | [Instruction](../../record-types/instruction/part-013.md#book-luke) | General |
-| [Be merciful as your Father is merciful](../../books/luke/README.md#record-k047)<br>`K047` | [Luke 6:36](https://saints.bible/bible/salvation/luke/chapter-6/#v6-36) | [Luke](../../books/luke/README.md) | [Command](../../record-types/command/part-018.md#book-luke) | General |
-| [Show mercy as the Samaritan did](../../books/luke/README.md#record-k049)<br>`K049` | [Luke 10:36–37](https://saints.bible/bible/salvation/luke/chapter-10/#v10-36) | [Luke](../../books/luke/README.md) | [Wisdom](../../record-types/wisdom/part-008.md#book-luke) | General |
-| [Love one another as Jesus has loved you](../../books/john/README.md#record-k046)<br>`K046` | [John 13:34–35](https://saints.bible/bible/salvation/john/chapter-13/#v13-34) | [John](../../books/john/README.md) | [Command](../../record-types/command/part-018.md#book-john) | General |
+| [Love your enemies, do good, and lend freely](../../books/luke/part-001.md#record-k048)<br>`K048` | [Luke 6:32–35](https://saints.bible/bible/salvation/luke/chapter-6/#v6-32) | [Luke](../../books/luke/README.md) | [Instruction](../../record-types/instruction/part-013.md#book-luke) | General |
+| [Be merciful as your Father is merciful](../../books/luke/part-001.md#record-k047)<br>`K047` | [Luke 6:36](https://saints.bible/bible/salvation/luke/chapter-6/#v6-36) | [Luke](../../books/luke/README.md) | [Command](../../record-types/command/part-022.md#book-luke) | General |
+| [Show mercy as the Samaritan did](../../books/luke/part-001.md#record-k049)<br>`K049` | [Luke 10:29–37](https://saints.bible/bible/salvation/luke/chapter-10/#v10-29) | [Luke](../../books/luke/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-luke) | General |
+| [Love one another as Jesus has loved you](../../books/john/part-001.md#record-k046)<br>`K046` | [John 13:34–35](https://saints.bible/bible/salvation/john/chapter-13/#v13-34) | [John](../../books/john/README.md) | [Command](../../record-types/command/part-022.md#book-john) | General |

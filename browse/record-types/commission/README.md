@@ -4,20 +4,22 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../README.md) · [All topics](../../categories/README.md)
 
-**361 current study records.** An entrusted role or task. Select a study title to open its entry in the book view.
+**479 current study records.** An entrusted role or task. Select a study title to open its entry in the book view.
 
 ## Jump to a book
 
-**Old Testament:** [Genesis (28)](part-001.md#book-genesis) · [Exodus (25)](part-001.md#book-exodus) · [Leviticus (3)](part-001.md#book-leviticus) · [Numbers (25)](part-001.md#book-numbers) · [Deuteronomy (9)](part-002.md#book-deuteronomy) · [Joshua (4)](part-002.md#book-joshua) · [Judges (8)](part-002.md#book-judges) · [1 Samuel (8)](part-002.md#book-1-samuel) · [2 Samuel (9)](part-002.md#book-2-samuel) · [1 Kings (14)](part-002.md#book-1-kings) · [2 Kings (9)](part-002.md#book-2-kings) · [1 Chronicles (8)](part-002.md#book-1-chronicles) · [2 Chronicles (8)](part-003.md#book-2-chronicles) · [1 Maccabees (4)](part-003.md#book-1-maccabees) · [2 Maccabees (1)](part-003.md#book-2-maccabees) · [Ezra (2)](part-003.md#book-ezra) · [Nehemiah (2)](part-003.md#book-nehemiah) · [Esther (4)](part-003.md#book-esther) · [Isaiah (20)](part-003.md#book-isaiah) · [Jeremiah (39)](part-003.md#book-jeremiah) · [Ezekiel (29)](part-004.md#book-ezekiel) · [Daniel (4)](part-004.md#book-daniel) · [Amos (2)](part-004.md#book-amos) · [Jonah (2)](part-004.md#book-jonah) · [Micah (2)](part-004.md#book-micah) · [Habakkuk (1)](part-004.md#book-habakkuk) · [Haggai (3)](part-004.md#book-haggai) · [Zechariah (7)](part-004.md#book-zechariah)
+**Old Testament:** [Genesis (29)](part-001.md#book-genesis) · [Exodus (30)](part-001.md#book-exodus) · [Leviticus (3)](part-001.md#book-leviticus) · [Numbers (28)](part-001.md#book-numbers) · [Deuteronomy (10)](part-002.md#book-deuteronomy) · [Joshua (8)](part-002.md#book-joshua) · [Judges (9)](part-002.md#book-judges) · [1 Samuel (15)](part-002.md#book-1-samuel) · [2 Samuel (21)](part-002.md#book-2-samuel) · [1 Kings (15)](part-003.md#book-1-kings) · [2 Kings (9)](part-003.md#book-2-kings) · [1 Chronicles (15)](part-003.md#book-1-chronicles) · [2 Chronicles (12)](part-003.md#book-2-chronicles) · [1 Maccabees (18)](part-003.md#book-1-maccabees) · [2 Maccabees (4)](part-003.md#book-2-maccabees) · [Ezra (4)](part-004.md#book-ezra) · [Nehemiah (3)](part-004.md#book-nehemiah) · [Esther (5)](part-004.md#book-esther) · [Psalms (1)](part-004.md#book-psalms) · [Isaiah (24)](part-004.md#book-isaiah) · [Jeremiah (48)](part-004.md#book-jeremiah) · [Ezekiel (52)](part-005.md#book-ezekiel) · [Daniel (9)](part-005.md#book-daniel) · [Amos (2)](part-005.md#book-amos) · [Jonah (2)](part-005.md#book-jonah) · [Micah (2)](part-006.md#book-micah) · [Habakkuk (1)](part-006.md#book-habakkuk) · [Haggai (3)](part-006.md#book-haggai) · [Zechariah (9)](part-006.md#book-zechariah) · [Malachi (1)](part-006.md#book-malachi)
 
-**New Testament:** [Matthew (10)](part-004.md#book-matthew) · [Mark (2)](part-004.md#book-mark) · [Luke (11)](part-004.md#book-luke) · [John (13)](part-005.md#book-john) · [Acts (20)](part-005.md#book-acts) · [Romans (1)](part-005.md#book-romans) · [1 Corinthians (2)](part-005.md#book-1-corinthians) · [2 Corinthians (2)](part-005.md#book-2-corinthians) · [Ephesians (2)](part-005.md#book-ephesians) · [Colossians (1)](part-005.md#book-colossians) · [1 Thessalonians (2)](part-005.md#book-1-thessalonians) · [1 Timothy (3)](part-005.md#book-1-timothy) · [2 Timothy (2)](part-005.md#book-2-timothy) · [Titus (1)](part-005.md#book-titus) · [Revelation (9)](part-005.md#book-revelation)
+**New Testament:** [Matthew (10)](part-006.md#book-matthew) · [Mark (2)](part-006.md#book-mark) · [Luke (13)](part-006.md#book-luke) · [John (14)](part-006.md#book-john) · [Acts (22)](part-006.md#book-acts) · [Romans (1)](part-007.md#book-romans) · [1 Corinthians (2)](part-007.md#book-1-corinthians) · [2 Corinthians (2)](part-007.md#book-2-corinthians) · [Galatians (1)](part-007.md#book-galatians) · [Ephesians (2)](part-007.md#book-ephesians) · [Colossians (1)](part-007.md#book-colossians) · [1 Thessalonians (2)](part-007.md#book-1-thessalonians) · [1 Timothy (3)](part-007.md#book-1-timothy) · [2 Timothy (2)](part-007.md#book-2-timothy) · [Titus (1)](part-007.md#book-titus) · [Revelation (9)](part-007.md#book-revelation)
 
 ## All parts
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 1:26–30 | Numbers 27:20 |
-| [Part 2](part-002.md) | 75 | Numbers 31:3–4 | 1 Chronicles 28:20 |
-| [Part 3](part-003.md) | 75 | 2 Chronicles 11:3 | Jeremiah 43:28 |
-| [Part 4](part-004.md) | 75 | Jeremiah 43:29 | Luke 13:31–33 |
-| [Part 5](part-005.md) | 61 | Luke 22:28–30 | Revelation 22:16 |
+| [Part 1](part-001.md) | 75 | Genesis 1:26–30 | Numbers 23:4–12 |
+| [Part 2](part-002.md) | 75 | Numbers 23:5 | 2 Samuel 18:21 |
+| [Part 3](part-003.md) | 75 | 2 Samuel 19:14 | 2 Maccabees 9:23–25 |
+| [Part 4](part-004.md) | 75 | 2 Maccabees 14:12–13 | Jeremiah 39:12–15 |
+| [Part 5](part-005.md) | 75 | Jeremiah 41:2 | Jonah 1:2 |
+| [Part 6](part-006.md) | 75 | Jonah 3:2 | Acts 22:17–21 |
+| [Part 7](part-007.md) | 29 | Acts 23:11 | Revelation 22:16 |

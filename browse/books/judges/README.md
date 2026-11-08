@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**83 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**105 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (1)](../../record-types/law/part-010.md#book-judges) · [Command (49)](../../record-types/command/part-007.md#book-judges) · [Commission (8)](../../record-types/commission/part-002.md#book-judges) · [Instruction (13)](../../record-types/instruction/part-009.md#book-judges) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-judges) · [Study Context (11)](../../record-types/study-context/part-002.md#book-judges)
+**Jump by Record type:** [Law (3)](../../record-types/law/part-011.md#book-judges) · [Command (66)](../../record-types/command/part-008.md#book-judges) · [Commission (9)](../../record-types/commission/part-002.md#book-judges) · [Instruction (15)](../../record-types/instruction/part-009.md#book-judges) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-judges) · [Study Context (11)](../../record-types/study-context/part-002.md#book-judges)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Judges 1:1–2 | Judges 20:3 |
-| [Part 2](part-002.md) | 8 | Judges 20:10 | Judges 21:21 |
+| [Part 1](part-001.md) | 75 | Judges 1:1–2 | Judges 16:25 |
+| [Part 2](part-002.md) | 30 | Judges 16:26 | Judges 21:21 |

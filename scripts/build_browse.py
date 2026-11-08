@@ -127,6 +127,8 @@ def build():
             archived_joined.add(prior)
         elif r["collection"] == AUDIT_GROUP:
             topic = AUDIT_GROUP
+        elif r["topic"] in topic_metadata:
+            topic = r["topic"]
         else:
             raise ValueError(f"No topic grouping for current-only record {id_}")
         by_book[r["book"]].append(r)
@@ -140,7 +142,7 @@ def build():
             or {k: len(v) for k, v in by_type.items()} != summary["record_types"]):
         raise ValueError("Browse groups do not match the current catalogue")
     for name, t in topic_metadata.items():
-        if Counter(r["audience"] for r in by_topic[name]) != Counter({"General": t["General"], "Personal": t["Personal"]}):
+        if Counter(r["audience"] for r in by_topic[name] if r["archived_record_id"]) != Counter({"General": t["General"], "Personal": t["Personal"]}):
             raise ValueError(f"Archive-backed topic counts disagree for {name}")
 
     files = {}
@@ -286,8 +288,8 @@ def build():
 
     topic_index = "browse/categories/README.md"
     files[topic_index] = page(["# Browse by topic", "", main_nav(topic_index), "",
-        f"The {len(archive_topics)} original topic groups show the current versions of their {len(archive):,} records. "
-        f"The {len(by_topic[AUDIT_GROUP]):,} later additions are grouped under the 70-book audit, where the source gives their Record type as the topic label.", "",
+        f"The {len(archive_topics)} original topic groups show the current versions of their {len(archive):,} archival records alongside reviewed additions with matching topics. "
+        f"The 70-book audit group contains {len(by_topic[AUDIT_GROUP]):,} records whose Topic field holds their Record type.", "",
         *table(("Topic or collection", "Records"), (
             (local(topic_index, group_path("categories", slug), name), len(by_topic[name]))
             for name, slug in topics_by_name.items()

@@ -4,16 +4,16 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**491 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**517 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (301)](../../record-types/law/part-003.md#book-leviticus) · [Command (28)](../../record-types/command/part-004.md#book-leviticus) · [Commission (3)](../../record-types/commission/part-001.md#book-leviticus) · [Instruction (158)](../../record-types/instruction/part-003.md#book-leviticus) · [Study Context (1)](../../record-types/study-context/part-001.md#book-leviticus)
+**Jump by Record type:** [Law (320)](../../record-types/law/part-003.md#book-leviticus) · [Command (29)](../../record-types/command/part-004.md#book-leviticus) · [Commission (3)](../../record-types/commission/part-001.md#book-leviticus) · [Instruction (164)](../../record-types/instruction/part-003.md#book-leviticus) · [Study Context (1)](../../record-types/study-context/part-001.md#book-leviticus)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
 | [Part 1](part-001.md) | 75 | Leviticus 1:1–17 | Leviticus 6:3 |
-| [Part 2](part-002.md) | 75 | Leviticus 6:4 | Leviticus 13:33 |
-| [Part 3](part-003.md) | 75 | Leviticus 13:33 | Leviticus 16:11 |
-| [Part 4](part-004.md) | 75 | Leviticus 16:12–13 | Leviticus 19:14 |
-| [Part 5](part-005.md) | 75 | Leviticus 19:14 | Leviticus 21:11 |
-| [Part 6](part-006.md) | 75 | Leviticus 21:12 | Leviticus 25:15–16 |
-| [Part 7](part-007.md) | 41 | Leviticus 25:23 | Leviticus 27:33 |
+| [Part 2](part-002.md) | 75 | Leviticus 6:3 | Leviticus 13:1–8 |
+| [Part 3](part-003.md) | 75 | Leviticus 13:1–59 | Leviticus 15:29 |
+| [Part 4](part-004.md) | 75 | Leviticus 15:30 | Leviticus 19:9–10 |
+| [Part 5](part-005.md) | 75 | Leviticus 19:10 | Leviticus 20:14 |
+| [Part 6](part-006.md) | 75 | Leviticus 20:15–16 | Leviticus 24:14 |
+| [Part 7](part-007.md) | 67 | Leviticus 24:14 | Leviticus 27:33 |

@@ -570,6 +570,11 @@
     "sha256": "801c93948bdcf13f65c54fe54676fd4a04c4a49b71fab8b0a5ab468077e2b098"
   },
   {
+    "file": "source/current/Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx",
+    "bytes": 1393002,
+    "sha256": "824d533d2000e45538965fdd96340c99a7ce3232d9736ea18c0bbfc0c0af9b53"
+  },
+  {
     "file": "source/pages/12684.json",
     "bytes": 7888,
     "sha256": "ca77167ff9e4269efaa7519151cda0234e65325378d553a905da9c74fac2f5b7"

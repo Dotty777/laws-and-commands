@@ -4,12 +4,13 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**165 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**235 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Command (66)](../../record-types/command/part-014.md#book-psalms) · [Instruction (26)](../../record-types/instruction/part-010.md#book-psalms) · [Wisdom (47)](../../record-types/wisdom/part-001.md#book-psalms) · [Study Context (26)](../../record-types/study-context/part-003.md#book-psalms)
+**Jump by Record type:** [Law (1)](../../record-types/law/part-012.md#book-psalms) · [Command (77)](../../record-types/command/part-016.md#book-psalms) · [Commission (1)](../../record-types/commission/part-004.md#book-psalms) · [Instruction (27)](../../record-types/instruction/part-010.md#book-psalms) · [Wisdom (103)](../../record-types/wisdom/part-002.md#book-psalms) · [Study Context (26)](../../record-types/study-context/part-003.md#book-psalms)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Greek Psalm 1:1–6 | Greek Psalm 80:3–4 |
-| [Part 2](part-002.md) | 75 | Greek Psalm 80:9 | Greek Psalm 135:26 |
-| [Part 3](part-003.md) | 15 | Greek Psalm 137:5 | Greek Psalm 150:1–6 |
+| [Part 1](part-001.md) | 75 | Greek Psalm 1:1–6 | Greek Psalm 48:7–13 |
+| [Part 2](part-002.md) | 75 | Greek Psalm 48:14–16 | Greek Psalm 97:7 |
+| [Part 3](part-003.md) | 75 | Greek Psalm 98:5 | Greek Psalm 146:7 |
+| [Part 4](part-004.md) | 10 | Greek Psalm 147:1 | Greek Psalm 150:1–6 |

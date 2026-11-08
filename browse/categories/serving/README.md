@@ -4,14 +4,16 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**5 current study records.** Select a study title to open its entry in the book view.
+**7 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/serving.md)
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Seek greatness through serving others](../../books/matthew/part-002.md#record-k054)<br>`K054` | [Matthew 20:26–28](https://saints.bible/bible/salvation/matthew/chapter-20/#v20-26) | [Matthew](../../books/matthew/README.md) | [Wisdom](../../record-types/wisdom/part-007.md#book-matthew) | General |
-| [Jesus warns his disciples against claiming religious titles](../../books/matthew/part-002.md#record-k058)<br>`K058` | [Matthew 23:8–10](https://saints.bible/bible/salvation/matthew/chapter-23/#v23-8) | [Matthew](../../books/matthew/README.md) | [Command](../../record-types/command/part-018.md#book-matthew) | General |
-| [Choose the lowest place at a feast](../../books/luke/README.md#record-k056)<br>`K056` | [Luke 14:10–11](https://saints.bible/bible/salvation/luke/chapter-14/#v14-10) | [Luke](../../books/luke/README.md) | [Wisdom](../../record-types/wisdom/part-008.md#book-luke) | General |
-| [Serve without claiming special credit](../../books/luke/README.md#record-k057)<br>`K057` | [Luke 17:10](https://saints.bible/bible/salvation/luke/chapter-17/#v17-10) | [Luke](../../books/luke/README.md) | [Wisdom](../../record-types/wisdom/part-008.md#book-luke) | General |
-| [Wash one another’s feet as Jesus did](../../books/john/README.md#record-k055)<br>`K055` | [John 13:14–15](https://saints.bible/bible/salvation/john/chapter-13/#v13-14) | [John](../../books/john/README.md) | [Instruction](../../record-types/instruction/part-013.md#book-john) | General |
+| [The vineyard workers illustrate God’s generosity](../../books/matthew/part-002.md#record-aud-44-20-1)<br>`AUD-44-20-1` | [Matthew 20:1–16](https://saints.bible/bible/salvation/matthew/chapter-20/#v20-1) | [Matthew](../../books/matthew/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-matthew) | General |
+| [The mother of James and John requests places of honor for them](../../books/matthew/part-002.md#record-aud-44-20-20)<br>`AUD-44-20-20` | [Matthew 20:20–22](https://saints.bible/bible/salvation/matthew/chapter-20/#v20-20) | [Matthew](../../books/matthew/README.md) | [Command](../../record-types/command/part-021.md#book-matthew) | Personal |
+| [Seek greatness through serving others](../../books/matthew/part-002.md#record-k054)<br>`K054` | [Matthew 20:24–28](https://saints.bible/bible/salvation/matthew/chapter-20/#v20-24) | [Matthew](../../books/matthew/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-matthew) | General |
+| [Jesus warns his disciples against claiming religious titles](../../books/matthew/part-002.md#record-k058)<br>`K058` | [Matthew 23:8–12](https://saints.bible/bible/salvation/matthew/chapter-23/#v23-8) | [Matthew](../../books/matthew/README.md) | [Command](../../record-types/command/part-021.md#book-matthew) | General |
+| [Choose the lowest place at a feast](../../books/luke/part-001.md#record-k056)<br>`K056` | [Luke 14:7–11](https://saints.bible/bible/salvation/luke/chapter-14/#v14-7) | [Luke](../../books/luke/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-luke) | General |
+| [Serve without claiming special credit](../../books/luke/part-001.md#record-k057)<br>`K057` | [Luke 17:7–10](https://saints.bible/bible/salvation/luke/chapter-17/#v17-7) | [Luke](../../books/luke/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-luke) | General |
+| [Wash one another’s feet as Jesus did](../../books/john/part-001.md#record-k055)<br>`K055` | [John 13:14–15](https://saints.bible/bible/salvation/john/chapter-13/#v13-14) | [John](../../books/john/README.md) | [Instruction](../../record-types/instruction/part-013.md#book-john) | General |

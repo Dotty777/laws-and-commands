@@ -6,10 +6,19 @@
 
 [Previous part](part-004.md) · [All parts](README.md)
 
-Records 301–301 of 301.
+Records 301–310 of 310.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
+| [Ascribe greatness to God](../../books/deuteronomy/part-006.md#record-c1220)<br>`C1220` | [Deuteronomy 32:3](https://saints.bible/bible/law/deuteronomy/chapter-32/#v32-3) | [Deuteronomy](../../books/deuteronomy/README.md) | [Command](../../record-types/command/part-006.md#book-deuteronomy) | General |
+| [Remember the ancient generations and inquire of fathers and elders](../../books/deuteronomy/part-006.md#record-c1221)<br>`C1221` | [Deuteronomy 32:7](https://saints.bible/bible/law/deuteronomy/chapter-32/#v32-7) | [Deuteronomy](../../books/deuteronomy/README.md) | [Wisdom](../../record-types/wisdom/part-001.md#book-deuteronomy) | General |
+| [The Song of Moses urges the nation to heed the lesson for the time ahead](../../books/deuteronomy/part-006.md#record-c1222)<br>`C1222` | [Deuteronomy 32:29](https://saints.bible/bible/law/deuteronomy/chapter-32/#v32-29) | [Deuteronomy](../../books/deuteronomy/README.md) | [Wisdom](../../record-types/wisdom/part-001.md#book-deuteronomy) | General |
+| [Moses: die on the appointed mountain and be gathered to your people](../../books/deuteronomy/part-006.md#record-c1223)<br>`C1223` | [Deuteronomy 32:50](https://saints.bible/bible/law/deuteronomy/chapter-32/#v32-50) | [Deuteronomy](../../books/deuteronomy/README.md) | [Study Context](../../record-types/study-context/part-001.md#book-deuteronomy) | Personal |
+| [Moses blesses the tribes; Levi's teaching and sacrificial service recalled](../../books/deuteronomy/part-006.md#record-torah-deuteronomy-33-1)<br>`torah-deuteronomy-33-1` | [Deuteronomy 33:1–29](https://saints.bible/bible/law/deuteronomy/chapter-33/#v33-1) | [Deuteronomy](../../books/deuteronomy/README.md) | [Study Context](../../record-types/study-context/part-001.md#book-deuteronomy) | General |
 | [Moses' ascent and death; Joshua's succession in obedience to the earlier command](../../books/deuteronomy/part-006.md#record-torah-deuteronomy-34-1)<br>`torah-deuteronomy-34-1` | [Deuteronomy 34:1–12](https://saints.bible/bible/law/deuteronomy/chapter-34/#v34-1) | [Deuteronomy](../../books/deuteronomy/README.md) | [Study Context](../../record-types/study-context/part-001.md#book-deuteronomy) | General |
+| [God sends the angel Gabriel to Mary in Nazareth](../../books/luke/part-001.md#record-aud-46-1-26)<br>`AUD-46-1-26` | [Luke 1:26–27](https://saints.bible/bible/salvation/luke/chapter-1/#v1-26) | [Luke](../../books/luke/README.md) | [Commission](../../record-types/commission/part-006.md#book-luke) | Personal |
+| [The trumpet-like voice summons John to come up and see](../../books/revelation/README.md#record-aud-70-4-1)<br>`AUD-70-4-1` | [Revelation 4:1](https://saints.bible/bible/glory/revelation/chapter-4/#v4-1) | [Revelation](../../books/revelation/README.md) | [Command](../../record-types/command/part-024.md#book-revelation) | Personal |
+| [A bowl angel summons John to see the great prostitute's judgment](../../books/revelation/README.md#record-aud-70-17-1)<br>`AUD-70-17-1` | [Revelation 17:1](https://saints.bible/bible/glory/revelation/chapter-17/#v17-1) | [Revelation](../../books/revelation/README.md) | [Command](../../record-types/command/part-024.md#book-revelation) | Personal |
+| [A bowl angel summons John to see the bride, the Lamb's wife](../../books/revelation/README.md#record-aud-70-21-9)<br>`AUD-70-21-9` | [Revelation 21:9](https://saints.bible/bible/glory/revelation/chapter-21/#v21-9) | [Revelation](../../books/revelation/README.md) | [Command](../../record-types/command/part-024.md#book-revelation) | Personal |
 
 [Previous part](part-004.md) · [All parts](README.md)

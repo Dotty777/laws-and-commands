@@ -4,12 +4,12 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**183 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**223 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (42)](../../record-types/law/part-011.md#book-ezekiel) · [Command (21)](../../record-types/command/part-016.md#book-ezekiel) · [Commission (29)](../../record-types/commission/part-004.md#book-ezekiel) · [Instruction (25)](../../record-types/instruction/part-011.md#book-ezekiel) · [Study Context (66)](../../record-types/study-context/part-006.md#book-ezekiel)
+**Jump by Record type:** [Law (52)](../../record-types/law/part-012.md#book-ezekiel) · [Command (24)](../../record-types/command/part-020.md#book-ezekiel) · [Commission (52)](../../record-types/commission/part-005.md#book-ezekiel) · [Instruction (29)](../../record-types/instruction/part-012.md#book-ezekiel) · [Study Context (66)](../../record-types/study-context/part-006.md#book-ezekiel)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Ezekiel 2:6 | Ezekiel 21:21 |
-| [Part 2](part-002.md) | 75 | Ezekiel 21:35 | Ezekiel 45:8 |
-| [Part 3](part-003.md) | 33 | Ezekiel 45:9 | Ezekiel 48:29 |
+| [Part 1](part-001.md) | 75 | Ezekiel 2:1–5 | Ezekiel 20:19 |
+| [Part 2](part-002.md) | 75 | Ezekiel 20:20 | Ezekiel 38:14 |
+| [Part 3](part-003.md) | 73 | Ezekiel 38:16 | Ezekiel 48:29 |

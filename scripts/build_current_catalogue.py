@@ -15,14 +15,14 @@ from zipfile import ZipFile
 
 
 ROOT = Path(__file__).resolve().parents[1]
-WORKBOOK_NAME = "Saints-Bible-Instructions-Catalogue-Complete-Record-Types.xlsx"
+WORKBOOK_NAME = "Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx"
 WORKBOOK_PATH = f"source/current/{WORKBOOK_NAME}"
-WORKBOOK_SHA256 = "801c93948bdcf13f65c54fe54676fd4a04c4a49b71fab8b0a5ab468077e2b098"
-LIVE_PATH = f"/wp-content/uploads/2026/11/{WORKBOOK_NAME}"
+WORKBOOK_SHA256 = "824d533d2000e45538965fdd96340c99a7ce3232d9736ea18c0bbfc0c0af9b53"
+LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx"
 ARCHIVE = "data/commands.json"
-RECORD_COUNT = 4999
+RECORD_COUNT = 6416
 ARCHIVE_COUNT = 4440
-SOURCE_COUNT = 269
+SOURCE_COUNT = 785
 X = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
 R = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
 P = "http://schemas.openxmlformats.org/package/2006/relationships"
@@ -139,7 +139,7 @@ def external_link(links: dict, cell: str, prefix: str) -> str:
     require(kind == "external" and target.scheme == "https" and target.netloc == "saints.bible" and
             target.path.startswith(prefix) and bool(target.fragment), f"Unexpected link at {cell}: {url}")
     if prefix == "/bible/":
-        require(re.fullmatch(r"v\d+-\d+[a-z]*", target.fragment) is not None and not target.query, f"Invalid Scripture anchor: {url}")
+        require(re.fullmatch(r"v\d+-\d+[a-z]*(?:-\d+[a-z]*)?", target.fragment) is not None and not target.query, f"Invalid Scripture anchor: {url}")
     return url
 
 

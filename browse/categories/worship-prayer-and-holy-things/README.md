@@ -4,14 +4,15 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**373 current study records.** Select a study title to open its entry in the book view.
+**427 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/worship-prayer-and-holy-things.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 9:27 | 1 Samuel 9:13 |
-| [Part 2](part-002.md) | 75 | 1 Samuel 10:8 | 1 Maccabees 4:59 |
-| [Part 3](part-003.md) | 75 | 1 Maccabees 9:44 | Greek Psalm 134:1 |
-| [Part 4](part-004.md) | 75 | Greek Psalm 134:3 | Jeremiah 18:18 |
-| [Part 5](part-005.md) | 73 | Jeremiah 19:1 | Malachi 3:10 |
+| [Part 1](part-001.md) | 75 | Genesis 9:27 | 1 Samuel 1:16–17 |
+| [Part 2](part-002.md) | 75 | 1 Samuel 2:3 | 2 Chronicles 29:30 |
+| [Part 3](part-003.md) | 75 | 2 Chronicles 29:31 | Greek Psalm 68:35 |
+| [Part 4](part-004.md) | 75 | Greek Psalm 73:8 | Sirach 35:4–6 |
+| [Part 5](part-005.md) | 75 | Sirach 35:7–10 | Ezekiel 46:24 |
+| [Part 6](part-006.md) | 52 | Ezekiel 48:10–12 | Hebrews 13:18–19 |

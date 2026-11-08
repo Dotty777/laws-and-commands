@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**80 current study records.** Select a study title to open its entry in the book view.
+**86 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/land-harvests-and-provision-for-the-poor.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Exodus 22:20 | Deuteronomy 26:3 |
-| [Part 2](part-002.md) | 5 | Deuteronomy 26:4 | Deuteronomy 26:13–15 |
+| [Part 1](part-001.md) | 75 | Exodus 22:20 | Deuteronomy 24:19–22 |
+| [Part 2](part-002.md) | 11 | Deuteronomy 24:20 | Isaiah 37:30 |

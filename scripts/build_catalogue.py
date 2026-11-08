@@ -382,12 +382,17 @@ def main():
             manifest.append({'file': file.relative_to(ROOT).as_posix(), 'bytes': len(body), 'sha256': hashlib.sha256(body).hexdigest()})
     write('source/manifest.json', [m for m in manifest if m['file'] != 'source/manifest.json'])
     summary = read('data/summary.json')
+    current = read('data/current/summary.json')
+    review = read('audit/verified-completeness.json')['counts']
     lines = ['# Laws and commands', '',
              '## Current Saints.Bible catalogue', '',
              '[Browse the current catalogue](browse/README.md) · [By Bible book](browse/books/README.md) · [By record type](browse/record-types/README.md) · [By topic](browse/categories/README.md)', '',
-             'The current catalogue contains **4,999 study records** across all 70 books, including **559 added since the 6 November 2026 import**. It has **4,301 General** and **698 Personal** records and **269 supplementary Scripture links**.', '',
+             f'The current catalogue contains **{current["records"]:,} study records** across all 70 books, including **{current["archive_join"]["current_only"]:,} added since the 6 November 2026 import**. It has **{current["audiences"]["General"]:,} General** and **{current["audiences"]["Personal"]:,} Personal** records and **{current["additional_scripture_links"]:,} supplementary Scripture links**.', '',
              'The seven record types are Law, Command, Commission, Instruction, Wisdom, Study Context, and Mixed. Record type describes the form of the material. Origin, original audience, and application are recorded separately.', '',
-             '[Download the current workbook](source/current/Saints-Bible-Instructions-Catalogue-Complete-Record-Types.xlsx) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)', '',
+             f'[Download the current workbook]({current["workbook"]["path"]}) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)', '',
+             '## Completeness audit of 8 November 2026', '',
+             f'The contextual review published **{review["added"]:,} additional study records** and applied **{review["extended"]:,} Scripture extensions** and **{review["parallels"]:,} supporting links**. The review decisions identify the passages and existing records included in the release. The original draft remains available for comparison.', '',
+             '[Verified review decisions](audit/verified-completeness.json) · [Original audit report](audit/AUDIT.md) · [Draft proposals](audit/findings.json)', '',
              '## Archival import and category index', '',
              'The **6 November 2026** import preserves **4,440 study records** from [Saints.Bible staging](' + BASE + '/instructions/) in **50 topical categories**, with the source wording, associated verses, classifications, audience notes, and original research.', '',
              '**3,869 General · 571 Personal.** The archive contains overlapping commandments, historical directions, passage groups, and teaching studies. Its totals count study records.', '',

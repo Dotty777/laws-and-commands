@@ -4,58 +4,58 @@
 
 [Browse home](../README.md) · [All books](../books/README.md) · [All Record types](../record-types/README.md) · [All topics](README.md)
 
-The 50 original topic groups show the current versions of their 4,440 records. The 559 later additions are grouped under the 70-book audit, where the source gives their Record type as the topic label.
+The 50 original topic groups show the current versions of their 4,440 archival records alongside reviewed additions with matching topics. The 70-book audit group contains 559 records whose Topic field holds their Record type.
 
 | Topic or collection | Records |
 | --- | ---: |
 | [Clean and Unclean, and the Tradition of the Elders](clean-and-unclean-and-the-tradition-of-the-elders/README.md) | 3 |
-| [Covenant signs, vows and dedications](covenant-signs-vows-and-dedications/README.md) | 59 |
-| [Creation, personal commissions and Israel’s journeys](creation-personal-commissions-and-israels-journeys/README.md) | 301 |
+| [Covenant signs, vows and dedications](covenant-signs-vows-and-dedications/README.md) | 73 |
+| [Creation, personal commissions and Israel’s journeys](creation-personal-commissions-and-israels-journeys/README.md) | 310 |
 | [Cross-Scripture studies](cross-scripture-studies/README.md) | 36 |
 | [Do This in Remembrance of Me](do-this-in-remembrance-of-me/README.md) | 2 |
-| [Done to Be Seen](done-to-be-seen/README.md) | 2 |
-| [Faith, repentance and allegiance](faith-repentance-and-allegiance/README.md) | 490 |
-| [Family, marriage and household](family-marriage-and-household/README.md) | 497 |
-| [Follow Me](follow-me/README.md) | 6 |
-| [Food, ritual purity and cleansing](food-ritual-purity-and-cleansing/README.md) | 161 |
+| [Done to Be Seen](done-to-be-seen/README.md) | 4 |
+| [Faith, repentance and allegiance](faith-repentance-and-allegiance/README.md) | 639 |
+| [Family, marriage and household](family-marriage-and-household/README.md) | 580 |
+| [Follow Me](follow-me/README.md) | 14 |
+| [Food, ritual purity and cleansing](food-ritual-purity-and-cleansing/README.md) | 175 |
 | [Go and Make Disciples](go-and-make-disciples/README.md) | 3 |
-| [Hear and Keep](hear-and-keep/README.md) | 5 |
-| [Historical commissions, journeys and public life](historical-commissions-journeys-and-public-life/README.md) | 545 |
-| [Holiness, truthfulness and sexual conduct](holiness-truthfulness-and-sexual-conduct/README.md) | 32 |
-| [Human life, injury and care for neighbours](human-life-injury-and-care-for-neighbours/README.md) | 30 |
+| [Hear and Keep](hear-and-keep/README.md) | 32 |
+| [Historical commissions, journeys and public life](historical-commissions-journeys-and-public-life/README.md) | 676 |
+| [Holiness, truthfulness and sexual conduct](holiness-truthfulness-and-sexual-conduct/README.md) | 54 |
+| [Human life, injury and care for neighbours](human-life-injury-and-care-for-neighbours/README.md) | 41 |
 | [In Secret](in-secret/README.md) | 3 |
-| [Judging and Forgiving](judging-and-forgiving/README.md) | 4 |
-| [Justice, testimony, government and war](justice-testimony-government-and-war/README.md) | 169 |
-| [Justice, truth and protection](justice-truth-and-protection/README.md) | 171 |
-| [Knowing, loving and obeying God](knowing-loving-and-obeying-god/README.md) | 142 |
-| [Land, harvests and provision for the poor](land-harvests-and-provision-for-the-poor/README.md) | 80 |
-| [Major Teachings: The Word of Christ Handed On](major-teachings-the-word-of-christ-handed-on/README.md) | 68 |
-| [Marriage](marriage/README.md) | 1 |
-| [Marriage, family and care for parents](marriage-family-and-care-for-parents/README.md) | 87 |
-| [Mercy, neighbors and the vulnerable](mercy-neighbors-and-the-vulnerable/README.md) | 139 |
+| [Judging and Forgiving](judging-and-forgiving/README.md) | 9 |
+| [Justice, testimony, government and war](justice-testimony-government-and-war/README.md) | 315 |
+| [Justice, truth and protection](justice-truth-and-protection/README.md) | 223 |
+| [Knowing, loving and obeying God](knowing-loving-and-obeying-god/README.md) | 193 |
+| [Land, harvests and provision for the poor](land-harvests-and-provision-for-the-poor/README.md) | 86 |
+| [Major Teachings: The Word of Christ Handed On](major-teachings-the-word-of-christ-handed-on/README.md) | 71 |
+| [Marriage](marriage/README.md) | 2 |
+| [Marriage, family and care for parents](marriage-family-and-care-for-parents/README.md) | 92 |
+| [Mercy, neighbors and the vulnerable](mercy-neighbors-and-the-vulnerable/README.md) | 191 |
 | [Minor Teachings: The Scriptures Read in Christ](minor-teachings-the-scriptures-read-in-christ/README.md) | 56 |
-| [Offerings, sacrifice and atonement](offerings-sacrifice-and-atonement/README.md) | 139 |
-| [Pray in This Way](pray-in-this-way/README.md) | 7 |
-| [Property, honest trade and service](property-honest-trade-and-service/README.md) | 23 |
-| [Repent and Believe](repent-and-believe/README.md) | 6 |
-| [Sabbath, appointed times and remembrance](sabbath-appointed-times-and-remembrance/README.md) | 104 |
-| [Sanctuary, priesthood and ministry](sanctuary-priesthood-and-ministry/README.md) | 258 |
-| [Serving](serving/README.md) | 5 |
-| [Shepherds of the Flock](shepherds-of-the-flock/README.md) | 3 |
+| [Offerings, sacrifice and atonement](offerings-sacrifice-and-atonement/README.md) | 153 |
+| [Pray in This Way](pray-in-this-way/README.md) | 8 |
+| [Property, honest trade and service](property-honest-trade-and-service/README.md) | 36 |
+| [Repent and Believe](repent-and-believe/README.md) | 14 |
+| [Sabbath, appointed times and remembrance](sabbath-appointed-times-and-remembrance/README.md) | 112 |
+| [Sanctuary, priesthood and ministry](sanctuary-priesthood-and-ministry/README.md) | 297 |
+| [Serving](serving/README.md) | 7 |
+| [Shepherds of the Flock](shepherds-of-the-flock/README.md) | 8 |
 | [Supplementary instructions](supplementary-instructions/README.md) | 41 |
-| [Temple, Offerings and Tithes](temple-offerings-and-tithes/README.md) | 6 |
+| [Temple, Offerings and Tithes](temple-offerings-and-tithes/README.md) | 11 |
 | [The Commandments and the One Thing Lacking](the-commandments-and-the-one-thing-lacking/README.md) | 2 |
-| [The Law and the Prophets](the-law-and-the-prophets/README.md) | 4 |
-| [The Little Ones and the Poor](the-little-ones-and-the-poor/README.md) | 5 |
+| [The Law and the Prophets](the-law-and-the-prophets/README.md) | 6 |
+| [The Little Ones and the Poor](the-little-ones-and-the-poor/README.md) | 6 |
 | [The New Commandment](the-new-commandment/README.md) | 4 |
 | [The Sabbath](the-sabbath/README.md) | 3 |
-| [The Sending](the-sending/README.md) | 7 |
-| [Treasure](treasure/README.md) | 5 |
-| [Trust](trust/README.md) | 4 |
-| [Wages, lending, pledges and inheritance](wages-lending-pledges-and-inheritance/README.md) | 40 |
-| [Watchfulness](watchfulness/README.md) | 8 |
-| [Wisdom, speech and conduct](wisdom-speech-and-conduct/README.md) | 233 |
-| [Work, possessions and stewardship](work-possessions-and-stewardship/README.md) | 61 |
-| [Worship, prayer and holy things](worship-prayer-and-holy-things/README.md) | 373 |
+| [The Sending](the-sending/README.md) | 12 |
+| [Treasure](treasure/README.md) | 11 |
+| [Trust](trust/README.md) | 31 |
+| [Wages, lending, pledges and inheritance](wages-lending-pledges-and-inheritance/README.md) | 53 |
+| [Watchfulness](watchfulness/README.md) | 15 |
+| [Wisdom, speech and conduct](wisdom-speech-and-conduct/README.md) | 584 |
+| [Work, possessions and stewardship](work-possessions-and-stewardship/README.md) | 126 |
+| [Worship, prayer and holy things](worship-prayer-and-holy-things/README.md) | 427 |
 | [You Heard That It Was Said, but I Tell You](you-heard-that-it-was-said-but-i-tell-you/README.md) | 7 |
 | [70-book audit](70-book-audit/README.md) | 559 |

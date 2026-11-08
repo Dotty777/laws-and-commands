@@ -4,13 +4,15 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**4 current study records.** Select a study title to open its entry in the book view.
+**6 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/the-law-and-the-prophets.md)
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
 | [Jesus fulfils the Law and calls for deeper righteousness](../../books/matthew/part-001.md#record-k001)<br>`K001` | [Matthew 5:17–20](https://saints.bible/bible/salvation/matthew/chapter-5/#v5-17) | [Matthew](../../books/matthew/README.md) | [Study Context](../../record-types/study-context/part-008.md#book-matthew) | General |
-| [Treat others as you would have them treat you](../../books/matthew/part-001.md#record-k004)<br>`K004` | [Matthew 7:12](https://saints.bible/bible/salvation/matthew/chapter-7/#v7-12) | [Matthew](../../books/matthew/README.md) | [Instruction](../../record-types/instruction/part-012.md#book-matthew) | General |
-| [Love your neighbor as yourself](../../books/matthew/part-002.md#record-k003)<br>`K003` | [Matthew 22:39–40](https://saints.bible/bible/salvation/matthew/chapter-22/#v22-39) | [Matthew](../../books/matthew/README.md) | [Command](../../record-types/command/part-018.md#book-matthew) | General |
-| [Love God with heart, soul, mind, and strength](../../books/mark/README.md#record-k002)<br>`K002` | [Mark 12:29–30](https://saints.bible/bible/salvation/mark/chapter-12/#v12-29) | [Mark](../../books/mark/README.md) | [Command](../../record-types/command/part-018.md#book-mark) | General |
+| [Treat others as you would have them treat you](../../books/matthew/part-001.md#record-k004)<br>`K004` | [Matthew 7:12](https://saints.bible/bible/salvation/matthew/chapter-7/#v7-12) | [Matthew](../../books/matthew/README.md) | [Instruction](../../record-types/instruction/part-013.md#book-matthew) | General |
+| [Love your neighbor as yourself](../../books/matthew/part-002.md#record-k003)<br>`K003` | [Matthew 22:39–40](https://saints.bible/bible/salvation/matthew/chapter-22/#v22-39) | [Matthew](../../books/matthew/README.md) | [Command](../../record-types/command/part-021.md#book-matthew) | General |
+| [Jesus rebukes those who honor prophets’ tombs yet share their killers’ guilt](../../books/matthew/part-002.md#record-aud-44-23-29)<br>`AUD-44-23-29` | [Matthew 23:29–36](https://saints.bible/bible/salvation/matthew/chapter-23/#v23-29) | [Matthew](../../books/matthew/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-matthew) | General |
+| [Love God with heart, soul, mind, and strength](../../books/mark/README.md#record-k002)<br>`K002` | [Mark 12:28–30](https://saints.bible/bible/salvation/mark/chapter-12/#v12-28) | [Mark](../../books/mark/README.md) | [Command](../../record-types/command/part-022.md#book-mark) | General |
+| [Heed Moses and the Prophets before it is too late](../../books/luke/part-001.md#record-aud-46-16-19)<br>`AUD-46-16-19` | [Luke 16:19–31](https://saints.bible/bible/salvation/luke/chapter-16/#v16-19) | [Luke](../../books/luke/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-luke) | General |

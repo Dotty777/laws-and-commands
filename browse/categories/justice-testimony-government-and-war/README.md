@@ -4,12 +4,14 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**169 current study records.** Select a study title to open its entry in the book view.
+**315 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/justice-testimony-government-and-war.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Exodus 12:48–49 | Numbers 35:11–15 |
-| [Part 2](part-002.md) | 75 | Numbers 35:12 | Deuteronomy 21:3 |
-| [Part 3](part-003.md) | 19 | Deuteronomy 21:4 | Deuteronomy 25:17–19 |
+| [Part 1](part-001.md) | 75 | Exodus 12:48–49 | Leviticus 24:15 |
+| [Part 2](part-002.md) | 75 | Leviticus 24:19–20 | Deuteronomy 20:5–8 |
+| [Part 3](part-003.md) | 75 | Deuteronomy 20:9 | 1 Maccabees 10:10–11 |
+| [Part 4](part-004.md) | 75 | 1 Maccabees 11:42–43 | Acts 21:27–28 |
+| [Part 5](part-005.md) | 15 | Acts 21:33–34 | Acts 26:1–3 |

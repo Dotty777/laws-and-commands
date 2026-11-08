@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**76 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**102 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (20)](../../record-types/law/part-011.md#book-1-maccabees) · [Command (25)](../../record-types/command/part-013.md#book-1-maccabees) · [Commission (4)](../../record-types/commission/part-003.md#book-1-maccabees) · [Instruction (11)](../../record-types/instruction/part-010.md#book-1-maccabees) · [Wisdom (2)](../../record-types/wisdom/part-001.md#book-1-maccabees) · [Study Context (14)](../../record-types/study-context/part-003.md#book-1-maccabees)
+**Jump by Record type:** [Law (26)](../../record-types/law/part-011.md#book-1-maccabees) · [Command (30)](../../record-types/command/part-015.md#book-1-maccabees) · [Commission (18)](../../record-types/commission/part-003.md#book-1-maccabees) · [Instruction (11)](../../record-types/instruction/part-010.md#book-1-maccabees) · [Wisdom (3)](../../record-types/wisdom/part-001.md#book-1-maccabees) · [Study Context (14)](../../record-types/study-context/part-003.md#book-1-maccabees)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | 1 Maccabees 1:11 | 1 Maccabees 16:3 |
-| [Part 2](part-002.md) | 1 | 1 Maccabees 16:17–22 | 1 Maccabees 16:17–22 |
+| [Part 1](part-001.md) | 75 | 1 Maccabees 1:11 | 1 Maccabees 11:9 |
+| [Part 2](part-002.md) | 27 | 1 Maccabees 11:31 | 1 Maccabees 16:17–22 |

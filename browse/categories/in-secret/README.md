@@ -10,6 +10,6 @@
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Give to those in need without seeking notice](../../books/matthew/part-001.md#record-k064)<br>`K064` | [Matthew 6:1–4](https://saints.bible/bible/salvation/matthew/chapter-6/#v6-1) | [Matthew](../../books/matthew/README.md) | [Instruction](../../record-types/instruction/part-012.md#book-matthew) | General |
-| [Pray without display or empty repetition](../../books/matthew/part-001.md#record-k065)<br>`K065` | [Matthew 6:5–8](https://saints.bible/bible/salvation/matthew/chapter-6/#v6-5) | [Matthew](../../books/matthew/README.md) | [Instruction](../../record-types/instruction/part-012.md#book-matthew) | General |
-| [Fast without advertising it](../../books/matthew/part-001.md#record-k066)<br>`K066` | [Matthew 6:16–18](https://saints.bible/bible/salvation/matthew/chapter-6/#v6-16) | [Matthew](../../books/matthew/README.md) | [Instruction](../../record-types/instruction/part-012.md#book-matthew) | General |
+| [Give to those in need without seeking notice](../../books/matthew/part-001.md#record-k064)<br>`K064` | [Matthew 6:1–4](https://saints.bible/bible/salvation/matthew/chapter-6/#v6-1) | [Matthew](../../books/matthew/README.md) | [Instruction](../../record-types/instruction/part-013.md#book-matthew) | General |
+| [Pray without display or empty repetition](../../books/matthew/part-001.md#record-k065)<br>`K065` | [Matthew 6:5–8](https://saints.bible/bible/salvation/matthew/chapter-6/#v6-5) | [Matthew](../../books/matthew/README.md) | [Instruction](../../record-types/instruction/part-013.md#book-matthew) | General |
+| [Fast without advertising it](../../books/matthew/part-001.md#record-k066)<br>`K066` | [Matthew 6:16–18](https://saints.bible/bible/salvation/matthew/chapter-6/#v6-16) | [Matthew](../../books/matthew/README.md) | [Instruction](../../record-types/instruction/part-013.md#book-matthew) | General |

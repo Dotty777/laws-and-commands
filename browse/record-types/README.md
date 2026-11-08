@@ -8,10 +8,10 @@ Record type describes the material in the study record. Origin, audience, and ap
 
 | Record type | Records | Meaning |
 | --- | ---: | --- |
-| [Law](law/README.md) | 878 | Standing law or provision |
-| [Command](command/README.md) | 1434 | Direct charge or prohibition |
-| [Commission](commission/README.md) | 361 | An entrusted role or task |
-| [Instruction](instruction/README.md) | 1110 | Practical conduct or procedure |
-| [Wisdom](wisdom/README.md) | 644 | Counsel, maxim, or teaching illustration |
+| [Law](law/README.md) | 948 | Standing law or provision |
+| [Command](command/README.md) | 1804 | Direct charge or prohibition |
+| [Commission](commission/README.md) | 479 | An entrusted role or task |
+| [Instruction](instruction/README.md) | 1145 | Practical conduct or procedure |
+| [Wisdom](wisdom/README.md) | 1468 | Counsel, maxim, or teaching illustration |
 | [Study Context](study-context/README.md) | 561 | Background or comparison |
 | [Mixed](mixed/README.md) | 11 | Several types without one dominant type |

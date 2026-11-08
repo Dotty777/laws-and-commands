@@ -4,11 +4,12 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**148 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**186 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (1)](../../record-types/law/part-010.md#book-1-samuel) · [Command (99)](../../record-types/command/part-008.md#book-1-samuel) · [Commission (8)](../../record-types/commission/part-002.md#book-1-samuel) · [Instruction (17)](../../record-types/instruction/part-009.md#book-1-samuel) · [Wisdom (4)](../../record-types/wisdom/part-001.md#book-1-samuel) · [Study Context (19)](../../record-types/study-context/part-002.md#book-1-samuel)
+**Jump by Record type:** [Law (1)](../../record-types/law/part-011.md#book-1-samuel) · [Command (127)](../../record-types/command/part-009.md#book-1-samuel) · [Commission (15)](../../record-types/commission/part-002.md#book-1-samuel) · [Instruction (17)](../../record-types/instruction/part-009.md#book-1-samuel) · [Wisdom (7)](../../record-types/wisdom/part-001.md#book-1-samuel) · [Study Context (19)](../../record-types/study-context/part-002.md#book-1-samuel)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | 1 Samuel 1:14 | 1 Samuel 15:6 |
-| [Part 2](part-002.md) | 73 | 1 Samuel 15:16 | 1 Samuel 31:4 |
+| [Part 1](part-001.md) | 75 | 1 Samuel 1:14 | 1 Samuel 14:17 |
+| [Part 2](part-002.md) | 75 | 1 Samuel 14:18 | 1 Samuel 23:22–23 |
+| [Part 3](part-003.md) | 36 | 1 Samuel 23:27 | 1 Samuel 31:4 |

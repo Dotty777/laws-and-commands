@@ -9,10 +9,10 @@
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
 | [Part 1](part-001.md) | 75 | Genesis 26:11 | Greek Psalm 132:1–3 |
-| [Part 2](part-002.md) | 75 | Proverbs 2:1–9 | Matthew 2:19–22 |
+| [Part 2](part-002.md) | 75 | Proverbs 2:1–11 | Matthew 2:19–22 |
 | [Part 3](part-003.md) | 75 | Matthew 3:7–10 | Luke 23:27–31 |
 | [Part 4](part-004.md) | 75 | Luke 24:5–8 | Acts 19:13–17 |
 | [Part 5](part-005.md) | 75 | Acts 19:35–40b | Galatians 2:9–10 |
-| [Part 6](part-006.md) | 75 | Galatians 2:11–14 | 2 Timothy 4:1–5 |
+| [Part 6](part-006.md) | 75 | Galatians 2:11–14 | 2 Timothy 4:1–8 |
 | [Part 7](part-007.md) | 75 | 2 Timothy 4:14–15 | Revelation 3:14–22 |
 | [Part 8](part-008.md) | 34 | Revelation 5:4–5 | Revelation 22:18–19 |

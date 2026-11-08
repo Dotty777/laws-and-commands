@@ -4,17 +4,19 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**545 current study records.** Select a study title to open its entry in the book view.
+**676 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/historical-commissions-journeys-and-public-life.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 1:15 | Joshua 1:18 |
-| [Part 2](part-002.md) | 75 | Joshua 4:2–3 | 1 Samuel 19:15 |
-| [Part 3](part-003.md) | 75 | 1 Samuel 20:38 | 2 Kings 2:20 |
-| [Part 4](part-004.md) | 75 | 2 Kings 2:23 | 1 Maccabees 11:31 |
-| [Part 5](part-005.md) | 75 | 1 Maccabees 11:36–37 | Song of Songs 2:5 |
-| [Part 6](part-006.md) | 75 | Song of Songs 2:10 | Jeremiah 21:3 |
-| [Part 7](part-007.md) | 75 | Jeremiah 26:3–4 | Hosea 1:9 |
-| [Part 8](part-008.md) | 20 | Hosea 3:3 | Zechariah 11:1–2 |
+| [Part 1](part-001.md) | 75 | Genesis 1:15 | Numbers 22:5–6 |
+| [Part 2](part-002.md) | 75 | Numbers 22:8 | 1 Samuel 4:9 |
+| [Part 3](part-003.md) | 75 | 1 Samuel 6:7 | 2 Samuel 17:16 |
+| [Part 4](part-004.md) | 75 | 2 Samuel 17:21 | 2 Kings 18:19 |
+| [Part 5](part-005.md) | 75 | 2 Kings 18:29 | Nehemiah 4:8 |
+| [Part 6](part-006.md) | 75 | Nehemiah 5:8 | Sirach 22:21 |
+| [Part 7](part-007.md) | 75 | Sirach 29:14–16 | Jeremiah 26:14 |
+| [Part 8](part-008.md) | 75 | Jeremiah 26:17 | Ezekiel 38:16 |
+| [Part 9](part-009.md) | 75 | Ezekiel 39:1 | 2 Timothy 4:9, 11, 13, 21 |
+| [Part 10](part-010.md) | 1 | Titus 3:12 | Titus 3:12 |

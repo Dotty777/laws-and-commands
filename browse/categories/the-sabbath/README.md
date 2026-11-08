@@ -10,6 +10,6 @@
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Jesus says it is lawful to do good on the Sabbath](../../books/matthew/part-001.md#record-k014)<br>`K014` | [Matthew 12:11–12](https://saints.bible/bible/salvation/matthew/chapter-12/#v12-11) | [Matthew](../../books/matthew/README.md) | [Wisdom](../../record-types/wisdom/part-007.md#book-matthew) | General |
-| [Jesus declares the Son of Man Lord of the Sabbath](../../books/mark/README.md#record-k013)<br>`K013` | [Mark 2:25–28](https://saints.bible/bible/salvation/mark/chapter-2/#v2-25) | [Mark](../../books/mark/README.md) | [Wisdom](../../record-types/wisdom/part-007.md#book-mark) | General |
-| [Judge with righteousness rather than by appearances](../../books/john/README.md#record-k015)<br>`K015` | [John 7:22–24](https://saints.bible/bible/salvation/john/chapter-7/#v7-22) | [John](../../books/john/README.md) | [Wisdom](../../record-types/wisdom/part-008.md#book-john) | General |
+| [Jesus says it is lawful to do good on the Sabbath](../../books/matthew/part-001.md#record-k014)<br>`K014` | [Matthew 12:9–14](https://saints.bible/bible/salvation/matthew/chapter-12/#v12-9) | [Matthew](../../books/matthew/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-matthew) | General |
+| [Jesus declares the Son of Man Lord of the Sabbath](../../books/mark/README.md#record-k013)<br>`K013` | [Mark 2:23–28](https://saints.bible/bible/salvation/mark/chapter-2/#v2-23) | [Mark](../../books/mark/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-mark) | General |
+| [Judge with righteousness rather than by appearances](../../books/john/part-001.md#record-k015)<br>`K015` | [John 7:19–24](https://saints.bible/bible/salvation/john/chapter-7/#v7-19) | [John](../../books/john/README.md) | [Wisdom](../../record-types/wisdom/part-019.md#book-john) | General |

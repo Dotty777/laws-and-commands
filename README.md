@@ -4,17 +4,17 @@
 
 [Browse the current catalogue](browse/README.md) · [By Bible book](browse/books/README.md) · [By record type](browse/record-types/README.md) · [By topic](browse/categories/README.md)
 
-The current catalogue contains **4,999 study records** across all 70 books, including **559 added since the 6 November 2026 import**. It has **4,301 General** and **698 Personal** records and **269 supplementary Scripture links**.
+The current catalogue contains **6,416 study records** across all 70 books, including **1,976 added since the 6 November 2026 import**. It has **5,365 General** and **1,051 Personal** records and **785 supplementary Scripture links**.
 
 The seven record types are Law, Command, Commission, Instruction, Wisdom, Study Context, and Mixed. Record type describes the form of the material. Origin, original audience, and application are recorded separately.
 
-[Download the current workbook](source/current/Saints-Bible-Instructions-Catalogue-Complete-Record-Types.xlsx) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)
+[Download the current workbook](source/current/Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)
 
 ## Completeness audit of 8 November 2026
 
-A verse-by-verse audit of all 70 books against this catalogue proposes **1,906 new records** (1,607 of them high or medium confidence), **642 Scripture extensions** and **683 parallel links**. It also checks Maimonides' 613 commandments and lists housekeeping fixes. The proposals are drafts for review and have not been merged into the catalogue.
+The contextual review published **1,417 additional study records** and applied **427 Scripture extensions** and **406 supporting links**. The review decisions identify the passages and existing records included in the release. The original draft remains available for comparison.
 
-[Audit report](audit/AUDIT.md) · [Proposals workbook](audit/Saints-Bible-Instructions-Completeness-Audit-2026-11-08.xlsx) · [Findings JSON](audit/findings.json) · [Coverage by book](audit/coverage-by-book.csv)
+[Verified review decisions](audit/verified-completeness.json) · [Original audit report](audit/AUDIT.md) · [Draft proposals](audit/findings.json)
 
 ## Archival import and category index
 

@@ -4,16 +4,16 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**480 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**496 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (160)](../../record-types/law/part-001.md#book-exodus) · [Command (119)](../../record-types/command/part-003.md#book-exodus) · [Commission (25)](../../record-types/commission/part-001.md#book-exodus) · [Instruction (165)](../../record-types/instruction/part-001.md#book-exodus) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-exodus) · [Study Context (10)](../../record-types/study-context/part-001.md#book-exodus)
+**Jump by Record type:** [Law (165)](../../record-types/law/part-001.md#book-exodus) · [Command (124)](../../record-types/command/part-003.md#book-exodus) · [Commission (30)](../../record-types/commission/part-001.md#book-exodus) · [Instruction (166)](../../record-types/instruction/part-001.md#book-exodus) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-exodus) · [Study Context (10)](../../record-types/study-context/part-001.md#book-exodus)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Exodus 1:10 | Exodus 10:28 |
-| [Part 2](part-002.md) | 75 | Exodus 11:1–3 | Exodus 17:9 |
-| [Part 3](part-003.md) | 75 | Exodus 17:9 | Exodus 21:26–27 |
-| [Part 4](part-004.md) | 75 | Exodus 21:28–32 | Exodus 23:15 |
-| [Part 5](part-005.md) | 75 | Exodus 23:15 | Exodus 28:31–34 |
-| [Part 6](part-006.md) | 75 | Exodus 28:35 | Exodus 32:22–23 |
-| [Part 7](part-007.md) | 30 | Exodus 32:26 | Exodus 40:8 |
+| [Part 1](part-001.md) | 75 | Exodus 1:10 | Exodus 10:11 |
+| [Part 2](part-002.md) | 75 | Exodus 10:12 | Exodus 16:23 |
+| [Part 3](part-003.md) | 75 | Exodus 16:23–25 | Exodus 21:12–36 |
+| [Part 4](part-004.md) | 75 | Exodus 21:12–17 | Exodus 23:7 |
+| [Part 5](part-005.md) | 75 | Exodus 23:7–8 | Exodus 27:6 |
+| [Part 6](part-006.md) | 75 | Exodus 27:7 | Exodus 30:32–33 |
+| [Part 7](part-007.md) | 46 | Exodus 30:32–33 | Exodus 40:8 |

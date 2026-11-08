@@ -4,11 +4,12 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**142 current study records.** Select a study title to open its entry in the book view.
+**193 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/knowing-loving-and-obeying-god.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 4:6–7 | Deuteronomy 4:23 |
-| [Part 2](part-002.md) | 67 | Deuteronomy 4:32–34 | Deuteronomy 31:12–13 |
+| [Part 1](part-001.md) | 75 | Genesis 4:6–7 | Deuteronomy 4:14 |
+| [Part 2](part-002.md) | 75 | Deuteronomy 4:19 | 2 Chronicles 33:16 |
+| [Part 3](part-003.md) | 43 | Nehemiah 8:1 | 1 John 3:19–22, 24 |

@@ -2,7 +2,7 @@
 
 # Browse the current Saints.Bible catalogue
 
-**4,999 study records** across **70 books**, including **269 additional Scripture links**.
+**6,416 study records** across **70 books**, including **785 additional Scripture links**.
 
 - [By book](books/README.md) — read in the Saints.Bible book and passage order.
 - [By Record type](record-types/README.md) — browse all seven types.
@@ -10,4 +10,4 @@
 
 The type and topic views link to the same record in its book. The book view includes primary and additional Scripture references. The Filing column shows whether the catalogue lists the record under General or Personal.
 
-[Repository home](../README.md) · [Original category archive](../README.md#archival-import-and-category-index) · [Download the workbook](../source/current/Saints-Bible-Instructions-Catalogue-Complete-Record-Types.xlsx)
+[Repository home](../README.md) · [Original category archive](../README.md#archival-import-and-category-index) · [Download the workbook](../source/current/Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx)

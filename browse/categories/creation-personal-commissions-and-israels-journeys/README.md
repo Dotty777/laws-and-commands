@@ -4,14 +4,14 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**301 current study records.** Select a study title to open its entry in the book view.
+**310 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/creation-personal-commissions-and-israels-journeys.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
 | [Part 1](part-001.md) | 75 | Genesis 1:26–30 | Genesis 31:1–3 |
-| [Part 2](part-002.md) | 75 | Genesis 31:3 | Exodus 16:4–12 |
-| [Part 3](part-003.md) | 75 | Exodus 16:5 | Numbers 21:8–9 |
-| [Part 4](part-004.md) | 75 | Numbers 21:8 | Deuteronomy 33:1–29 |
-| [Part 5](part-005.md) | 1 | Deuteronomy 34:1–12 | Deuteronomy 34:1–12 |
+| [Part 2](part-002.md) | 75 | Genesis 31:3 | Exodus 14:26 |
+| [Part 3](part-003.md) | 75 | Exodus 14:26–27 | Numbers 20:25 |
+| [Part 4](part-004.md) | 75 | Numbers 20:26 | Deuteronomy 32:1–52 |
+| [Part 5](part-005.md) | 10 | Deuteronomy 32:3 | Revelation 21:9 |

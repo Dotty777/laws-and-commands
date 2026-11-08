@@ -4,12 +4,15 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**222 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**425 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (1)](../../record-types/law/part-011.md#book-sirach) · [Command (6)](../../record-types/command/part-015.md#book-sirach) · [Instruction (1)](../../record-types/instruction/part-010.md#book-sirach) · [Wisdom (208)](../../record-types/wisdom/part-004.md#book-sirach) · [Study Context (6)](../../record-types/study-context/part-004.md#book-sirach)
+**Jump by Record type:** [Law (1)](../../record-types/law/part-012.md#book-sirach) · [Command (6)](../../record-types/command/part-017.md#book-sirach) · [Instruction (1)](../../record-types/instruction/part-011.md#book-sirach) · [Wisdom (411)](../../record-types/wisdom/part-012.md#book-sirach) · [Study Context (6)](../../record-types/study-context/part-004.md#book-sirach)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Sirach 1:28–29 | Sirach 11:10 |
-| [Part 2](part-002.md) | 75 | Sirach 11:20 | Sirach 30:23 |
-| [Part 3](part-003.md) | 72 | Sirach 31:12 | Sirach 51:30 |
+| [Part 1](part-001.md) | 75 | Sirach 1:6–10 | Sirach 7:20–21 |
+| [Part 2](part-002.md) | 75 | Sirach 7:22 | Sirach 13:10–11 |
+| [Part 3](part-003.md) | 75 | Sirach 13:12–13 | Sirach 21:12–14 |
+| [Part 4](part-004.md) | 75 | Sirach 21:15–17 | Sirach 30:1–3 |
+| [Part 5](part-005.md) | 75 | Sirach 30:4–6 | Sirach 38:11 |
+| [Part 6](part-006.md) | 50 | Sirach 38:12 | Sirach 51:30 |

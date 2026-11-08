@@ -4,10 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**1 current study records.** Select a study title to open its entry in the book view.
+**2 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/marriage.md)
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Jesus teaches on marriage and Moses’ permission to divorce](../../books/matthew/part-002.md#record-k012)<br>`K012` | [Matthew 19:4–9](https://saints.bible/bible/salvation/matthew/chapter-19/#v19-4) | [Matthew](../../books/matthew/README.md) | [Law](../../record-types/law/part-012.md#book-matthew) | General |
+| [A good wife is favor from God; do not cast her out](../../books/proverbs/part-004.md#record-aud-22-18-22)<br>`AUD-22-18-22` | [Proverbs 18:22–22a](https://saints.bible/bible/wisdom/proverbs/chapter-18/#v18-22) | [Proverbs](../../books/proverbs/README.md) | [Wisdom](../../record-types/wisdom/part-003.md#book-proverbs) | General |
+| [Jesus teaches on marriage and Moses’ permission to divorce](../../books/matthew/part-002.md#record-k012)<br>`K012` | [Matthew 19:3–9](https://saints.bible/bible/salvation/matthew/chapter-19/#v19-3) | [Matthew](../../books/matthew/README.md) | [Law](../../record-types/law/part-013.md#book-matthew) | General |

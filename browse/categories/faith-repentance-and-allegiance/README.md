@@ -4,16 +4,18 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**490 current study records.** Select a study title to open its entry in the book view.
+**639 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/faith-repentance-and-allegiance.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 1:3 | Ruth 3:13 |
-| [Part 2](part-002.md) | 75 | 1 Samuel 3:5–6 | 2 Kings 18:30 |
-| [Part 3](part-003.md) | 75 | 2 Kings 19:10 | Greek Psalm 65:16 |
-| [Part 4](part-004.md) | 75 | Greek Psalm 67:4 | Isaiah 21:10 |
-| [Part 5](part-005.md) | 75 | Isaiah 22:15 | Jeremiah 25:15 |
-| [Part 6](part-006.md) | 75 | Jeremiah 27:15–16 | Ezekiel 47:23 |
-| [Part 7](part-007.md) | 40 | Ezekiel 48:9 | Malachi 1:9 |
+| [Part 1](part-001.md) | 75 | Genesis 1:3 | Judges 10:14 |
+| [Part 2](part-002.md) | 75 | Judges 13:13–14 | 2 Kings 1:11 |
+| [Part 3](part-003.md) | 75 | 2 Kings 1:15 | Greek Psalm 7:13–14 |
+| [Part 4](part-004.md) | 75 | Greek Psalm 13:1 | Proverbs 22:4 |
+| [Part 5](part-005.md) | 75 | Proverbs 22:12 | Isaiah 7:13–14 |
+| [Part 6](part-006.md) | 75 | Isaiah 8:1 | Jeremiah 9:16 |
+| [Part 7](part-007.md) | 75 | Jeremiah 10:1–2 | Ezekiel 13:18 |
+| [Part 8](part-008.md) | 75 | Ezekiel 15:6 | Zephaniah 1:11 |
+| [Part 9](part-009.md) | 39 | Zechariah 1:3 | Revelation 20:6 |

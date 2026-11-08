@@ -4,16 +4,17 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**497 current study records.** Select a study title to open its entry in the book view.
+**580 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/family-marriage-and-household.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 1:14 | Leviticus 26:40 |
-| [Part 2](part-002.md) | 75 | Numbers 5:6 | 1 Samuel 19:4 |
-| [Part 3](part-003.md) | 75 | 1 Samuel 20:3 | 2 Kings 8:1 |
-| [Part 4](part-004.md) | 75 | 2 Kings 8:8 | Greek Psalm 44:11 |
-| [Part 5](part-005.md) | 75 | Greek Psalm 48:17 | Sirach 37:11 |
-| [Part 6](part-006.md) | 75 | Sirach 38:21 | Ezekiel 3:20–21 |
-| [Part 7](part-007.md) | 47 | Ezekiel 4:3 | Malachi 2:15–16 |
+| [Part 1](part-001.md) | 75 | Genesis 1:14 | Exodus 2:20 |
+| [Part 2](part-002.md) | 75 | Exodus 4:18 | 1 Samuel 4:20 |
+| [Part 3](part-003.md) | 75 | 1 Samuel 7:8 | 1 Kings 12:24d |
+| [Part 4](part-004.md) | 75 | 1 Kings 12:24f | 1 Maccabees 10:33 |
+| [Part 5](part-005.md) | 75 | 1 Maccabees 10:54 | Proverbs 19:13 |
+| [Part 6](part-006.md) | 75 | Proverbs 19:14 | Sirach 33:23–24 |
+| [Part 7](part-007.md) | 75 | Sirach 33:25–29 | Jeremiah 47:9 |
+| [Part 8](part-008.md) | 55 | Jeremiah 51:4 | Malachi 2:13–16 |

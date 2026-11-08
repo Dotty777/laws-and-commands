@@ -10,6 +10,6 @@
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Jesus rebukes traditions that set aside honoring one’s parents](../../books/mark/README.md#record-k016)<br>`K016` | [Mark 7:9–13](https://saints.bible/bible/salvation/mark/chapter-7/#v7-9) | [Mark](../../books/mark/README.md) | [Law](../../record-types/law/part-012.md#book-mark) | General |
-| [Jesus teaches that defilement comes from within](../../books/mark/README.md#record-k017)<br>`K017` | [Mark 7:14–23](https://saints.bible/bible/salvation/mark/chapter-7/#v7-14) | [Mark](../../books/mark/README.md) | [Wisdom](../../record-types/wisdom/part-007.md#book-mark) | General |
-| [Jesus rebukes outward cleanliness that neglects inner generosity](../../books/luke/README.md#record-k018)<br>`K018` | [Luke 11:39–41](https://saints.bible/bible/salvation/luke/chapter-11/#v11-39) | [Luke](../../books/luke/README.md) | [Wisdom](../../record-types/wisdom/part-008.md#book-luke) | General |
+| [Jesus rebukes traditions that set aside honoring one’s parents](../../books/mark/README.md#record-k016)<br>`K016` | [Mark 7:9–13](https://saints.bible/bible/salvation/mark/chapter-7/#v7-9) | [Mark](../../books/mark/README.md) | [Law](../../record-types/law/part-013.md#book-mark) | General |
+| [Jesus teaches that defilement comes from within](../../books/mark/README.md#record-k017)<br>`K017` | [Mark 7:14–23](https://saints.bible/bible/salvation/mark/chapter-7/#v7-14) | [Mark](../../books/mark/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-mark) | General |
+| [Jesus rebukes outward cleanliness that neglects inner generosity](../../books/luke/part-001.md#record-k018)<br>`K018` | [Luke 11:39–41](https://saints.bible/bible/salvation/luke/chapter-11/#v11-39) | [Luke](../../books/luke/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-luke) | General |

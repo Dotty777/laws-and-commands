@@ -4,27 +4,28 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../README.md) · [All topics](../../categories/README.md)
 
-**878 current study records.** Standing law or provision. Select a study title to open its entry in the book view.
+**948 current study records.** Standing law or provision. Select a study title to open its entry in the book view.
 
 ## Jump to a book
 
-**Old Testament:** [Genesis (12)](part-001.md#book-genesis) · [Exodus (160)](part-001.md#book-exodus) · [Leviticus (301)](part-003.md#book-leviticus) · [Numbers (80)](part-007.md#book-numbers) · [Deuteronomy (192)](part-008.md#book-deuteronomy) · [Joshua (2)](part-010.md#book-joshua) · [Judges (1)](part-010.md#book-judges) · [1 Samuel (1)](part-010.md#book-1-samuel) · [1 Kings (2)](part-010.md#book-1-kings) · [2 Kings (3)](part-011.md#book-2-kings) · [2 Chronicles (1)](part-011.md#book-2-chronicles) · [1 Maccabees (20)](part-011.md#book-1-maccabees) · [2 Maccabees (9)](part-011.md#book-2-maccabees) · [Ezra (6)](part-011.md#book-ezra) · [Nehemiah (5)](part-011.md#book-nehemiah) · [Esther (7)](part-011.md#book-esther) · [Sirach (1)](part-011.md#book-sirach) · [Jeremiah (2)](part-011.md#book-jeremiah) · [Ezekiel (42)](part-011.md#book-ezekiel) · [Daniel (7)](part-012.md#book-daniel) · [Hosea (1)](part-012.md#book-hosea) · [Malachi (2)](part-012.md#book-malachi)
+**Old Testament:** [Genesis (12)](part-001.md#book-genesis) · [Exodus (165)](part-001.md#book-exodus) · [Leviticus (320)](part-003.md#book-leviticus) · [Numbers (87)](part-007.md#book-numbers) · [Deuteronomy (205)](part-008.md#book-deuteronomy) · [Joshua (3)](part-011.md#book-joshua) · [Judges (3)](part-011.md#book-judges) · [1 Samuel (1)](part-011.md#book-1-samuel) · [2 Samuel (1)](part-011.md#book-2-samuel) · [1 Kings (2)](part-011.md#book-1-kings) · [2 Kings (3)](part-011.md#book-2-kings) · [2 Chronicles (1)](part-011.md#book-2-chronicles) · [1 Maccabees (26)](part-011.md#book-1-maccabees) · [2 Maccabees (9)](part-012.md#book-2-maccabees) · [Ezra (6)](part-012.md#book-ezra) · [Nehemiah (5)](part-012.md#book-nehemiah) · [Esther (7)](part-012.md#book-esther) · [Psalms (1)](part-012.md#book-psalms) · [Wisdom of Solomon (1)](part-012.md#book-wisdom-of-solomon) · [Sirach (1)](part-012.md#book-sirach) · [Jeremiah (3)](part-012.md#book-jeremiah) · [Ezekiel (52)](part-012.md#book-ezekiel) · [Daniel (10)](part-013.md#book-daniel) · [Hosea (1)](part-013.md#book-hosea) · [Malachi (2)](part-013.md#book-malachi)
 
-**New Testament:** [Matthew (3)](part-012.md#book-matthew) · [Mark (1)](part-012.md#book-mark) · [Luke (1)](part-012.md#book-luke) · [John (3)](part-012.md#book-john) · [Acts (5)](part-012.md#book-acts) · [Romans (2)](part-012.md#book-romans) · [1 Corinthians (2)](part-012.md#book-1-corinthians) · [2 Corinthians (1)](part-012.md#book-2-corinthians) · [Ephesians (1)](part-012.md#book-ephesians) · [James (2)](part-012.md#book-james)
+**New Testament:** [Matthew (3)](part-013.md#book-matthew) · [Mark (1)](part-013.md#book-mark) · [Luke (1)](part-013.md#book-luke) · [John (3)](part-013.md#book-john) · [Acts (5)](part-013.md#book-acts) · [Romans (2)](part-013.md#book-romans) · [1 Corinthians (2)](part-013.md#book-1-corinthians) · [2 Corinthians (1)](part-013.md#book-2-corinthians) · [Ephesians (1)](part-013.md#book-ephesians) · [James (2)](part-013.md#book-james)
 
 ## All parts
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 9:1–7 | Exodus 21:28–37 |
-| [Part 2](part-002.md) | 75 | Exodus 21:29–31 | Exodus 23:24 |
-| [Part 3](part-003.md) | 75 | Exodus 23:24 | Leviticus 11:9–12 |
-| [Part 4](part-004.md) | 75 | Leviticus 11:13–19 | Leviticus 19:11 |
-| [Part 5](part-005.md) | 75 | Leviticus 19:12 | Leviticus 21:11 |
-| [Part 6](part-006.md) | 75 | Leviticus 21:12 | Leviticus 26:1–46 |
-| [Part 7](part-007.md) | 75 | Leviticus 27:1–34 | Numbers 19:22 |
-| [Part 8](part-008.md) | 75 | Numbers 27:1–11 | Deuteronomy 15:1–3 |
-| [Part 9](part-009.md) | 75 | Deuteronomy 15:1–18 | Deuteronomy 22:6–7 |
-| [Part 10](part-010.md) | 75 | Deuteronomy 22:8 | 1 Kings 11:2 |
-| [Part 11](part-011.md) | 75 | 1 Kings 13:33–34 | Ezekiel 45:17 |
-| [Part 12](part-012.md) | 53 | Ezekiel 45:18–20 | James 2:10–12 |
+| [Part 1](part-001.md) | 75 | Genesis 9:1–7 | Exodus 21:28 |
+| [Part 2](part-002.md) | 75 | Exodus 21:28–37 | Exodus 23:18 |
+| [Part 3](part-003.md) | 75 | Exodus 23:19 | Leviticus 7:16 |
+| [Part 4](part-004.md) | 75 | Leviticus 7:18 | Leviticus 18:22 |
+| [Part 5](part-005.md) | 75 | Leviticus 18:23 | Leviticus 20:13 |
+| [Part 6](part-006.md) | 75 | Leviticus 20:14 | Leviticus 25:10 |
+| [Part 7](part-007.md) | 75 | Leviticus 25:10 | Numbers 10:8 |
+| [Part 8](part-008.md) | 75 | Numbers 15:1–41 | Deuteronomy 6:16 |
+| [Part 9](part-009.md) | 75 | Deuteronomy 7:1–26 | Deuteronomy 18:11 |
+| [Part 10](part-010.md) | 75 | Deuteronomy 18:15–19 | Deuteronomy 23:21 |
+| [Part 11](part-011.md) | 75 | Deuteronomy 23:22 | 1 Maccabees 13:51–52 |
+| [Part 12](part-012.md) | 75 | 1 Maccabees 15:5–6 | Ezekiel 46:16–17 |
+| [Part 13](part-013.md) | 48 | Ezekiel 46:18 | James 2:10–12 |

@@ -4,15 +4,15 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**380 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**404 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (192)](../../record-types/law/part-008.md#book-deuteronomy) · [Command (57)](../../record-types/command/part-005.md#book-deuteronomy) · [Commission (9)](../../record-types/commission/part-002.md#book-deuteronomy) · [Instruction (102)](../../record-types/instruction/part-007.md#book-deuteronomy) · [Wisdom (7)](../../record-types/wisdom/part-001.md#book-deuteronomy) · [Study Context (13)](../../record-types/study-context/part-001.md#book-deuteronomy)
+**Jump by Record type:** [Law (205)](../../record-types/law/part-008.md#book-deuteronomy) · [Command (62)](../../record-types/command/part-006.md#book-deuteronomy) · [Commission (10)](../../record-types/commission/part-002.md#book-deuteronomy) · [Instruction (103)](../../record-types/instruction/part-007.md#book-deuteronomy) · [Wisdom (11)](../../record-types/wisdom/part-001.md#book-deuteronomy) · [Study Context (13)](../../record-types/study-context/part-001.md#book-deuteronomy)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Deuteronomy 1:1–46 | Deuteronomy 7:26 |
-| [Part 2](part-002.md) | 75 | Deuteronomy 8:1–20 | Deuteronomy 16:10 |
-| [Part 3](part-003.md) | 75 | Deuteronomy 16:11 | Deuteronomy 21:11–13 |
-| [Part 4](part-004.md) | 75 | Deuteronomy 21:11–13 | Deuteronomy 24:11 |
-| [Part 5](part-005.md) | 75 | Deuteronomy 24:12 | Deuteronomy 32:38 |
-| [Part 6](part-006.md) | 5 | Deuteronomy 32:43 | Deuteronomy 34:1–12 |
+| [Part 1](part-001.md) | 75 | Deuteronomy 1:1–46 | Deuteronomy 7:25 |
+| [Part 2](part-002.md) | 75 | Deuteronomy 7:26 | Deuteronomy 15:19 |
+| [Part 3](part-003.md) | 75 | Deuteronomy 15:21–22 | Deuteronomy 20:19–20 |
+| [Part 4](part-004.md) | 75 | Deuteronomy 21:1–2 | Deuteronomy 23:21 |
+| [Part 5](part-005.md) | 75 | Deuteronomy 23:22 | Deuteronomy 30:2 |
+| [Part 6](part-006.md) | 29 | Deuteronomy 30:11–14 | Deuteronomy 34:1–12 |

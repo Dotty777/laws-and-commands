@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 301.
+Records 1–75 of 310.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
@@ -77,9 +77,9 @@ Records 1–75 of 301.
 | [Abraham: offer Isaac as a burnt offering in this test, subsequently halted](../../books/genesis/part-002.md#record-c0049)<br>`C0049` | [Genesis 22:2](https://saints.bible/bible/law/genesis/chapter-22/#v22-2) | [Genesis](../../books/genesis/README.md) | [Command](../../record-types/command/part-001.md#book-genesis) | Personal |
 | [Abraham: do not harm Isaac](../../books/genesis/part-002.md#record-c0050)<br>`C0050` | [Genesis 22:12](https://saints.bible/bible/law/genesis/chapter-22/#v22-12) | [Genesis](../../books/genesis/README.md) | [Command](../../record-types/command/part-001.md#book-genesis) | Personal |
 | [Rebekah's household attributes the marriage arrangement to the Lord](../../books/genesis/part-002.md#record-torah-genesis-24-50)<br>`torah-genesis-24-50` | [Genesis 24:50–51](https://saints.bible/bible/law/genesis/chapter-24/#v24-50) | [Genesis](../../books/genesis/README.md) | [Command](../../record-types/command/part-001.md#book-genesis) | General |
-| [Isaac: remain in the land, do not go to Egypt, and do not fear](../../books/genesis/part-002.md#record-torah-genesis-26-1)<br>`torah-genesis-26-1` | [Genesis 26:1–5](https://saints.bible/bible/law/genesis/chapter-26/#v26-1) | [Genesis](../../books/genesis/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-genesis) | Personal |
-| [Isaac: do not go down to Egypt](../../books/genesis/part-002.md#record-c0051)<br>`C0051` | [Genesis 26:2](https://saints.bible/bible/law/genesis/chapter-26/#v26-2) | [Genesis](../../books/genesis/README.md) | [Command](../../record-types/command/part-001.md#book-genesis) | Personal |
-| [Isaac: sojourn in the land God designates](../../books/genesis/part-002.md#record-c0052)<br>`C0052` | [Genesis 26:2–3](https://saints.bible/bible/law/genesis/chapter-26/#v26-2) | [Genesis](../../books/genesis/README.md) | [Command](../../record-types/command/part-001.md#book-genesis) | Personal |
+| [Isaac: remain in the land, do not go to Egypt, and do not fear](../../books/genesis/part-003.md#record-torah-genesis-26-1)<br>`torah-genesis-26-1` | [Genesis 26:1–5](https://saints.bible/bible/law/genesis/chapter-26/#v26-1) | [Genesis](../../books/genesis/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-genesis) | Personal |
+| [Isaac: do not go down to Egypt](../../books/genesis/part-003.md#record-c0051)<br>`C0051` | [Genesis 26:2](https://saints.bible/bible/law/genesis/chapter-26/#v26-2) | [Genesis](../../books/genesis/README.md) | [Command](../../record-types/command/part-001.md#book-genesis) | Personal |
+| [Isaac: sojourn in the land God designates](../../books/genesis/part-003.md#record-c0052)<br>`C0052` | [Genesis 26:2–3](https://saints.bible/bible/law/genesis/chapter-26/#v26-2) | [Genesis](../../books/genesis/README.md) | [Command](../../record-types/command/part-001.md#book-genesis) | Personal |
 | [Isaac: do not fear](../../books/genesis/part-003.md#record-c0053)<br>`C0053` | [Genesis 26:24](https://saints.bible/bible/law/genesis/chapter-26/#v26-24) | [Genesis](../../books/genesis/README.md) | [Command](../../record-types/command/part-001.md#book-genesis) | Personal |
 | [Isaac: remain in the land, do not go to Egypt, and do not fear](../../books/genesis/part-003.md#record-torah-genesis-26-24)<br>`torah-genesis-26-24` | [Genesis 26:24–25](https://saints.bible/bible/law/genesis/chapter-26/#v26-24) | [Genesis](../../books/genesis/README.md) | [Command](../../record-types/command/part-001.md#book-genesis) | Personal |
 | [Jacob: do not fear; the promise at Bethel](../../books/genesis/part-003.md#record-torah-genesis-28-10)<br>`torah-genesis-28-10` | [Genesis 28:10–15](https://saints.bible/bible/law/genesis/chapter-28/#v28-10) | [Genesis](../../books/genesis/README.md) | [Command](../../record-types/command/part-001.md#book-genesis) | Personal |

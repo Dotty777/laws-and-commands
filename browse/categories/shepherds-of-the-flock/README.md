@@ -4,12 +4,17 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**3 current study records.** Select a study title to open its entry in the book view.
+**8 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/shepherds-of-the-flock.md)
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
 | [Jesus teaches about binding and loosing](../../books/matthew/part-002.md#record-k105)<br>`K105` | [Matthew 18:18](https://saints.bible/bible/salvation/matthew/chapter-18/#v18-18) | [Matthew](../../books/matthew/README.md) | [Study Context](../../record-types/study-context/part-008.md#book-matthew) | General |
-| [Jesus tells Peter to strengthen his brothers after returning](../../books/luke/README.md#record-k104)<br>`K104` | [Luke 22:32](https://saints.bible/bible/salvation/luke/chapter-22/#v22-32) | [Luke](../../books/luke/README.md) | [Commission](../../record-types/commission/part-004.md#book-luke) | Personal |
-| [Jesus charges Peter to feed and shepherd his flock](../../books/john/README.md#record-k103)<br>`K103` | [John 21:15–17](https://saints.bible/bible/salvation/john/chapter-21/#v21-15) | [John](../../books/john/README.md) | [Commission](../../record-types/commission/part-005.md#book-john) | Personal |
+| [Jesus warns those who shut the kingdom to others](../../books/matthew/part-002.md#record-aud-44-23-13)<br>`AUD-44-23-13` | [Matthew 23:13](https://saints.bible/bible/salvation/matthew/chapter-23/#v23-13) | [Matthew](../../books/matthew/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-matthew) | General |
+| [Woe to those who make converts twice sons of Gehenna](../../books/matthew/part-002.md#record-aud-44-23-15)<br>`AUD-44-23-15` | [Matthew 23:15](https://saints.bible/bible/salvation/matthew/chapter-23/#v23-15) | [Matthew](../../books/matthew/README.md) | [Wisdom](../../record-types/wisdom/part-018.md#book-matthew) | General |
+| [Jesus tells Peter to strengthen his brothers after returning](../../books/luke/part-001.md#record-k104)<br>`K104` | [Luke 22:32](https://saints.bible/bible/salvation/luke/chapter-22/#v22-32) | [Luke](../../books/luke/README.md) | [Commission](../../record-types/commission/part-006.md#book-luke) | Personal |
+| [Jesus charges Peter to feed and shepherd his flock](../../books/john/part-001.md#record-k103)<br>`K103` | [John 21:15–17](https://saints.bible/bible/salvation/john/chapter-21/#v21-15) | [John](../../books/john/README.md) | [Commission](../../record-types/commission/part-006.md#book-john) | Personal |
+| [Paul and Barnabas appoint elders in the churches they revisit](../../books/acts/part-001.md#record-aud-48-14-23)<br>`AUD-48-14-23` | [Acts 14:23](https://saints.bible/bible/discipleship/acts/chapter-14/#v14-23) | [Acts](../../books/acts/README.md) | [Commission](../../record-types/commission/part-006.md#book-acts) | Personal |
+| [Paul proposes to Barnabas revisiting the churches they planted](../../books/acts/part-001.md#record-aud-48-15-36)<br>`AUD-48-15-36` | [Acts 15:36–41](https://saints.bible/bible/discipleship/acts/chapter-15/#v15-36) | [Acts](../../books/acts/README.md) | [Command](../../record-types/command/part-023.md#book-acts) | Personal |
+| [Paul summons the Ephesian elders to meet him at Miletus](../../books/acts/part-001.md#record-aud-48-20-17)<br>`AUD-48-20-17` | [Acts 20:17](https://saints.bible/bible/discipleship/acts/chapter-20/#v20-17) | [Acts](../../books/acts/README.md) | [Command](../../record-types/command/part-023.md#book-acts) | Personal |
