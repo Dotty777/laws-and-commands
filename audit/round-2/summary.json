@@ -1,0 +1,69 @@
+{
+ "items": 1156,
+ "by_kind_decision": {
+  "held new record → record_new": 176,
+  "held new record → no_record": 61,
+  "held new record → record_extend": 38,
+  "held new record → record_parallel": 34,
+  "held extension → record_extend": 150,
+  "held extension → no_record": 8,
+  "held extension → record_parallel": 18,
+  "held extension → record_new": 2,
+  "held parallel → record_parallel": 200,
+  "held parallel → no_record": 29,
+  "held parallel → record_extend": 5,
+  "sweep verse → no_record": 30,
+  "sweep verse → record_extend": 3,
+  "sweep verse → record_new": 3,
+  "sweep verse → record_parallel": 3,
+  "sweep verse → superseded": 3,
+  "similarity candidate → no_record": 122,
+  "similarity candidate → record_extend": 18,
+  "similarity candidate → record_parallel": 28,
+  "residual verse → no_record": 116,
+  "residual verse → record_extend": 18,
+  "residual verse → record_parallel": 52,
+  "residual verse → record_new": 28,
+  "residual verse → superseded": 8,
+  "reconciliation → record_extend": 2,
+  "reconciliation → record_parallel": 1
+ },
+ "by_decision": {
+  "record_new": 209,
+  "no_record": 366,
+  "record_extend": 234,
+  "record_parallel": 336,
+  "superseded": 11
+ },
+ "new_records": 209,
+ "extended_records": 224,
+ "extension_verses": 450,
+ "parallel_links": 328,
+ "declined": 366,
+ "superseded": 11,
+ "new_additional_links": 40,
+ "flags": [],
+ "problems": [],
+ "coverage": {
+  "directive_verses": 11464,
+  "covered_before": 7596,
+  "covered_after": 8195,
+  "pct_before": 66.3,
+  "pct_after": 71.5,
+  "verses_attached_any_before": 14988,
+  "verses_attached_any_after": 16331,
+  "newly_attached_verses": 1343
+ },
+ "new_by_type": {
+  "Instruction": 13,
+  "Command": 108,
+  "Commission": 49,
+  "Law": 14,
+  "Wisdom": 25
+ },
+ "new_by_conf": {
+  "medium": 153,
+  "high": 30,
+  "low": 26
+ }
+}

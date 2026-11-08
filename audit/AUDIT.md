@@ -1,5 +1,7 @@
 # Completeness audit of the 70-book catalogue — 8 November 2026
 
+**Round 2 (8 November 2026):** after the catalogue update, every verse that states, repeats or recalls a direction was checked against the 6,416 published records. See [round-2/README.md](round-2/README.md).
+
 The report below describes the original draft and its 4,999-record baseline. The subsequent [contextual review decisions](verified-completeness.json) list the corrected proposals included in the [current catalogue](../browse/README.md).
 
 This audit checked the Laws, Commands, and Instructions catalogue against every verse of the 70 books. The catalogue held 4,999 records, in the workbook with SHA-256 `801c93948bdcf13f65c54fe54676fd4a04c4a49b71fab8b0a5ab468077e2b098`, the same file on production, staging and in this repository.

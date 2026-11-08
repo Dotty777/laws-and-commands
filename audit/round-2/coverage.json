@@ -1,0 +1,362 @@
+{
+ "directive_verses": 11464,
+ "covered_before": 7596,
+ "covered_after": 8195,
+ "pct_before": 66.3,
+ "pct_after": 71.5,
+ "verses_attached_any_before": 14988,
+ "verses_attached_any_after": 16331,
+ "newly_attached_verses": 1343,
+ "by_book": {
+  "Genesis": {
+   "directive": 567,
+   "before": 350,
+   "after": 362
+  },
+  "Exodus": {
+   "directive": 678,
+   "before": 536,
+   "after": 557
+  },
+  "Leviticus": {
+   "directive": 698,
+   "before": 589,
+   "after": 639
+  },
+  "Numbers": {
+   "directive": 574,
+   "before": 404,
+   "after": 435
+  },
+  "Deuteronomy": {
+   "directive": 672,
+   "before": 440,
+   "after": 489
+  },
+  "Joshua": {
+   "directive": 179,
+   "before": 96,
+   "after": 111
+  },
+  "Judges": {
+   "directive": 195,
+   "before": 114,
+   "after": 128
+  },
+  "Ruth": {
+   "directive": 41,
+   "before": 30,
+   "after": 32
+  },
+  "1 Samuel": {
+   "directive": 287,
+   "before": 201,
+   "after": 227
+  },
+  "2 Samuel": {
+   "directive": 201,
+   "before": 129,
+   "after": 136
+  },
+  "1 Kings": {
+   "directive": 239,
+   "before": 147,
+   "after": 167
+  },
+  "2 Kings": {
+   "directive": 231,
+   "before": 134,
+   "after": 165
+  },
+  "1 Chronicles": {
+   "directive": 101,
+   "before": 60,
+   "after": 66
+  },
+  "2 Chronicles": {
+   "directive": 167,
+   "before": 86,
+   "after": 101
+  },
+  "1 Maccabees": {
+   "directive": 182,
+   "before": 117,
+   "after": 141
+  },
+  "2 Maccabees": {
+   "directive": 128,
+   "before": 52,
+   "after": 83
+  },
+  "Ezra": {
+   "directive": 44,
+   "before": 31,
+   "after": 36
+  },
+  "Nehemiah": {
+   "directive": 76,
+   "before": 29,
+   "after": 38
+  },
+  "Esther": {
+   "directive": 73,
+   "before": 38,
+   "after": 43
+  },
+  "Job": {
+   "directive": 233,
+   "before": 101,
+   "after": 105
+  },
+  "Psalms": {
+   "directive": 824,
+   "before": 256,
+   "after": 265
+  },
+  "Proverbs": {
+   "directive": 233,
+   "before": 228,
+   "after": 230
+  },
+  "Ecclesiastes": {
+   "directive": 48,
+   "before": 46,
+   "after": 48
+  },
+  "Song of Songs": {
+   "directive": 33,
+   "before": 27,
+   "after": 27
+  },
+  "Lamentations": {
+   "directive": 26,
+   "before": 11,
+   "after": 12
+  },
+  "Wisdom of Solomon": {
+   "directive": 86,
+   "before": 43,
+   "after": 46
+  },
+  "Sirach": {
+   "directive": 474,
+   "before": 420,
+   "after": 423
+  },
+  "Isaiah": {
+   "directive": 450,
+   "before": 233,
+   "after": 254
+  },
+  "Jeremiah": {
+   "directive": 462,
+   "before": 278,
+   "after": 294
+  },
+  "Ezekiel": {
+   "directive": 348,
+   "before": 203,
+   "after": 210
+  },
+  "Daniel": {
+   "directive": 175,
+   "before": 105,
+   "after": 108
+  },
+  "Hosea": {
+   "directive": 62,
+   "before": 24,
+   "after": 24
+  },
+  "Joel": {
+   "directive": 36,
+   "before": 24,
+   "after": 24
+  },
+  "Amos": {
+   "directive": 48,
+   "before": 23,
+   "after": 24
+  },
+  "Obadiah": {
+   "directive": 9,
+   "before": 4,
+   "after": 4
+  },
+  "Jonah": {
+   "directive": 18,
+   "before": 8,
+   "after": 8
+  },
+  "Micah": {
+   "directive": 40,
+   "before": 18,
+   "after": 18
+  },
+  "Nahum": {
+   "directive": 11,
+   "before": 4,
+   "after": 4
+  },
+  "Habakkuk": {
+   "directive": 20,
+   "before": 9,
+   "after": 9
+  },
+  "Zephaniah": {
+   "directive": 20,
+   "before": 9,
+   "after": 9
+  },
+  "Haggai": {
+   "directive": 15,
+   "before": 14,
+   "after": 14
+  },
+  "Zechariah": {
+   "directive": 88,
+   "before": 44,
+   "after": 46
+  },
+  "Malachi": {
+   "directive": 23,
+   "before": 17,
+   "after": 17
+  },
+  "Matthew": {
+   "directive": 383,
+   "before": 318,
+   "after": 351
+  },
+  "Mark": {
+   "directive": 196,
+   "before": 153,
+   "after": 171
+  },
+  "Luke": {
+   "directive": 341,
+   "before": 277,
+   "after": 302
+  },
+  "John": {
+   "directive": 253,
+   "before": 163,
+   "after": 181
+  },
+  "Acts": {
+   "directive": 213,
+   "before": 174,
+   "after": 185
+  },
+  "Romans": {
+   "directive": 130,
+   "before": 73,
+   "after": 83
+  },
+  "1 Corinthians": {
+   "directive": 147,
+   "before": 137,
+   "after": 140
+  },
+  "2 Corinthians": {
+   "directive": 59,
+   "before": 38,
+   "after": 53
+  },
+  "Galatians": {
+   "directive": 36,
+   "before": 27,
+   "after": 27
+  },
+  "Ephesians": {
+   "directive": 39,
+   "before": 36,
+   "after": 37
+  },
+  "Philippians": {
+   "directive": 26,
+   "before": 18,
+   "after": 21
+  },
+  "Colossians": {
+   "directive": 30,
+   "before": 29,
+   "after": 29
+  },
+  "1 Thessalonians": {
+   "directive": 32,
+   "before": 29,
+   "after": 30
+  },
+  "2 Thessalonians": {
+   "directive": 15,
+   "before": 10,
+   "after": 10
+  },
+  "1 Timothy": {
+   "directive": 46,
+   "before": 44,
+   "after": 45
+  },
+  "2 Timothy": {
+   "directive": 31,
+   "before": 29,
+   "after": 29
+  },
+  "Titus": {
+   "directive": 20,
+   "before": 19,
+   "after": 19
+  },
+  "Philemon": {
+   "directive": 4,
+   "before": 4,
+   "after": 4
+  },
+  "Hebrews": {
+   "directive": 78,
+   "before": 59,
+   "after": 62
+  },
+  "James": {
+   "directive": 57,
+   "before": 57,
+   "after": 57
+  },
+  "1 Peter": {
+   "directive": 45,
+   "before": 41,
+   "after": 41
+  },
+  "2 Peter": {
+   "directive": 14,
+   "before": 11,
+   "after": 14
+  },
+  "1 John": {
+   "directive": 25,
+   "before": 22,
+   "after": 24
+  },
+  "2 John": {
+   "directive": 5,
+   "before": 4,
+   "after": 4
+  },
+  "3 John": {
+   "directive": 5,
+   "before": 3,
+   "after": 3
+  },
+  "Jude": {
+   "directive": 9,
+   "before": 8,
+   "after": 8
+  },
+  "Revelation": {
+   "directive": 110,
+   "before": 81,
+   "after": 86
+  }
+ }
+}

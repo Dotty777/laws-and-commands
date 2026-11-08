@@ -1,0 +1,112 @@
+{
+ "note": "Cross-batch reconciliation of round-2 decisions (same verses decided in more than one batch, and loose ends the reviewers pointed to).",
+ "drop": {
+  "V014": "Same verses go to C0485 as Additional Scripture under E:C0485 (R4a), keeping the Law record itemized; the catalogue holds C0484/C0486/C0487's in-chapter repeats the same way.",
+  "V015": "Same verses go to C0485 as Additional Scripture under E:C0485 (R4a).",
+  "V016": "Same verses go to C0485 as Additional Scripture under E:C0485 (R4a).",
+  "V017": "Same verses go to C0485 as Additional Scripture under E:C0485 (R4a).",
+  "V051": "Same appointment as N:GAP-10-23-23 (2 Samuel 23:23); 1 Chronicles 11:25 is its Additional Scripture.",
+  "V056": "Same event as N:GAP-11-12-16 (1 Kings 12:16); 2 Chronicles 10:16 is its Additional Scripture.",
+  "U11655": "Same accession as N:GAP-12-14-21 (2 Kings 14:21); 2 Chronicles 26:1 is its Additional Scripture.",
+  "U11919": "Same event as N:GAP-12-23-30 (2 Kings 23:30); 2 Chronicles 36:1 is its Additional Scripture.",
+  "V101": "Duplicate of N:GAP-28-23-1 (Isaiah 23:1, 14), decided the same way.",
+  "V146": "Same event as N:GAP-44-15-21 (Matthew 15:21–28); Mark 7:24–30 is its Additional Scripture.",
+  "U23584": "Attached as Additional Scripture on N:GAP-14-36-10 (Nebuchadnezzar makes Zedekiah king), as the reviewer asked."
+ },
+ "set": {
+  "N:GAP-14-30-2": {
+   "reference": "2 Chronicles 30:2–5",
+   "reason": "Communal decree for a second-month Passover (30:2–5). 30:1, the letters, is linked to ot-2-chronicles-v30-6 instead (E:ot-2-chronicles-v30-6)."
+  },
+  "N:GAP-21-36-9": {
+   "reference": "Greek Psalm 36:9–11",
+   "reason": "Repeats 36:34's promise that those who wait inherit the land as sinners perish; 36:12–13 go to AUD-21-36-32 (SIM073)."
+  },
+  "E:C0485|Leviticus 13:9–31, 34–40, 43–44": {
+   "reference": "Leviticus 13:10–15; Leviticus 13:17–18; Leviticus 13:20; Leviticus 13:22–25; Leviticus 13:27–30; Leviticus 13:35–37; Leviticus 13:38–39; Leviticus 13:40–44",
+   "context": "The priest's examinations and rulings for each lesion type in Leviticus 13 apply C0485's diagnostic criteria."
+  },
+  "V198": {
+   "decision": "no_record",
+   "reason": "Named greetings are ordinary speech, not the holy-kiss direction (16:16 is already linked); two other reviewers declined the same verses."
+  },
+  "N:GAP-47-18-38": {
+   "confidence": "low",
+   "reason": "Pilate states his finding and the Passover release custom (cf. AUD-47-18-28). Another reviewer judged the Mark parallel an offer and custom, not a direction: editor's call."
+  },
+  "V023": {
+   "decision": "record_parallel",
+   "context": "One law for native-born and sojourner applies these offering rules alike (15:15–16).",
+   "reason": "Applies C0857's offering rules to sojourners; linked rather than extended because C0857 already spans ten Law verses (as E:C0857, R4a)."
+  },
+  "N:GAP-70-6-1": {
+   "reference": "Revelation 6:1, 3, 5, 7",
+   "reason": "The four living creatures' 'Come' at each seal; trimmed to the four calls so it does not overlap AUD-70-6-5 (6:6)."
+  },
+  "V135": {
+   "decision": "record_parallel",
+   "existing_id": "AUD-46-8-43",
+   "reference": "Matthew 9:20–22",
+   "context": "Matthew's account of the same healing: 'Take courage, daughter; your faith has saved you.'",
+   "reason": "Same healing as AUD-46-8-43 (Luke 8:43–48, with Mark 5:25–34): linked rather than a second record, after the independent check."
+  },
+  "N:GAP-16-11-13": {
+   "reference": "2 Maccabees 11:14",
+   "title": "Lysias urges the Jews to settle on every just condition",
+   "reason": "Lysias's message urging settlement (11:14) is the direction; 11:13 and 11:15 narrate, and 11:16–21 is a letter of report and conditional promise (independent check)."
+  },
+  "N:GAP-62-11-28": {
+   "reference": "Hebrews 11:31–40",
+   "reason": "Examples of faith after A073. 11:28–30 recall recorded directions and are linked to C0095, C0121 and ot-joshua-v6-8 instead (independent check)."
+  }
+ },
+ "add": [
+  {
+   "item": "RC01",
+   "decision": "record_extend",
+   "existing_id": "ot-1-samuel-v22-17",
+   "reference": "1 Samuel 22:18",
+   "confidence": "medium",
+   "reason": "Saul renews the same order to Doeg after the guards refuse: same speaker and occasion. Found by reviewer R8a; in no batch."
+  },
+  {
+   "item": "RC02",
+   "decision": "record_extend",
+   "existing_id": "ot-2-chronicles-v32-7",
+   "reference": "2 Chronicles 32:8",
+   "confidence": "medium",
+   "reason": "Completes Hezekiah's speech (32:7–8), as reviewer R2a noted."
+  },
+  {
+   "item": "RC03",
+   "decision": "record_parallel",
+   "existing_id": "ot-joshua-v6-8",
+   "reference": "Hebrews 11:30",
+   "context": "Recalls the walls of Jericho falling after the seven days' march Joshua ordered.",
+   "confidence": "medium",
+   "reason": "Recalls the Jericho march order; split out of N:GAP-62-11-28 after the independent check."
+  }
+ ],
+ "add_additional": {
+  "N:GAP-14-36-3": [
+   {
+    "reference": "2 Kings 23:33",
+    "context": "Kings parallel: Neco imposes the levy of silver and gold on the land."
+   },
+   {
+    "reference": "2 Kings 23:35",
+    "context": "Kings parallel: Jehoiakim taxes the land to pay it, at Pharaoh's command."
+   }
+  ],
+  "N:GAP-14-36-10": [
+   {
+    "reference": "2 Kings 24:17",
+    "context": "Kings parallel: the king of Babylon makes Mattaniah king and renames him Zedekiah."
+   },
+   {
+    "reference": "Jeremiah 44:1",
+    "context": "Recalls that Nebuchadnezzar made Zedekiah king over Judah."
+   }
+  ]
+ }
+}

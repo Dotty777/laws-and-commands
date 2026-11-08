@@ -1,0 +1,626 @@
+{
+ "sample": 65,
+ "verdicts": {
+  "correct": 61,
+  "partly": 3,
+  "wrong": 1
+ },
+ "by_decision": {
+  "record_new": {
+   "correct": 17,
+   "partly": 2,
+   "wrong": 1
+  },
+  "no_record": {
+   "correct": 15
+  },
+  "record_parallel": {
+   "correct": 14,
+   "partly": 1
+  },
+  "record_extend": {
+   "correct": 15
+  }
+ },
+ "by_confidence": {
+  "medium": {
+   "correct": 36,
+   "partly": 3,
+   "wrong": 1
+  },
+  "high": {
+   "correct": 21
+  },
+  "low": {
+   "correct": 4
+  }
+ },
+ "summary": "By decision: new 17 of 20 correct; declined 15 of 15 correct; parallel 14 of 15 correct; extend 15 of 15 correct. The one wrong decision (Matthew 9:20–22 made a new record although AUD-46-8-43 already holds the same healing) and two of the partly-right ones (2 Maccabees 11:13–21 too wide; Hebrews 11:28–40 overlapping linked verses) were corrected before compiling. The third (Numbers 15:13–14 linked to C0857 rather than widening it) is a policy choice, noted under Decisions for the editor.",
+ "cases": [
+  {
+   "n": 1,
+   "verdict": "correct",
+   "note": "Reported request by Jason's bearers is clearly stated and unrecorded; 4:19 alone is right; Command, speaker and recipient fit.",
+   "item": "N:GAP-16-4-19",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R2a"
+  },
+  {
+   "n": 2,
+   "verdict": "correct",
+   "note": "Ahithophel states what he himself will do (17:1–3); the standard excludes a speaker's own plan. Hushai's directive counsel is recorded separately.",
+   "item": "V041",
+   "decision": "no_record",
+   "confidence": "high",
+   "batch": "R8a"
+  },
+  {
+   "n": 3,
+   "verdict": "correct",
+   "note": "Narrated appointment, in scope (cf. AUD-10-17-25); 9:25 unrecorded; Commission, speaker and recipient right.",
+   "item": "N:GAP-15-9-25",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R2a"
+  },
+  {
+   "n": 4,
+   "verdict": "correct",
+   "note": "Fable belongs with its application (9:15 threat restated in 9:20); parallel avoids overlapping Study Context 9:10, 9:12 and contradicting the record's note.",
+   "item": "E:AUD-07-9-16|Judges 9:8–15",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R4a"
+  },
+  {
+   "n": 5,
+   "verdict": "correct",
+   "note": "Creation narrative; nothing directive in Genesis 1:25.",
+   "item": "SIM001",
+   "decision": "no_record",
+   "confidence": "high",
+   "batch": "R7a"
+  },
+  {
+   "n": 6,
+   "verdict": "partly",
+   "note": "15:13–14 continue C0857's own speech and rule (same speaker, occasion); should be record_extend to 15:3–14, not a parallel.",
+   "item": "E:C0857|Numbers 15:13–14",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R4a"
+  },
+  {
+   "n": 7,
+   "verdict": "correct",
+   "note": "Acts 13:22 recalls God raising up and attesting David; matches this record's existing Greek Psalm 88:20–21 link.",
+   "item": "P:ot-1-samuel-v16-12|Acts 13:22",
+   "decision": "record_parallel",
+   "confidence": "high",
+   "batch": "R6b"
+  },
+  {
+   "n": 8,
+   "verdict": "correct",
+   "note": "9:18 introduces the recalled covenant ceremony already linked (9:19–20); rightly drops 9:21 (another rite) and 9:22 (doctrine).",
+   "item": "E:torah-exodus-24-1|Hebrews 9:18, 21–22",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R4b"
+  },
+  {
+   "n": 9,
+   "verdict": "correct",
+   "note": "18:5 is part of Joshua's same charge to the surveyors (18:4–6); extending the 18:6 record is apt.",
+   "item": "E:ot-joshua-v18-6|Joshua 18:5",
+   "decision": "record_extend",
+   "confidence": "medium",
+   "batch": "R4a"
+  },
+  {
+   "n": 10,
+   "verdict": "correct",
+   "note": "Offering-list narrative; no direction.",
+   "item": "SIM017",
+   "decision": "no_record",
+   "confidence": "high",
+   "batch": "R7a"
+  },
+  {
+   "n": 11,
+   "verdict": "partly",
+   "note": "Lysias's urging to settle (11:14) is recordable, but 11:13–21 sweeps in narration and a letter of greeting, report and conditional promise; narrow and retitle.",
+   "item": "N:GAP-16-11-13",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R2b"
+  },
+  {
+   "n": 12,
+   "verdict": "correct",
+   "note": "Bystanders' mocking remark; crucifixion taunts are unrecorded in every Gospel, Matthew 27:49 included, so nothing to link.",
+   "item": "V160",
+   "decision": "no_record",
+   "confidence": "medium",
+   "batch": "R8c"
+  },
+  {
+   "n": 13,
+   "verdict": "correct",
+   "note": "The Lord's appointment of Jeroboam with stated covenant conditions is unrecorded and distinct from ot-1-kings-v11-31; fields right.",
+   "item": "N:GAP-11-11-37",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R1a"
+  },
+  {
+   "n": 14,
+   "verdict": "correct",
+   "note": "8:13 states what Ezekiel will see; it is not a direction. The 8:9 command is already recorded.",
+   "item": "SIM104",
+   "decision": "no_record",
+   "confidence": "medium",
+   "batch": "R7b"
+  },
+  {
+   "n": 15,
+   "verdict": "correct",
+   "note": "5:1–8 continues 4:16–18 across the chapter break (unseen and eternal; walk by faith, not sight); no other record covers it.",
+   "item": "V203",
+   "decision": "record_extend",
+   "confidence": "medium",
+   "batch": "R8c"
+  },
+  {
+   "n": 16,
+   "verdict": "correct",
+   "note": "12:35 expressly cites Moses' instruction and 12:36 repeats 11:3; a suitable parallel to torah-exodus-11-1.",
+   "item": "SIM015",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R7a"
+  },
+  {
+   "n": 17,
+   "verdict": "correct",
+   "note": "Genealogical description; 'summoned' is a title here, not a direction.",
+   "item": "U4458",
+   "decision": "no_record",
+   "confidence": "high",
+   "batch": "R6a"
+  },
+  {
+   "n": 18,
+   "verdict": "correct",
+   "note": "Narrator describing priestly custom; the standard excludes it.",
+   "item": "V161",
+   "decision": "no_record",
+   "confidence": "high",
+   "batch": "R8c"
+  },
+  {
+   "n": 19,
+   "verdict": "correct",
+   "note": "The genealogy expressly recalls David's appointment of singers once the ark rested, already recorded at 16:4–7; parallel is right.",
+   "item": "N:GAP-13-6-16",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R1b"
+  },
+  {
+   "n": 20,
+   "verdict": "correct",
+   "note": "Completes Matthew's pericope to match the existing full Mark 12:35–37 and Luke 20:41–44 links.",
+   "item": "P:ot-psalms-v109-1|Matthew 22:41–45",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R6a"
+  },
+  {
+   "n": 21,
+   "verdict": "wrong",
+   "note": "Same incident already recorded: AUD-46-8-43 (Luke 8:43–48, + Mark 5:25–34). Link Matthew 9:20–22 there as a parallel, not a new record.",
+   "item": "V135",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R8b"
+  },
+  {
+   "n": 22,
+   "verdict": "correct",
+   "note": "Courtesy embassy to the new king; comparable embassies (2 Samuel 5:11, 8:10) are unrecorded. Borderline but defensible.",
+   "item": "N:GAP-11-5-15",
+   "decision": "no_record",
+   "confidence": "medium",
+   "batch": "R1a"
+  },
+  {
+   "n": 23,
+   "verdict": "correct",
+   "note": "Judah quotes his 43:9 surety pledge to Joseph; parallel to ot-genesis-v43-8 fits practice (cf. recorded recalls 44:21, 44:25).",
+   "item": "SIM011",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R7a"
+  },
+  {
+   "n": 24,
+   "verdict": "correct",
+   "note": "Imprecatory prayer addressed to God; out of scope.",
+   "item": "SIM072",
+   "decision": "no_record",
+   "confidence": "high",
+   "batch": "R7a"
+  },
+  {
+   "n": 25,
+   "verdict": "correct",
+   "note": "Stated request by Judas's men to Scythopolis, unrecorded; speaker, recipient and reference fine (12:30 as setting).",
+   "item": "N:GAP-16-12-30",
+   "decision": "record_new",
+   "confidence": "low",
+   "batch": "R2b"
+  },
+  {
+   "n": 26,
+   "verdict": "correct",
+   "note": "8:18 opens the same quoted word of the Lord to David; a contiguous extension of the 8:19 record is right.",
+   "item": "E:ot-1-kings-v8-19|1 Kings 8:18",
+   "decision": "record_extend",
+   "confidence": "high",
+   "batch": "R4b"
+  },
+  {
+   "n": 27,
+   "verdict": "correct",
+   "note": "18:32 repeats C0884's 'when you take the firstfruits from it' and adds its sanction; a sensible extension.",
+   "item": "E:C0884|Numbers 18:32",
+   "decision": "record_extend",
+   "confidence": "medium",
+   "batch": "R4a"
+  },
+  {
+   "n": 28,
+   "verdict": "correct",
+   "note": "The king's compulsion (7:1) and the torturers' renewed demand (7:7) are stated and unrecorded; distinct from the torture order AUD-16-7-3.",
+   "item": "N:GAP-16-7-7",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R2b"
+  },
+  {
+   "n": 29,
+   "verdict": "correct",
+   "note": "Oath-curse banning rebuilding works as a prohibition (cf. Saul's AUD-09-14-24); Law and Mixed origins fit, given 1 Kings 16:34.",
+   "item": "N:GAP-06-6-26",
+   "decision": "record_new",
+   "confidence": "high",
+   "batch": "R1a"
+  },
+  {
+   "n": 30,
+   "verdict": "correct",
+   "note": "The father's further urging to stay; the similar fifth-day urging (19:8) is a sensible parallel target; context accurate.",
+   "item": "E:ot-judges-v19-5|Judges 19:6–7",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R4a"
+  },
+  {
+   "n": 31,
+   "verdict": "correct",
+   "note": "Narrated appointment of leaders, in scope; unrecorded; fields fine.",
+   "item": "N:GAP-14-17-2",
+   "decision": "record_new",
+   "confidence": "low",
+   "batch": "R1b"
+  },
+  {
+   "n": 32,
+   "verdict": "correct",
+   "note": "Matches the catalogue's individual Exodus 40 records (40:2, 5, 6, 8); the editor rejected the C0275 parallel; fields right.",
+   "item": "V013",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R8a"
+  },
+  {
+   "n": 33,
+   "verdict": "correct",
+   "note": "Diplomatic mission carrying a request, answered by recorded AUD-15-13-36; consistent with AUD-15-12-1.",
+   "item": "N:GAP-15-13-34",
+   "decision": "record_new",
+   "confidence": "high",
+   "batch": "R2a"
+  },
+  {
+   "n": 34,
+   "verdict": "correct",
+   "note": "Rhetorical question with a conditional reward offer; such offers (Judges 1:12, 1 Chronicles 11:6) are unrecorded; Jephthah's enlistment is recorded.",
+   "item": "N:GAP-07-10-18",
+   "decision": "no_record",
+   "confidence": "medium",
+   "batch": "R1a"
+  },
+  {
+   "n": 35,
+   "verdict": "correct",
+   "note": "Same command as Numbers 27:12 (Pisgah is Nebo's summit); C0922 already links Deuteronomy 32:49 the same way.",
+   "item": "V027",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R8a"
+  },
+  {
+   "n": 36,
+   "verdict": "correct",
+   "note": "12:19–13:4 lead into 13:5–10, whose 13:10 restates the 13:2 warning; skipping the separately recorded 13:1 is right.",
+   "item": "N:GAP-51-12-19",
+   "decision": "record_extend",
+   "confidence": "medium",
+   "batch": "R3b"
+  },
+  {
+   "n": 37,
+   "verdict": "correct",
+   "note": "21:19 renews 'strike your hand'; 21:18 bridges and 21:20 completes the sentence; a contiguous extension is fine.",
+   "item": "E:ot-ezekiel-v21-17|Ezekiel 21:18–19",
+   "decision": "record_extend",
+   "confidence": "medium",
+   "batch": "R3a"
+  },
+  {
+   "n": 38,
+   "verdict": "correct",
+   "note": "John quotes the Passover bone law; C0101 already links Exodus 12:46 and Numbers 9:12.",
+   "item": "P:C0101|John 19:36",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R6b"
+  },
+  {
+   "n": 39,
+   "verdict": "correct",
+   "note": "Plea for life sent by Ben-hadad (his plan in Saints 21:31); an unrecorded request between recorded 21:31 and 21:33.",
+   "item": "N:GAP-11-21-32",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R1b"
+  },
+  {
+   "n": 40,
+   "verdict": "correct",
+   "note": "16:2 frames the same speech ('saying'); a harmless contiguous extension.",
+   "item": "E:ot-2-chronicles-v16-3|2 Chronicles 16:2",
+   "decision": "record_extend",
+   "confidence": "high",
+   "batch": "R4b"
+  },
+  {
+   "n": 41,
+   "verdict": "correct",
+   "note": "Narrated military dispatch with a stated purpose, recorded elsewhere (AUD-10-10-7, AUD-09-19-11-2); unrecorded here.",
+   "item": "N:GAP-15-12-49",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R2a"
+  },
+  {
+   "n": 42,
+   "verdict": "correct",
+   "note": "Mark 1:7–8 is the proclamation that Acts 19:4 summarizes; a sensible parallel.",
+   "item": "P:AUD-48-19-3|Mark 1:7–8",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R6a"
+  },
+  {
+   "n": 43,
+   "verdict": "correct",
+   "note": "A reflection on God's judgment of Egypt (doctrine), not a wisdom saying that directs conduct.",
+   "item": "N:GAP-26-12-26",
+   "decision": "no_record",
+   "confidence": "medium",
+   "batch": "R3a"
+  },
+  {
+   "n": 44,
+   "verdict": "correct",
+   "note": "Envoy frame and opening of the same letter, leading into the request; an acceptable extension.",
+   "item": "E:ot-1-maccabees-v10-54|1 Maccabees 10:51–53",
+   "decision": "record_extend",
+   "confidence": "high",
+   "batch": "R4b"
+  },
+  {
+   "n": 45,
+   "verdict": "correct",
+   "note": "Promise, not a direction.",
+   "item": "SIM003",
+   "decision": "no_record",
+   "confidence": "high",
+   "batch": "R7a"
+  },
+  {
+   "n": 46,
+   "verdict": "correct",
+   "note": "Narrated errand order to her eunuch (cf. AUD-10-9-1, ot-esther-v4-10); unrecorded; fields right.",
+   "item": "N:GAP-19-4-5",
+   "decision": "record_new",
+   "confidence": "high",
+   "batch": "R2b"
+  },
+  {
+   "n": 47,
+   "verdict": "correct",
+   "note": "Bare reported summons with no stated purpose; the analogous Genesis 41:8 and Daniel 2:2 summonses are unrecorded. Borderline but defensible.",
+   "item": "V009",
+   "decision": "no_record",
+   "confidence": "high",
+   "batch": "R8a"
+  },
+  {
+   "n": 48,
+   "verdict": "correct",
+   "note": "27:8 continues the altar-making instruction ('make it hollow'); C0277 is the right target.",
+   "item": "E:C0277|Exodus 27:8",
+   "decision": "record_extend",
+   "confidence": "high",
+   "batch": "R4a"
+  },
+  {
+   "n": 49,
+   "verdict": "correct",
+   "note": "12:25 is the sanction attached to 12:24's charge in the same speech.",
+   "item": "E:ot-1-samuel-v12-24|1 Samuel 12:25",
+   "decision": "record_extend",
+   "confidence": "high",
+   "batch": "R4a"
+  },
+  {
+   "n": 50,
+   "verdict": "correct",
+   "note": "An imperative to proclaim, matching recorded Jeremiah 4:5 and 4:16 in type and topic.",
+   "item": "V113",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R8b"
+  },
+  {
+   "n": 51,
+   "verdict": "correct",
+   "note": "Nehemiah's further order in the same rite with the same water; it continues AUD-16-1-20.",
+   "item": "SIM062",
+   "decision": "record_extend",
+   "confidence": "medium",
+   "batch": "R7a"
+  },
+  {
+   "n": 52,
+   "verdict": "correct",
+   "note": "6:17 opens the same request as 6:18; the extension is right.",
+   "item": "E:ot-judges-v6-18|Judges 6:17",
+   "decision": "record_extend",
+   "confidence": "medium",
+   "batch": "R4a"
+  },
+  {
+   "n": 53,
+   "verdict": "correct",
+   "note": "A stated rallying cry, like Sheba's recorded cry (AUD-10-20-1); 1 Kings 12:16 is unrecorded; fields fine.",
+   "item": "N:GAP-11-12-16",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R1b"
+  },
+  {
+   "n": 54,
+   "verdict": "partly",
+   "note": "An 'examples of faith' record fits A072/A073, but 11:29 is already linked to C0121; 11:28 and 11:30 are better as parallels (C0095, Jericho record).",
+   "item": "N:GAP-62-11-28",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R3b"
+  },
+  {
+   "n": 55,
+   "verdict": "correct",
+   "note": "Narrated priestly installation, in scope (cf. ot-judges-v17-10); topic corrected sensibly.",
+   "item": "N:GAP-07-17-5",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R1a"
+  },
+  {
+   "n": 56,
+   "verdict": "correct",
+   "note": "Rhetorical question; 11:30 is already linked to AUD-51-12-7.",
+   "item": "V208",
+   "decision": "no_record",
+   "confidence": "high",
+   "batch": "R8c"
+  },
+  {
+   "n": 57,
+   "verdict": "correct",
+   "note": "50:8 introduces 50:9's command, as AUD-29-39-6 includes its own introduction; a better target than the flagged 39:6.",
+   "item": "SIM102",
+   "decision": "record_extend",
+   "confidence": "medium",
+   "batch": "R7b"
+  },
+  {
+   "n": 58,
+   "verdict": "correct",
+   "note": "Restates the one-law principle for the unintentional-sin law; a parallel to C0114, like Numbers 9:14.",
+   "item": "P:C0114|Numbers 15:29",
+   "decision": "record_parallel",
+   "confidence": "high",
+   "batch": "R5a"
+  },
+  {
+   "n": 59,
+   "verdict": "correct",
+   "note": "The elder's answer continues the linked 7:13–14, restating the beatitude's reward. Borderline (promise) but coherent.",
+   "item": "V222",
+   "decision": "record_parallel",
+   "confidence": "low",
+   "batch": "R8c"
+  },
+  {
+   "n": 60,
+   "verdict": "correct",
+   "note": "A same-psalm restatement of 36:32–33 (the sinner watches the righteous; the Lord intervenes); a better target than the flagged Sirach record.",
+   "item": "SIM073",
+   "decision": "record_parallel",
+   "confidence": "medium",
+   "batch": "R7a"
+  },
+  {
+   "n": 61,
+   "verdict": "correct",
+   "note": "1:15 completes Joshua's charge to the eastern tribes; a contiguous extension.",
+   "item": "E:ot-joshua-v1-13|Joshua 1:15",
+   "decision": "record_extend",
+   "confidence": "high",
+   "batch": "R4a"
+  },
+  {
+   "n": 62,
+   "verdict": "correct",
+   "note": "Narrated appointment, in scope (cf. AUD-15-10-65); unrecorded; fields right.",
+   "item": "N:GAP-15-10-69",
+   "decision": "record_new",
+   "confidence": "low",
+   "batch": "R2a"
+  },
+  {
+   "n": 63,
+   "verdict": "correct",
+   "note": "Rhetorical question and prediction; no direction.",
+   "item": "SIM096",
+   "decision": "no_record",
+   "confidence": "high",
+   "batch": "R7b"
+  },
+  {
+   "n": 64,
+   "verdict": "correct",
+   "note": "An invitation-request to the king; the catalogue records similar invitations (AUD-10-13-24); unrecorded; fields right.",
+   "item": "N:GAP-19-5-4",
+   "decision": "record_new",
+   "confidence": "medium",
+   "batch": "R2b"
+  },
+  {
+   "n": 65,
+   "verdict": "correct",
+   "note": "23:12–13 is the warning attached to 23:11 ('For if you turn back'); extending avoids recording an implied prohibition.",
+   "item": "N:GAP-06-23-12",
+   "decision": "record_extend",
+   "confidence": "medium",
+   "batch": "R1a"
+  }
+ ]
+}
