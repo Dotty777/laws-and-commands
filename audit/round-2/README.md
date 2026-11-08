@@ -1,5 +1,7 @@
 # Associated verses: round 2 of the completeness audit, 8 November 2026
 
+The subsequent [independent review](REVIEW.md) and [correction ledger](review-corrections.json) document changes needed before importing this draft. The proposal files and workbook below preserve the original pull request.
+
 This pass checked the updated catalogue for verses that state, continue, repeat, quote or recall a law, command, commission, instruction or wisdom saying but are not attached to any record. It used the 6,416 records at repository commit `2461b81`, the version the repository describes as published on staging and production. Every item the first audit left open, and every directive-looking verse still unattached after the editorial review, now has a final decision. Everything here is a draft for review: nothing was changed on the website or in the catalogue data.
 
 **Result.** The audit proposes **209 new records**, **224 existing records whose Scripture should take in 450 more verses**, and **328 verses to link as Additional Scripture** on existing records, plus 40 links on the new records. 366 items were declined, each with the standard that applies. 11 were merged because the same verses had been decided in two places. With these changes, **8,195 of the 11,464 screened directive verses would be attached to a record, up from 7,596 (66.3% → 71.5%)**. In all, 1,343 verses would gain a record.

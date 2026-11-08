@@ -16,6 +16,12 @@ The contextual review published **1,417 additional study records** and applied *
 
 [Verified review decisions](audit/verified-completeness.json) · [Original audit report](audit/AUDIT.md) · [Draft proposals](audit/findings.json)
 
+## Round 2 audit review
+
+The review checked 209 proposed records, 224 Scripture extensions, and 368 supporting links against the Saints Translation. It records corrections to the draft and identifies proposals that need to be held, merged, or filed as context before import.
+
+[Independent review](audit/round-2/REVIEW.md) · [Correction ledger](audit/round-2/review-corrections.json) · [Original Round 2 draft](audit/round-2/README.md)
+
 ## Archival import and category index
 
 The **6 November 2026** import preserves **4,440 study records** from [Saints.Bible staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/) in **50 topical categories**, with the source wording, associated verses, classifications, audience notes, and original research.

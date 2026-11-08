@@ -1,0 +1,966 @@
+{
+  "schema_version": 1,
+  "review_date": "2026-11-08",
+  "catalogue_baseline": "2461b81e720df8c73585a1ed0ae1e4b99522c623",
+  "reviewed_draft": "1845faf67f279c8156a24359679d62b92288447c",
+  "scope": "Specific editorial corrections to the Round 2 draft, plus a confirmed link repair for the published baseline. An unlisted row carries no decision here.",
+  "actions": {
+    "revise": "Use the replacement fields shown when preparing an import.",
+    "hold": "Hold the proposed change for editorial review.",
+    "omit": "Remove the identified proposal from the import candidate set.",
+    "related_context": "Keep the existing primary source. Use the proposed passage only as explicitly labeled related context.",
+    "merge": "Drop this proposed record and preserve its passage on the stated surviving record."
+  },
+  "counts": {
+    "omit": 11,
+    "related_context": 40,
+    "revise": 28,
+    "hold": 25,
+    "merge": 1
+  },
+  "corrections": [
+    {
+      "kind": "new",
+      "id": "AUD-01-44-9",
+      "reference": "Genesis 44:9",
+      "action": "hold",
+      "reason": "The brothers propose a penalty for whoever has the cup and offer their own enslavement. The steward rejects those terms in verse 10. Preserve this as context for the exchange."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-06-6-26",
+      "reference": "Joshua 6:26",
+      "action": "hold",
+      "reason": "Joshua 6:26 is a covenant curse rather than a separately stated prohibition. First Kings 16:34 identifies the curse as the Lord’s word through Joshua. Retain both passages together as covenant context."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-09-24-10",
+      "reference": "1 Samuel 24:10–16",
+      "action": "revise",
+      "reason": "Verse 12 gives the direct appeal to examine the evidence. The broader speech includes a rhetorical question, prayers, and a proverb already recorded elsewhere.",
+      "changes": {
+        "reference": "1 Samuel 24:12",
+        "title": "David tells Saul to see from the cloak that he spared him",
+        "scripture_url": "https://saints.bible/bible/judgement/1-samuel/chapter-24/#v24-12"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-10-12-25",
+      "reference": "2 Samuel 12:25",
+      "action": "hold",
+      "reason": "The Saints text reports the naming of Idedi through Nathan without recording an instruction to David to name him."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-10-12-5",
+      "reference": "2 Samuel 12:5–6",
+      "action": "hold",
+      "reason": "David's verdict concerns a fictional rich man in Nathan's parable. Treat the judgment as Study Context within the parable."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-10-14-13",
+      "reference": "2 Samuel 14:13–14",
+      "action": "hold",
+      "reason": "The woman of Tekoa puts rhetorical questions to David. The cited verses do not state an order or a direct request to recall the banished son."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-10-20-18",
+      "reference": "2 Samuel 20:18–19",
+      "action": "hold",
+      "reason": "The cited verses report a proverb and a rhetorical question. Joab gives the passage's express demand in verse 21."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-11-11-37",
+      "reference": "1 Kings 11:37–38",
+      "action": "revise",
+      "reason": "The Lord designates Jeroboam as future king in verse 37. Obedience is the condition for divine support and a lasting house in verse 38. The title now keeps that distinction.",
+      "changes": {
+        "title": "The Lord designates Jeroboam king and conditions a lasting house on obedience"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-12-18-23",
+      "reference": "2 Kings 18:23",
+      "action": "revise",
+      "reason": "The Saints envoy says to join his master and offers horses if Judah can supply riders. The proposed wager wording belongs to a different rendering.",
+      "changes": {
+        "title": "The Assyrian envoy urges Judah to join his king and offers horses"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-13-27-1",
+      "reference": "1 Chronicles 27:1",
+      "action": "hold",
+      "reason": "The verse describes monthly service divisions and the king’s administration. It does not report David commissioning the named divisions."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-14-13-12",
+      "reference": "2 Chronicles 13:12",
+      "action": "hold",
+      "reason": "Abijah's statement predicts failure for his opponents in a particular battle. It does not state the general instruction implied by the Wisdom filing."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-14-36-3",
+      "reference": "2 Chronicles 36:3, 4a",
+      "action": "revise",
+      "reason": "The two accounts report different gold amounts. Preserve both readings in the note.",
+      "changes": {
+        "additional": [
+          {
+            "reference": "2 Kings 23:33",
+            "context": "Parallel levy. The Saints text here gives one hundred talents each of silver and gold. Second Chronicles 36:3 gives one hundred talents of silver and one of gold.",
+            "url": "https://saints.bible/bible/judgement/2-kings/chapter-23/#v23-33"
+          },
+          {
+            "reference": "2 Kings 23:35",
+            "context": "Jehoiakim taxes the land to pay the tribute at Pharaoh's command.",
+            "url": "https://saints.bible/bible/judgement/2-kings/chapter-23/#v23-35"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-14-8-7",
+      "reference": "2 Chronicles 8:7–9",
+      "action": "hold",
+      "reason": "Chronicles and the proposed Kings parallel narrate the imposition of labor and the differing treatment of Israelites. Neither records the promulgation of a law. Preserve the historical policy as context."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-15-7-35",
+      "reference": "1 Maccabees 7:35",
+      "action": "merge",
+      "reason": "Both accounts record Nicanor demanding Judas be surrendered and threatening the temple. Use 2 Maccabees 14:31–33 for the explicit order and attach 1 Maccabees 7:35 as the parallel.",
+      "merge_into": "AUD-16-14-31"
+    },
+    {
+      "kind": "new",
+      "id": "AUD-16-12-3",
+      "reference": "2 Maccabees 12:3–4",
+      "action": "hold",
+      "reason": "The city decree is mentioned in connection with the invitation to board. The drowning is the narrated result, and the terms of the decree are not quoted. Use historical context if retaining it."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-16-12-43",
+      "reference": "2 Maccabees 12:43–45",
+      "action": "hold",
+      "reason": "The narrator recounts and commends Judas's collection and offering. The passage does not issue an instruction to the soldiers or priests."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-16-14-31",
+      "reference": "2 Maccabees 14:31–33",
+      "action": "revise",
+      "reason": "Consolidate the two accounts of Nicanor's demand while preserving their wording.",
+      "changes": {
+        "additional": [
+          {
+            "reference": "1 Maccabees 7:35",
+            "context": "Parallel demand. Nicanor threatens to burn the temple if Judas and his army are not handed over. Second Maccabees describes a threat to replace the sanctuary with a temple to Dionysus.",
+            "url": "https://saints.bible/bible/judgement/1-maccabees/chapter-7/#v7-35"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-16-14-39",
+      "reference": "2 Maccabees 14:39–40",
+      "action": "revise",
+      "reason": "The Saints text specifies more than five hundred soldiers.",
+      "changes": {
+        "title": "Nicanor sends more than five hundred soldiers to arrest Razis"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-16-15-30",
+      "reference": "2 Maccabees 15:30–33",
+      "action": "revise",
+      "reason": "Verse 30 orders the removal and transport of Nicanor's head and hand. Judas displays the remains and cuts out the tongue himself later, when he gives a separate order about the tongue.",
+      "changes": {
+        "reference": "2 Maccabees 15:30",
+        "title": "Judas orders Nicanor’s head and hand cut off and taken to Jerusalem",
+        "recipient": "those Judas ordered to carry out the action",
+        "scripture_url": "https://saints.bible/bible/judgement/2-maccabees/chapter-15/#v15-30"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-16-7-1",
+      "reference": "2 Maccabees 7:1, 7",
+      "action": "revise",
+      "reason": "The king tries to force the family to eat the forbidden food, and the spokesman refuses in verse 2. The title describes the attempted coercion.",
+      "changes": {
+        "title": "Antiochus tries to force seven brothers and their mother to eat pork"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-16-8-21",
+      "reference": "2 Maccabees 8:21–23",
+      "action": "revise",
+      "reason": "The text names Simon, Joseph, and Jonathan as leaders and says Judas himself led the first company. The title no longer assigns all four divisions to the brothers. The verse also names Eleazar, whose role is left to the passage.",
+      "changes": {
+        "title": "Judas divides his army, appoints commanders, and gives the battle watchword",
+        "recipient": "Simon, Joseph and Jonathan as named leaders, and the assembled divisions"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-18-11-1",
+      "reference": "Nehemiah 11:1",
+      "action": "hold",
+      "reason": "The verse narrates the community’s use of lots to settle Jerusalem. It does not state a law or promulgate a decree."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-19-5-4",
+      "reference": "Esther 5:4",
+      "action": "revise",
+      "reason": "Esther makes the request directly to the king. Haman is invited through that request.",
+      "changes": {
+        "recipient": "King Artaxerxes, with Haman invited through him"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-19-5-7",
+      "reference": "Esther 5:7–8",
+      "action": "revise",
+      "reason": "Esther makes the second request directly to the king. Haman is the other invited guest.",
+      "changes": {
+        "recipient": "King Artaxerxes, with Haman invited through him"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-22-30-15",
+      "reference": "Proverbs 30:15–16",
+      "action": "revise",
+      "reason": "The Saints Greek-based source calls the speaker in Proverbs 30:1 ‘the man’ without naming him. The Hebrew attribution can be identified as tradition if needed.",
+      "changes": {
+        "speaker": "The wisdom teacher in Proverbs 30",
+        "reason": "The saying describes insatiable desires through the leech and other images. The Saints text introduces the speaker of this chapter without naming him."
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-28-16-8",
+      "reference": "Isaiah 16:8",
+      "action": "hold",
+      "reason": "The oracle poetically challenges the nations’ devourers to trample Moab’s vineyards and immediately says they will not reach them. The current title and Heavenly origin would present this difficult line as a straightforward divine military order."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-28-21-12",
+      "reference": "Isaiah 21:12–13",
+      "action": "hold",
+      "reason": "The commands ‘seek’ and ‘dwell beside me’ belong to the watchman’s reply to the caller from Seir. No statement identifies the watchman’s words as divine speech; the adjacent caller’s record ot-isaiah-v21-11 already leaves origin under review."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-28-24-16",
+      "reference": "Isaiah 24:16",
+      "action": "hold",
+      "reason": "The hope and woe are cries heard or anticipated from voices at the earth’s edges, with no divine speaker identified. This is suitable oracle context; the proposed separate Wisdom record and Mixed origins attribution lack sufficient support."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-44-12-43",
+      "reference": "Matthew 12:43–45",
+      "action": "revise",
+      "reason": "The draft reason cites Luke 11:24–26, but the compiled record leaves Additional Scripture empty. Luke repeats the returning-spirit illustration; Matthew explicitly applies it to the generation.",
+      "changes": {
+        "additional": [
+          {
+            "reference": "Luke 11:24–26",
+            "context": "Luke records the same illustration of an unclean spirit returning with seven others. Matthew adds its application to this generation.",
+            "url": "https://saints.bible/bible/salvation/luke/chapter-11/#v11-24"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-44-15-21",
+      "reference": "Matthew 15:21–28",
+      "action": "hold",
+      "reason": "Matthew 15:28 grants the woman's request without directing her to take action. Mark 7:29 gives the actual instruction to go, which can anchor a separately worded Command."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-44-22-29",
+      "reference": "Matthew 22:29–32",
+      "action": "hold",
+      "reason": "Jesus corrects the Sadducees' understanding of resurrection. The imperative title turns a doctrinal response into a standalone direction."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-44-26-59",
+      "reference": "Matthew 26:59–66",
+      "action": "revise",
+      "reason": "Caiaphas gives a personal adjuration and the council issues a verdict in a single case. Center the entry on the spoken Command. Mark and Luke are related hearings but do not give Caiaphas's adjuration in Matthew's terms, and Luke has no death verdict.",
+      "changes": {
+        "record_type": "Command",
+        "reference": "Matthew 26:62–64",
+        "title": "Caiaphas adjures Jesus to say whether he is the Christ",
+        "speaker": "Caiaphas the high priest",
+        "recipient": "Jesus, the accused",
+        "additional": [],
+        "scripture_url": "https://saints.bible/bible/salvation/matthew/chapter-26/#v26-62"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-44-4-3",
+      "reference": "Matthew 4:3, 5–6, 8–9",
+      "action": "hold",
+      "reason": "Matthew identifies the tempter as the devil. Earthly (Man-made) would misidentify the speaker as human, and the cited Luke passage is missing from the compiled links. Preserve the explicit Satan attribution and settle an applicable origin before publication."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-46-1-15",
+      "reference": "Luke 1:15–17",
+      "action": "hold",
+      "reason": "Gabriel speaks to Zechariah, predicting John's abstinence and ministry in the third person. The verse does not quote a prohibition given to John."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-46-24-25",
+      "reference": "Luke 24:25–27",
+      "action": "hold",
+      "reason": "Jesus reproaches the two disciples for slow belief and interprets the prophets. The paraphrase 'Believe all' is not an instruction stated in the passage."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-47-11-47",
+      "reference": "John 11:47–53",
+      "action": "revise",
+      "reason": "Caiaphas's political advice addresses the particular council. Preserve John's separate interpretation of the saying as an unwitting prophecy.",
+      "changes": {
+        "audience": "Personal",
+        "reason": "Caiaphas counsels the council during a particular meeting. John separately explains the prophetic significance of the words in verses 51–52."
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-47-18-38",
+      "reference": "John 18:38–40",
+      "action": "hold",
+      "reason": "Pilate names a Passover custom and offers a choice. None of the sources states a statute enacted or imposed in this passage."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-48-25-6",
+      "reference": "Acts 25:6, 17",
+      "action": "revise",
+      "reason": "Verse 6 reports the order as it happens. Verse 17 is Festus's later retelling, which belongs in Additional Scripture.",
+      "changes": {
+        "reference": "Acts 25:6",
+        "additional": [
+          {
+            "reference": "Acts 25:17",
+            "context": "Festus later recounts convening the tribunal and ordering Paul to be brought in.",
+            "url": "https://saints.bible/bible/discipleship/acts/chapter-25/#v25-17"
+          }
+        ],
+        "scripture_url": "https://saints.bible/bible/discipleship/acts/chapter-25/#v25-6"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-51-10-1",
+      "reference": "2 Corinthians 10:1–6",
+      "action": "hold",
+      "reason": "Paul asks that he need not act boldly when present and describes his ministry in the first-person plural. The proposed general instruction to wage spiritual warfare and take thoughts captive is not the directive of the passage."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-51-5-9",
+      "reference": "2 Corinthians 5:9–11",
+      "action": "revise",
+      "reason": "Paul describes what he and his companions aim to do. Retain the Wisdom record as a stated example without turning the first-person plural into a direct imperative.",
+      "changes": {
+        "title": "Paul aims to please the Lord in view of Christ's judgment"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-58-3-14",
+      "reference": "1 Timothy 3:14–15",
+      "action": "hold",
+      "reason": "The verses state why Paul writes to Timothy. They give no distinct rule about church conduct and are better used as context for the existing church-order records."
+    },
+    {
+      "kind": "new",
+      "id": "AUD-62-11-31",
+      "reference": "Hebrews 11:31–40",
+      "action": "revise",
+      "reason": "The narrowed scope begins with Rahab. The specific episodes concerning Israel at the sea and Jericho are in the preceding verses and remain indexed elsewhere.",
+      "changes": {
+        "title": "Rahab, the judges, prophets and martyrs as examples of faith"
+      }
+    },
+    {
+      "kind": "new",
+      "id": "AUD-70-6-1",
+      "reference": "Revelation 6:1, 3, 5, 7",
+      "action": "revise",
+      "reason": "Each living creature says 'Come'. The text does not identify who is addressed, and the calls belong to the immediate vision.",
+      "changes": {
+        "recipient": "Unspecified in the text",
+        "audience": "Personal"
+      }
+    },
+    {
+      "kind": "extend",
+      "id": "AUD-06-9-21",
+      "reference": "Joshua 9:27",
+      "action": "revise",
+      "reason": "The leaders speak in 9:21. Joshua makes the formal appointment in 9:27.",
+      "changes": {
+        "reasons": [
+          "Joshua formally appoints the Gibeonites woodcutters and water-carriers for the congregation and the altar. This carries out the assignment previously stated by the leaders."
+        ]
+      }
+    },
+    {
+      "kind": "extend",
+      "id": "AUD-16-1-20",
+      "reference": "2 Maccabees 1:31",
+      "action": "hold",
+      "reason": "The later order concerns pouring the remaining liquid onto large stones. Review as a distinct procedure rather than extending the original fire-recovery instruction."
+    },
+    {
+      "kind": "extend",
+      "id": "AUD-21-40-2",
+      "reference": "Greek Psalm 40:3–4",
+      "action": "related_context",
+      "reason": "Verse 2 gives the blessing. Verses 3–4 are petitions asking the Lord to guard, bless and help the person who considers the poor, rather than assurances the Lord Himself gives.",
+      "changes": {
+        "context": "Following the blessing in 40:2, the psalmist prays that the Lord will guard and help the person who considers the poor."
+      }
+    },
+    {
+      "kind": "extend",
+      "id": "AUD-21-82-4",
+      "reference": "Greek Psalm 82:13",
+      "action": "related_context",
+      "reason": "The quotation about taking God’s sanctuary comes after the comparison with earlier rulers in 82:12. Its speaker is ambiguous, and its quoted goal differs from the plan to erase Israel in 82:4–5.",
+      "changes": {
+        "context": "A related hostile claim about taking possession of God’s sanctuary. It follows the comparison with Oreb, Zeeb, Zebah and Zalmunna and is distinct from the plot quoted in 82:4–5."
+      }
+    },
+    {
+      "kind": "extend",
+      "id": "AUD-27-35-23",
+      "reference": "Sirach 35:19–22",
+      "action": "revise",
+      "reason": "Verses 19–23 form one sentence and make judgment on the merciless and vindication of the people the basis of the mercy image.",
+      "changes": {
+        "title": "The Lord judges the merciless and shows timely mercy to His people",
+        "reasons": [
+          "Sirach 35:19–23 is one sentence. Judgment against the merciless leads to mercy for the afflicted people, compared with rain in a dry season in verse 24."
+        ]
+      }
+    },
+    {
+      "kind": "extend",
+      "id": "AUD-46-8-50",
+      "reference": "Luke 8:49",
+      "action": "related_context",
+      "reason": "The messenger tells Jairus not to trouble Jesus further. This introduces the distinct direction Jesus gives in verse 50 and may be cited as the setup only."
+    },
+    {
+      "kind": "extend",
+      "id": "AUD-47-19-6",
+      "reference": "John 19:12–15",
+      "action": "revise",
+      "reason": "Verse 15 explicitly repeats the demand to crucify. Verse 12 raises a separate political accusation, and verses 13–14 describe Pilate's actions and speech.",
+      "changes": {
+        "add": "John 19:15",
+        "proposed": "John 19:6–7, 15"
+      }
+    },
+    {
+      "kind": "extend",
+      "id": "AUD-47-9-20",
+      "reference": "John 9:24",
+      "action": "hold",
+      "reason": "The authorities' command to give glory to God is a different speech act from the previously reported threat of synagogue exclusion."
+    },
+    {
+      "kind": "extend",
+      "id": "X009",
+      "reference": "Revelation 2:1",
+      "action": "related_context",
+      "reason": "The verse addresses the writing charge to John. The record's directive to remember, repent, and return addresses the church in Ephesus."
+    },
+    {
+      "kind": "extend",
+      "id": "X010",
+      "reference": "Revelation 2:8",
+      "action": "related_context",
+      "reason": "The verse addresses the writing charge to John. The record's directive to remain faithful addresses the church in Smyrna."
+    },
+    {
+      "kind": "extend",
+      "id": "ot-1-samuel-v19-2",
+      "reference": "1 Samuel 19:3",
+      "action": "related_context",
+      "reason": "The added verse describes Jonathan's own plan to speak with Saul and report back."
+    },
+    {
+      "kind": "extend",
+      "id": "ot-1-samuel-v9-19",
+      "reference": "1 Samuel 9:20",
+      "action": "related_context",
+      "reason": "Samuel's direction about the recovered donkeys is distinct from his invitation to dine."
+    },
+    {
+      "kind": "extend",
+      "id": "ot-2-kings-v1-2",
+      "reference": "2 Kings 1:4",
+      "action": "omit",
+      "reason": "The Lord's rebuke and warning belongs with Elijah's message in ot-2-kings-v1-6. It is distinct from Ahaziah's order to consult Baal."
+    },
+    {
+      "kind": "extend",
+      "id": "ot-jeremiah-v28-62",
+      "reference": "Jeremiah 28:61",
+      "action": "revise",
+      "reason": "Verse 61 identifies the direct charge from Jeremiah to Seraiah. Verse 62 supplies what Jeremiah tells Seraiah to say, so the title should distinguish the commission from its spoken acknowledgment.",
+      "changes": {
+        "title": "Jeremiah charges Seraiah to read and acknowledge Babylon’s judgment",
+        "reasons": [
+          "Jeremiah tells Seraiah to read the words on arrival in Babylon. Verse 62 supplies the acknowledgment of God’s oracle that he is to say."
+        ],
+        "speaker_or_source": "Jeremiah, speaking about the Lord’s declaration",
+        "original_audience_or_recipient": "Seraiah son of Neriah"
+      }
+    },
+    {
+      "kind": "extend",
+      "id": "ot-jeremiah-v7-23",
+      "reference": "Jeremiah 7:22",
+      "action": "revise",
+      "reason": "The contrast is explicitly tied to the day the Lord brought their ancestors out of Egypt. The draft rationale drops that qualification.",
+      "changes": {
+        "reasons": [
+          "Verse 22 frames the contrast around the day the Lord brought the ancestors out of Egypt. Verse 23 recalls the charge to hear His voice and walk in His ways."
+        ]
+      }
+    },
+    {
+      "kind": "extend",
+      "id": "ot-joshua-v8-4",
+      "reference": "Joshua 8:3",
+      "action": "related_context",
+      "reason": "Verse 3 narrates Joshua selecting and dispatching the soldiers. The quoted ambush order begins in verse 4."
+    },
+    {
+      "kind": "extend",
+      "id": "ot-judges-v17-10",
+      "reference": "Judges 17:11–12",
+      "action": "related_context",
+      "reason": "The added verses describe the Levite staying with Micah and becoming his priest. They provide the outcome of the earlier offer."
+    },
+    {
+      "kind": "extend",
+      "id": "ot-judges-v19-8",
+      "reference": "Judges 19:9",
+      "action": "related_context",
+      "reason": "Verse 8 asks the man to stay until afternoon. Verse 9 asks him to lodge another night and depart in the morning."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-10-11-3",
+      "reference": "2 Samuel 11:27",
+      "action": "related_context",
+      "reason": "David sends for Bathsheba on two separate occasions. The earlier summons precedes the pregnancy, and this one follows Uriah's death.",
+      "changes": {
+        "context": "Later episode. David sends for Bathsheba after her mourning and takes her as his wife."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-10-5-8",
+      "reference": "1 Chronicles 11:6",
+      "action": "related_context",
+      "reason": "Chronicles promises command to the first attacker, while Samuel gives directions for the attack.",
+      "changes": {
+        "context": "Related siege account. Chronicles promises command to the first attacker. Samuel gives directions for attacking."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-11-13-33",
+      "reference": "2 Chronicles 11:14–15",
+      "action": "related_context",
+      "reason": "Chronicles describes appointments and the Levites' expulsion. The target passage states the open eligibility rule.",
+      "changes": {
+        "context": "Related account of Jeroboam's priestly appointments and the Levites' departure. The passage does not restate who may become a priest."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-16-14-12",
+      "reference": "1 Maccabees 7:26",
+      "action": "related_context",
+      "reason": "The two accounts report different orders in the same campaign.",
+      "changes": {
+        "context": "Related campaign account. First Maccabees says to destroy the people. Second Maccabees gives particular orders about Judas, his supporters, and Alcimus."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-21-61-12",
+      "reference": "Revelation 22:12–13",
+      "action": "revise",
+      "reason": "Verse 12 restates repayment according to works. Verse 13 identifies the speaker and does not restate the principle.",
+      "changes": {
+        "reference": "Revelation 22:12",
+        "context": "Christ promises to repay each according to their works. Compare the same principle in Greek Psalm 61:13.",
+        "url": "https://saints.bible/bible/glory/revelation/chapter-22/#v22-12"
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-44-12-15",
+      "reference": "Mark 3:7–8, 10–12",
+      "action": "related_context",
+      "reason": "Mark identifies unclean spirits as recipients of the prohibition; Matthew identifies those whom Jesus healed. Keep the parallel scene with this explicit distinction."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-44-12-22",
+      "reference": "Mark 3:23–27",
+      "action": "related_context",
+      "reason": "Mark gives the divided-kingdom and strong-man illustrations without the final saying about being with Jesus that titles the Matthew record."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-44-15-12",
+      "reference": "Luke 6:39–40",
+      "action": "omit",
+      "reason": "Retain Luke 6:39 for the blind guides. Verse 40 is a separate saying about a disciple and teacher."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-44-20-20",
+      "reference": "Mark 10:35–38",
+      "action": "related_context",
+      "reason": "James and John make the request in Mark. Their mother speaks in Matthew. Keep the differences in who speaks and the scope of Jesus' response."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-44-20-29",
+      "reference": "Luke 18:35–43",
+      "action": "related_context",
+      "reason": "Luke presents one blind man near Jericho and an explicit command to receive his sight. Matthew presents two men and reports Jesus healing by touch."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-44-20-29",
+      "reference": "Mark 10:46–52",
+      "action": "related_context",
+      "reason": "Mark names one blind man, Bartimaeus, and preserves Jesus' instruction to call him. Matthew reports two blind men."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-44-26-51",
+      "reference": "Luke 22:49–51",
+      "action": "related_context",
+      "reason": "Luke reports a restraint word and healing the ear. Matthew and John explicitly direct that the sword be put away."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-45-5-6",
+      "reference": "Matthew 8:31–32",
+      "action": "related_context",
+      "reason": "Matthew's 'Go' grants the demons' request to enter the herd. Mark 5:8 separately records the explicit command to leave the man. This is a related telling with a different quoted direction."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-46-19-37",
+      "reference": "Matthew 21:15–16",
+      "action": "related_context",
+      "reason": "Matthew reports an objection from priests and scribes to children in the temple. Luke reports an explicit demand from Pharisees that Jesus rebuke his disciples on the approach to Jerusalem."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-46-7-24",
+      "reference": "Matthew 11:11–14",
+      "action": "omit",
+      "reason": "Retain Matthew 11:11 for the direct parallel with Luke 7:28. Verses 12–14 introduce distinct sayings."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-46-8-43",
+      "reference": "Matthew 9:20–22",
+      "action": "related_context",
+      "reason": "The healing and Jesus' affirmation of faith are shared. Matthew says to take courage; Luke and Mark say to go in peace."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-47-1-29",
+      "reference": "John 1:6–8",
+      "action": "related_context",
+      "reason": "The prologue identifies John's sending as a witness. It does not state his directions to baptize or to recognize the one on whom the Spirit remains."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-48-26-15",
+      "reference": "1 Timothy 1:13–16",
+      "action": "omit",
+      "reason": "The verses recount Paul's former conduct, mercy, and salvation. They do not recount his appointment as a servant and witness."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-50-16-20",
+      "reference": "Philippians 4:21",
+      "action": "omit",
+      "reason": "Philippians directs readers to greet every saint. It does not mention greeting with a holy kiss."
+    },
+    {
+      "kind": "parallel",
+      "id": "AUD-50-9-15",
+      "reference": "2 Corinthians 12:13–18",
+      "action": "omit",
+      "reason": "Retain 2 Corinthians 12:14–15 for Paul's refusal to burden the Corinthians. The wider span also discusses his envoys."
+    },
+    {
+      "kind": "parallel",
+      "id": "C0156",
+      "reference": "Deuteronomy 27:24",
+      "action": "related_context",
+      "reason": "The curse names a treacherous blow and does not state the neighbor dies.",
+      "changes": {
+        "context": "Related covenant curse against striking a neighbor treacherously. The verse does not specify death."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0253",
+      "reference": "Deuteronomy 10:1",
+      "action": "related_context",
+      "reason": "Moses recounts a wooden ark. Exodus 25:10–12 specifies the gold-overlaid ark, which Exodus 38:1–3 associates with Bezalel.",
+      "changes": {
+        "context": "Related account. Moses recounts a command to make a wooden ark for the tablets. The passage does not describe the gold overlay."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0341",
+      "reference": "Leviticus 16:18–19",
+      "action": "related_context",
+      "reason": "The Saints passage calls it the altar opposite the Lord. The draft should not assume its identification with the incense altar.",
+      "changes": {
+        "context": "The high priest applies blood to the altar opposite the Lord. The passage does not identify it as the incense altar."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0434",
+      "reference": "Sirach 45:14",
+      "action": "related_context",
+      "reason": "Sirach mentions sacrifices offered wholly twice daily, but does not identify grain, ingredients, morning/evening portions, or the anointing-day requirement. Do not present it as a point-by-point repetition of Leviticus 6:13–15.",
+      "changes": {
+        "context": "Ben Sira recalls Aaron’s continual twice-daily sacrifices. The description gives related priestly background; it does not specify the grain offering or its portions."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0485",
+      "reference": "Leviticus 13:10–15",
+      "action": "related_context",
+      "reason": "This examination is part of the chapter's wider diagnostic procedure. The passage has criteria specific to its case.",
+      "changes": {
+        "context": "Related priestly examination in Leviticus 13. Read the diagnostic criteria stated for this particular case."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0485",
+      "reference": "Leviticus 13:17–18",
+      "action": "related_context",
+      "reason": "This examination is part of the chapter's wider diagnostic procedure. The passage has criteria specific to its case.",
+      "changes": {
+        "context": "Related priestly examination in Leviticus 13. Read the diagnostic criteria stated for this particular case."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0485",
+      "reference": "Leviticus 13:20",
+      "action": "related_context",
+      "reason": "This examination is part of the chapter's wider diagnostic procedure. The passage has criteria specific to its case.",
+      "changes": {
+        "context": "Related priestly examination in Leviticus 13. Read the diagnostic criteria stated for this particular case."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0485",
+      "reference": "Leviticus 13:22–25",
+      "action": "related_context",
+      "reason": "This examination is part of the chapter's wider diagnostic procedure. The passage has criteria specific to its case.",
+      "changes": {
+        "context": "Related priestly examination in Leviticus 13. Read the diagnostic criteria stated for this particular case."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0485",
+      "reference": "Leviticus 13:27–30",
+      "action": "related_context",
+      "reason": "This examination is part of the chapter's wider diagnostic procedure. The passage has criteria specific to its case.",
+      "changes": {
+        "context": "Related priestly examination in Leviticus 13. Read the diagnostic criteria stated for this particular case."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0485",
+      "reference": "Leviticus 13:35–37",
+      "action": "related_context",
+      "reason": "This examination is part of the chapter's wider diagnostic procedure. The passage has criteria specific to its case.",
+      "changes": {
+        "context": "Related priestly examination in Leviticus 13. Read the diagnostic criteria stated for this particular case."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0485",
+      "reference": "Leviticus 13:38–39",
+      "action": "related_context",
+      "reason": "This examination is part of the chapter's wider diagnostic procedure. The passage has criteria specific to its case.",
+      "changes": {
+        "context": "Related priestly examination in Leviticus 13. Read the diagnostic criteria stated for this particular case."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0485",
+      "reference": "Leviticus 13:40–44",
+      "action": "related_context",
+      "reason": "This examination is part of the chapter's wider diagnostic procedure. The passage has criteria specific to its case.",
+      "changes": {
+        "context": "Related priestly examination in Leviticus 13. Read the diagnostic criteria stated for this particular case."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "C0554",
+      "reference": "Hebrews 5:3",
+      "action": "omit",
+      "reason": "Hebrews states a high priest's general obligation to make offerings for himself and for the people. It does not specify a bull, the priest's household, or the Day of Atonement rite."
+    },
+    {
+      "kind": "parallel",
+      "id": "C0771",
+      "reference": "Numbers 2:18–23",
+      "action": "omit",
+      "reason": "The combined Numbers 2:10–15, 18–23, 25–30 citation already includes this span."
+    },
+    {
+      "kind": "parallel",
+      "id": "C0771",
+      "reference": "Numbers 2:25–30",
+      "action": "omit",
+      "reason": "The combined Numbers 2:10–15, 18–23, 25–30 citation already includes this span."
+    },
+    {
+      "kind": "parallel",
+      "id": "C0920",
+      "reference": "Numbers 34:13",
+      "action": "omit",
+      "reason": "The combined Numbers 33:54, 34:13 citation already includes this verse."
+    },
+    {
+      "kind": "parallel",
+      "id": "C1077",
+      "reference": "Acts 7:37",
+      "action": "related_context",
+      "reason": "Stephen quotes the promise that God will raise a prophet but does not include the instruction to heed him. Acts 3:22 preserves that instruction."
+    },
+    {
+      "kind": "parallel",
+      "id": "K070",
+      "reference": "Matthew 18:19–20",
+      "action": "related_context",
+      "reason": "Matthew promises an answer where two agree and Christ's presence among those gathered in his name. It does not restate the John 16 instruction to ask the Father in Jesus' name."
+    },
+    {
+      "kind": "parallel",
+      "id": "K096",
+      "reference": "Matthew 15:24",
+      "action": "omit",
+      "reason": "Jesus describes his own sending to Israel. K096 records Jesus sending the Twelve, a different commission and recipient."
+    },
+    {
+      "kind": "parallel",
+      "id": "ot-2-maccabees-v7-29",
+      "reference": "2 Maccabees 7:5–6",
+      "action": "related_context",
+      "reason": "Verse 5 gives the king's torture order, whereas verse 6 gives the family's encouragement.",
+      "changes": {
+        "reference": "2 Maccabees 7:6",
+        "url": "https://saints.bible/bible/judgement/2-maccabees/chapter-7/#v7-6",
+        "context": "Earlier encouragement by the family to die courageously. The later appeal is the mother's address to her youngest son."
+      }
+    },
+    {
+      "kind": "parallel",
+      "id": "ot-judges-v19-8",
+      "reference": "Judges 19:6–7",
+      "action": "related_context",
+      "reason": "The earlier overnight invitation and the fifth-day afternoon invitation are different requests.",
+      "changes": {
+        "context": "Earlier invitation on a different day. The father asks the man to lodge overnight."
+      }
+    },
+    {
+      "kind": "topic",
+      "id": "AUD-46-4-43",
+      "reference": "Luke 4:43",
+      "action": "revise",
+      "reason": "Jesus says that He was sent to announce God’s kingdom to other towns. This verse specifies His mission rather than directly calling hearers to repent or believe.",
+      "changes": {
+        "topic": "The Sending"
+      }
+    },
+    {
+      "kind": "topic",
+      "id": "AUD-49-2-1",
+      "reference": "Romans 2:1–11",
+      "action": "revise",
+      "reason": "The passage addresses judging others while practicing the same conduct and God’s impartial judgment. It does not address public performance to be seen.",
+      "changes": {
+        "topic": "Judging and Forgiving"
+      }
+    },
+    {
+      "kind": "catalogue_link",
+      "id": "X012",
+      "reference": "Revelation 22:8–9",
+      "action": "revise",
+      "reason": "The first verse shows John falling down before the angel. Open there so the reader can see the action and the angel's correction together.",
+      "changes": {
+        "scripture_url": "https://saints.bible/bible/glory/revelation/chapter-22/#v22-8"
+      }
+    }
+  ]
+}
