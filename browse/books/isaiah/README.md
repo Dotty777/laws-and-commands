@@ -6,7 +6,7 @@
 
 **208 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Command (63)](../../record-types/command/part-018.md#book-isaiah) · [Commission (24)](../../record-types/commission/part-004.md#book-isaiah) · [Instruction (26)](../../record-types/instruction/part-011.md#book-isaiah) · [Wisdom (14)](../../record-types/wisdom/part-017.md#book-isaiah) · [Study Context (81)](../../record-types/study-context/part-004.md#book-isaiah)
+**Jump by Record type:** [Command (63)](../../record-types/command/part-017.md#book-isaiah) · [Commission (24)](../../record-types/commission/part-004.md#book-isaiah) · [Instruction (26)](../../record-types/instruction/part-010.md#book-isaiah) · [Wisdom (14)](../../record-types/wisdom/part-017.md#book-isaiah) · [Study Context (81)](../../record-types/study-context/part-004.md#book-isaiah)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

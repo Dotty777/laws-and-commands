@@ -6,7 +6,7 @@
 
 **112 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (3)](../../record-types/law/part-011.md#book-2-kings) · [Command (82)](../../record-types/command/part-013.md#book-2-kings) · [Commission (9)](../../record-types/commission/part-003.md#book-2-kings) · [Instruction (11)](../../record-types/instruction/part-010.md#book-2-kings) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-2-kings) · [Study Context (6)](../../record-types/study-context/part-002.md#book-2-kings)
+**Jump by Record type:** [Law (3)](../../record-types/law/part-012.md#book-2-kings) · [Command (82)](../../record-types/command/part-012.md#book-2-kings) · [Commission (9)](../../record-types/commission/part-003.md#book-2-kings) · [Instruction (11)](../../record-types/instruction/part-009.md#book-2-kings) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-2-kings) · [Study Context (6)](../../record-types/study-context/part-002.md#book-2-kings)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

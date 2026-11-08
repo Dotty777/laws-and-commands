@@ -6,11 +6,10 @@
 
 [Previous part](part-005.md) · [All parts](README.md) · [Next part](part-007.md)
 
-Records 376–450 of 479.
+Records 376–450 of 478.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| [The Lord sends Jonah to Nineveh a second time](../../books/jonah/README.md#record-ot-jonah-v3-2)<br>`ot-jonah-v3-2` | [Jonah 3:2](https://saints.bible/bible/providence/jonah/chapter-3/#v3-2) | [Jonah](../../books/jonah/README.md) | Heavenly (God-given) | Personal |
 | <a name="book-micah"></a>[Micah describes his Spirit-given work of exposing Israel’s wrongdoing](../../books/micah/README.md#record-aud-37-3-5)<br>`AUD-37-3-5` | [Micah 3:5–9](https://saints.bible/bible/providence/micah/chapter-3/#v3-5) | [Micah](../../books/micah/README.md) | Heavenly (God-given) | Personal |
 | [The Lord summons the mountains to hear His case](../../books/micah/README.md#record-ot-micah-v6-1)<br>`ot-micah-v6-1` | [Micah 6:1–3](https://saints.bible/bible/providence/micah/chapter-6/#v6-1) | [Micah](../../books/micah/README.md) | Heavenly (God-given) | General |
 | <a name="book-habakkuk"></a>[The Lord tells Habakkuk to record the vision and wait for its fulfillment](../../books/habakkuk/README.md#record-ot-habakkuk-v2-2)<br>`ot-habakkuk-v2-2` | [Habakkuk 2:2–4](https://saints.bible/bible/providence/habakkuk/chapter-2/#v2-2) | [Habakkuk](../../books/habakkuk/README.md) | Heavenly (God-given) | General |
@@ -85,5 +84,6 @@ Records 376–450 of 479.
 | [Paul sends Timothy and Erastus ahead to Macedonia](../../books/acts/part-001.md#record-aud-48-19-21)<br>`AUD-48-19-21` | [Acts 19:21–22](https://saints.bible/bible/discipleship/acts/chapter-19/#v19-21) | [Acts](../../books/acts/README.md) | Earthly (Man-made) | Personal |
 | [Bear witness to the good news of God’s grace](../../books/acts/part-001.md#record-aud-48-20-24)<br>`AUD-48-20-24` | [Acts 20:24](https://saints.bible/bible/discipleship/acts/chapter-20/#v20-24) | [Acts](../../books/acts/README.md) | Heavenly (God-given) | Personal |
 | [Leave Jerusalem and go to the Gentiles](../../books/acts/part-002.md#record-aud-48-22-17)<br>`AUD-48-22-17` | [Acts 22:17–21](https://saints.bible/bible/discipleship/acts/chapter-22/#v22-17) | [Acts](../../books/acts/README.md) | Heavenly (God-given) | Personal |
+| [Take courage and bear witness in Rome](../../books/acts/part-002.md#record-aud-48-23-11)<br>`AUD-48-23-11` | [Acts 23:11](https://saints.bible/bible/discipleship/acts/chapter-23/#v23-11) | [Acts](../../books/acts/README.md) | Heavenly (God-given) | Personal |
 
 [Previous part](part-005.md) · [All parts](README.md) · [Next part](part-007.md)

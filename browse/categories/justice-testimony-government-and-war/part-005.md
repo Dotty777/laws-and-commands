@@ -6,14 +6,10 @@
 
 [Previous part](part-004.md) · [All parts](README.md)
 
-Records 301–315 of 315.
+Records 301–311 of 311.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Tribune orders Paul bound with two chains and taken to the barracks](../../books/acts/part-002.md#record-aud-48-21-33)<br>`AUD-48-21-33` | [Acts 21:33–34](https://saints.bible/bible/discipleship/acts/chapter-21/#v21-33) | [Acts](../../books/acts/README.md) | [Command](../../record-types/command/part-023.md#book-acts) | Personal |
-| [Paul asks the tribune for permission to address the people](../../books/acts/part-002.md#record-aud-48-21-37)<br>`AUD-48-21-37` | [Acts 21:37–40](https://saints.bible/bible/discipleship/acts/chapter-21/#v21-37) | [Acts](../../books/acts/README.md) | [Command](../../record-types/command/part-023.md#book-acts) | Personal |
-| [Paul asks the Jerusalem crowd to hear his defense](../../books/acts/part-002.md#record-aud-48-22-1)<br>`AUD-48-22-1` | [Acts 22:1–2](https://saints.bible/bible/discipleship/acts/chapter-22/#v22-1) | [Acts](../../books/acts/README.md) | [Command](../../record-types/command/part-023.md#book-acts) | Personal |
-| [The crowd demands that Paul be removed from the earth](../../books/acts/part-002.md#record-aud-48-22-22)<br>`AUD-48-22-22` | [Acts 22:22–23](https://saints.bible/bible/discipleship/acts/chapter-22/#v22-22) | [Acts](../../books/acts/README.md) | [Command](../../record-types/command/part-023.md#book-acts) | Personal |
 | [The tribune orders the chief priests and council to assemble](../../books/acts/part-002.md#record-aud-48-22-30)<br>`AUD-48-22-30` | [Acts 22:30](https://saints.bible/bible/discipleship/acts/chapter-22/#v22-30) | [Acts](../../books/acts/README.md) | [Command](../../record-types/command/part-023.md#book-acts) | Personal |
 | [The high priest Ananias orders Paul struck on the mouth](../../books/acts/part-002.md#record-aud-48-23-2)<br>`AUD-48-23-2` | [Acts 23:2–3](https://saints.bible/bible/discipleship/acts/chapter-23/#v23-2) | [Acts](../../books/acts/README.md) | [Command](../../record-types/command/part-023.md#book-acts) | Personal |
 | [The tribune orders troops to snatch Paul from the divided council](../../books/acts/part-002.md#record-aud-48-23-10)<br>`AUD-48-23-10` | [Acts 23:10](https://saints.bible/bible/discipleship/acts/chapter-23/#v23-10) | [Acts](../../books/acts/README.md) | [Command](../../record-types/command/part-023.md#book-acts) | Personal |

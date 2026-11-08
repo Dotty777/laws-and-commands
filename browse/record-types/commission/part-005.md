@@ -6,11 +6,10 @@
 
 [Previous part](part-004.md) · [All parts](README.md) · [Next part](part-006.md)
 
-Records 301–375 of 479.
+Records 301–375 of 478.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| [Jeremiah is sent to tell Zedekiah that Babylon will take Jerusalem](../../books/jeremiah/part-003.md#record-ot-jeremiah-v41-2)<br>`ot-jeremiah-v41-2` | [Jeremiah 41:2](https://saints.bible/bible/providence/jeremiah/chapter-41/#v41-2) | [Jeremiah](../../books/jeremiah/README.md) | Heavenly (God-given) | General |
 | [God sends Jeremiah to bring the Rechabites to the temple and offer wine](../../books/jeremiah/part-003.md#record-ot-jeremiah-v42-2)<br>`ot-jeremiah-v42-2` | [Jeremiah 42:2](https://saints.bible/bible/providence/jeremiah/chapter-42/#v42-2) | [Jeremiah](../../books/jeremiah/README.md) | Heavenly (God-given) | General |
 | [God sends Jeremiah to ask why Judah refuses instruction](../../books/jeremiah/part-003.md#record-ot-jeremiah-v42-13)<br>`ot-jeremiah-v42-13` | [Jeremiah 42:13](https://saints.bible/bible/providence/jeremiah/chapter-42/#v42-13) | [Jeremiah](../../books/jeremiah/README.md) | Heavenly (God-given) | General |
 | [God tells Jeremiah to write His messages on a scroll](../../books/jeremiah/part-003.md#record-ot-jeremiah-v43-2)<br>`ot-jeremiah-v43-2` | [Jeremiah 43:2](https://saints.bible/bible/providence/jeremiah/chapter-43/#v43-2) | [Jeremiah](../../books/jeremiah/README.md) | Heavenly (God-given) | General |
@@ -85,5 +84,6 @@ Records 301–375 of 479.
 | <a name="book-amos"></a>[Hear and bear witness to the house of Jacob](../../books/amos/README.md#record-aud-34-3-13)<br>`AUD-34-3-13` | [Amos 3:13–15](https://saints.bible/bible/providence/amos/chapter-3/#v3-13) | [Amos](../../books/amos/README.md) | Heavenly (God-given) | Personal |
 | [The Lord takes Amos from tending sheep to prophesy to Israel](../../books/amos/README.md#record-ot-amos-v7-15)<br>`ot-amos-v7-15` | [Amos 7:15](https://saints.bible/bible/providence/amos/chapter-7/#v7-15) | [Amos](../../books/amos/README.md) | Heavenly (God-given) | Personal |
 | <a name="book-jonah"></a>[The Lord sends Jonah to proclaim a message in Nineveh](../../books/jonah/README.md#record-ot-jonah-v1-2)<br>`ot-jonah-v1-2` | [Jonah 1:2](https://saints.bible/bible/providence/jonah/chapter-1/#v1-2) | [Jonah](../../books/jonah/README.md) | Heavenly (God-given) | Personal |
+| [The Lord sends Jonah to Nineveh a second time](../../books/jonah/README.md#record-ot-jonah-v3-2)<br>`ot-jonah-v3-2` | [Jonah 3:2](https://saints.bible/bible/providence/jonah/chapter-3/#v3-2) | [Jonah](../../books/jonah/README.md) | Heavenly (God-given) | Personal |
 
 [Previous part](part-004.md) · [All parts](README.md) · [Next part](part-006.md)

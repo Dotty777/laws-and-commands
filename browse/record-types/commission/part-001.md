@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 479.
+Records 1–75 of 478.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
@@ -82,8 +82,8 @@ Records 1–75 of 479.
 | [Moses sends scouts into Canaan's hill country](../../books/numbers/part-002.md#record-ot-numbers-v13-17)<br>`ot-numbers-v13-17` | [Numbers 13:17](https://saints.bible/bible/law/numbers/chapter-13/#v13-17) | [Numbers](../../books/numbers/README.md) | Earthly (Man-made) | General |
 | [Aaron: take altar fire and incense into the camp to make atonement during the plague](../../books/numbers/part-003.md#record-m018)<br>`M018` | [Numbers 17:11](https://saints.bible/bible/law/numbers/chapter-17/#v17-11) | [Numbers](../../books/numbers/README.md) | Earthly (Man-made) | Personal |
 | [Moses sends Aaron to make atonement during the plague](../../books/numbers/part-003.md#record-ot-numbers-v17-11)<br>`ot-numbers-v17-11` | [Numbers 17:11](https://saints.bible/bible/law/numbers/chapter-17/#v17-11) | [Numbers](../../books/numbers/README.md) | Earthly (Man-made) | Personal |
-| [God entrusts the sacred contributions to Aaron and his line](../../books/numbers/part-003.md#record-aud-04-18-8)<br>`AUD-04-18-8` | [Numbers 18:8](https://saints.bible/bible/law/numbers/chapter-18/#v18-8) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | Personal |
 | [Moses sends men to spy out Jazer](../../books/numbers/part-004.md#record-aud-04-21-32)<br>`AUD-04-21-32` | [Numbers 21:32](https://saints.bible/bible/law/numbers/chapter-21/#v21-32) | [Numbers](../../books/numbers/README.md) | Earthly (Man-made) | Personal |
 | [Return to Balak and speak God's word; blessing may not be overturned](../../books/numbers/part-004.md#record-torah-numbers-23-4)<br>`torah-numbers-23-4` | [Numbers 23:4–12](https://saints.bible/bible/law/numbers/chapter-23/#v23-4) | [Numbers](../../books/numbers/README.md) | Mixed origins | General |
+| [Balaam: return to Balak with the word God has given](../../books/numbers/part-004.md#record-f009)<br>`F009` | [Numbers 23:5](https://saints.bible/bible/law/numbers/chapter-23/#v23-5) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | Personal |
 
 [All parts](README.md) · [Next part](part-002.md)

@@ -10,6 +10,6 @@
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 1:29–30 | Leviticus 14:18 |
-| [Part 2](part-002.md) | 75 | Leviticus 14:19–20 | Deuteronomy 14:3–20 |
+| [Part 1](part-001.md) | 75 | Genesis 1:29–30 | Leviticus 14:36 |
+| [Part 2](part-002.md) | 75 | Leviticus 14:36–39 | Deuteronomy 14:3–20 |
 | [Part 3](part-003.md) | 25 | Deuteronomy 14:11 | Daniel 1:11–13 |

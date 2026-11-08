@@ -6,11 +6,10 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 479.
+Records 76–150 of 478.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| [Balaam: return to Balak with the word God has given](../../books/numbers/part-004.md#record-f009)<br>`F009` | [Numbers 23:5](https://saints.bible/bible/law/numbers/chapter-23/#v23-5) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | Personal |
 | [God sends Balaam back to Balak with a message](../../books/numbers/part-004.md#record-ot-numbers-v23-5)<br>`ot-numbers-v23-5` | [Numbers 23:5](https://saints.bible/bible/law/numbers/chapter-23/#v23-5) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | Personal |
 | [Return to Balak and speak God's word; blessing may not be overturned](../../books/numbers/part-004.md#record-torah-numbers-23-15)<br>`torah-numbers-23-15` | [Numbers 23:15–26](https://saints.bible/bible/law/numbers/chapter-23/#v23-15) | [Numbers](../../books/numbers/README.md) | Mixed origins | General |
 | [God gives Balaam another message for Balak](../../books/numbers/part-004.md#record-ot-numbers-v23-16)<br>`ot-numbers-v23-16` | [Numbers 23:16](https://saints.bible/bible/law/numbers/chapter-23/#v23-16) | [Numbers](../../books/numbers/README.md) | Heavenly (God-given) | Personal |
@@ -85,5 +84,6 @@ Records 76–150 of 479.
 | [Absalom appoints Amasa over the army in Joab’s place](../../books/2-samuel/part-002.md#record-aud-10-17-25)<br>`AUD-10-17-25` | [2 Samuel 17:25](https://saints.bible/bible/judgement/2-samuel/chapter-17/#v17-25) | [2 Samuel](../../books/2-samuel/README.md) | Earthly (Man-made) | Personal |
 | [David appoints commanders and sends out the army in three divisions](../../books/2-samuel/part-002.md#record-aud-10-18-1)<br>`AUD-10-18-1` | [2 Samuel 18:1–2](https://saints.bible/bible/judgement/2-samuel/chapter-18/#v18-1) | [2 Samuel](../../books/2-samuel/README.md) | Earthly (Man-made) | Personal |
 | [Joab sends Cushi to report what he witnessed](../../books/2-samuel/part-002.md#record-ot-2-samuel-v18-21)<br>`ot-2-samuel-v18-21` | [2 Samuel 18:21](https://saints.bible/bible/judgement/2-samuel/chapter-18/#v18-21) | [2 Samuel](../../books/2-samuel/README.md) | Earthly (Man-made) | Personal |
+| [David promises Amasa command of the army](../../books/2-samuel/part-002.md#record-ot-2-samuel-v19-14)<br>`ot-2-samuel-v19-14` | [2 Samuel 19:14](https://saints.bible/bible/judgement/2-samuel/chapter-19/#v19-14) | [2 Samuel](../../books/2-samuel/README.md) | Earthly (Man-made) | General |
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)

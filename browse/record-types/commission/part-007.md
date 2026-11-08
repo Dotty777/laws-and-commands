@@ -6,11 +6,10 @@
 
 [Previous part](part-006.md) · [All parts](README.md)
 
-Records 451–479 of 479.
+Records 451–478 of 478.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| [Take courage and bear witness in Rome](../../books/acts/part-002.md#record-aud-48-23-11)<br>`AUD-48-23-11` | [Acts 23:11](https://saints.bible/bible/discipleship/acts/chapter-23/#v23-11) | [Acts](../../books/acts/README.md) | Heavenly (God-given) | Personal |
 | [Report the plot and secure Paul’s transfer](../../books/acts/part-002.md#record-aud-48-23-16)<br>`AUD-48-23-16` | [Acts 23:16–33](https://saints.bible/bible/discipleship/acts/chapter-23/#v23-16) | [Acts](../../books/acts/README.md) | Earthly (Man-made) | Personal |
 | [The risen Jesus appoints Paul as a servant and witness](../../books/acts/part-002.md#record-aud-48-26-15)<br>`AUD-48-26-15` | [Acts 26:15–18](https://saints.bible/bible/discipleship/acts/chapter-26/#v26-15) | [Acts](../../books/acts/README.md) | Heavenly (God-given) | Personal |
 | <a name="book-romans"></a>[Bring about obedience of faith among the nations](../../books/romans/README.md#record-aud-49-1-1)<br>`AUD-49-1-1` | [Romans 1:1–6](https://saints.bible/bible/discipleship/romans/chapter-1/#v1-1) | [Romans](../../books/romans/README.md) | Heavenly (God-given) | Personal |

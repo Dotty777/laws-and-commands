@@ -391,6 +391,7 @@ def main():
              'The seven record types are Law, Command, Commission, Instruction, Wisdom, Study Context, and Mixed. Record type describes the form of the material. Origin, original audience, and application are recorded separately.', '',
              f'[Download the current workbook]({current["workbook"]["path"]}) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)', '',
              'The origin review records the source evidence for all 26 reassigned entries. [Origin decisions](audit/origin-review.json)', '',
+             f"The Torah Law audit reviewed all 137 chapters in Exodus through Deuteronomy. [Browse the {current['torah_laws']:,} Torah Law records](browse/torah-law/README.md) · [Audit decisions and merge index](audit/torah-law/README.md)", '',
              '## Completeness audit of 8 November 2026', '',
              f'The contextual review published **{review["added"]:,} additional study records** and applied **{review["extended"]:,} Scripture extensions** and **{review["parallels"]:,} supporting links**. The review decisions identify the passages and existing records included in the release. The original draft remains available for comparison.', '',
              '[Verified review decisions](audit/verified-completeness.json) · [Original audit report](audit/AUDIT.md) · [Draft proposals](audit/findings.json)', '',

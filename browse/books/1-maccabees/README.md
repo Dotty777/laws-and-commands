@@ -6,7 +6,7 @@
 
 **102 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (26)](../../record-types/law/part-011.md#book-1-maccabees) · [Command (30)](../../record-types/command/part-015.md#book-1-maccabees) · [Commission (18)](../../record-types/commission/part-003.md#book-1-maccabees) · [Instruction (11)](../../record-types/instruction/part-010.md#book-1-maccabees) · [Wisdom (3)](../../record-types/wisdom/part-001.md#book-1-maccabees) · [Study Context (14)](../../record-types/study-context/part-003.md#book-1-maccabees)
+**Jump by Record type:** [Law (26)](../../record-types/law/part-012.md#book-1-maccabees) · [Command (30)](../../record-types/command/part-014.md#book-1-maccabees) · [Commission (18)](../../record-types/commission/part-003.md#book-1-maccabees) · [Instruction (11)](../../record-types/instruction/part-009.md#book-1-maccabees) · [Wisdom (3)](../../record-types/wisdom/part-001.md#book-1-maccabees) · [Study Context (14)](../../record-types/study-context/part-003.md#book-1-maccabees)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

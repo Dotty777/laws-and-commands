@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**112 current study records.** Select a study title to open its entry in the book view.
+**108 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/sabbath-appointed-times-and-remembrance.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Exodus 12:1–14 | Leviticus 23:27 |
-| [Part 2](part-002.md) | 37 | Leviticus 23:33–43 | Ezekiel 46:6–7 |
+| [Part 1](part-001.md) | 75 | Exodus 12:1–14 | Leviticus 23:35–36 |
+| [Part 2](part-002.md) | 33 | Leviticus 23:36 | Ezekiel 46:6–7 |

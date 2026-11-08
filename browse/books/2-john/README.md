@@ -6,9 +6,9 @@
 
 **2 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Instruction (2)](../../record-types/instruction/part-016.md#book-2-john)
+**Jump by Record type:** [Instruction (2)](../../record-types/instruction/part-015.md#book-2-john)
 
 | Study record | Scripture | Record type | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| <a name="record-aud-67-1-7"></a>[Watch yourselves against deception and remain in Christ’s teaching](https://saints.bible/instructions/?instruction_id=AUD-67-1-7#saints-command-catalogue)<br>`AUD-67-1-7` | [2 John 1:7–9](https://saints.bible/bible/discipleship/2-john/chapter-1/#v1-7) | [Instruction](../../record-types/instruction/part-016.md#book-2-john) | Earthly (Man-made) | General |
-| <a name="record-aud-67-1-10"></a>[The elder instructs his readers to withhold welcome from visitors who reject Christ’s teaching](https://saints.bible/instructions/?instruction_id=AUD-67-1-10#saints-command-catalogue)<br>`AUD-67-1-10` | [2 John 1:10–11](https://saints.bible/bible/discipleship/2-john/chapter-1/#v1-10) | [Instruction](../../record-types/instruction/part-016.md#book-2-john) | Earthly (Man-made) | General |
+| <a name="record-aud-67-1-7"></a>[Watch yourselves against deception and remain in Christ’s teaching](https://saints.bible/instructions/?instruction_id=AUD-67-1-7#saints-command-catalogue)<br>`AUD-67-1-7` | [2 John 1:7–9](https://saints.bible/bible/discipleship/2-john/chapter-1/#v1-7) | [Instruction](../../record-types/instruction/part-015.md#book-2-john) | Earthly (Man-made) | General |
+| <a name="record-aud-67-1-10"></a>[The elder instructs his readers to withhold welcome from visitors who reject Christ’s teaching](https://saints.bible/instructions/?instruction_id=AUD-67-1-10#saints-command-catalogue)<br>`AUD-67-1-10` | [2 John 1:10–11](https://saints.bible/bible/discipleship/2-john/chapter-1/#v1-10) | [Instruction](../../record-types/instruction/part-015.md#book-2-john) | Earthly (Man-made) | General |

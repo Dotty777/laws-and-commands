@@ -4,7 +4,7 @@
 
 [Browse home](../README.md) · [All books](../books/README.md) · [All Record types](../record-types/README.md) · [All topics](README.md)
 
-The 50 original topic groups show the current versions of their 4,440 archival records alongside reviewed additions with matching topics. The 70-book audit group contains 559 records whose Topic field holds their Record type.
+The 50 original topic groups show 4,410 active archival records alongside reviewed additions with matching topics. The 70-book audit group contains 559 records whose Topic field holds their Record type.
 
 | Topic or collection | Records |
 | --- | ---: |
@@ -21,29 +21,29 @@ The 50 original topic groups show the current versions of their 4,440 archival r
 | [Go and Make Disciples](go-and-make-disciples/README.md) | 3 |
 | [Hear and Keep](hear-and-keep/README.md) | 32 |
 | [Historical commissions, journeys and public life](historical-commissions-journeys-and-public-life/README.md) | 676 |
-| [Holiness, truthfulness and sexual conduct](holiness-truthfulness-and-sexual-conduct/README.md) | 54 |
-| [Human life, injury and care for neighbours](human-life-injury-and-care-for-neighbours/README.md) | 41 |
+| [Holiness, truthfulness and sexual conduct](holiness-truthfulness-and-sexual-conduct/README.md) | 55 |
+| [Human life, injury and care for neighbours](human-life-injury-and-care-for-neighbours/README.md) | 40 |
 | [In Secret](in-secret/README.md) | 3 |
 | [Judging and Forgiving](judging-and-forgiving/README.md) | 9 |
-| [Justice, testimony, government and war](justice-testimony-government-and-war/README.md) | 315 |
+| [Justice, testimony, government and war](justice-testimony-government-and-war/README.md) | 311 |
 | [Justice, truth and protection](justice-truth-and-protection/README.md) | 223 |
-| [Knowing, loving and obeying God](knowing-loving-and-obeying-god/README.md) | 193 |
+| [Knowing, loving and obeying God](knowing-loving-and-obeying-god/README.md) | 192 |
 | [Land, harvests and provision for the poor](land-harvests-and-provision-for-the-poor/README.md) | 86 |
 | [Major Teachings: The Word of Christ Handed On](major-teachings-the-word-of-christ-handed-on/README.md) | 71 |
 | [Marriage](marriage/README.md) | 2 |
 | [Marriage, family and care for parents](marriage-family-and-care-for-parents/README.md) | 92 |
 | [Mercy, neighbors and the vulnerable](mercy-neighbors-and-the-vulnerable/README.md) | 191 |
 | [Minor Teachings: The Scriptures Read in Christ](minor-teachings-the-scriptures-read-in-christ/README.md) | 56 |
-| [Offerings, sacrifice and atonement](offerings-sacrifice-and-atonement/README.md) | 153 |
+| [Offerings, sacrifice and atonement](offerings-sacrifice-and-atonement/README.md) | 152 |
 | [Pray in This Way](pray-in-this-way/README.md) | 8 |
-| [Property, honest trade and service](property-honest-trade-and-service/README.md) | 36 |
+| [Property, honest trade and service](property-honest-trade-and-service/README.md) | 35 |
 | [Repent and Believe](repent-and-believe/README.md) | 14 |
-| [Sabbath, appointed times and remembrance](sabbath-appointed-times-and-remembrance/README.md) | 112 |
-| [Sanctuary, priesthood and ministry](sanctuary-priesthood-and-ministry/README.md) | 297 |
+| [Sabbath, appointed times and remembrance](sabbath-appointed-times-and-remembrance/README.md) | 108 |
+| [Sanctuary, priesthood and ministry](sanctuary-priesthood-and-ministry/README.md) | 299 |
 | [Serving](serving/README.md) | 7 |
 | [Shepherds of the Flock](shepherds-of-the-flock/README.md) | 8 |
 | [Supplementary instructions](supplementary-instructions/README.md) | 41 |
-| [Temple, Offerings and Tithes](temple-offerings-and-tithes/README.md) | 11 |
+| [Temple, Offerings and Tithes](temple-offerings-and-tithes/README.md) | 12 |
 | [The Commandments and the One Thing Lacking](the-commandments-and-the-one-thing-lacking/README.md) | 2 |
 | [The Law and the Prophets](the-law-and-the-prophets/README.md) | 6 |
 | [The Little Ones and the Poor](the-little-ones-and-the-poor/README.md) | 6 |
@@ -52,7 +52,7 @@ The 50 original topic groups show the current versions of their 4,440 archival r
 | [The Sending](the-sending/README.md) | 12 |
 | [Treasure](treasure/README.md) | 11 |
 | [Trust](trust/README.md) | 31 |
-| [Wages, lending, pledges and inheritance](wages-lending-pledges-and-inheritance/README.md) | 53 |
+| [Wages, lending, pledges and inheritance](wages-lending-pledges-and-inheritance/README.md) | 52 |
 | [Watchfulness](watchfulness/README.md) | 15 |
 | [Wisdom, speech and conduct](wisdom-speech-and-conduct/README.md) | 584 |
 | [Work, possessions and stewardship](work-possessions-and-stewardship/README.md) | 126 |

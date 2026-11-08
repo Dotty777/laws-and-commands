@@ -4,13 +4,15 @@
 
 [Browse the current catalogue](browse/README.md) · [By Bible book](browse/books/README.md) · [By record type](browse/record-types/README.md) · [By topic](browse/categories/README.md)
 
-The current catalogue contains **6,416 study records** across all 70 books, including **1,976 added since the 6 November 2026 import**. It has **5,365 General** and **1,051 Personal** records and **785 supplementary Scripture links**.
+The current catalogue contains **6,407 study records** across all 70 books, including **1,997 added since the 6 November 2026 import**. It has **5,356 General** and **1,051 Personal** records and **902 supplementary Scripture links**.
 
 The seven record types are Law, Command, Commission, Instruction, Wisdom, Study Context, and Mixed. Record type describes the form of the material. Origin, original audience, and application are recorded separately.
 
-[Download the current workbook](source/current/Saints-Bible-Instructions-Catalogue-Origin-Review.xlsx) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)
+[Download the current workbook](source/current/Saints-Bible-Instructions-Catalogue-Torah-Law-Audit.xlsx) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)
 
 The origin review records the source evidence for all 26 reassigned entries. [Origin decisions](audit/origin-review.json)
+
+The Torah Law audit reviewed all 137 chapters in Exodus through Deuteronomy. [Browse the 638 Torah Law records](browse/torah-law/README.md) · [Audit decisions and merge index](audit/torah-law/README.md)
 
 ## Completeness audit of 8 November 2026
 

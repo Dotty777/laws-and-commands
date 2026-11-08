@@ -6,11 +6,10 @@
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)
 
-Records 226–300 of 479.
+Records 226–300 of 478.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| [Demetrius appoints Nicanor governor of Judea with orders to kill Judas](../../books/2-maccabees/README.md#record-aud-16-14-12)<br>`AUD-16-14-12` | [2 Maccabees 14:12–13](https://saints.bible/bible/judgement/2-maccabees/chapter-14/#v14-12) | [2 Maccabees](../../books/2-maccabees/README.md) | Earthly (Man-made) | Personal |
 | <a name="book-ezra"></a>[Arthasastha sends Ezra to inspect Judea and Jerusalem by God’s law](../../books/ezra/README.md#record-aud-17-7-14)<br>`AUD-17-7-14` | [Ezra 7:14](https://saints.bible/bible/judgement/ezra/chapter-7/#v7-14) | [Ezra](../../books/ezra/README.md) | Earthly (Man-made) | Personal |
 | [The king entrusts Ezra with offerings and funds for the temple](../../books/ezra/README.md#record-ot-ezra-v7-17)<br>`ot-ezra-v7-17` | [Ezra 7:17–20](https://saints.bible/bible/judgement/ezra/chapter-7/#v7-17) | [Ezra](../../books/ezra/README.md) | Earthly (Man-made) | General |
 | [The king appoints Ezra to organize judges and specifies penalties for disobedience](../../books/ezra/README.md#record-ot-ezra-v7-25)<br>`ot-ezra-v7-25` | [Ezra 7:25–26](https://saints.bible/bible/judgement/ezra/chapter-7/#v7-25) | [Ezra](../../books/ezra/README.md) | Earthly (Man-made) | General |
@@ -85,5 +84,6 @@ Records 226–300 of 479.
 | [God tells Jeremiah to write His oracles in a book](../../books/jeremiah/part-003.md#record-ot-jeremiah-v37-2)<br>`ot-jeremiah-v37-2` | [Jeremiah 37:2](https://saints.bible/bible/providence/jeremiah/chapter-37/#v37-2) | [Jeremiah](../../books/jeremiah/README.md) | Heavenly (God-given) | General |
 | [Nations are told to proclaim that God will gather Israel like a flock](../../books/jeremiah/part-003.md#record-ot-jeremiah-v38-10)<br>`ot-jeremiah-v38-10` | [Jeremiah 38:10](https://saints.bible/bible/providence/jeremiah/chapter-38/#v38-10) | [Jeremiah](../../books/jeremiah/README.md) | Heavenly (God-given) | General |
 | [Jeremiah charges Baruch to preserve the land purchase documents](../../books/jeremiah/part-003.md#record-ot-jeremiah-v39-14)<br>`ot-jeremiah-v39-14` | [Jeremiah 39:12–15](https://saints.bible/bible/providence/jeremiah/chapter-39/#v39-12) | [Jeremiah](../../books/jeremiah/README.md) | Heavenly (God-given) | General |
+| [Jeremiah is sent to tell Zedekiah that Babylon will take Jerusalem](../../books/jeremiah/part-003.md#record-ot-jeremiah-v41-2)<br>`ot-jeremiah-v41-2` | [Jeremiah 41:2](https://saints.bible/bible/providence/jeremiah/chapter-41/#v41-2) | [Jeremiah](../../books/jeremiah/README.md) | Heavenly (God-given) | General |
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)

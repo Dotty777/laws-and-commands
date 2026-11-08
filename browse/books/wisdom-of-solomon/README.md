@@ -6,7 +6,7 @@
 
 **39 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (1)](../../record-types/law/part-012.md#book-wisdom-of-solomon) · [Command (3)](../../record-types/command/part-017.md#book-wisdom-of-solomon) · [Wisdom (35)](../../record-types/wisdom/part-011.md#book-wisdom-of-solomon)
+**Jump by Record type:** [Law (1)](../../record-types/law/part-013.md#book-wisdom-of-solomon) · [Command (3)](../../record-types/command/part-017.md#book-wisdom-of-solomon) · [Wisdom (35)](../../record-types/wisdom/part-011.md#book-wisdom-of-solomon)
 
 | Study record | Scripture | Record type | Origin | Filing |
 | --- | --- | --- | --- | --- |
@@ -48,4 +48,4 @@
 | <a name="record-aud-26-16-24"></a>[Learn that God’s utterance sustains those who trust Him](https://saints.bible/instructions/?instruction_id=AUD-26-16-24#saints-command-catalogue)<br>`AUD-26-16-24` | [Wisdom of Solomon 16:24–26](https://saints.bible/bible/wisdom/wisdom-of-solomon/chapter-16/#v16-24) | [Wisdom](../../record-types/wisdom/part-011.md#book-wisdom-of-solomon) | Earthly (Man-made) | General |
 | <a name="record-ot-wisdom-of-solomon-v16-28"></a>[Giving thanks to God at daybreak](https://saints.bible/instructions/general/?instruction_id=ot-wisdom-of-solomon-v16-28#audience-ot-wisdom-of-solomon-v16-28)<br>`ot-wisdom-of-solomon-v16-28` · [Archive](../../../categories/worship-prayer-and-holy-things/part-006.md#ot-wisdom-of-solomon-v16-28) | [Wisdom of Solomon 16:27–29](https://saints.bible/bible/wisdom/wisdom-of-solomon/chapter-16/#v16-27) | [Wisdom](../../record-types/wisdom/part-011.md#book-wisdom-of-solomon) | Earthly (Man-made) | General |
 | <a name="record-aud-26-17-10"></a>[Wickedness is cowardly, condemned by its own conscience](https://saints.bible/instructions/?instruction_id=AUD-26-17-10#saints-command-catalogue)<br>`AUD-26-17-10` | [Wisdom of Solomon 17:10–12](https://saints.bible/bible/wisdom/wisdom-of-solomon/chapter-17/#v17-10) | [Wisdom](../../record-types/wisdom/part-011.md#book-wisdom-of-solomon) | Earthly (Man-made) | General |
-| <a name="record-aud-26-18-9"></a>[Israel at the Passover pledges to share blessings and dangers alike](https://saints.bible/instructions/?instruction_id=AUD-26-18-9#saints-command-catalogue)<br>`AUD-26-18-9` | [Wisdom of Solomon 18:9](https://saints.bible/bible/wisdom/wisdom-of-solomon/chapter-18/#v18-9) | [Law](../../record-types/law/part-012.md#book-wisdom-of-solomon) | Mixed origins | General |
+| <a name="record-aud-26-18-9"></a>[Israel at the Passover pledges to share blessings and dangers alike](https://saints.bible/instructions/?instruction_id=AUD-26-18-9#saints-command-catalogue)<br>`AUD-26-18-9` | [Wisdom of Solomon 18:9](https://saints.bible/bible/wisdom/wisdom-of-solomon/chapter-18/#v18-9) | [Law](../../record-types/law/part-013.md#book-wisdom-of-solomon) | Mixed origins | General |

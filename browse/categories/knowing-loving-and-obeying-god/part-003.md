@@ -6,12 +6,11 @@
 
 [Previous part](part-002.md) · [All parts](README.md)
 
-Records 151–193 of 193.
+Records 151–192 of 192.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [The people ask Ezra to bring the book of Moses’ law](../../books/nehemiah/README.md#record-aud-18-8-1)<br>`AUD-18-8-1` | [Nehemiah 8:1](https://saints.bible/bible/judgement/nehemiah/chapter-8/#v8-1) | [Nehemiah](../../books/nehemiah/README.md) | [Command](../../record-types/command/part-016.md#book-nehemiah) | Personal |
-| [Mordecai instructs Esther to fear God and keep his commandments](../../books/esther/README.md#record-aud-19-2-20)<br>`AUD-19-2-20` | [Esther 2:20](https://saints.bible/bible/judgement/esther/chapter-2/#v2-20) | [Esther](../../books/esther/README.md) | [Instruction](../../record-types/instruction/part-010.md#book-esther) | Personal |
+| [Mordecai instructs Esther to fear God and keep his commandments](../../books/esther/README.md#record-aud-19-2-20)<br>`AUD-19-2-20` | [Esther 2:20](https://saints.bible/bible/judgement/esther/chapter-2/#v2-20) | [Esther](../../books/esther/README.md) | [Instruction](../../record-types/instruction/part-009.md#book-esther) | Personal |
 | [Bildad: the hope of those who forget the Lord will perish](../../books/job/part-001.md#record-aud-20-8-11)<br>`AUD-20-8-11` | [Job 8:11–13](https://saints.bible/bible/judgement/job/chapter-8/#v8-11) | [Job](../../books/job/README.md) | [Wisdom](../../record-types/wisdom/part-001.md#book-job) | General |
 | [Elihu: the Almighty judges justly, so the wise in heart fear him](../../books/job/part-002.md#record-aud-20-37-23)<br>`AUD-20-37-23` | [Job 37:23–24](https://saints.bible/bible/judgement/job/chapter-37/#v37-23) | [Job](../../books/job/README.md) | [Wisdom](../../record-types/wisdom/part-001.md#book-job) | General |
 | [God directs Job to look at the beast made beside him](../../books/job/part-002.md#record-aud-20-40-15)<br>`AUD-20-40-15` | [Job 40:15](https://saints.bible/bible/judgement/job/chapter-40/#v40-15) | [Job](../../books/job/README.md) | [Command](../../record-types/command/part-016.md#book-job) | Personal |
@@ -50,7 +49,7 @@ Records 151–193 of 193.
 | [God's ways bless the holy but trip up the lawless](../../books/sirach/part-006.md#record-aud-27-39-22)<br>`AUD-27-39-22` | [Sirach 39:22–25](https://saints.bible/bible/wisdom/sirach/chapter-39/#v39-22) | [Sirach](../../books/sirach/README.md) | [Wisdom](../../record-types/wisdom/part-012.md#book-sirach) | General |
 | [All the Lord's works are good, each in its season](../../books/sirach/part-006.md#record-aud-27-39-32)<br>`AUD-27-39-32` | [Sirach 39:32–34](https://saints.bible/bible/wisdom/sirach/chapter-39/#v39-32) | [Sirach](../../books/sirach/README.md) | [Wisdom](../../record-types/wisdom/part-012.md#book-sirach) | General |
 | [An angel tells Nebuchadnezzar to serve and glorify the Most High](../../books/daniel/README.md#record-aud-31-4-34)<br>`AUD-31-4-34` | [Daniel 4:34](https://saints.bible/bible/providence/daniel/chapter-4/#v4-34) | [Daniel](../../books/daniel/README.md) | [Command](../../record-types/command/part-020.md#book-daniel) | Personal |
-| [The Lord calls His people to remember Balak’s plot and Balaam’s answer](../../books/micah/README.md#record-aud-37-6-5)<br>`AUD-37-6-5` | [Micah 6:5](https://saints.bible/bible/providence/micah/chapter-6/#v6-5) | [Micah](../../books/micah/README.md) | [Command](../../record-types/command/part-021.md#book-micah) | General |
+| [The Lord calls His people to remember Balak’s plot and Balaam’s answer](../../books/micah/README.md#record-aud-37-6-5)<br>`AUD-37-6-5` | [Micah 6:5](https://saints.bible/bible/providence/micah/chapter-6/#v6-5) | [Micah](../../books/micah/README.md) | [Command](../../record-types/command/part-020.md#book-micah) | General |
 | [Peter says God shows no partiality](../../books/acts/part-001.md#record-aud-48-10-34)<br>`AUD-48-10-34` | [Acts 10:34–35](https://saints.bible/bible/discipleship/acts/chapter-10/#v10-34) | [Acts](../../books/acts/README.md) | [Wisdom](../../record-types/wisdom/part-019.md#book-acts) | General |
 | [Obedience accompanies confidence before God and abiding in him](../../books/1-john/README.md#record-aud-66-3-19)<br>`AUD-66-3-19` | [1 John 3:19–22, 24](https://saints.bible/bible/discipleship/1-john/chapter-3/#v3-19) | [1 John](../../books/1-john/README.md) | [Wisdom](../../record-types/wisdom/part-020.md#book-1-john) | General |
 

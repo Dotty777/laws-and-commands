@@ -2,12 +2,13 @@
 
 # Browse the current Saints.Bible catalogue
 
-**6,416 study records** across **70 books**, including **785 additional Scripture links**.
+**6,407 study records** across **70 books**, including **902 additional Scripture links**.
 
 - [By book](books/README.md) — read in the Saints.Bible book and passage order.
 - [By Record type](record-types/README.md) — browse all seven types.
+- [Torah Law](torah-law/README.md) — browse the reviewed standing provisions in Exodus through Deuteronomy.
 - [By topic](categories/README.md) — browse the original topic groupings with current records, plus the 70-book audit additions.
 
 The type and topic views link to the same record in its book. The book view includes primary and additional Scripture references. The Filing column shows whether the catalogue lists the record under General or Personal.
 
-[Repository home](../README.md) · [Original category archive](../README.md#archival-import-and-category-index) · [Download the workbook](../source/current/Saints-Bible-Instructions-Catalogue-Origin-Review.xlsx)
+[Repository home](../README.md) · [Original category archive](../README.md#archival-import-and-category-index) · [Download the workbook](../source/current/Saints-Bible-Instructions-Catalogue-Torah-Law-Audit.xlsx)

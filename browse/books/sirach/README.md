@@ -6,7 +6,7 @@
 
 **425 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (1)](../../record-types/law/part-012.md#book-sirach) · [Command (6)](../../record-types/command/part-017.md#book-sirach) · [Instruction (1)](../../record-types/instruction/part-011.md#book-sirach) · [Wisdom (411)](../../record-types/wisdom/part-012.md#book-sirach) · [Study Context (6)](../../record-types/study-context/part-004.md#book-sirach)
+**Jump by Record type:** [Law (1)](../../record-types/law/part-013.md#book-sirach) · [Command (6)](../../record-types/command/part-017.md#book-sirach) · [Instruction (1)](../../record-types/instruction/part-010.md#book-sirach) · [Wisdom (411)](../../record-types/wisdom/part-012.md#book-sirach) · [Study Context (6)](../../record-types/study-context/part-004.md#book-sirach)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

@@ -4,12 +4,12 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**153 current study records.** Select a study title to open its entry in the book view.
+**152 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/offerings-sacrifice-and-atonement.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Exodus 10:2 | Leviticus 6:4 |
-| [Part 2](part-002.md) | 75 | Leviticus 6:9–10 | Greek Psalm 68:31–32 |
-| [Part 3](part-003.md) | 3 | Sirach 35:1–3 | Ezekiel 46:12 |
+| [Part 1](part-001.md) | 75 | Exodus 10:2 | Leviticus 6:19 |
+| [Part 2](part-002.md) | 75 | Leviticus 6:20 | Sirach 35:1–3 |
+| [Part 3](part-003.md) | 2 | Ezekiel 46:11 | Ezekiel 46:12 |

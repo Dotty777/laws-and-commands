@@ -15,15 +15,16 @@ from zipfile import ZipFile
 
 
 ROOT = Path(__file__).resolve().parents[1]
-WORKBOOK_NAME = "Saints-Bible-Instructions-Catalogue-Origin-Review.xlsx"
+WORKBOOK_NAME = "Saints-Bible-Instructions-Catalogue-Torah-Law-Audit.xlsx"
 WORKBOOK_PATH = f"source/current/{WORKBOOK_NAME}"
-WORKBOOK_SHA256 = "063e03279b00e3052bef198dc07af8df97c832d860be06c7a7c3389e1a1858b4"
-LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Origin-Review-2.xlsx"
-STAGING_LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Origin-Review-1.xlsx"
+WORKBOOK_SHA256 = "2e03d11e772fb46475e72dbba843cb2758292a5716776141e60b3d307bf3c9e3"
+LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Torah-Law-Audit.xlsx"
+STAGING_LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Torah-Law-Audit.xlsx"
 ARCHIVE = "data/commands.json"
-RECORD_COUNT = 6416
+MERGE_AUDIT = "audit/torah-law/decisions.json"
+RECORD_COUNT = 6407
 ARCHIVE_COUNT = 4440
-SOURCE_COUNT = 785
+SOURCE_COUNT = 902
 X = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
 R = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
 P = "http://schemas.openxmlformats.org/package/2006/relationships"
@@ -144,13 +145,13 @@ def external_link(links: dict, cell: str, prefix: str) -> str:
     return url
 
 
-def extract(workbook_path: Path, archive_ids: set[str], books: list[str]) -> list[dict]:
+def extract(workbook_path: Path, archive_ids: set[str], books: list[str], aliases: dict[str, str]) -> list[dict]:
     with ZipFile(workbook_path) as workbook:
         require(workbook.testzip() is None, "Workbook ZIP integrity check failed")
         shared = ET.fromstring(workbook.read("xl/sharedStrings.xml"))
         strings = ["".join(t.text or "" for t in item.findall(".//x:t", NS)) for item in shared]
         parts = sheet_parts(workbook)
-        require(set(parts) == {"Catalogue", "Scripture Sources"}, "Unexpected workbook sheets")
+        require(set(parts) == {"Catalogue", "Scripture Sources", "Merge Index"}, "Unexpected workbook sheets")
         cat_values, cat_links = sheet_data(workbook, parts["Catalogue"], strings, tuple(h for h, _ in CATALOGUE_COLUMNS), RECORD_COUNT)
         source_values, source_links = sheet_data(workbook, parts["Scripture Sources"], strings, SOURCE_HEADERS, SOURCE_COUNT)
 
@@ -178,7 +179,8 @@ def extract(workbook_path: Path, archive_ids: set[str], books: list[str]) -> lis
         records.append(record)
 
     records_by_id = {record["id"]: record for record in records}
-    require(archive_ids <= records_by_id.keys(), "At least one original archive record is missing from the current workbook")
+    require(archive_ids - records_by_id.keys() == archive_ids & aliases.keys(), "Unexpected loss of archive IDs")
+    require(not aliases.keys() & records_by_id.keys() and set(aliases.values()) <= records_by_id.keys(), "Invalid merge aliases")
     require(list(dict.fromkeys(record["book"] for record in records)) == books, "Workbook canon coverage or order differs from the 70-book register")
     testament_by_book = {book: "Old" if index < 43 else "New" for index, book in enumerate(books)}
     require(all(record["testament"] == testament_by_book[record["book"]] for record in records), "Workbook testament labels disagree with the register")
@@ -207,7 +209,7 @@ def extract(workbook_path: Path, archive_ids: set[str], books: list[str]) -> lis
     return records
 
 
-def summarize(records: list[dict], books: list[str]) -> dict:
+def summarize(records: list[dict], books: list[str], aliases: dict[str, str], archive_ids: set[str]) -> dict:
     def counts(key: str) -> dict:
         return dict(sorted(Counter(record[key] for record in records).items()))
 
@@ -228,7 +230,10 @@ def summarize(records: list[dict], books: list[str]) -> dict:
         "books": {book: counts_by_book[book] for book in books},
         "additional_scripture_links": sum(len(record["additional_scripture"]) for record in records),
         "records_with_additional_scripture": sum(bool(record["additional_scripture"]) for record in records),
-        "archive_join": {"path": ARCHIVE, "field": "archived_record_id", "matched": linked, "current_only": len(records) - linked},
+        "torah_laws": sum(record["study_placement"] == "Torah Law" for record in records),
+        "merged_record_ids": aliases,
+        "archive_join": {"path": ARCHIVE, "field": "archived_record_id", "matched": linked, "current_only": len(records) - linked,
+                         "merged": len(archive_ids & aliases.keys())},
     }
 
 
@@ -246,8 +251,9 @@ def main() -> None:
     del archive_rows
     books = [item["book"] for item in json.loads((ROOT / "source/translation/book-index.json").read_text(encoding="utf-8"))]
     require(len(books) == len(set(books)) == 70, "Original book register must contain 70 unique books")
-    records = extract(options.workbook, archive_ids, books)
-    summary = summarize(records, books)
+    aliases = json.loads((ROOT / MERGE_AUDIT).read_text(encoding="utf-8"))["aliases"]
+    records = extract(options.workbook, archive_ids, books, aliases)
+    summary = summarize(records, books, aliases, archive_ids)
     commands_json = "[\n" + ",\n".join(json.dumps(record, ensure_ascii=False, separators=(",", ":")) for record in records) + "\n]\n"
     outputs = {"commands.json": commands_json, "summary.json": json.dumps(summary, ensure_ascii=False, indent=2) + "\n"}
     output_dir = ROOT / "data/current"
@@ -258,7 +264,7 @@ def main() -> None:
         output_dir.mkdir(parents=True, exist_ok=True)
         for name, content in outputs.items():
             (output_dir / name).write_bytes(content.encode("utf-8"))
-    print(f"Verified {len(records):,} records, {len(books)} books, {SOURCE_COUNT} additional Scripture links, and {len(archive_ids):,} archive joins.")
+    print(f"Verified {len(records):,} active records, {len(books)} books, {SOURCE_COUNT} additional Scripture links, and {len(aliases)} merge aliases.")
 
 
 if __name__ == "__main__":

@@ -6,7 +6,7 @@
 
 **79 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (1)](../../record-types/law/part-013.md#book-luke) · [Command (24)](../../record-types/command/part-022.md#book-luke) · [Commission (13)](../../record-types/commission/part-006.md#book-luke) · [Instruction (10)](../../record-types/instruction/part-013.md#book-luke) · [Wisdom (31)](../../record-types/wisdom/part-018.md#book-luke)
+**Jump by Record type:** [Law (1)](../../record-types/law/part-014.md#book-luke) · [Command (24)](../../record-types/command/part-022.md#book-luke) · [Commission (13)](../../record-types/commission/part-006.md#book-luke) · [Instruction (10)](../../record-types/instruction/part-012.md#book-luke) · [Wisdom (31)](../../record-types/wisdom/part-018.md#book-luke)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

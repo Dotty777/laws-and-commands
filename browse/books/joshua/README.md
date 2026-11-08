@@ -6,7 +6,7 @@
 
 **87 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (3)](../../record-types/law/part-011.md#book-joshua) · [Command (57)](../../record-types/command/part-007.md#book-joshua) · [Commission (8)](../../record-types/commission/part-002.md#book-joshua) · [Instruction (18)](../../record-types/instruction/part-009.md#book-joshua) · [Study Context (1)](../../record-types/study-context/part-002.md#book-joshua)
+**Jump by Record type:** [Law (3)](../../record-types/law/part-012.md#book-joshua) · [Command (57)](../../record-types/command/part-007.md#book-joshua) · [Commission (8)](../../record-types/commission/part-002.md#book-joshua) · [Instruction (18)](../../record-types/instruction/part-008.md#book-joshua) · [Study Context (1)](../../record-types/study-context/part-002.md#book-joshua)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

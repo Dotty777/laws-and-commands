@@ -6,7 +6,7 @@
 
 **144 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (3)](../../record-types/law/part-013.md#book-matthew) · [Command (52)](../../record-types/command/part-021.md#book-matthew) · [Commission (10)](../../record-types/commission/part-006.md#book-matthew) · [Instruction (27)](../../record-types/instruction/part-013.md#book-matthew) · [Wisdom (41)](../../record-types/wisdom/part-018.md#book-matthew) · [Study Context (2)](../../record-types/study-context/part-008.md#book-matthew) · [Mixed (9)](../../record-types/mixed/README.md#book-matthew)
+**Jump by Record type:** [Law (3)](../../record-types/law/part-014.md#book-matthew) · [Command (52)](../../record-types/command/part-021.md#book-matthew) · [Commission (10)](../../record-types/commission/part-006.md#book-matthew) · [Instruction (27)](../../record-types/instruction/part-012.md#book-matthew) · [Wisdom (41)](../../record-types/wisdom/part-018.md#book-matthew) · [Study Context (2)](../../record-types/study-context/part-008.md#book-matthew) · [Mixed (9)](../../record-types/mixed/README.md#book-matthew)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

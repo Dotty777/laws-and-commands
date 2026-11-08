@@ -1,38 +1,38 @@
 {
   "schema_version": 1,
   "workbook": {
-    "path": "source/current/Saints-Bible-Instructions-Catalogue-Origin-Review.xlsx",
-    "sha256": "063e03279b00e3052bef198dc07af8df97c832d860be06c7a7c3389e1a1858b4",
-    "production_url": "https://saints.bible/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Origin-Review-2.xlsx",
-    "staging_url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Origin-Review-1.xlsx"
+    "path": "source/current/Saints-Bible-Instructions-Catalogue-Torah-Law-Audit.xlsx",
+    "sha256": "2e03d11e772fb46475e72dbba843cb2758292a5716776141e60b3d307bf3c9e3",
+    "production_url": "https://saints.bible/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Torah-Law-Audit.xlsx",
+    "staging_url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Torah-Law-Audit.xlsx"
   },
-  "records": 6416,
+  "records": 6407,
   "canonical_books": 70,
   "audiences": {
-    "General": 5365,
+    "General": 5356,
     "Personal": 1051
   },
   "record_types": {
-    "Command": 1804,
-    "Commission": 479,
-    "Instruction": 1145,
-    "Law": 948,
+    "Command": 1781,
+    "Commission": 478,
+    "Instruction": 1091,
+    "Law": 1017,
     "Mixed": 11,
     "Study Context": 561,
     "Wisdom": 1468
   },
   "origins": {
-    "Context only": 364,
-    "Earthly (Man-made)": 3113,
-    "Heavenly (God-given)": 2863,
+    "Context only": 363,
+    "Earthly (Man-made)": 3115,
+    "Heavenly (God-given)": 2853,
     "Mixed origins": 76
   },
   "books": {
     "Genesis": 316,
-    "Exodus": 496,
-    "Leviticus": 517,
-    "Numbers": 338,
-    "Deuteronomy": 404,
+    "Exodus": 491,
+    "Leviticus": 516,
+    "Numbers": 340,
+    "Deuteronomy": 399,
     "Joshua": 87,
     "Judges": 105,
     "Ruth": 24,
@@ -99,12 +99,46 @@
     "Jude": 5,
     "Revelation": 50
   },
-  "additional_scripture_links": 785,
-  "records_with_additional_scripture": 585,
+  "additional_scripture_links": 902,
+  "records_with_additional_scripture": 635,
+  "torah_laws": 638,
+  "merged_record_ids": {
+    "C0098": "C0097",
+    "C0105": "C0109",
+    "C0112": "C0113",
+    "C0151": "C0152",
+    "C0222": "C0221",
+    "C0393": "C0392",
+    "C0419": "C0418",
+    "C0429": "C0428",
+    "C0435": "C0436",
+    "C0450": "C0449",
+    "C0453": "C0451",
+    "C0491": "C0490",
+    "C0492": "C0490",
+    "C0493": "C0490",
+    "ot-numbers-v35-10": "C0943",
+    "C1049": "C0233",
+    "C1055": "C1056",
+    "C1059": "C1058",
+    "C1085": "C1086",
+    "C1090": "C1089",
+    "C1121": "C1120",
+    "C1122": "C1120",
+    "C1128": "C1127",
+    "C1194": "C1193",
+    "C0211": "C0212",
+    "C0642": "C0643",
+    "C0814": "C0815",
+    "C1036": "C1035",
+    "C1043": "C1042",
+    "C0976": "C0975"
+  },
   "archive_join": {
     "path": "data/commands.json",
     "field": "archived_record_id",
-    "matched": 4440,
-    "current_only": 1976
+    "matched": 4410,
+    "current_only": 1997,
+    "merged": 30
   }
 }

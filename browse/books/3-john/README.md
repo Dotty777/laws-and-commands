@@ -6,9 +6,9 @@
 
 **2 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Instruction (2)](../../record-types/instruction/part-016.md#book-3-john)
+**Jump by Record type:** [Instruction (2)](../../record-types/instruction/part-015.md#book-3-john)
 
 | Study record | Scripture | Record type | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| <a name="record-a030"></a>[John urges support for those who travel for the sake of the Name](https://saints.bible/instructions/general/?instruction_id=A030#audience-A030)<br>`A030` · [Archive](../../../categories/major-teachings-the-word-of-christ-handed-on/part-001.md#A030) | [3 John 1:5–8](https://saints.bible/bible/discipleship/3-john/chapter-1/#v1-5) | [Instruction](../../record-types/instruction/part-016.md#book-3-john) | Earthly (Man-made) | General |
-| <a name="record-aud-68-1-9"></a>[Imitate good and avoid imitating evil](https://saints.bible/instructions/?instruction_id=AUD-68-1-9#saints-command-catalogue)<br>`AUD-68-1-9` | [3 John 1:9–12](https://saints.bible/bible/discipleship/3-john/chapter-1/#v1-9) | [Instruction](../../record-types/instruction/part-016.md#book-3-john) | Earthly (Man-made) | Personal |
+| <a name="record-a030"></a>[John urges support for those who travel for the sake of the Name](https://saints.bible/instructions/general/?instruction_id=A030#audience-A030)<br>`A030` · [Archive](../../../categories/major-teachings-the-word-of-christ-handed-on/part-001.md#A030) | [3 John 1:5–8](https://saints.bible/bible/discipleship/3-john/chapter-1/#v1-5) | [Instruction](../../record-types/instruction/part-015.md#book-3-john) | Earthly (Man-made) | General |
+| <a name="record-aud-68-1-9"></a>[Imitate good and avoid imitating evil](https://saints.bible/instructions/?instruction_id=AUD-68-1-9#saints-command-catalogue)<br>`AUD-68-1-9` | [3 John 1:9–12](https://saints.bible/bible/discipleship/3-john/chapter-1/#v1-9) | [Instruction](../../record-types/instruction/part-015.md#book-3-john) | Earthly (Man-made) | Personal |

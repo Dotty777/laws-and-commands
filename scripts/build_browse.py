@@ -90,9 +90,12 @@ def build():
     records = read("data/current/commands.json")
     summary = read("data/current/summary.json")
     books = read("source/translation/book-index.json")
-    archive = {r["id"]: (r["category"], r["record_file"]) for r in read("data/commands.json")}
+    original = read("data/commands.json")
+    archive = {r["id"]: (r["category"], r["record_file"]) for r in original}
+    aliases = summary["merged_record_ids"]
+    active_archive = set(archive) - aliases.keys()
     archive_topics = read("data/categories.json")
-    if len(books) != summary["canonical_books"] or len(archive) != summary["archive_join"]["matched"]:
+    if len(books) != summary["canonical_books"] or len(active_archive) != summary["archive_join"]["matched"]:
         raise ValueError("Book register or archival IDs do not match the catalogue summary")
 
     books_by_name = {b["book"]: safe_slug(b["slug"]) for b in books}
@@ -137,12 +140,16 @@ def build():
 
     if (len(records) != summary["records"] or source_link_count != summary["additional_scripture_links"]
             or list(by_book) != list(books_by_name) or set(by_type) != set(types_by_name)
-            or set(by_topic) != set(topics_by_name) or archived_joined != set(archive)
+            or set(by_topic) != set(topics_by_name) or archived_joined != active_archive
             or {k: len(v) for k, v in by_book.items()} != summary["books"]
             or {k: len(v) for k, v in by_type.items()} != summary["record_types"]):
         raise ValueError("Browse groups do not match the current catalogue")
-    for name, t in topic_metadata.items():
-        if Counter(r["audience"] for r in by_topic[name] if r["archived_record_id"]) != Counter({"General": t["General"], "Personal": t["Personal"]}):
+    archived_topics = defaultdict(Counter)
+    for r in original:
+        if r["id"] in active_archive:
+            archived_topics[r["category"]][r["audience"]] += 1
+    for name in topic_metadata:
+        if Counter(r["audience"] for r in by_topic[name] if r["archived_record_id"]) != archived_topics[name]:
             raise ValueError(f"Archive-backed topic counts disagree for {name}")
 
     files = {}
@@ -200,6 +207,8 @@ def build():
                 title = f'<a name="book-{books_by_name[r["book"]]}"></a>' + title
             return (title, ref, book, md(r["origin"]), md(r["audience"]))
         type_label = type_book_link(path, r["record_type"], r["book"], r["record_type"])
+        if dimension == "torah-law":
+            return (title, ref, md(r["original_audience_or_recipient"]), md(r["origin"]))
         return (title, ref, book, type_label, md(r["audience"]))
 
     def render_group(dimension, name, slug, items, caption):
@@ -209,6 +218,7 @@ def build():
             "books": ("Study record", "Scripture", "Record type", "Origin", "Filing"),
             "record-types": ("Study record", "Scripture", "Book", "Origin", "Filing"),
             "categories": ("Study record", "Scripture", "Book", "Record type", "Filing"),
+            "torah-law": ("Torah Law", "Scripture", "Original audience", "Origin"),
         }[dimension]
         lines = [f"# {md(name)}", "", main_nav(index), "", f"**{len(items):,} current study records.** {caption}", ""]
         if dimension == "books":
@@ -258,6 +268,7 @@ def build():
         f"**{len(records):,} study records** across **{len(books):,} books**, including **{source_link_count:,} additional Scripture links**.", "",
         "- " + local(hub, "browse/books/README.md", "By book") + " — read in the Saints.Bible book and passage order.",
         "- " + local(hub, "browse/record-types/README.md", "By Record type") + " — browse all seven types.",
+        "- " + local(hub, "browse/torah-law/README.md", "Torah Law") + " — browse the reviewed standing provisions in Exodus through Deuteronomy.",
         "- " + local(hub, "browse/categories/README.md", "By topic") + " — browse the original topic groupings with current records, plus the 70-book audit additions.", "",
         "The type and topic views link to the same record in its book. The book view includes primary and additional Scripture references. The Filing column shows whether the catalogue lists the record under General or Personal.", "",
         local(hub, "README.md", "Repository home") + " · " + local(hub, "README.md", "Original category archive", "archival-import-and-category-index") + " · " +
@@ -288,7 +299,7 @@ def build():
 
     topic_index = "browse/categories/README.md"
     files[topic_index] = page(["# Browse by topic", "", main_nav(topic_index), "",
-        f"The {len(archive_topics)} original topic groups show the current versions of their {len(archive):,} archival records alongside reviewed additions with matching topics. "
+        f"The {len(archive_topics)} original topic groups show {len(active_archive):,} active archival records alongside reviewed additions with matching topics. "
         f"The 70-book audit group contains {len(by_topic[AUDIT_GROUP]):,} records whose Topic field holds their Record type.", "",
         *table(("Topic or collection", "Records"), (
             (local(topic_index, group_path("categories", slug), name), len(by_topic[name]))
@@ -300,6 +311,20 @@ def build():
         if name == AUDIT_GROUP:
             caption = "These records were added after the original archive and are also listed by book and Record type."
         render_group("categories", name, slug, by_topic[name], caption)
+    torah_index = "browse/torah-law/README.md"
+    torah = {name: [r for r in by_book[name] if r["study_placement"] == "Torah Law"]
+             for name in ("Exodus", "Leviticus", "Numbers", "Deuteronomy")}
+    count = sum(map(len, torah.values()))
+    if count != summary["torah_laws"]:
+        raise ValueError("Torah Law counts disagree")
+    files[torah_index] = page(["# Torah Law", "", main_nav(torah_index), "",
+        f"**{count:,} records tagged Torah Law.** The catalogue counts distinct standing provisions within their original scope.",
+        "", *table(("Book", "Records"), ((local(torah_index, group_path("torah-law", books_by_name[b]), b), len(rows))
+                                         for b, rows in torah.items())),
+        "", local(torah_index, "audit/torah-law/README.md", "Audit method and merge index"),
+    ])
+    for name, items in torah.items():
+        render_group("torah-law", name, books_by_name[name], items, "Select a title to see all sources in its book view.")
     if len(book_home) != len(records):
         raise ValueError("Missing canonical book record target")
     if any(len(content.encode("utf-8")) > MAX_PAGE_BYTES for content in files.values()):

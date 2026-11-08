@@ -6,7 +6,7 @@
 
 **251 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (3)](../../record-types/law/part-012.md#book-jeremiah) · [Command (83)](../../record-types/command/part-018.md#book-jeremiah) · [Commission (48)](../../record-types/commission/part-004.md#book-jeremiah) · [Instruction (58)](../../record-types/instruction/part-011.md#book-jeremiah) · [Wisdom (7)](../../record-types/wisdom/part-017.md#book-jeremiah) · [Study Context (52)](../../record-types/study-context/part-005.md#book-jeremiah)
+**Jump by Record type:** [Law (3)](../../record-types/law/part-013.md#book-jeremiah) · [Command (83)](../../record-types/command/part-018.md#book-jeremiah) · [Commission (48)](../../record-types/commission/part-004.md#book-jeremiah) · [Instruction (58)](../../record-types/instruction/part-010.md#book-jeremiah) · [Wisdom (7)](../../record-types/wisdom/part-017.md#book-jeremiah) · [Study Context (52)](../../record-types/study-context/part-005.md#book-jeremiah)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

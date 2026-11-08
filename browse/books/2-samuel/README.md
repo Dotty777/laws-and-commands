@@ -6,7 +6,7 @@
 
 **132 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (1)](../../record-types/law/part-011.md#book-2-samuel) · [Command (88)](../../record-types/command/part-010.md#book-2-samuel) · [Commission (21)](../../record-types/commission/part-002.md#book-2-samuel) · [Instruction (9)](../../record-types/instruction/part-009.md#book-2-samuel) · [Study Context (13)](../../record-types/study-context/part-002.md#book-2-samuel)
+**Jump by Record type:** [Law (1)](../../record-types/law/part-012.md#book-2-samuel) · [Command (88)](../../record-types/command/part-010.md#book-2-samuel) · [Commission (21)](../../record-types/commission/part-002.md#book-2-samuel) · [Instruction (9)](../../record-types/instruction/part-009.md#book-2-samuel) · [Study Context (13)](../../record-types/study-context/part-002.md#book-2-samuel)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

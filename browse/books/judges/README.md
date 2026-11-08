@@ -6,7 +6,7 @@
 
 **105 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (3)](../../record-types/law/part-011.md#book-judges) · [Command (66)](../../record-types/command/part-008.md#book-judges) · [Commission (9)](../../record-types/commission/part-002.md#book-judges) · [Instruction (15)](../../record-types/instruction/part-009.md#book-judges) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-judges) · [Study Context (11)](../../record-types/study-context/part-002.md#book-judges)
+**Jump by Record type:** [Law (3)](../../record-types/law/part-012.md#book-judges) · [Command (66)](../../record-types/command/part-007.md#book-judges) · [Commission (9)](../../record-types/commission/part-002.md#book-judges) · [Instruction (15)](../../record-types/instruction/part-008.md#book-judges) · [Wisdom (1)](../../record-types/wisdom/part-001.md#book-judges) · [Study Context (11)](../../record-types/study-context/part-002.md#book-judges)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |

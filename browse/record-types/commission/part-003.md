@@ -6,11 +6,10 @@
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)
 
-Records 151–225 of 479.
+Records 151–225 of 478.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
-| [David promises Amasa command of the army](../../books/2-samuel/part-002.md#record-ot-2-samuel-v19-14)<br>`ot-2-samuel-v19-14` | [2 Samuel 19:14](https://saints.bible/bible/judgement/2-samuel/chapter-19/#v19-14) | [2 Samuel](../../books/2-samuel/README.md) | Earthly (Man-made) | General |
 | [David recounts God asking him to speak a parable about fearing God](../../books/2-samuel/part-002.md#record-ot-2-samuel-v23-3)<br>`ot-2-samuel-v23-3` | [2 Samuel 23:3](https://saints.bible/bible/judgement/2-samuel/chapter-23/#v23-3) | [2 Samuel](../../books/2-samuel/README.md) | Heavenly (God-given) | Personal |
 | [The Lord’s anger against Israel leads to David’s census](../../books/2-samuel/part-002.md#record-ot-2-samuel-v24-1)<br>`ot-2-samuel-v24-1` | [2 Samuel 24:1](https://saints.bible/bible/judgement/2-samuel/chapter-24/#v24-1) | [2 Samuel](../../books/2-samuel/README.md) | Heavenly (God-given) | General |
 | <a name="book-1-kings"></a>[David appoints Solomon to reign over Israel and Judah](../../books/1-kings/part-001.md#record-aud-11-1-34)<br>`AUD-11-1-34` | [1 Kings 1:34–35](https://saints.bible/bible/judgement/1-kings/chapter-1/#v1-34) | [1 Kings](../../books/1-kings/README.md) | Earthly (Man-made) | Personal |
@@ -85,5 +84,6 @@ Records 151–225 of 479.
 | <a name="book-2-maccabees"></a>[The king sends Heliodorus to seize money deposited in the temple](../../books/2-maccabees/README.md#record-aud-16-3-7)<br>`AUD-16-3-7` | [2 Maccabees 3:7–13](https://saints.bible/bible/judgement/2-maccabees/chapter-3/#v3-7) | [2 Maccabees](../../books/2-maccabees/README.md) | Earthly (Man-made) | Personal |
 | [Antiochus sends Apollonius to kill men and sell women and younger people](../../books/2-maccabees/README.md#record-aud-16-5-24)<br>`AUD-16-5-24` | [2 Maccabees 5:24](https://saints.bible/bible/judgement/2-maccabees/chapter-5/#v5-24) | [2 Maccabees](../../books/2-maccabees/README.md) | Earthly (Man-made) | Personal |
 | [Antiochus appoints his son Antiochus king as his successor](../../books/2-maccabees/README.md#record-aud-16-9-23)<br>`AUD-16-9-23` | [2 Maccabees 9:23–25](https://saints.bible/bible/judgement/2-maccabees/chapter-9/#v9-23) | [2 Maccabees](../../books/2-maccabees/README.md) | Earthly (Man-made) | General |
+| [Demetrius appoints Nicanor governor of Judea with orders to kill Judas](../../books/2-maccabees/README.md#record-aud-16-14-12)<br>`AUD-16-14-12` | [2 Maccabees 14:12–13](https://saints.bible/bible/judgement/2-maccabees/chapter-14/#v14-12) | [2 Maccabees](../../books/2-maccabees/README.md) | Earthly (Man-made) | Personal |
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)
