@@ -1,0 +1,249 @@
+{
+  "catalogue_baseline": "b8304c4b9c92ab8349422d3652713f9b0f9ace92",
+  "records_reviewed": 26,
+  "origin_assignments": {
+    "Context only": 14,
+    "Earthly (Man-made)": 1,
+    "Heavenly (God-given)": 11
+  },
+  "decisions": [
+    {
+      "id": "torah-genesis-32-25",
+      "reference": "Genesis 32:25–33",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The wrestler requests release; Jacob requests his name. Genesis presents the figure as a man and Jacob speaks of seeing God; Hosea describes an angel. The speaker’s precise status is not settled by the record.",
+      "origin": "Context only",
+      "context_reviewed": "Genesis 32:25–33 and Hosea 12:4–5",
+      "origin_basis": "This passage groups Jacob’s request, the wrestler’s words, and the account of Israel’s custom. Genesis describes the wrestler as a man, Jacob says he saw God, and Hosea describes an angel. The custom about the sinew is narrated in verse 33."
+    },
+    {
+      "id": "ot-psalms-v49-5",
+      "reference": "Greek Psalm 49:5",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The summons to gather God's faithful speaks of God in the third person between the psalmist's narration and God's direct speech. The speaker at this line is not explicit.",
+      "origin": "Context only",
+      "context_reviewed": "Greek Psalm 49:1–7",
+      "origin_basis": "The summons says to gather God’s holy ones to Him. The surrounding lines speak of God in the third person, and verse 7 introduces His unmistakable first-person address."
+    },
+    {
+      "id": "ot-psalms-v74-5",
+      "reference": "Greek Psalm 74:5",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The warning to the lawless follows a first-person assertion of judgment, but the surrounding psalm shifts between the singer's voice and God's voice without an explicit new speaker here.",
+      "origin": "Context only",
+      "context_reviewed": "Greek Psalm 74:2–6",
+      "origin_basis": "The psalm shifts from addressing God to a first-person claim about establishing the earth’s pillars. After the pause in verse 4, the speaker who warns the lawless is unnamed.",
+      "previous_title": "The psalmist warns the wicked against pride",
+      "title": "A warning to the lawless against wrongdoing and pride"
+    },
+    {
+      "id": "ot-psalms-v74-6",
+      "reference": "Greek Psalm 74:6–9",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "This warning continues the preceding quotation, whose speaker is not explicitly identified after the shifts of voice in the psalm.",
+      "origin": "Context only",
+      "context_reviewed": "Greek Psalm 74:3–10",
+      "origin_basis": "Verse 6 continues the warning begun in verse 5. The passage speaks of God in the third person in the warning and the following explanation without naming the speaker of the warning."
+    },
+    {
+      "id": "ot-psalms-v102-14",
+      "reference": "Greek Psalm 102:14",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The line follows a third-person statement about God's knowledge, but the Saints imperative 'Remember' does not identify whether the psalmist addresses God or his hearers.",
+      "origin": "Earthly (Man-made)",
+      "context_reviewed": "Greek Psalm 102:1–2, 13–18, 22",
+      "origin_basis": "The psalmist speaks of the Lord in the third person and says to remember that we are dust. The psalm does not make clear whether the psalmist is addressing God, his own soul, or another hearer.",
+      "previous_title": "Remember that God knows we are dust",
+      "title": "The psalmist recalls that we are dust"
+    },
+    {
+      "id": "ot-isaiah-v8-23",
+      "reference": "Isaiah 8:23",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The opening words of the quotation and their addressee are difficult in the Saints edition; the scope of the quick action is unclear.",
+      "origin": "Context only",
+      "context_reviewed": "Isaiah 8:19–23 and 9:1",
+      "origin_basis": "The oracle quotes an urgent call to Zebulun, Naphtali, and neighboring regions. The quotation names neither its speaker nor the particular task to be done."
+    },
+    {
+      "id": "ot-isaiah-v10-31",
+      "reference": "Isaiah 10:31",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The call to give encouragement interrupts the list of towns affected by Assyria. This wording leaves the speaker and recipients unclear.",
+      "origin": "Context only",
+      "context_reviewed": "Isaiah 10:28–33",
+      "origin_basis": "The call to offer encouragement interrupts the account of Assyria’s advance and continues into verse 32 with poetic references to Zion and Jerusalem. The speaker is unnamed."
+    },
+    {
+      "id": "ot-isaiah-v21-5",
+      "reference": "Isaiah 21:5",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The commands about a banquet and shields precede the Lord’s separately introduced watchman commission in 21:6. Their precise speaker is unstated.",
+      "origin": "Context only",
+      "context_reviewed": "Isaiah 21:1–6",
+      "origin_basis": "The vision gives commands about the table and shields without identifying a speaker. Verse 6 separately introduces the Lord’s instruction to station a watcher."
+    },
+    {
+      "id": "ot-isaiah-v21-11",
+      "reference": "Isaiah 21:11",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The vision reports someone calling from Seir to guard the battlements, without identifying the voice further.",
+      "origin": "Context only",
+      "context_reviewed": "Isaiah 21:10–13",
+      "origin_basis": "The vision identifies Seir as the place from which someone calls to guard the battlements. It does not identify the caller or attribute the call to God."
+    },
+    {
+      "id": "ot-isaiah-v40-6",
+      "reference": "Isaiah 40:6",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The verse says a voice calls the prophet to cry out, but does not name that voice. God opens the larger oracle in 40:1.",
+      "origin": "Context only",
+      "context_reviewed": "Isaiah 40:1–9",
+      "origin_basis": "God opens the oracle, but verse 6 introduces a voice telling the prophet to cry out without identifying that voice. The proclamation distinguishes God’s enduring word from human frailty."
+    },
+    {
+      "id": "ot-isaiah-v48-16",
+      "reference": "Isaiah 48:16",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The closing words refer to the Lord sending the speaker. The change of voice makes the attribution of the opening call uncertain.",
+      "origin": "Context only",
+      "context_reviewed": "Isaiah 48:12–17",
+      "origin_basis": "The earlier first-person speech describes the Creator, while verse 16 ends with a speaker who says the Lord has sent him. The text does not mark where the voice changes within the verse."
+    },
+    {
+      "id": "ot-jeremiah-v6-25",
+      "reference": "Jeremiah 6:25",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "After a collective cry in 6:24, the warning not to enter the roads is voiced without identifying its speaker.",
+      "origin": "Context only",
+      "context_reviewed": "Jeremiah 6:22–27",
+      "origin_basis": "A collective voice reports fear in verse 24. Verse 25 warns people away from the roads and fields without identifying the speaker. Verse 26 returns to the address to the daughter of My people."
+    },
+    {
+      "id": "AUD-30-40-4",
+      "reference": "Ezekiel 40:4",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "Source in this passage: The man with the measuring reed in Ezekiel's vision. Original recipient: Ezekiel.",
+      "origin": "Heavenly (God-given)",
+      "context_reviewed": "Ezekiel 40:1–4 and 43:5–11",
+      "origin_basis": "The Lord leads Ezekiel into the temple vision. The gleaming guide tells him to observe it and report to Israel. The voice from the temple later gives a corresponding charge while the guide stands beside Ezekiel."
+    },
+    {
+      "id": "AUD-31-8-16",
+      "reference": "Daniel 8:16",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "Source in this passage: a human voice from the Ulai. Original recipient: Gabriel.",
+      "origin": "Heavenly (God-given)",
+      "context_reviewed": "Daniel 8:13–17 and 9:21–23",
+      "origin_basis": "A human-sounding voice in the vision gives Gabriel his task. This is the authority commissioning Gabriel in the vision. The speaker is unnamed, and Daniel 9 describes a separate mission from the Lord."
+    },
+    {
+      "id": "ot-micah-v2-6",
+      "reference": "Micah 2:6",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The speech is embedded in the oracle beginning at 2:3, but this edition does not clearly identify who tells whom to stop weeping.",
+      "origin": "Heavenly (God-given)",
+      "context_reviewed": "Micah 2:3–9",
+      "origin_basis": "The Saints text places this appeal within the Lord’s oracle introduced in verse 3, after the separately quoted lament in verse 4. The wording does not further identify the immediate addressee."
+    },
+    {
+      "id": "ot-nahum-v3-8",
+      "reference": "Nahum 3:8",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The Saints text addresses Amon with unusual figurative directions. The exact force and addressee require further textual review.",
+      "origin": "Context only",
+      "context_reviewed": "Nahum 3:5–11",
+      "origin_basis": "The oracle compares Nineveh with Amon and uses a figurative address in verse 8. The entry preserves that comparison and its setting."
+    },
+    {
+      "id": "AUD-44-2-11",
+      "reference": "Matthew 2:11–12",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "Speaker or source in this passage: Speaker unidentified in the dream report.",
+      "origin": "Heavenly (God-given)",
+      "context_reviewed": "Matthew 2:11–13, 19–22",
+      "origin_basis": "The magi receive a warning in a dream that redirects them away from Herod. Matthew places it alongside the protective dream warnings in this chapter. The immediate speaker of the magi’s dream is unnamed."
+    },
+    {
+      "id": "AUD-70-5-4",
+      "reference": "Revelation 5:4–5",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "John identifies the speaker as one of the elders. This verse supplies no explicit statement about who authorized the elder’s reassurance.",
+      "origin": "Heavenly (God-given)",
+      "context_reviewed": "Revelation 4:4 and 5:1–8",
+      "origin_basis": "One of the elders around the throne tells John to stop weeping and points him to the Lion who can open the scroll. The elder is the immediate speaker in the heavenly vision."
+    },
+    {
+      "id": "AUD-70-6-5",
+      "reference": "Revelation 6:5–6",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "John hears a voice among the living creatures. Neither the speaker’s identity nor the immediate recipient of the prohibition is supplied.",
+      "origin": "Heavenly (God-given)",
+      "context_reviewed": "Revelation 4:6 and 6:5–6",
+      "origin_basis": "The prohibition comes from a voice among the living creatures around the throne as the Lamb opens the third seal. The vision names neither the voice nor its immediate recipient."
+    },
+    {
+      "id": "AUD-70-6-9",
+      "reference": "Revelation 6:9–11",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "John reports that the slain witnesses were told to rest. The passage does not identify who speaks.",
+      "origin": "Heavenly (God-given)",
+      "context_reviewed": "Revelation 6:9–11",
+      "origin_basis": "The slain witnesses appeal to the holy and true Master. They receive robes and are told to rest in answer to that appeal. The immediate speaker is unnamed."
+    },
+    {
+      "id": "AUD-70-9-3",
+      "reference": "Revelation 9:3–5",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "John reports that the locusts are told whom to harm and that they receive limited permission. The giver is unstated.",
+      "origin": "Heavenly (God-given)",
+      "context_reviewed": "Revelation 9:1–5, 10–11",
+      "origin_basis": "The fifth trumpet vision presents the locusts’ authority as granted and limited, with those marked by God spared. The text names Abaddon as their king in verse 11 and leaves the giver of the restrictions unnamed."
+    },
+    {
+      "id": "AUD-70-9-13",
+      "reference": "Revelation 9:13–15",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The voice comes from the golden altar before God and addresses the sixth angel. The identity of the speaker is unstated.",
+      "origin": "Heavenly (God-given)",
+      "context_reviewed": "Revelation 9:13–15",
+      "origin_basis": "A voice from the golden altar before God directs the sixth angel to release the four bound angels. The voice is unnamed."
+    },
+    {
+      "id": "AUD-70-11-1",
+      "reference": "Revelation 11:1–2",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "John reports the words accompanying the measuring reed without naming the speaker.",
+      "origin": "Heavenly (God-given)",
+      "context_reviewed": "Revelation 10:8–11 and 11:1–3",
+      "origin_basis": "The measuring instruction is given to John in the vision. The Saints text continues the speech into the grant of authority to My two witnesses in verse 3. The speaker is unnamed."
+    },
+    {
+      "id": "AUD-70-11-3",
+      "reference": "Revelation 11:3–6",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The speaker calls them My two witnesses and grants authority, without explicitly identifying Himself in this verse.",
+      "origin": "Heavenly (God-given)",
+      "context_reviewed": "Revelation 11:1–6",
+      "origin_basis": "The speaker calls the prophets My two witnesses and grants their authority. The vision presents a heavenly commission and does not name the speaker."
+    },
+    {
+      "id": "AUD-70-22-14",
+      "reference": "Revelation 22:14–15",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "Speaker or source in this passage: The voice of the closing vision, unnamed in these verses.",
+      "origin": "Context only",
+      "context_reviewed": "Revelation 22:12–16",
+      "origin_basis": "The blessing stands between the quoted declaration in verses 12–13 and Jesus’ explicit self-identification in verse 16. The Saints text leaves the voice of the blessing unnamed."
+    },
+    {
+      "id": "AUD-70-22-18",
+      "reference": "Revelation 22:18–19",
+      "previous_origin": "Origin under review",
+      "previous_origin_basis": "The testifying voice in the epilogue gives the conditional warnings. These verses do not name the speaker explicitly.",
+      "origin": "Context only",
+      "context_reviewed": "Revelation 22:16–21",
+      "origin_basis": "The warning is given by a first-person witness after the Spirit and the bride speak. The surrounding voices include Jesus and the narrator, and the Saints text leaves the immediate speaker of the warning unnamed."
+    }
+  ]
+}

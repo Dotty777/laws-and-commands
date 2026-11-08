@@ -10,4 +10,4 @@
 
 The type and topic views link to the same record in its book. The book view includes primary and additional Scripture references. The Filing column shows whether the catalogue lists the record under General or Personal.
 
-[Repository home](../README.md) · [Original category archive](../README.md#archival-import-and-category-index) · [Download the workbook](../source/current/Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx)
+[Repository home](../README.md) · [Original category archive](../README.md#archival-import-and-category-index) · [Download the workbook](../source/current/Saints-Bible-Instructions-Catalogue-Origin-Review.xlsx)

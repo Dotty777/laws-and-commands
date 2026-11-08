@@ -8,7 +8,9 @@ The current catalogue contains **6,416 study records** across all 70 books, incl
 
 The seven record types are Law, Command, Commission, Instruction, Wisdom, Study Context, and Mixed. Record type describes the form of the material. Origin, original audience, and application are recorded separately.
 
-[Download the current workbook](source/current/Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)
+[Download the current workbook](source/current/Saints-Bible-Instructions-Catalogue-Origin-Review.xlsx) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)
+
+The origin review records the source evidence for all 26 reassigned entries. [Origin decisions](audit/origin-review.json)
 
 ## Completeness audit of 8 November 2026
 

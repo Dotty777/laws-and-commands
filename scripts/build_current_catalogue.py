@@ -15,10 +15,11 @@ from zipfile import ZipFile
 
 
 ROOT = Path(__file__).resolve().parents[1]
-WORKBOOK_NAME = "Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx"
+WORKBOOK_NAME = "Saints-Bible-Instructions-Catalogue-Origin-Review.xlsx"
 WORKBOOK_PATH = f"source/current/{WORKBOOK_NAME}"
-WORKBOOK_SHA256 = "824d533d2000e45538965fdd96340c99a7ce3232d9736ea18c0bbfc0c0af9b53"
-LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx"
+WORKBOOK_SHA256 = "063e03279b00e3052bef198dc07af8df97c832d860be06c7a7c3389e1a1858b4"
+LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Origin-Review-2.xlsx"
+STAGING_LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Origin-Review-1.xlsx"
 ARCHIVE = "data/commands.json"
 RECORD_COUNT = 6416
 ARCHIVE_COUNT = 4440
@@ -217,7 +218,7 @@ def summarize(records: list[dict], books: list[str]) -> dict:
         "workbook": {
             "path": WORKBOOK_PATH, "sha256": WORKBOOK_SHA256,
             "production_url": "https://saints.bible" + LIVE_PATH,
-            "staging_url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com" + LIVE_PATH,
+            "staging_url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com" + STAGING_LIVE_PATH,
         },
         "records": len(records),
         "canonical_books": len(books),

@@ -2,7 +2,7 @@
 
 ## Current catalogue snapshot
 
-The [current workbook](source/current/Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx) matches the workbook published on both [Saints.Bible production](https://saints.bible/instructions/) and [staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/), verified on **8 November 2026**. Its SHA-256 checksum is `824d533d2000e45538965fdd96340c99a7ce3232d9736ea18c0bbfc0c0af9b53`.
+The [current workbook](source/current/Saints-Bible-Instructions-Catalogue-Origin-Review.xlsx) matches the workbook published on both [Saints.Bible production](https://saints.bible/instructions/) and [staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/), verified on **8 November 2026**. Its SHA-256 checksum is `063e03279b00e3052bef198dc07af8df97c832d860be06c7a7c3389e1a1858b4`.
 
 The workbook contains **6,416 study records** (**5,365 General** and **1,051 Personal**) and **785 supplementary Scripture links**. The **1,976 records added** after the original import and the revised records are reflected in the current workbook and JSON. All seven Record types are represented. Study Context identifies material that supplies context, and Mixed identifies passages with more than one substantive form and no single dominant form.
 

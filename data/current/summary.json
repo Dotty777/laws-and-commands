@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "workbook": {
-    "path": "source/current/Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx",
-    "sha256": "824d533d2000e45538965fdd96340c99a7ce3232d9736ea18c0bbfc0c0af9b53",
-    "production_url": "https://saints.bible/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx",
-    "staging_url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Verified-Completeness.xlsx"
+    "path": "source/current/Saints-Bible-Instructions-Catalogue-Origin-Review.xlsx",
+    "sha256": "063e03279b00e3052bef198dc07af8df97c832d860be06c7a7c3389e1a1858b4",
+    "production_url": "https://saints.bible/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Origin-Review-2.xlsx",
+    "staging_url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Origin-Review-1.xlsx"
   },
   "records": 6416,
   "canonical_books": 70,
@@ -22,11 +22,10 @@
     "Wisdom": 1468
   },
   "origins": {
-    "Context only": 350,
-    "Earthly (Man-made)": 3112,
-    "Heavenly (God-given)": 2852,
-    "Mixed origins": 76,
-    "Origin under review": 26
+    "Context only": 364,
+    "Earthly (Man-made)": 3113,
+    "Heavenly (God-given)": 2863,
+    "Mixed origins": 76
   },
   "books": {
     "Genesis": 316,
