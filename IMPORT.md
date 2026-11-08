@@ -1,6 +1,23 @@
 # Import methodology and coverage
 
-This repository preserves the laws, commands, instructions, and related studies currently available in **Saints.Bible staging**, imported on **6 November 2026**. The authoritative catalogue is [Laws, Commands, and Instructions — The Entire Holy Bible](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/).
+## Current catalogue snapshot
+
+The [current workbook](source/current/Saints-Bible-Instructions-Catalogue-Complete-Record-Types.xlsx) matches the workbook published on both [Saints.Bible production](https://saints.bible/instructions/) and [staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/), verified on **8 November 2026**. Its SHA-256 checksum is `801c93948bdcf13f65c54fe54676fd4a04c4a49b71fab8b0a5ab468077e2b098`.
+
+The workbook contains **4,999 study records** (**4,301 General** and **698 Personal**) and **269 supplementary Scripture links**. The **559 records added** after the original import and the revised records are reflected in the current workbook and JSON. All seven Record types are represented. Study Context identifies material that supplies context, and Mixed identifies passages with more than one substantive form and no single dominant form.
+
+The [current catalogue JSON](data/current/commands.json) and [current summary](data/current/summary.json) are generated from the two workbook sheets. Each current record includes its primary Scripture reference and URL, any additional Scripture references and their notes, and the catalogue's separate type, origin, audience, and application fields. Use `archived_record_id` to look up the matching `id` in [the archival JSON](data/commands.json) for expanded source wording, verse text, and research. That field is null for the 559 records added after the archive.
+
+To rebuild the current JSON and summary from the repository root, use Python 3.11 or later.
+
+```sh
+python scripts/build_current_catalogue.py
+python scripts/build_current_catalogue.py --check
+```
+
+## Archival import of 6 November 2026
+
+The archival collection preserves the laws, commands, instructions, and related studies available in **Saints.Bible staging on 6 November 2026**. Its source page is [Laws, Commands, and Instructions — The Entire Holy Bible](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/).
 
 The import contains **all 4,440 catalogue records**, organized under the source's **50 topics**, then General or Personal audience, classification, and stable record ID. The category index is in [README.md](README.md). These are overlapping study records, not a deduplicated or certified exhaustive list of biblical commandments.
 
@@ -19,9 +36,9 @@ The import contains **all 4,440 catalogue records**, organized under the source'
 | Harmony studies | 24 |
 | **Total study records** | **4,440** |
 
-The expanded Old Testament collection covers all **43 Old Testament books** currently included by Saints.Bible, including its additional books. The New Testament register provides navigation for all **27 New Testament books**. The repository imports the existing catalogue's records; it does not invent entries for books or passages that the site has not yet indexed.
+The expanded Old Testament collection covers all **43 Old Testament books** in the Saints.Bible edition. The New Testament register provides navigation for all **27 New Testament books**. The archival collection reproduces the catalogue records present at the time of the import.
 
-The older Instructions Index contains only 1,223 Torah requirements. The import uses the current **1,252-requirement** catalogue and retains the old index only as a source snapshot. Its 29 later additions are included.
+The older Instructions Index contains 1,223 Torah requirements. The archival import uses the **1,252-requirement** catalogue available on 6 November and retains the older index as a source snapshot.
 
 ## Verses, wording, and editorial notes
 
@@ -37,7 +54,7 @@ The import preserves both forms of wording; it does not silently replace the cat
 
 General and Personal are audience categories. The site's Transformed, Fulfilled, Unchanged, Everlasting, historical, covenant-specific, uncertain, and study-context classifications remain separate. Provisional audience assignments and application review notes remain visible. The import adds no theological classifications or claims about universal application.
 
-## Files
+## Archival files
 
 - `categories/`: human-readable Markdown, grouped by the source's 50 topics. Larger categories use a short overview and linked reading parts under 220 KB.
 - `data/commands.json`: complete category-sorted records, associated passage text, and original research.
@@ -51,7 +68,7 @@ General and Personal are audience categories. The site's Transformed, Fulfilled,
 - `source/translation/books/`: the 70 live per-book translation exports used to resolve citations.
 - `source/manifest.json`: SHA-256 checksums of the source snapshots.
 
-## Rebuild and verify
+## Rebuild and verify the archival import
 
 Use Python 3.11 or later with `lxml` installed. All commands run from the repository root.
 

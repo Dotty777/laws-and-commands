@@ -1,12 +1,20 @@
 # Laws and commands
 
-All **4,440 study records** from the Saints.Bible staging catalogue, sorted into **50 categories**, with the source wording, associated verses, classifications, audience notes, and original research.
+## Current Saints.Bible catalogue
 
-Imported **6 November 2026** from [Saints.Bible staging — Laws, Commands, and Instructions](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/).
+The current catalogue contains **4,999 study records** across all 70 books, including **559 added since the 6 November 2026 import**. It has **4,301 General** and **698 Personal** records and **269 supplementary Scripture links**.
 
-**3,869 General · 571 Personal.** The source includes overlapping commandments, historical directions, passage groups, and teaching studies. Its records are a working catalogue, not a verified count of unique biblical commands.
+The seven record types are Law, Command, Commission, Instruction, Wisdom, Study Context, and Mixed. Record type describes the form of the material. Origin, original audience, and application are recorded separately.
 
-[Methodology and coverage](IMPORT.md) · [Machine-readable catalogue](data/commands.json) · [Verse index](data/verses.json) · [Validation summary](data/summary.json)
+[Download the current workbook](source/current/Saints-Bible-Instructions-Catalogue-Complete-Record-Types.xlsx) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)
+
+## Archival import and category index
+
+The **6 November 2026** import preserves **4,440 study records** from [Saints.Bible staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/) in **50 topical categories**, with the source wording, associated verses, classifications, audience notes, and original research.
+
+**3,869 General · 571 Personal.** The archive contains overlapping commandments, historical directions, passage groups, and teaching studies. Its totals count study records.
+
+[Methodology and coverage](IMPORT.md) · [Archival catalogue JSON](data/commands.json) · [Archival verse index](data/verses.json) · [Archival summary](data/summary.json)
 
 Saints Translation and the catalogue’s Saints Greek-English wording are kept distinct. Source scope, disputed classifications, historical settings, and audience review notes remain attached to each record. Three [source wording review notices](data/source-wording-review.json) are preserved.
 
