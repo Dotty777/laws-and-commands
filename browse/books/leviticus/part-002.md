@@ -6,7 +6,7 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 516.
+Records 76–150 of 511.
 
 | Study record | Scripture | Record type | Origin | Filing |
 | --- | --- | --- | --- | --- |
@@ -84,6 +84,6 @@ Records 76–150 of 516.
 | <a name="record-c0485"></a>[Declare skin and scalp lesions clean or unclean by their prescribed criteria](https://saints.bible/instructions/general/?instruction_id=C0485#audience-C0485)<br>`C0485` · [Archive](../../../categories/food-ritual-purity-and-cleansing/part-006.md#C0485) | [Leviticus 13:3](https://saints.bible/bible/law/leviticus/chapter-13/#v13-3)<br>Also: [Leviticus 13:9–17](https://saints.bible/bible/law/leviticus/chapter-13/#v13-9), [Leviticus 13:18–28](https://saints.bible/bible/law/leviticus/chapter-13/#v13-18), [Leviticus 13:29–37](https://saints.bible/bible/law/leviticus/chapter-13/#v13-29), [Leviticus 13:38–44](https://saints.bible/bible/law/leviticus/chapter-13/#v13-38) | [Law](../../record-types/law/part-003.md#book-leviticus) | Heavenly (God-given) | General |
 | <a name="record-c0486"></a>[Isolate suspected skin or scalp lesions for the specified examination periods](https://saints.bible/instructions/general/?instruction_id=C0486#audience-C0486)<br>`C0486` · [Archive](../../../categories/food-ritual-purity-and-cleansing/part-006.md#C0486) | [Leviticus 13:4–5](https://saints.bible/bible/law/leviticus/chapter-13/#v13-4)<br>Also: [Leviticus 13:21, 26, 31](https://saints.bible/bible/law/leviticus/chapter-13/#v13-21) | [Instruction](../../record-types/instruction/part-003.md#book-leviticus) | Heavenly (God-given) | General |
 | <a name="record-c0487"></a>[Wash garments after clearance of the specified skin or scalp lesion](https://saints.bible/instructions/general/?instruction_id=C0487#audience-C0487)<br>`C0487` · [Archive](../../../categories/food-ritual-purity-and-cleansing/part-006.md#C0487) | [Leviticus 13:6](https://saints.bible/bible/law/leviticus/chapter-13/#v13-6)<br>Also: [Leviticus 13:34](https://saints.bible/bible/law/leviticus/chapter-13/#v13-34) | [Instruction](../../record-types/instruction/part-003.md#book-leviticus) | Heavenly (God-given) | General |
-| <a name="record-ot-leviticus-v13-32"></a>[The priest reexamines the skin lesion on the seventh day](https://saints.bible/instructions/general/?instruction_id=ot-leviticus-v13-32#audience-ot-leviticus-v13-32)<br>`ot-leviticus-v13-32` · [Archive](../../../categories/worship-prayer-and-holy-things/part-003.md#ot-leviticus-v13-32) | [Leviticus 13:32](https://saints.bible/bible/law/leviticus/chapter-13/#v13-32) | [Law](../../record-types/law/part-003.md#book-leviticus) | Heavenly (God-given) | General |
+| <a name="record-ot-leviticus-v13-32"></a>[Priests: reexamine the specified scalp or beard lesion on the seventh day](https://saints.bible/instructions/general/?instruction_id=ot-leviticus-v13-32#audience-ot-leviticus-v13-32)<br>`ot-leviticus-v13-32` · [Archive](../../../categories/worship-prayer-and-holy-things/part-003.md#ot-leviticus-v13-32) | [Leviticus 13:32](https://saints.bible/bible/law/leviticus/chapter-13/#v13-32) | [Instruction](../../record-types/instruction/part-003.md#book-leviticus) | Heavenly (God-given) | General |
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)

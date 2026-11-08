@@ -15,16 +15,15 @@ from zipfile import ZipFile
 
 
 ROOT = Path(__file__).resolve().parents[1]
-WORKBOOK_NAME = "Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx"
+WORKBOOK_NAME = "Saints-Bible-Instructions-Catalogue-Torah-Law-Followup.xlsx"
 WORKBOOK_PATH = f"source/current/{WORKBOOK_NAME}"
-WORKBOOK_SHA256 = "e50372b887f82379fd995ab91d2985565b8adf64521cdb21fad9cec91ce04a3f"
-LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx"
-STAGING_LIVE_PATH = "/wp-content/uploads/2026/11/Saints-Bible-Instructions-Catalogue-Record-Type-Audit.xlsx"
+WORKBOOK_SHA256 = "2261581ac9b2b791b9fd84e4cf7258ebde08488673e5b657f8f02817ecec1c47"
 ARCHIVE = "data/commands.json"
 MERGE_AUDIT = "audit/record-types/decisions.json"
-RECORD_COUNT = 6613
+FOLLOWUP_AUDIT = "audit/torah-law/followup-decisions.json"
+RECORD_COUNT = 6597
 ARCHIVE_COUNT = 4440
-SOURCE_COUNT = 1056
+SOURCE_COUNT = 1071
 X = "http://schemas.openxmlformats.org/spreadsheetml/2006/main"
 R = "http://schemas.openxmlformats.org/officeDocument/2006/relationships"
 P = "http://schemas.openxmlformats.org/package/2006/relationships"
@@ -219,8 +218,8 @@ def summarize(records: list[dict], books: list[str], aliases: dict[str, str], ar
         "schema_version": 1,
         "workbook": {
             "path": WORKBOOK_PATH, "sha256": WORKBOOK_SHA256,
-            "production_url": "https://saints.bible" + LIVE_PATH,
-            "staging_url": "https://staging-8e0d-waywardnightjars.wpcomstaging.com" + STAGING_LIVE_PATH,
+            "production_url": None,
+            "staging_url": None,
         },
         "records": len(records),
         "canonical_books": len(books),
@@ -239,11 +238,11 @@ def summarize(records: list[dict], books: list[str], aliases: dict[str, str], ar
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--workbook", type=Path, default=ROOT / WORKBOOK_PATH, help="Read another copy of the exact published workbook")
+    parser.add_argument("--workbook", type=Path, default=ROOT / WORKBOOK_PATH, help="Read another copy of the exact audited workbook")
     parser.add_argument("--check", action="store_true", help="Compare generated data with the checked-in files without writing")
     options = parser.parse_args()
 
-    require(hashlib.sha256(options.workbook.read_bytes()).hexdigest() == WORKBOOK_SHA256, "Workbook SHA-256 does not match the verified public snapshot")
+    require(hashlib.sha256(options.workbook.read_bytes()).hexdigest() == WORKBOOK_SHA256, "Workbook SHA-256 does not match the audited snapshot")
     with (ROOT / ARCHIVE).open(encoding="utf-8") as file:
         archive_rows = json.load(file)
     archive_ids = {row["id"] for row in archive_rows}
@@ -252,8 +251,15 @@ def main() -> None:
     books = [item["book"] for item in json.loads((ROOT / "source/translation/book-index.json").read_text(encoding="utf-8"))]
     require(len(books) == len(set(books)) == 70, "Original book register must contain 70 unique books")
     aliases = json.loads((ROOT / MERGE_AUDIT).read_text(encoding="utf-8"))["aliases"]
+    followup = json.loads((ROOT / FOLLOWUP_AUDIT).read_text(encoding="utf-8"))
+    new_aliases = followup["new_aliases"]
+    require(not aliases.keys() & new_aliases.keys(), "Duplicate merge aliases in the follow-up audit")
+    aliases.update(new_aliases)
     records = extract(options.workbook, archive_ids, books, aliases)
     summary = summarize(records, books, aliases, archive_ids)
+    torah_law_books = Counter(record["book"] for record in records if record["study_placement"] == "Torah Law")
+    require(summary["torah_laws"] == followup["counts"]["torah_laws"] and
+            torah_law_books == followup["counts"]["torah_law_books"], "Torah Law totals differ from the follow-up audit")
     commands_json = "[\n" + ",\n".join(json.dumps(record, ensure_ascii=False, separators=(",", ":")) for record in records) + "\n]\n"
     outputs = {"commands.json": commands_json, "summary.json": json.dumps(summary, ensure_ascii=False, indent=2) + "\n"}
     output_dir = ROOT / "data/current"

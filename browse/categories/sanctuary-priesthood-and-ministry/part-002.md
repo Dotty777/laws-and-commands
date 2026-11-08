@@ -6,7 +6,7 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 308.
+Records 76–150 of 307.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
@@ -24,7 +24,7 @@ Records 76–150 of 308.
 | [Successor high priest: wear the holy garments during the seven-day consecration](../../books/exodus/part-006.md#record-c0326)<br>`C0326` | [Exodus 29:29–30](https://saints.bible/bible/law/exodus/chapter-29/#v29-29) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
 | [Boil the consecration ram's flesh in a holy place](../../books/exodus/part-006.md#record-c0327)<br>`C0327` | [Exodus 29:31](https://saints.bible/bible/law/exodus/chapter-29/#v29-31) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
 | [Aaron and sons: eat the consecration flesh and bread at the tent entrance](../../books/exodus/part-006.md#record-c0328)<br>`C0328` | [Exodus 29:32–33](https://saints.bible/bible/law/exodus/chapter-29/#v29-32) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
-| [Do not allow outsiders to eat the holy priestly portions](../../books/exodus/part-006.md#record-c0329)<br>`C0329` | [Exodus 29:33](https://saints.bible/bible/law/exodus/chapter-29/#v29-33) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
+| [Do not allow outsiders to eat the consecration meal](../../books/exodus/part-006.md#record-c0329)<br>`C0329` | [Exodus 29:33](https://saints.bible/bible/law/exodus/chapter-29/#v29-33) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Burn remaining consecration food in the morning](../../books/exodus/part-006.md#record-c0330)<br>`C0330` | [Exodus 29:34](https://saints.bible/bible/law/exodus/chapter-29/#v29-34) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
 | [Do not eat the consecration leftovers after the appointed time](../../books/exodus/part-006.md#record-c0331)<br>`C0331` | [Exodus 29:34](https://saints.bible/bible/law/exodus/chapter-29/#v29-34) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Carry out the priests' ordination over seven days](../../books/exodus/part-006.md#record-aud-02-29-35)<br>`AUD-02-29-35` | [Exodus 29:35](https://saints.bible/bible/law/exodus/chapter-29/#v29-35) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
@@ -50,7 +50,7 @@ Records 76–150 of 308.
 | [Do not reproduce holy anointing oil for private use](../../books/exodus/part-006.md#record-c0349)<br>`C0349` | [Exodus 30:32–33](https://saints.bible/bible/law/exodus/chapter-30/#v30-32) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Prepare the holy incense with the prescribed composition](../../books/exodus/part-006.md#record-c0350)<br>`C0350` | [Exodus 30:34–35](https://saints.bible/bible/law/exodus/chapter-30/#v30-34) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
 | [Incense reserved for worship](../../books/exodus/part-006.md#record-s057)<br>`S057` | [Exodus 30:34–38](https://saints.bible/bible/law/exodus/chapter-30/#v30-34) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
-| [Grind the prescribed incense finely](../../books/exodus/part-007.md#record-c0351)<br>`C0351` | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
+| [Grind the prescribed incense finely](../../books/exodus/part-006.md#record-c0351)<br>`C0351` | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
 | [Place the prescribed incense before the Testimony](../../books/exodus/part-007.md#record-c1230)<br>`C1230` | [Exodus 30:36](https://saints.bible/bible/law/exodus/chapter-30/#v30-36) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
 | [Do not reproduce the holy incense for personal enjoyment](../../books/exodus/part-007.md#record-c0352)<br>`C0352` | [Exodus 30:37–38](https://saints.bible/bible/law/exodus/chapter-30/#v30-37) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Appointed artisans: make the commissioned sanctuary and priestly furnishings](../../books/exodus/part-007.md#record-c0353)<br>`C0353` | [Exodus 31:6–11](https://saints.bible/bible/law/exodus/chapter-31/#v31-6) | [Exodus](../../books/exodus/README.md) | [Commission](../../record-types/commission/part-001.md#book-exodus) | General |

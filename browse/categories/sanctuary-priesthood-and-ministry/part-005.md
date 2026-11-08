@@ -6,11 +6,10 @@
 
 [Previous part](part-004.md) · [All parts](README.md)
 
-Records 301–308 of 308.
+Records 301–307 of 307.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Fear the Lord, honor His priests, and give them their portion](../../books/sirach/part-002.md#record-aud-27-7-29)<br>`AUD-27-7-29` | [Sirach 7:29–31](https://saints.bible/bible/wisdom/sirach/chapter-7/#v7-29) | [Sirach](../../books/sirach/README.md) | [Wisdom](../../record-types/wisdom/part-012.md#book-sirach) | General |
 | [Jeremiah is told to answer Shemaiah and rebuke the priest Zephaniah](../../books/jeremiah/part-003.md#record-aud-29-36-24)<br>`AUD-29-36-24` | [Jeremiah 36:24–27](https://saints.bible/bible/providence/jeremiah/chapter-36/#v36-24) | [Jeremiah](../../books/jeremiah/README.md) | [Commission](../../record-types/commission/part-005.md#book-jeremiah) | Personal |
 | [The guide tells Ezekiel to observe the temple vision and report it](../../books/ezekiel/part-003.md#record-aud-30-40-4)<br>`AUD-30-40-4` | [Ezekiel 40:4](https://saints.bible/bible/providence/ezekiel/chapter-40/#v40-4) | [Ezekiel](../../books/ezekiel/README.md) | [Commission](../../record-types/commission/part-005.md#book-ezekiel) | Personal |
 | [Levites who served idols may not serve as priests](../../books/ezekiel/part-003.md#record-aud-30-44-13)<br>`AUD-30-44-13` | [Ezekiel 44:13–14](https://saints.bible/bible/providence/ezekiel/chapter-44/#v44-13) | [Ezekiel](../../books/ezekiel/README.md) | [Law](../../record-types/law/part-013.md#book-ezekiel) | General |

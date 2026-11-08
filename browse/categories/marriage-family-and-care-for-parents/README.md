@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**92 current study records.** Select a study title to open its entry in the book view.
+**90 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/marriage-family-and-care-for-parents.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 2:24 | Deuteronomy 24:1–4 |
-| [Part 2](part-002.md) | 17 | Deuteronomy 24:1–4 | Sirach 22:3–5 |
+| [Part 1](part-001.md) | 75 | Genesis 2:24 | Deuteronomy 25:1–19 |
+| [Part 2](part-002.md) | 15 | Deuteronomy 25:5 | Sirach 22:3–5 |

@@ -6,7 +6,7 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 1,017.
+Records 76–150 of 1,023.
 
 | Study record | Scripture | Book | Origin | Filing |
 | --- | --- | --- | --- | --- |
@@ -65,8 +65,8 @@ Records 76–150 of 1,017.
 | [Do not speak evil of the rulers of your people](../../books/exodus/part-004.md#record-c0209)<br>`C0209` | [Exodus 22:27](https://saints.bible/bible/law/exodus/chapter-22/#v22-27) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Reverent speech and respect for rulers](../../books/exodus/part-004.md#record-s038)<br>`S038` | [Exodus 22:27](https://saints.bible/bible/law/exodus/chapter-22/#v22-27) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Do not delay the prescribed firstfruit offerings](../../books/exodus/part-004.md#record-c0210)<br>`C0210` | [Exodus 22:28](https://saints.bible/bible/law/exodus/chapter-22/#v22-28) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Give the firstborn animal to God from the eighth day, after seven days with its mother](../../books/exodus/part-004.md#record-c0212)<br>`C0212` | [Exodus 22:29](https://saints.bible/bible/law/exodus/chapter-22/#v22-29) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
-| [Do not eat flesh torn by wild animals](../../books/exodus/part-004.md#record-c0214)<br>`C0214` | [Exodus 22:30](https://saints.bible/bible/law/exodus/chapter-22/#v22-30) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
+| [Give the firstborn animal to God on the eighth day, after seven days with its mother](../../books/exodus/part-004.md#record-c0212)<br>`C0212` | [Exodus 22:29](https://saints.bible/bible/law/exodus/chapter-22/#v22-29) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
+| [Do not eat flesh torn by wild animals and throw it to the dogs](../../books/exodus/part-004.md#record-c0214)<br>`C0214` | [Exodus 22:30](https://saints.bible/bible/law/exodus/chapter-22/#v22-30) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Meat torn by animals in Israel’s food law](../../books/exodus/part-004.md#record-s039)<br>`S039` | [Exodus 22:30](https://saints.bible/bible/law/exodus/chapter-22/#v22-30) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [Do not accept or circulate a false report](../../books/exodus/part-004.md#record-c0216)<br>`C0216` | [Exodus 23:1](https://saints.bible/bible/law/exodus/chapter-23/#v23-1) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |
 | [No false reports or dishonest testimony](../../books/exodus/part-004.md#record-s040)<br>`S040` | [Exodus 23:1](https://saints.bible/bible/law/exodus/chapter-23/#v23-1) | [Exodus](../../books/exodus/README.md) | Heavenly (God-given) | General |

@@ -6,12 +6,10 @@
 
 [Previous part](part-001.md) · [All parts](README.md)
 
-Records 76–86 of 86.
+Records 76–84 of 84.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Do not glean the remaining olives after the first gathering](../../books/deuteronomy/part-005.md#record-c1179)<br>`C1179` | [Deuteronomy 24:20](https://saints.bible/bible/law/deuteronomy/chapter-24/#v24-20) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
-| [Bring firstfruits and confess the exodus story; distribute third-year tithes; make the declaration; keep the covenant](../../books/deuteronomy/part-005.md#record-torah-deuteronomy-26-1)<br>`torah-deuteronomy-26-1` | [Deuteronomy 26:1–19](https://saints.bible/bible/law/deuteronomy/chapter-26/#v26-1) | [Deuteronomy](../../books/deuteronomy/README.md) | [Law](../../record-types/law/part-009.md#book-deuteronomy) | General |
 | [Make the prescribed declaration of Israel’s deliverance when presenting firstfruits](../../books/deuteronomy/part-005.md#record-c1198)<br>`C1198` | [Deuteronomy 26:3–10](https://saints.bible/bible/law/deuteronomy/chapter-26/#v26-3) | [Deuteronomy](../../books/deuteronomy/README.md) | [Instruction](../../record-types/instruction/part-007.md#book-deuteronomy) | General |
 | [Priest: receive the firstfruits basket](../../books/deuteronomy/part-005.md#record-c1199)<br>`C1199` | [Deuteronomy 26:4](https://saints.bible/bible/law/deuteronomy/chapter-26/#v26-4) | [Deuteronomy](../../books/deuteronomy/README.md) | [Instruction](../../record-types/instruction/part-007.md#book-deuteronomy) | General |
 | [Priest: set the firstfruits basket before the altar](../../books/deuteronomy/part-005.md#record-c1251)<br>`C1251` | [Deuteronomy 26:4](https://saints.bible/bible/law/deuteronomy/chapter-26/#v26-4) | [Deuteronomy](../../books/deuteronomy/README.md) | [Instruction](../../record-types/instruction/part-007.md#book-deuteronomy) | General |

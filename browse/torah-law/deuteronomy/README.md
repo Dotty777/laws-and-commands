@@ -4,10 +4,10 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**168 current study records.** Select a title to see all sources in its book view.
+**165 current study records.** Select a title to see all sources in its book view.
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Deuteronomy 1:16 | Deuteronomy 18:6–8 |
-| [Part 2](part-002.md) | 75 | Deuteronomy 18:6–8 | Deuteronomy 24:5 |
-| [Part 3](part-003.md) | 18 | Deuteronomy 24:6 | Deuteronomy 27:25 |
+| [Part 1](part-001.md) | 75 | Deuteronomy 1:16 | Deuteronomy 18:10 |
+| [Part 2](part-002.md) | 75 | Deuteronomy 18:10 | Deuteronomy 24:10 |
+| [Part 3](part-003.md) | 15 | Deuteronomy 24:14–15 | Deuteronomy 27:25 |

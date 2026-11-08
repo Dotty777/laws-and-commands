@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 263.
+Records 1–75 of 270.
 
 | Torah Law | Scripture | Original audience | Origin |
 | --- | --- | --- | --- |
@@ -15,7 +15,7 @@ Records 1–75 of 263.
 | [Give the grain offering remainder to the eligible priests for eating in the holy place](../../books/leviticus/part-001.md#record-c0388)<br>`C0388` | [Leviticus 2:3](https://saints.bible/bible/law/leviticus/chapter-2/#v2-3) | Aaron and his sons as priests | Heavenly (God-given) |
 | [Do not make the altar grain offering with leaven](../../books/leviticus/part-001.md#record-c0389)<br>`C0389` | [Leviticus 2:11](https://saints.bible/bible/law/leviticus/chapter-2/#v2-11) | Israelite offerer | Heavenly (God-given) |
 | [Do not burn honey on the altar](../../books/leviticus/part-001.md#record-c0390)<br>`C0390` | [Leviticus 2:11–12](https://saints.bible/bible/law/leviticus/chapter-2/#v2-11) | Israelite offerers and officiating priests | Heavenly (God-given) |
-| [Leaven and honey may be brought as firstfruits](../../books/leviticus/part-001.md#record-c0391)<br>`C0391` | [Leviticus 2:11–12](https://saints.bible/bible/law/leviticus/chapter-2/#v2-11) | Israelite offerers and officiating priests | Heavenly (God-given) |
+| [Leaven and honey may be brought as firstfruits](../../books/leviticus/part-001.md#record-c0391)<br>`C0391` | [Leviticus 2:12](https://saints.bible/bible/law/leviticus/chapter-2/#v2-12) | Israelite offerers and officiating priests | Heavenly (God-given) |
 | [Include the covenant salt with every offering](../../books/leviticus/part-001.md#record-c0392)<br>`C0392` | [Leviticus 2:13](https://saints.bible/bible/law/leviticus/chapter-2/#v2-13) | Israelite offerer | Heavenly (God-given) |
 | [Prepare a first-produce grain offering with roasted groats, oil and frankincense](../../books/leviticus/part-001.md#record-aud-03-2-14)<br>`AUD-03-2-14` | [Leviticus 2:14–16](https://saints.bible/bible/law/leviticus/chapter-2/#v2-14) | Israelites who bring a first-produce grain offering and the officiating priest | Heavenly (God-given) |
 | [Present an unblemished animal of the prescribed kinds for a peace or deliverance offering](../../books/leviticus/part-001.md#record-c0394)<br>`C0394` | [Leviticus 3:1](https://saints.bible/bible/law/leviticus/chapter-3/#v3-1) | Israelite offerer | Heavenly (God-given) |

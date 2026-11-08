@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 308.
+Records 1–75 of 307.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ Records 1–75 of 308.
 | [Carry the altar by its poles](../../books/exodus/part-005.md#record-c0280)<br>`C0280` | [Exodus 27:7](https://saints.bible/bible/law/exodus/chapter-27/#v27-7) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
 | [Make the court with its prescribed hangings, posts, bases and gateway](../../books/exodus/part-005.md#record-c0281)<br>`C0281` | [Exodus 27:9–18](https://saints.bible/bible/law/exodus/chapter-27/#v27-9) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
 | [Make the tabernacle and court equipment and pegs of bronze](../../books/exodus/part-005.md#record-c0282)<br>`C0282` | [Exodus 27:19](https://saints.bible/bible/law/exodus/chapter-27/#v27-19) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |
-| [Supply pure beaten olive oil for the sanctuary light](../../books/exodus/part-006.md#record-c0283)<br>`C0283` | [Exodus 27:20](https://saints.bible/bible/law/exodus/chapter-27/#v27-20) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
+| [Supply pure beaten olive oil for the sanctuary light](../../books/exodus/part-005.md#record-c0283)<br>`C0283` | [Exodus 27:20](https://saints.bible/bible/law/exodus/chapter-27/#v27-20) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Priests: maintain the sanctuary lamps from evening to morning](../../books/exodus/part-006.md#record-c0284)<br>`C0284` | [Exodus 27:21](https://saints.bible/bible/law/exodus/chapter-27/#v27-21) | [Exodus](../../books/exodus/README.md) | [Law](../../record-types/law/part-001.md#book-exodus) | General |
 | [Appoint Aaron and his sons to the priesthood](../../books/exodus/part-006.md#record-c0285)<br>`C0285` | [Exodus 28:1](https://saints.bible/bible/law/exodus/chapter-28/#v28-1) | [Exodus](../../books/exodus/README.md) | [Commission](../../record-types/commission/part-001.md#book-exodus) | General |
 | [Aaron's family, garments, ephod, breastpiece, stones, robe, plate, tunics and undergarments](../../books/exodus/part-006.md#record-torah-exodus-28-1)<br>`torah-exodus-28-1` | [Exodus 28:1–43](https://saints.bible/bible/law/exodus/chapter-28/#v28-1) | [Exodus](../../books/exodus/README.md) | [Instruction](../../record-types/instruction/part-001.md#book-exodus) | General |

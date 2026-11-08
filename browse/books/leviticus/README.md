@@ -4,16 +4,16 @@
 
 [Browse home](../../README.md) · [All books](../README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**516 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
+**511 current study records.** Use the Scripture column to open the passage, or follow a study title to Saints.Bible.
 
-**Jump by Record type:** [Law (331)](../../record-types/law/part-003.md#book-leviticus) · [Command (27)](../../record-types/command/part-004.md#book-leviticus) · [Commission (3)](../../record-types/commission/part-001.md#book-leviticus) · [Instruction (154)](../../record-types/instruction/part-003.md#book-leviticus) · [Study Context (1)](../../record-types/study-context/part-001.md#book-leviticus)
+**Jump by Record type:** [Law (337)](../../record-types/law/part-003.md#book-leviticus) · [Command (22)](../../record-types/command/part-004.md#book-leviticus) · [Commission (3)](../../record-types/commission/part-001.md#book-leviticus) · [Instruction (148)](../../record-types/instruction/part-003.md#book-leviticus) · [Study Context (1)](../../record-types/study-context/part-001.md#book-leviticus)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
 | [Part 1](part-001.md) | 75 | Leviticus 1:1–17 | Leviticus 6:4 |
 | [Part 2](part-002.md) | 75 | Leviticus 6:9–10 | Leviticus 13:32 |
 | [Part 3](part-003.md) | 75 | Leviticus 13:33 | Leviticus 16:7 |
-| [Part 4](part-004.md) | 75 | Leviticus 16:8 | Leviticus 19:11 |
-| [Part 5](part-005.md) | 75 | Leviticus 19:12 | Leviticus 21:1–24 |
-| [Part 6](part-006.md) | 75 | Leviticus 21:5 | Leviticus 24:15 |
-| [Part 7](part-007.md) | 66 | Leviticus 24:18 | Leviticus 27:33 |
+| [Part 4](part-004.md) | 75 | Leviticus 16:8 | Leviticus 19:12 |
+| [Part 5](part-005.md) | 75 | Leviticus 19:13 | Leviticus 21:7 |
+| [Part 6](part-006.md) | 75 | Leviticus 21:7 | Leviticus 24:19–20 |
+| [Part 7](part-007.md) | 61 | Leviticus 24:22 | Leviticus 27:33 |

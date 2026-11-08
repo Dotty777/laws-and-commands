@@ -6,11 +6,10 @@
 
 [Previous part](part-002.md) · [All parts](README.md)
 
-Records 151–192 of 192.
+Records 151–191 of 191.
 
 | Study record | Scripture | Book | Record type | Filing |
 | --- | --- | --- | --- | --- |
-| [Mordecai instructs Esther to fear God and keep his commandments](../../books/esther/README.md#record-aud-19-2-20)<br>`AUD-19-2-20` | [Esther 2:20](https://saints.bible/bible/judgement/esther/chapter-2/#v2-20) | [Esther](../../books/esther/README.md) | [Instruction](../../record-types/instruction/part-010.md#book-esther) | Personal |
 | [Bildad: the hope of those who forget the Lord will perish](../../books/job/part-001.md#record-aud-20-8-11)<br>`AUD-20-8-11` | [Job 8:11–13](https://saints.bible/bible/judgement/job/chapter-8/#v8-11) | [Job](../../books/job/README.md) | [Wisdom](../../record-types/wisdom/part-001.md#book-job) | General |
 | [Elihu: the Almighty judges justly, so the wise in heart fear him](../../books/job/part-002.md#record-aud-20-37-23)<br>`AUD-20-37-23` | [Job 37:23–24](https://saints.bible/bible/judgement/job/chapter-37/#v37-23) | [Job](../../books/job/README.md) | [Wisdom](../../record-types/wisdom/part-001.md#book-job) | General |
 | [God directs Job to look at the beast made beside him](../../books/job/part-002.md#record-aud-20-40-15)<br>`AUD-20-40-15` | [Job 40:15](https://saints.bible/bible/judgement/job/chapter-40/#v40-15) | [Job](../../books/job/README.md) | [Command](../../record-types/command/part-017.md#book-job) | Personal |

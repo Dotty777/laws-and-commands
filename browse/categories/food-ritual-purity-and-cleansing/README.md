@@ -4,12 +4,12 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../README.md)
 
-**176 current study records.** Select a study title to open its entry in the book view.
+**173 current study records.** Select a study title to open its entry in the book view.
 
 [Open the original topic archive](../../../categories/food-ritual-purity-and-cleansing.md)
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Genesis 1:29–30 | Leviticus 14:36 |
-| [Part 2](part-002.md) | 75 | Leviticus 14:36–39 | Deuteronomy 14:3–20 |
-| [Part 3](part-003.md) | 26 | Deuteronomy 14:11 | Daniel 1:11–13 |
+| [Part 1](part-001.md) | 75 | Genesis 1:29–30 | Leviticus 14:36–39 |
+| [Part 2](part-002.md) | 75 | Leviticus 14:38 | Deuteronomy 14:21 |
+| [Part 3](part-003.md) | 23 | Deuteronomy 15:21–22 | Daniel 1:11–13 |

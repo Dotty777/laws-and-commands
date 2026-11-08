@@ -4,12 +4,12 @@
 
 [Browse home](../README.md) · [All books](../books/README.md) · [All Record types](../record-types/README.md) · [All topics](README.md)
 
-The 50 original topic groups show 4,394 active archival records alongside reviewed additions with matching topics. The 70-book audit group contains 604 records whose Topic field holds their Record type.
+The 50 original topic groups show 4,378 active archival records alongside reviewed additions with matching topics. The 70-book audit group contains 604 records whose Topic field holds their Record type.
 
 | Topic or collection | Records |
 | --- | ---: |
 | [Clean and Unclean, and the Tradition of the Elders](clean-and-unclean-and-the-tradition-of-the-elders/README.md) | 3 |
-| [Covenant signs, vows and dedications](covenant-signs-vows-and-dedications/README.md) | 74 |
+| [Covenant signs, vows and dedications](covenant-signs-vows-and-dedications/README.md) | 73 |
 | [Creation, personal commissions and Israel’s journeys](creation-personal-commissions-and-israels-journeys/README.md) | 310 |
 | [Cross-Scripture studies](cross-scripture-studies/README.md) | 36 |
 | [Do This in Remembrance of Me](do-this-in-remembrance-of-me/README.md) | 2 |
@@ -17,21 +17,21 @@ The 50 original topic groups show 4,394 active archival records alongside review
 | [Faith, repentance and allegiance](faith-repentance-and-allegiance/README.md) | 648 |
 | [Family, marriage and household](family-marriage-and-household/README.md) | 579 |
 | [Follow Me](follow-me/README.md) | 14 |
-| [Food, ritual purity and cleansing](food-ritual-purity-and-cleansing/README.md) | 176 |
+| [Food, ritual purity and cleansing](food-ritual-purity-and-cleansing/README.md) | 173 |
 | [Go and Make Disciples](go-and-make-disciples/README.md) | 3 |
 | [Hear and Keep](hear-and-keep/README.md) | 33 |
 | [Historical commissions, journeys and public life](historical-commissions-journeys-and-public-life/README.md) | 730 |
-| [Holiness, truthfulness and sexual conduct](holiness-truthfulness-and-sexual-conduct/README.md) | 55 |
+| [Holiness, truthfulness and sexual conduct](holiness-truthfulness-and-sexual-conduct/README.md) | 54 |
 | [Human life, injury and care for neighbours](human-life-injury-and-care-for-neighbours/README.md) | 40 |
 | [In Secret](in-secret/README.md) | 3 |
 | [Judging and Forgiving](judging-and-forgiving/README.md) | 10 |
-| [Justice, testimony, government and war](justice-testimony-government-and-war/README.md) | 362 |
+| [Justice, testimony, government and war](justice-testimony-government-and-war/README.md) | 358 |
 | [Justice, truth and protection](justice-truth-and-protection/README.md) | 229 |
-| [Knowing, loving and obeying God](knowing-loving-and-obeying-god/README.md) | 192 |
-| [Land, harvests and provision for the poor](land-harvests-and-provision-for-the-poor/README.md) | 86 |
+| [Knowing, loving and obeying God](knowing-loving-and-obeying-god/README.md) | 191 |
+| [Land, harvests and provision for the poor](land-harvests-and-provision-for-the-poor/README.md) | 84 |
 | [Major Teachings: The Word of Christ Handed On](major-teachings-the-word-of-christ-handed-on/README.md) | 71 |
 | [Marriage](marriage/README.md) | 2 |
-| [Marriage, family and care for parents](marriage-family-and-care-for-parents/README.md) | 92 |
+| [Marriage, family and care for parents](marriage-family-and-care-for-parents/README.md) | 90 |
 | [Mercy, neighbors and the vulnerable](mercy-neighbors-and-the-vulnerable/README.md) | 196 |
 | [Minor Teachings: The Scriptures Read in Christ](minor-teachings-the-scriptures-read-in-christ/README.md) | 55 |
 | [Offerings, sacrifice and atonement](offerings-sacrifice-and-atonement/README.md) | 154 |
@@ -39,7 +39,7 @@ The 50 original topic groups show 4,394 active archival records alongside review
 | [Property, honest trade and service](property-honest-trade-and-service/README.md) | 35 |
 | [Repent and Believe](repent-and-believe/README.md) | 14 |
 | [Sabbath, appointed times and remembrance](sabbath-appointed-times-and-remembrance/README.md) | 110 |
-| [Sanctuary, priesthood and ministry](sanctuary-priesthood-and-ministry/README.md) | 308 |
+| [Sanctuary, priesthood and ministry](sanctuary-priesthood-and-ministry/README.md) | 307 |
 | [Serving](serving/README.md) | 7 |
 | [Shepherds of the Flock](shepherds-of-the-flock/README.md) | 8 |
 | [Supplementary instructions](supplementary-instructions/README.md) | 41 |
@@ -52,7 +52,7 @@ The 50 original topic groups show 4,394 active archival records alongside review
 | [The Sending](the-sending/README.md) | 12 |
 | [Treasure](treasure/README.md) | 11 |
 | [Trust](trust/README.md) | 33 |
-| [Wages, lending, pledges and inheritance](wages-lending-pledges-and-inheritance/README.md) | 52 |
+| [Wages, lending, pledges and inheritance](wages-lending-pledges-and-inheritance/README.md) | 51 |
 | [Watchfulness](watchfulness/README.md) | 15 |
 | [Wisdom, speech and conduct](wisdom-speech-and-conduct/README.md) | 589 |
 | [Work, possessions and stewardship](work-possessions-and-stewardship/README.md) | 128 |
