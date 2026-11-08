@@ -1,0 +1,215 @@
+{"id": "D001", "verdict": "overlap", "keep": "both", "label_conflict": true, "confidence": "high", "note": "C0096 (12:8–9) includes the not-raw clause C0097 states. Narrow C0096 to the positive manner (roasted, with unleavened bread, bitter herbs); labels differ."}
+{"id": "D002", "verdict": "overlap", "keep": "both", "label_conflict": true, "confidence": "high", "note": "C0096 (12:8–9) includes the not-boiled clause C0098 states. Narrow C0096 to the positive manner of roasting and eating; Instruction vs Law on one clause."}
+{"id": "D003", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Raw and boiled are separate prohibitions in 12:9, like the Leviticus 21:7 example; both Torah Law."}
+{"id": "D004", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Ban on leaving meat vs burning the remainder: paired halves, but burning is a step of the Passover rite, so Instruction is explained."}
+{"id": "D005", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Leaving meat until morning and breaking a bone are separate prohibitions in 12:10."}
+{"id": "D006", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Disposal of the remainder vs the bone prohibition: different acts; differing labels fit the conventions."}
+{"id": "D007", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Eating unleavened bread vs removing leaven from houses: different acts, not a prohibition/positive pair."}
+{"id": "D008", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Duty to eat unleavened bread vs ban on eating leaven: distinct clauses, both Torah Law."}
+{"id": "D009", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Different acts. C0105 (Instruction) mirrors C0109 'no leaven in houses' (Torah Law, 12:19); that label pairing merits review."}
+{"id": "D010", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Holy assemblies vs the work ban on the same days: separate clauses of 12:16."}
+{"id": "D011", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "'Eat in one house' and 'take none outside' are paired halves; the eating place is a step of the Passover rite, so labels are explained."}
+{"id": "D012", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Different firstborn (donkey vs sons). C0118 is a standing owners' rule (+34:20); its Instruction label looks inconsistent with C0119."}
+{"id": "D013", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Redemption duty vs ban on sale to foreigners: separate clauses of 21:8."}
+{"id": "D014", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Food (necessities) and clothing are separately named in 21:10."}
+{"id": "D015", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Food (necessities) and conjugal companionship are separately named in 21:10."}
+{"id": "D016", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Clothing and conjugal companionship are separately named in 21:10."}
+{"id": "D017", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Stoning the ox vs the ban on eating its flesh: separate clauses of 21:28."}
+{"id": "D018", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "The ox's penalty vs the negligent owner's liability or ransom: different directions despite C0182's broad 21:28–32 range."}
+{"id": "D019", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Stoning the ox vs the compensation owed for a slave: different directions."}
+{"id": "D020", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Liability for killing a burglar vs selling the insolvent thief: different cases."}
+{"id": "D021", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Bringing the case before God vs double restitution: different steps. C0193's Instruction label is debatable for a standing case law."}
+{"id": "D022", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Pressing a poor borrower and charging interest are separate prohibitions in 22:24."}
+{"id": "D023", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Reviling 'gods' and cursing rulers are separate clauses of 22:27."}
+{"id": "D024", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Holiness charge (Command) vs ban on torn flesh (Law): different directions; labels follow the conventions."}
+{"id": "D025", "verdict": "split", "keep": "both", "label_conflict": true, "confidence": "medium", "note": "Ban on eating torn flesh and its disposal to dogs are one rule's two halves; disposal is no rite step, so Instruction is unexplained."}
+{"id": "D026", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Following the many into evil vs joining a multitude to pervert judgment: two clauses of 23:2, general and judicial."}
+{"id": "D027", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Duty to help raise the animal and ban on passing it by: paired clauses, both Torah Law."}
+{"id": "D028", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "False charges vs killing the innocent: separate clauses of 23:7."}
+{"id": "D029", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Avoiding false charges vs bribes and acquitting the guilty: different prohibitions."}
+{"id": "D030", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Killing the innocent vs bribes and justifying the guilty: different prohibitions."}
+{"id": "D031", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Resting the land vs leaving its produce to the poor and animals: distinct aspects of 23:11."}
+{"id": "D032", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Keeping the feast vs not appearing empty-handed: separate clauses of 23:15."}
+{"id": "D033", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Two different feasts (Weeks, Booths) named in 23:16."}
+{"id": "D034", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Blood with leaven and fat left until morning are separate prohibitions in 23:18."}
+{"id": "D035", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Firstfruits to God's house vs the milk prohibition: unrelated clauses of 23:19."}
+{"id": "D036", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Inheriting the garments (29:29) vs the successor wearing them seven days (29:30): different directions; each could cite its own verse."}
+{"id": "D037", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Priests eating the consecration meal vs outsiders barred from it: different directions; the one-occasion consecration explains the Instruction label."}
+{"id": "D038", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Burning leftovers vs not eating them: paired halves, but burning is Moses' one-occasion consecration task, so the labels are explained."}
+{"id": "D039", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Other incense vs burnt or grain offerings on the incense altar: separate clauses of 30:9."}
+{"id": "D040", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Other incense vs libations: separate clauses of 30:9."}
+{"id": "D041", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Offerings vs libations on the incense altar: separate clauses of 30:9."}
+{"id": "D042", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Applying the oil to outsiders vs copying its formula: separate prohibitions in 30:32–33."}
+{"id": "D043", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Leaven in altar grain offerings vs honey on the altar: different substances."}
+{"id": "D044", "verdict": "overlap", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "C0391's exclusion of leavened firstfruits from the altar repeats C0389's leaven ban; narrow C0391 to the 2:12 firstfruit permission."}
+{"id": "D045", "verdict": "overlap", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "C0391's honey exclusion repeats C0390; both cite 2:11–12. Narrow C0390 to 2:11 and C0391 to the 2:12 firstfruit-gift case."}
+{"id": "D046", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Positive and negative salt clauses of 2:13, usually counted separately; both Torah Law."}
+{"id": "D047", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Oil and frankincense are separately excluded in 5:11."}
+{"id": "D048", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Guilt ram vs restitution plus a fifth: different obligations."}
+{"id": "D049", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Offering kept on the hearth overnight vs fire kept burning: different directions; labels fit the conventions."}
+{"id": "D050", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Offering kept overnight vs fire not quenched: different directions."}
+{"id": "D051", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Positive and negative fire clauses (shall burn / not be quenched): paired, both Torah Law."}
+{"id": "D052", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Wholly burning the priest's grain offering vs not eating it: paired halves; burning is the offering's rite, so Instruction is defensible."}
+{"id": "D053", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Eating on the day vs leaving none until morning: paired clauses, both Torah Law."}
+{"id": "D054", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Eating ban vs burning defiled sacrificial flesh: paired halves; burning is the rite's disposal step, consistent with the conventions."}
+{"id": "D055", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Eating prohibited land animals vs touching their carcasses: separate prohibitions in 11:8."}
+{"id": "D056", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Uncleanness until evening vs washing garments: different requirements; washing as Instruction fits the conventions."}
+{"id": "D057", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Contamination rules vs demolishing ovens: different directions, though C0476's 11:34–38 range includes the oven clause; keep C0476 to status rules."}
+{"id": "D058", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Touching holy things vs entering the sanctuary: separate prohibitions in 12:4."}
+{"id": "D059", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Loosened garments vs uncovered head: separate clauses of 13:45."}
+{"id": "D060", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Loosened garments vs covering the mouth: separate clauses of 13:45."}
+{"id": "D061", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Loosened garments vs being called unclean: different directions in 13:45."}
+{"id": "D062", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Uncovered head vs covered mouth: separate clauses of 13:45."}
+{"id": "D063", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Uncovered head vs being called unclean: different directions in 13:45."}
+{"id": "D064", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Covered mouth vs being called unclean: different directions in 13:45."}
+{"id": "D065", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Washing garments vs uncleanness until evening: different requirements; labels fit the conventions."}
+{"id": "D066", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Bathing vs uncleanness until evening: different requirements; labels fit the conventions."}
+{"id": "D067", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Bathing vs uncleanness until evening: different requirements; labels fit the conventions."}
+{"id": "D068", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Self-humbling vs the work ban on the Day of Atonement: separate clauses."}
+{"id": "D069", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "low", "note": "Text lists father and mother separately, but if 'father's nakedness' means the mother (cf. 18:8), C0577 duplicates C0578. Needs translation review."}
+{"id": "D070", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Giving offspring to the cult vs profaning God's name: separate clauses of 18:21."}
+{"id": "D071", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Reaping the field fully vs gathering gleanings: separate prohibitions in 19:9."}
+{"id": "D072", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Second gleaning vs fallen grapes: separate prohibitions in 19:10."}
+{"id": "D073", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Ban on second gleaning vs duty to leave portions for the poor: paired clauses, both Torah Law."}
+{"id": "D074", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Ban on gathering fallen grapes vs duty to leave them: paired clauses, both Torah Law."}
+{"id": "D075", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Lying and defrauding are separate prohibitions in 19:11."}
+{"id": "D076", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Wronging and robbing are separate prohibitions in 19:13."}
+{"id": "D077", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Wronging a neighbour vs withholding wages overnight: separate clauses of 19:13."}
+{"id": "D078", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Robbery vs withholding wages: separate clauses of 19:13."}
+{"id": "D079", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Cursing the deaf vs obstructing the blind: separate prohibitions in 19:14."}
+{"id": "D080", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Prohibition vs the charge to fear God; the Command label fits the conventions."}
+{"id": "D081", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Prohibition vs the charge to fear God; the Command label fits the conventions."}
+{"id": "D082", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Ban on favouring the mighty vs general duty to judge righteously: separate clauses of 19:15."}
+{"id": "D083", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Going about deceitfully vs conspiring against life: separate prohibitions in 19:16."}
+{"id": "D084", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Inward hatred vs reproof: different duties. Reproof's Command label is unusual for a concrete duty; worth a look."}
+{"id": "D085", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Inward hatred vs bearing sin because of a neighbour: different clauses of 19:17."}
+{"id": "D086", "verdict": "split", "keep": "both", "label_conflict": true, "confidence": "low", "note": "If 'not bear sin because of him' means guilt from failing to reprove, it is reproof's negative; Command vs Law is then unexplained."}
+{"id": "D087", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Vengeance and grudge are separate prohibitions in 19:18."}
+{"id": "D088", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Vengeance ban vs love charge; the Command label fits the conventions."}
+{"id": "D089", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Grudge ban vs love charge; the Command label fits the conventions."}
+{"id": "D090", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Mixed breeding vs mixed sowing: separate prohibitions in 19:19."}
+{"id": "D091", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Mixed breeding vs mixed garments: separate prohibitions in 19:19."}
+{"id": "D092", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Mixed sowing vs mixed garments: separate prohibitions in 19:19."}
+{"id": "D093", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Eating on the mountains vs divination: separate prohibitions in 19:26."}
+{"id": "D094", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Eating on the mountains vs bird augury: separate prohibitions in 19:26."}
+{"id": "D095", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Divining by omens vs observing birds: separate clauses of 19:26."}
+{"id": "D096", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Head haircut vs beard: separate prohibitions in 19:27."}
+{"id": "D097", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Mourning incisions vs tattoos: separate prohibitions in 19:28."}
+{"id": "D098", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Mediums vs enchanters: separate classes in 19:31."}
+{"id": "D099", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Prostitute vs profaned woman: the brief's own example of separate clauses."}
+{"id": "D100", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Prostitute vs divorced woman: separate clauses of 21:7."}
+{"id": "D101", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Profaned woman vs divorced woman: separate clauses of 21:7."}
+{"id": "D102", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Removing the turban vs tearing garments: separate prohibitions in 21:10."}
+{"id": "D103", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Leaving the holy precincts vs profaning what is consecrated: separate clauses, though the second may state the effect of the first."}
+{"id": "D104", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Duty to marry a kinswoman virgin vs ban on a widow: paired clauses, both Torah Law."}
+{"id": "D105", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Ban on eating while unclean vs the bathing and sunset steps ending it; both cite 22:6–7. Bathing as Instruction fits the conventions."}
+{"id": "D106", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Offering blemished animals vs castrating in the land (22:24b); C0676's note also mentions offering, which C0675 already covers."}
+{"id": "D107", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Priest's portion vs the presentation rite: different directions; labels fit the conventions."}
+{"id": "D108", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Holy assembly vs work ban at Weeks: separate clauses of 23:21."}
+{"id": "D109", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Trumpet memorial rest vs holy convocation: separate clauses of 23:24."}
+{"id": "D110", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Work ban vs offering on the trumpet memorial: separate clauses of 23:25."}
+{"id": "D111", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Holy assembly vs offering on the Day of Atonement: separate clauses of 23:27."}
+{"id": "D112", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Assemblies vs work ban on Booths' first and eighth days: separate clauses."}
+{"id": "D113", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Assemblies vs the seven days' offerings: different directions."}
+{"id": "D114", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Assemblies vs the eighth-day offering: different directions."}
+{"id": "D115", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Work ban vs the seven days' offerings: different directions."}
+{"id": "D116", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Work ban vs the eighth-day offering: different directions."}
+{"id": "D117", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Seven days' offerings vs the separate eighth-day offering: different days and offerings."}
+{"id": "D118", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Sowing vs pruning: separate prohibitions in 25:4."}
+{"id": "D119", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Field aftergrowth vs unpruned vines: separate prohibitions in 25:5."}
+{"id": "D120", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Consecrating the year vs proclaiming release: different acts. C0719's Command label is odd for a legal proclamation; consider Torah Law."}
+{"id": "D121", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Consecrating the year vs returning ancestral land: different directions."}
+{"id": "D122", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Proclaiming release vs returning ancestral land: different acts."}
+{"id": "D123", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Sowing vs reaping aftergrowth: separate prohibitions in 25:11."}
+{"id": "D124", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Sowing vs gathering vine produce: separate prohibitions in 25:11."}
+{"id": "D125", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Reaping aftergrowth vs gathering vine produce: separate prohibitions in 25:11."}
+{"id": "D126", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Pillar vs figured stone: separate prohibitions in 26:1."}
+{"id": "D127", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Ban on exchange vs the consequence that both animals are holy: different directions."}
+{"id": "D128", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Priest's valuation vs added fifth on redemption: different steps; references could narrow to 27:11–12 and 27:13."}
+{"id": "D129", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Priest's valuation vs added fifth on redemption: different steps; references could narrow to 27:14 and 27:15."}
+{"id": "D130", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Valuation and payment (27:22–23) vs Jubilee return (27:24): different provisions; the AUD record could cite 27:24 only."}
+{"id": "D131", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Selling vs redeeming devoted things: separate prohibitions in 27:28."}
+{"id": "D132", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "No ransom vs carrying out the devotion: paired clauses, both Torah Law."}
+{"id": "D133", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Ban on exchange vs holiness of the substitute: different directions."}
+{"id": "D134", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Exchange vs redemption: separate prohibitions in 27:33."}
+{"id": "D135", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Holiness of the substitute vs ban on redemption: different directions."}
+{"id": "D136", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Levites' carrying service vs death liability for intruders: different directions."}
+{"id": "D137", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Intruder liability vs dismantling the tabernacle: different directions."}
+{"id": "D138", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Intruder liability vs erecting the tabernacle: different directions."}
+{"id": "D139", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Wine and strong drink vs their vinegars: separately named in 6:3."}
+{"id": "D140", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Wine and strong drink vs grapes and other vine products: separately named in 6:3–4."}
+{"id": "D141", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Vinegars vs grapes and vine products: separately named in 6:3–4."}
+{"id": "D142", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "No razor vs letting the hair grow: paired clauses, both Torah Law."}
+{"id": "D143", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Guilt lamb vs restarting the vow period: different obligations."}
+{"id": "D144", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Ban on redeeming vs the altar blood rite: different directions; labels fit the conventions."}
+{"id": "D145", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Ban on redeeming vs burning the fat: different directions; labels fit the conventions."}
+{"id": "D146", "verdict": "overlap", "keep": "both", "label_conflict": true, "confidence": "medium", "note": "Both direct the Levites' portion from their tithe; C0884 adds 'best'. Narrow C0883 to 18:26–28 or merge; labels and classifications differ."}
+{"id": "D147", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Washing garments vs uncleanness until evening: different requirements."}
+{"id": "D148", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Bathing vs uncleanness until evening: different requirements."}
+{"id": "D149", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "The sprinkler's washing vs the toucher's uncleanness: different persons and requirements."}
+{"id": "D150", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Setting apart refuge cities vs no execution before judgment: different directions."}
+{"id": "D151", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Judging intent vs rescuing the killer: different steps; C0946's range could end at 35:24."}
+{"id": "D152", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Judging intent vs residence until the high priest's death: different directions."}
+{"id": "D153", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Judging intent vs returning the killer to the refuge: different steps."}
+{"id": "D154", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Congregation's rescue vs the killer's residence: different addressees and directions."}
+{"id": "D155", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Rescuing from the avenger and restoring to the refuge are two verbs of 35:25; distinct acts, though closely linked."}
+{"id": "D156", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "The killer's residence vs the congregation returning him: different addressees."}
+{"id": "D157", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Partiality vs fear of man: separate clauses of 1:17."}
+{"id": "D158", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Impartiality vs referring hard cases: different directions."}
+{"id": "D159", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Fear of man vs referring hard cases: different directions."}
+{"id": "D160", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Adding vs subtracting: separate prohibitions in 4:2."}
+{"id": "D161", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Cleaving charge vs swearing by his name: different directions; labels fit the conventions."}
+{"id": "D162", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Coveting vs taking the idols' metal: separate prohibitions in 7:25."}
+{"id": "D163", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Not bringing the object home vs abhorring it: different directions; the attitude charge fits Command."}
+{"id": "D164", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Sparing vs concealing the enticer: separate clauses of 13:9."}
+{"id": "D165", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Reporting vs the death sentence: different acts. C1023 is the positive of C1022 'do not conceal' (Torah Law); review its label."}
+{"id": "D166", "verdict": "overlap", "keep": "both", "label_conflict": true, "confidence": "medium", "note": "Both cover the same execution (13:10–11); C1024 only adds who strikes first. Narrow C1025 to the sentence (13:11) or merge; labels differ."}
+{"id": "D167", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Gathering spoil vs not rebuilding: different directions."}
+{"id": "D168", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Burning the city vs not rebuilding: different directions."}
+{"id": "D169", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Release vs ban on exacting: paired clauses, both Torah Law."}
+{"id": "D170", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Heart (compassion) vs hand (material help): separate clauses of 15:7."}
+{"id": "D171", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Working the calf vs shearing the sheep: separate prohibitions in 15:19."}
+{"id": "D172", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Penalty vs evidentiary rule: different directions. AUD-05-17-5's 17:2–7 range spans C1054's verse; narrowing it to 17:5 would clarify."}
+{"id": "D173", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "Investigation vs sentence: different steps. AUD-05-17-5 cites 17:2–7, covering C1053's verses; narrowing it to 17:5 would clarify."}
+{"id": "D174", "verdict": "split", "keep": "both", "label_conflict": true, "confidence": "high", "note": "Following the court's judgment and not turning aside are one standing rule's two forms; Instruction vs Law is unexplained."}
+{"id": "D175", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Appointing God's chosen brother vs barring a foreigner: paired clauses, both Torah Law."}
+{"id": "D176", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Multiplying horses vs sending the people to Egypt for them: separate clauses of 17:16."}
+{"id": "D177", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "The king's horses vs Israel's return to Egypt: different addressees and directions."}
+{"id": "D178", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "medium", "note": "The king causing a return for horses vs Israel's general ban on returning: related, but different addressee and scope."}
+{"id": "D179", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Wives vs silver and gold: separate prohibitions in 17:17."}
+{"id": "D180", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Ministry vs equal share: different provisions; references could narrow to 18:6–7 and 18:8."}
+{"id": "D181", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Spoken omens vs divination: separately named in 18:10, as AUD-05-18-10's note says."}
+{"id": "D182", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Spoken omens vs sorcery: separately named in 18:10."}
+{"id": "D183", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Sorcery vs divination: separately named in 18:10."}
+{"id": "D184", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Spells vs acting as a medium: separately named in 18:11."}
+{"id": "D185", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Spells vs portents: separately named in 18:11."}
+{"id": "D186", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Spells vs inquiring of the dead: separately named in 18:11."}
+{"id": "D187", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Medium vs portents: separately named in 18:11."}
+{"id": "D188", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Medium vs inquiring of the dead: separately named in 18:11."}
+{"id": "D189", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Portents vs inquiring of the dead: separately named in 18:11."}
+{"id": "D190", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Ban on one witness vs the two-or-three-witness rule: paired clauses, both Torah Law."}
+{"id": "D191", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Judgment on males vs exemption of women and dependants: different provisions."}
+{"id": "D192", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Release vs ban on sale: separate clauses of 21:14."}
+{"id": "D193", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Release vs ban on contempt: separate clauses of 21:14."}
+{"id": "D194", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Sale vs contempt: separate prohibitions in 21:14."}
+{"id": "D195", "verdict": "split", "keep": "both", "label_conflict": true, "confidence": "high", "note": "'Do not leave overnight' and 'bury the same day' are one standing rule's two forms; Instruction vs Law is unexplained."}
+{"id": "D196", "verdict": "duplicate", "keep": "C1120", "label_conflict": false, "confidence": "high", "note": "C1122's 'prohibited treatment' is leaving the body hanging (its own note), the same act as C1120; the land clause is the rationale."}
+{"id": "D197", "verdict": "split", "keep": "both", "label_conflict": true, "confidence": "medium", "note": "Burial duty vs its negative (C1122, which duplicates C1120); Instruction vs Law for one rule is unexplained."}
+{"id": "D198", "verdict": "split", "keep": "both", "label_conflict": true, "confidence": "medium", "note": "Ban on disregarding vs safekeeping found property are the rule's two sides; safekeeping is a standing duty, so Instruction is unexplained."}
+{"id": "D199", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Woman's and man's clothing: separate clauses of 22:5."}
+{"id": "D200", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Prohibition vs its consequence (the crop becomes consecrated): different directions."}
+{"id": "D201", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Fine vs ban on divorce: separate clauses of 22:19."}
+{"id": "D202", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Payment vs marriage: separate clauses of 22:29."}
+{"id": "D203", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Payment vs ban on divorce: separate clauses of 22:29."}
+{"id": "D204", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Marriage obligation vs ban on divorce: separate clauses of 22:29."}
+{"id": "D205", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Edomite vs Egyptian: separate prohibitions in 23:8."}
+{"id": "D206", "verdict": "split", "keep": "both", "label_conflict": true, "confidence": "medium", "note": "'Go outside the camp' and 'do not enter it' are one exclusion's two forms; a purity rule, not a rite step, so the labels conflict."}
+{"id": "D207", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Freedom of residence vs ban on affliction: separate clauses of 23:17."}
+{"id": "D208", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Prostitution vs initiation rites: separate clauses of 23:18."}
+{"id": "D209", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Prostitute's hire vs price of a dog: separately named in 23:19."}
+{"id": "D210", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Exemption from duty vs gladdening the wife: different directions."}
+{"id": "D211", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Widow's pledge vs perverting judgment: separate clauses of 24:17."}
+{"id": "D212", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Remembrance charge vs olive gleaning ban: different directions; the Command label fits the conventions."}
+{"id": "D213", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Widow's restriction vs the brother's duty: different addressees."}
+{"id": "D214", "verdict": "split", "keep": "both", "label_conflict": false, "confidence": "high", "note": "Penalty vs ban on pity: paired clauses, both Torah Law."}
+{"batch": "D1", "done": true}

@@ -1,0 +1,76 @@
+{
+ "sample": 62,
+ "drawn_from": "40 of the 613 matches, 10 label findings and all 12 duplicate findings of the 556 check",
+ "judged_against": "the 556-record catalogue (commit 3d53008)",
+ "verdicts": {
+  "correct": 56,
+  "partly": 4,
+  "wrong": 2
+ },
+ "by_kind": {
+  "613": {
+   "correct": 37,
+   "partly": 1,
+   "wrong": 2
+  },
+  "label": {
+   "correct": 8,
+   "partly": 2
+  },
+  "duplicate": {
+   "correct": 11,
+   "partly": 1
+  }
+ },
+ "cases": [
+  {
+   "n": 20,
+   "kind": "613",
+   "ref": "N58",
+   "verdict": "partly",
+   "note": "Status is right via C1091 (historical direction, Deut 20:1–4), but S116 is a topical study and should not be listed as itemizing.",
+   "action": "Removed S116 from N58; its status (only a historical direction, C1091) stands."
+  },
+  {
+   "n": 23,
+   "kind": "613",
+   "ref": "N171",
+   "verdict": "wrong",
+   "note": "S126 is a topical study. C0655 (Torah Law, Lev 21:5) states the same mourning-baldness ban, which Maimonides counts once, so torah_law.",
+   "action": "Corrected: N171 is itemized by C0655 at the 556 and now also by S126, which the revision made Torah Law."
+  },
+  {
+   "n": 26,
+   "kind": "613",
+   "ref": "P53",
+   "verdict": "wrong",
+   "note": "S134 is a topical study and cannot itemize. C0230 (Torah Law, pilgrim feasts at Ex 23:14, Maimonides' own P53 verse) covers it: torah_law.",
+   "action": "Corrected: P53 is itemized by C0230 at the 556; the revision has since added Exodus 23:17 to C0230."
+  },
+  {
+   "n": 44,
+   "kind": "label",
+   "ref": "C0800",
+   "verdict": "partly",
+   "note": "The conflict with C0418 is real, but C0800 is itself a ban, not a positive half; twin C0801 (frankincense) needs the same fix.",
+   "action": "Regrouped C0800 and C0801 as 'same ban under two labels' beside C0418, which now holds both bans."
+  },
+  {
+   "n": 45,
+   "kind": "label",
+   "ref": "C0827",
+   "verdict": "partly",
+   "note": "Defensible as a standing priestly duty, but the comparators are selective: lamps C0284, incense C0337 and daily offering C0333 were also Instruction.",
+   "action": "Kept, with new evidence: the revision has since made the lamps (C0284), incense (C0337) and daily offering (C0333) Torah Law, so the priestly blessing is now the odd one out."
+  },
+  {
+   "n": 61,
+   "kind": "duplicate",
+   "ref": "C0129,AUD-02-31-13,C0152",
+   "verdict": "partly",
+   "note": "C0129 and AUD-02-31-13 restate it, but C0152 (the work ban, Decalogue Command) is a separate clause. Ex 31:13–17 is arguably the better anchor.",
+   "action": "Narrowed to C0129 and AUD-02-31-13. The revision keeps the holy-day command and the covenant sign apart on purpose, so this is left as a choice and not counted."
+  }
+ ],
+ "summary": "56 were correct, 4 partly right and 2 wrong. The two wrong ones (N171, P53) were commandments the 556 check had treated as held only by topical studies; C0655 and C0230 do state them. Both are corrected here, and the partly right ones are narrowed or re-evidenced."
+}
