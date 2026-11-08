@@ -10,6 +10,12 @@ The seven record types are Law, Command, Commission, Instruction, Wisdom, Study 
 
 [Download the current workbook](source/current/Saints-Bible-Instructions-Catalogue-Complete-Record-Types.xlsx) · [Current catalogue JSON](data/current/commands.json) · [Current summary](data/current/summary.json) · [Live catalogue](https://saints.bible/instructions/)
 
+## Completeness audit of 8 November 2026
+
+A verse-by-verse audit of all 70 books against this catalogue proposes **1,906 new records** (1,607 of them high or medium confidence), **642 Scripture extensions** and **683 parallel links**. It also checks Maimonides' 613 commandments and lists housekeeping fixes. The proposals are drafts for review and have not been merged into the catalogue.
+
+[Audit report](audit/AUDIT.md) · [Proposals workbook](audit/Saints-Bible-Instructions-Completeness-Audit-2026-11-08.xlsx) · [Findings JSON](audit/findings.json) · [Coverage by book](audit/coverage-by-book.csv)
+
 ## Archival import and category index
 
 The **6 November 2026** import preserves **4,440 study records** from [Saints.Bible staging](https://staging-8e0d-waywardnightjars.wpcomstaging.com/instructions/) in **50 topical categories**, with the source wording, associated verses, classifications, audience notes, and original research.

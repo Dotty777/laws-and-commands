@@ -1,0 +1,107 @@
+{"op": "widen", "keep": "B06#5", "drop": ["S02#8"], "reference": "Judges 7:2–5", "why": "Both extend ot-judges-v7-3; S02 adds 7:2, the opening of the Lord's order."}
+{"op": "widen", "keep": "B07#5", "drop": ["S02#32"], "reference": "1 Samuel 26:8–11", "why": "Both extend ot-1-samuel-v26-9; S02 adds Abishai's proposal (26:8) that the prohibition answers."}
+{"op": "widen", "keep": "B07#14", "drop": ["S02#41"], "reference": "2 Samuel 4:9–12", "why": "Same execution order; S02 widens it back to David's oath at 4:9 (its note: not a second record)."}
+{"op": "widen", "keep": "B07#70", "drop": ["S03#31"], "reference": "1 Kings 17:10–14", "why": "Both extend ot-1-kings-v17-13; S03 adds the Lord's promise (17:14)."}
+{"op": "widen", "keep": "B08#2", "drop": ["S03#34"], "reference": "1 Kings 20:8–10", "why": "Both extend ot-1-kings-v20-9; S03 adds 20:8, where Jezebel writes and sends the letters."}
+{"op": "widen", "keep": "B08#32", "drop": ["S03#39"], "reference": "2 Kings 6:1–3", "why": "Both extend ot-2-kings-v6-2; S03 adds 6:1, the opening of the same request."}
+{"op": "widen", "keep": "B08#44", "drop": ["S03#41"], "reference": "2 Kings 10:1–3", "why": "Same letter of Jehu; S03 widens it to 10:1 where he writes it (its note: one record, not two)."}
+{"op": "widen", "keep": "B08#47", "drop": ["S03#42"], "reference": "2 Kings 10:18–21", "why": "Both extend ot-2-kings-v10-19; S03 adds the feigned pledge at 10:18."}
+{"op": "widen", "keep": "B08#105", "drop": ["S03#58"], "reference": "2 Chronicles 7:12–14", "why": "Same divine word; S03 widens it to 7:12 where the Lord appears and begins (its note: one record)."}
+{"op": "widen", "keep": "B09#100", "drop": ["S04#56"], "reference": "2 Maccabees 6:18–31", "why": "Both extend AUD-16-6-21 (6:21–28) on opposite sides; combined extension per S04 note."}
+{"op": "widen", "keep": "B10#62", "drop": ["S05#3"], "reference": "Job 4:8–9", "why": "Same saying of Eliphaz; S05 adds 4:9, which completes it (its note: merge, no second record)."}
+{"op": "widen", "keep": "B12#22", "drop": ["S05#26"], "reference": "Greek Psalm 127:1–4", "why": "Same beatitude; S05 adds its closing line 127:4 (its note: merge, no second record)."}
+{"op": "widen", "keep": "B14#131", "drop": ["B14#132"], "reference": "Sirach 19:5–9", "why": "Both extend ot-sirach-v19-6 (19:6–8); notes give the combined extension 19:5–9."}
+{"op": "widen", "keep": "B15#122", "drop": ["B15#123"], "reference": "Sirach 42:9–14", "why": "Both extend ot-sirach-v42-11 (42:11–12); notes give the combined extension 42:9–14."}
+{"op": "widen", "keep": "B15#127", "drop": ["B15#128"], "reference": "Sirach 43:27–33", "why": "Both extend ot-sirach-v43-29 (43:29–30); notes give the combined extension 43:27–33."}
+{"op": "widen", "keep": "B19#54", "drop": ["S07#15"], "reference": "Matthew 9:11–13", "why": "Both extend K021; S07 adds the Pharisees' question (9:11)."}
+{"op": "widen", "keep": "B21#6", "drop": ["S07#32"], "reference": "Luke 10:29–37", "why": "Both extend K049; S07 adds the lawyer's question (10:29)."}
+{"op": "widen", "keep": "B21#44", "drop": ["S08#3"], "reference": "John 3:3–15", "why": "Both extend K032; S08 starts at the first 'born from above' saying (3:3)."}
+{"op": "widen", "keep": "B21#62", "drop": ["S08#7"], "reference": "John 7:32, 45–49", "why": "Arrest order (7:32) and rebuke for not carrying it out (7:45–49) are one directive; S08 note asks for one record."}
+{"op": "widen", "keep": "B21#104", "drop": ["S08#18"], "reference": "Acts 6:11–14", "why": "Same suborning of false witnesses against Stephen; S08 adds 6:11 (its note: widen to 6:11–14)."}
+{"op": "widen", "keep": "B24#30", "drop": ["B24#31"], "reference": "Revelation 3:1–6", "why": "Both extend X011 (3:2–3); together the record becomes the whole Sardis letter, as both notes say."}
+{"op": "absorb", "primary": "S07#14", "absorb": ["S07#21", "S07#27"], "why": "Baptism voice in Matthew, Mark, Luke; Matthew primary (neighbour AUD-44-3-7 is Matthew)."}
+{"op": "absorb", "primary": "B19#30", "absorb": ["B20#173", "B20#174"], "why": "Temptation demands; Matthew 4:3–9 is the fullest single finding (Luke's split into 4:3–7 and 4:9–11)."}
+{"op": "absorb", "primary": "B19#44", "absorb": ["B20#185"], "why": "Centurion's servant (Matt 8:5–13 // Luke 7:1–10); neighbours mixed, Matthew primary."}
+{"op": "absorb", "primary": "B20#107", "absorb": ["B19#45", "B20#190"], "why": "Same order to cross before the storm; Mark primary: the catalogue uses Mark for this sequence (AUD-45-4-23, AUD-45-5-18)."}
+{"op": "absorb", "primary": "S07#29", "absorb": ["B19#46"], "why": "Same would-be follower saying; Luke primary because neighbour K038 is Luke 9:59–62 (Matt 8:21–22 linked there)."}
+{"op": "absorb", "primary": "B20#108", "absorb": ["B19#48", "B20#191"], "why": "Storm rebuke in three Gospels; Mark primary like the rest of the sequence (AUD-45-5-18)."}
+{"op": "absorb", "primary": "B20#109", "absorb": ["B19#49", "B20#193"], "why": "Gerasene demons sent into the pigs; Mark primary: the pericope's existing record AUD-45-5-18 is Mark."}
+{"op": "absorb", "primary": "B20#110", "absorb": ["B19#50", "B20#194"], "why": "Gerasene townspeople beg Jesus to leave; Mark primary per AUD-45-5-18."}
+{"op": "absorb", "primary": "B20#195", "absorb": ["B19#55", "B20#111"], "why": "Healing of the bleeding woman; Luke primary: the surrounding Jairus record AUD-46-8-50 is Luke."}
+{"op": "absorb", "primary": "B20#4", "absorb": ["B21#16"], "why": "Same saying on division within households (Matt 10:34–36 // Luke 12:51–53); Matthew primary."}
+{"op": "absorb", "primary": "B20#186", "absorb": ["B20#9"], "why": "Children in the marketplace; Luke primary: neighbours AUD-46-7-22 and AUD-46-7-24 are Luke."}
+{"op": "absorb", "primary": "B21#4", "absorb": ["B20#10"], "why": "Woes on Chorazin and Bethsaida; Luke primary: same discourse as AUD-46-10-1 (Luke 10:1–12)."}
+{"op": "absorb", "primary": "B20#14", "absorb": ["B20#16", "B20#101", "B21#7"], "why": "Beelzebul teaching incl. returning spirit (Luke 11:24–26 = Matt 12:43–45); Matthew primary per AUD-44-12-31."}
+{"op": "absorb", "primary": "B20#15", "absorb": ["B21#8"], "why": "Sign of Jonah, Nineveh and the queen of the South; Matthew primary."}
+{"op": "absorb", "primary": "B21#5", "absorb": ["B20#19"], "why": "Blessed are the eyes that see; Luke primary: neighbours K101 and K049 are Luke, Matthew 13's sower links to Luke's AUD-46-8-8."}
+{"op": "absorb", "primary": "B20#21", "absorb": ["B20#105", "B21#18"], "why": "Mustard seed and leaven; Matthew primary (kingdom-parable records AUD-44-13-44/51 are Matthew)."}
+{"op": "absorb", "primary": "B20#175", "absorb": ["B20#23", "B20#112"], "why": "Prophet without honour at Nazareth; Luke primary: the same pericope's record AUD-46-4-16 is Luke."}
+{"op": "absorb", "primary": "B20#24", "absorb": ["B20#113"], "why": "Herodias' daughter demands John's head; Matthew primary (C0586 already links Matt 14:3–4)."}
+{"op": "absorb", "primary": "B20#25", "absorb": ["B20#114"], "why": "Herod orders John beheaded; Matthew primary."}
+{"op": "absorb", "primary": "B20#26", "absorb": ["B20#116"], "why": "Disciples sent ahead by boat after the feeding; Matthew primary."}
+{"op": "absorb", "primary": "B20#27", "absorb": ["B20#117", "B21#57"], "why": "Walking on the sea: 'It is I; do not fear'; Matthew primary."}
+{"op": "absorb", "primary": "B20#33", "absorb": ["B20#118"], "why": "Canaanite/Syrophoenician woman; Matthew primary."}
+{"op": "absorb", "primary": "B20#35", "absorb": ["B21#17", "B20#121"], "why": "Weather-signs saying (Luke 12:54–56); Mark 8:11–13 is the same sign-demand occasion as Matt 16:1–4."}
+{"op": "absorb", "primary": "B20#36", "absorb": ["B20#123"], "why": "Get behind me, Satan; Matthew primary (neighbours K036, AUD-44-16-20 are Matthew)."}
+{"op": "absorb", "primary": "S07#16", "absorb": ["B20#125", "B20#198"], "why": "Peter's three tents; Matthew primary: the pericope's record AUD-44-17-5 is Matthew."}
+{"op": "absorb", "primary": "B20#39", "absorb": ["B20#127", "B21#1"], "why": "Healing of the convulsed boy; Matthew primary."}
+{"op": "absorb", "primary": "B20#48", "absorb": ["B20#133"], "why": "Request of Zebedee's sons; Matthew primary (K054 follows, Matthew)."}
+{"op": "absorb", "primary": "B20#50", "absorb": ["B20#135", "B21#28"], "why": "Blind man (men) at Jericho; Matthew primary (K054 precedes, Matthew)."}
+{"op": "absorb", "primary": "B20#54", "absorb": ["B20#137"], "why": "Question of Jesus' authority; Matthew primary (AUD-44-21-28 follows)."}
+{"op": "absorb", "primary": "B20#55", "absorb": ["B20#138", "B21#31"], "why": "Parable of the tenants; Matthew primary (AUD-44-21-28 precedes)."}
+{"op": "absorb", "primary": "B20#56", "absorb": ["B21#20"], "why": "Wedding feast / great supper parable; neighbours mixed, Matthew primary."}
+{"op": "absorb", "primary": "S07#19", "absorb": ["S07#24", "S07#38"], "why": "Answer to the Sadducees on resurrection; Matthew primary (K078, K003 neighbours)."}
+{"op": "absorb", "primary": "B20#61", "absorb": ["B21#13"], "why": "Woe for the key of knowledge; Matthew primary (Matthew 23 woes are Matthew records)."}
+{"op": "absorb", "primary": "B20#65", "absorb": ["B21#12"], "why": "Woe on the prophets' tomb-builders; Matthew primary."}
+{"op": "absorb", "primary": "B20#70", "absorb": ["B20#143"], "why": "Council plots Jesus' arrest; Matthew primary."}
+{"op": "absorb", "primary": "B20#72", "absorb": ["B20#145"], "why": "Judas offers to betray Jesus; Matthew primary."}
+{"op": "absorb", "primary": "B20#73", "absorb": ["B20#146"], "why": "Woe to the betrayer at the supper; Matthew primary."}
+{"op": "absorb", "primary": "B20#76", "absorb": ["B20#150"], "why": "Judas's kiss and 'Seize him'; Matthew primary."}
+{"op": "absorb", "primary": "B20#77", "absorb": ["B20#152", "S07#41"], "why": "Council condemns Jesus (Luke 22:66–71 is Luke's account); Matthew primary."}
+{"op": "absorb", "primary": "B20#78", "absorb": ["B20#153"], "why": "Captors demand 'Prophesy!'; Matthew primary."}
+{"op": "absorb", "primary": "B21#86", "absorb": ["B20#81", "B20#154"], "why": "Passover release custom; John primary: neighbours AUD-47-18-28 and AUD-47-19-6 are John."}
+{"op": "absorb", "primary": "B20#84", "absorb": ["B20#156", "B21#35"], "why": "Pilate's sentence (no John finding); Matthew primary."}
+{"op": "absorb", "primary": "B20#85", "absorb": ["B20#158"], "why": "Simon of Cyrene compelled; Matthew primary."}
+{"op": "absorb", "primary": "B20#86", "absorb": ["B20#157", "S07#43"], "why": "Taunts to come down from the cross; Matthew primary."}
+{"op": "absorb", "primary": "B20#87", "absorb": ["B20#159"], "why": "'Let us see whether Elijah comes'; Matthew primary."}
+{"op": "absorb", "primary": "S07#20", "absorb": ["B20#160", "S07#44", "S08#17"], "why": "Joseph of Arimathea asks for the body; Matthew primary (neighbour AUD-44-27-62 is Matthew)."}
+{"op": "absorb", "primary": "B21#75", "absorb": ["S08#11"], "why": "John 18:14 recalls Caiaphas's counsel of 11:49–50 (S08 note: Additional Scripture, not a record)."}
+{"op": "absorb", "primary": "S01#43", "absorb": ["S02#4"], "why": "Caleb's offer of Achsah, told in Joshua 15 and Judges 1; Joshua primary."}
+{"op": "absorb", "primary": "B05#79", "absorb": ["B06#1"], "why": "Same call to bless the Lord repeated in Deborah's song (both notes say 5:9 repeats 5:2)."}
+{"op": "absorb", "primary": "S02#42", "absorb": ["B08#74"], "why": "Elders anoint David at Hebron (1 Chr 11:3); Samuel primary, fuller."}
+{"op": "absorb", "primary": "B07#15", "absorb": ["B08#73"], "why": "David's order against Zion's Jebusites ('whoever strikes a Jebusite'), 1 Chr 11:6; Samuel primary."}
+{"op": "absorb", "primary": "S02#46", "absorb": ["S03#56"], "why": "David sends Joab and the army against Ammon (1 Chr 19:8); Samuel primary."}
+{"op": "absorb", "primary": "B07#41", "absorb": ["B08#75"], "why": "Water from Bethlehem's well (1 Chr 11:17–19); Samuel primary."}
+{"op": "absorb", "primary": "B07#42", "absorb": ["B08#76"], "why": "Benaiah appointed over David's guard (1 Chr 11:25); Samuel primary."}
+{"op": "absorb", "primary": "S03#20", "absorb": ["B08#103"], "why": "Solomon's labour levy and 3,600 overseers (2 Chr 2:16–17); Kings primary, fuller."}
+{"op": "absorb", "primary": "B07#60", "absorb": ["B09#1"], "why": "Israel asks Rehoboam to lighten the yoke (2 Chr 10:4); Kings primary."}
+{"op": "absorb", "primary": "B07#61", "absorb": ["B09#2"], "why": "Elders' counsel to Rehoboam (2 Chr 10:7); Kings primary, fuller."}
+{"op": "absorb", "primary": "B07#63", "absorb": ["B09#3"], "why": "Secession cry 'To your tents, Israel' (2 Chr 10:16); Kings primary."}
+{"op": "absorb", "primary": "B07#64", "absorb": ["S03#62"], "why": "Rehoboam sends Adoniram (2 Chr 10:18); Kings primary."}
+{"op": "absorb", "primary": "B08#9", "absorb": ["B09#7"], "why": "Jehoshaphat asks to inquire of the Lord first (2 Chr 18:4); Kings primary."}
+{"op": "absorb", "primary": "B08#10", "absorb": ["B09#8"], "why": "Messenger urges Micaiah to agree with the prophets (2 Chr 18:12); Kings primary."}
+{"op": "absorb", "primary": "B08#11", "absorb": ["S03#70"], "why": "Ahab adjures Micaiah to speak the truth (2 Chr 18:15); Kings primary."}
+{"op": "absorb", "primary": "B08#50", "absorb": ["S04#3"], "why": "Jehoiada crowns and anoints Joash (2 Chr 23:11); Kings primary."}
+{"op": "absorb", "primary": "B08#51", "absorb": ["B09#14"], "why": "Jehoiada's covenant of king and people (2 Chr 23:16); Kings primary."}
+{"op": "absorb", "primary": "B08#58", "absorb": ["B09#23"], "why": "Hezekiah's decree of worship at one altar, quoted by the envoy (2 Chr 32:12); Kings primary."}
+{"op": "absorb", "primary": "B08#59", "absorb": ["B16#30"], "why": "Envoy's wager of horses (Isaiah 36:8); Kings primary."}
+{"op": "absorb", "primary": "S03#50", "absorb": ["S04#14"], "why": "Josiah gathers the elders and reads the covenant book (2 Chr 34:29–30); Kings primary."}
+{"op": "absorb", "primary": "B08#68", "absorb": ["B09#29"], "why": "Josiah's covenant to keep the commandments (2 Chr 34:31–32); Kings primary."}
+{"op": "absorb", "primary": "S03#52", "absorb": ["S04#17"], "why": "Neco makes Eliakim king as Jehoiakim (2 Chr 36:4); Kings primary."}
+{"op": "absorb", "primary": "S04#18", "absorb": ["S03#51"], "why": "Tribute levied and exacted at Pharaoh's command; Chronicles finding is fuller (levy and exaction, 36:3–4a)."}
+{"op": "absorb", "primary": "S04#19", "absorb": ["S03#54"], "why": "Nebuchadnezzar installs Zedekiah; Chronicles finding is fuller (adds the oath, 36:13)."}
+{"op": "absorb", "primary": "B08#70", "absorb": ["S06#33"], "why": "Gedaliah appointed over the remnant (Greek Jeremiah 47:7 = MT 40:7); Kings primary."}
+{"op": "absorb", "primary": "B10#12", "absorb": ["B10#30"], "why": "Governor's ruling on unproven priests, repeated at Nehemiah 7:65 (B10 note: one record); Ezra primary."}
+{"op": "absorb", "primary": "B09#98", "absorb": ["S04#20"], "why": "Antiochus's commission to the Mysarch Apollonius (1 Macc 1:29–30); 2 Maccabees states the orders, fuller."}
+{"op": "absorb", "primary": "B09#38", "absorb": ["B09#109"], "why": "Commission of Nicanor and Gorgias to destroy Judea (2 Macc 8:8–9, parallel account); 1 Maccabees primary."}
+{"op": "absorb", "primary": "B10#2", "absorb": ["B09#50"], "why": "Demetrius sends Nicanor against Judas (1 Macc 7:26); 2 Maccabees gives the fuller orders."}
+{"op": "absorb", "primary": "B09#51", "absorb": ["B10#6"], "why": "Nicanor's sworn threat against the temple unless Judas is handed over (2 Macc 14:31–33); 1 Maccabees primary."}
+{"op": "absorb", "primary": "B11#15", "absorb": ["S05#29"], "why": "Same beatitude 'Blessed the people whose God is the Lord' (Greek Psalm 143:15); earlier psalm primary."}
+{"op": "absorb", "primary": "B11#67", "absorb": ["S05#28"], "why": "Same Davidic covenant condition on David's sons (Greek Psalm 131:11–12); S05 note: link them."}
+{"op": "absorb", "primary": "B12#95", "absorb": ["B12#224"], "why": "Proverbs 15:20 repeats 10:1 (B12 notes: repeated, also proposed)."}
+{"op": "absorb", "primary": "B12#105", "absorb": ["B12#286"], "why": "Proverbs 18:11 repeats 10:15 (B12 notes: repeated, also proposed)."}
+{"op": "absorb", "primary": "B12#187", "absorb": ["B12#203"], "why": "Proverbs 14:25 repeats 14:5 (B12 notes: repeated, also proposed)."}
+{"op": "absorb", "primary": "B12#193", "absorb": ["B12#253"], "why": "Proverbs 16:25 repeats 14:12 word for word (B12 notes: repeated, also proposed)."}
+{"op": "to_parallel", "key": "B09#24", "existing_id": "ot-2-kings-v17-37", "why": "Its Kings parallel 2 Kings 21:7–8 is already proposed as a parallel of ot-2-kings-v17-37 (B08#65)."}
+{"op": "to_parallel", "key": "S03#45", "existing_id": "ot-isaiah-v36-4", "why": "The sending in 2 Kings 18:17 = Isaiah 36:2, which S06#19 adds to the envoy Commission record ot-isaiah-v36-4."}
+{"op": "to_parallel", "key": "B12#29", "existing_id": "AUD-20-28-28", "why": "Same maxim as Greek Psalm 110:10 and Proverbs 9:10, both proposed as parallels of AUD-20-28-28 (B12#9, S05#31)."}
