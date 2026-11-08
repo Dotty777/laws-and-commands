@@ -1,0 +1,3606 @@
+[
+ {
+  "existing_id": "C0040",
+  "current": "Genesis 19:12",
+  "title": "Lot: bring your household out of Sodom",
+  "record_type": "Command",
+  "add": "Genesis 19:15",
+  "proposed": "Genesis 19:12, 15",
+  "items": [
+   "E:C0040|Genesis 19:15"
+  ],
+  "reasons": [
+   "At dawn the angels renew the 19:12 order: take your wife and daughters and depart; same speakers, occasion and direction."
+  ],
+  "confidence": "high",
+  "book": "Genesis"
+ },
+ {
+  "existing_id": "C0041",
+  "current": "Genesis 19:17",
+  "title": "Lot: flee to the permitted place of refuge",
+  "record_type": "Command",
+  "add": "Genesis 19:21–22",
+  "proposed": "Genesis 19:17, 21–22",
+  "items": [
+   "V002"
+  ],
+  "reasons": [
+   "Angel's grant renews C0041's order; title 'permitted place of refuge' fits; note Zoar replaces the mountain. Lot's request stays in torah-genesis-19-12."
+  ],
+  "confidence": "medium",
+  "book": "Genesis"
+ },
+ {
+  "existing_id": "ot-genesis-v23-11",
+  "current": "Genesis 23:11",
+  "title": "Ephron offers Abraham the field and cave",
+  "record_type": "Study Context",
+  "add": "Genesis 23:15",
+  "proposed": "Genesis 23:11, 15",
+  "items": [
+   "E:ot-genesis-v23-11|Genesis 23:15"
+  ],
+  "reasons": [
+   "Ephron renews his offer in the same negotiation, naming the price and repeating 'Bury your dead'; the title still fits."
+  ],
+  "confidence": "medium",
+  "book": "Genesis"
+ },
+ {
+  "existing_id": "ot-genesis-v24-43",
+  "current": "Genesis 24:43",
+  "title": "The servant recounts his prayer for a sign at the well",
+  "record_type": "Study Context",
+  "add": "Genesis 24:44",
+  "proposed": "Genesis 24:43–44",
+  "items": [
+   "E:ot-genesis-v24-43|Genesis 24:44"
+  ],
+  "reasons": [
+   "24:43 ends mid-sentence; 24:44 completes the same recounted sign, same speaker and occasion, without changing the record."
+  ],
+  "confidence": "high",
+  "book": "Genesis"
+ },
+ {
+  "existing_id": "ot-genesis-v26-28",
+  "current": "Genesis 26:28",
+  "title": "Abimelech’s party seeks a covenant with Isaac",
+  "record_type": "Study Context",
+  "add": "Genesis 26:29",
+  "proposed": "Genesis 26:28–29",
+  "items": [
+   "E:ot-genesis-v26-28|Genesis 26:29"
+  ],
+  "reasons": [
+   "26:28 breaks off mid-quotation; 26:29 states the sworn term the party seeks: 'that you shall do us no harm'."
+  ],
+  "confidence": "high",
+  "book": "Genesis"
+ },
+ {
+  "existing_id": "ot-genesis-v27-34",
+  "current": "Genesis 27:34",
+  "title": "Esau cries out for a blessing of his own",
+  "record_type": "Study Context",
+  "add": "Genesis 27:38",
+  "proposed": "Genesis 27:34, 38",
+  "items": [
+   "E:ot-genesis-v27-34|Genesis 27:35–38"
+  ],
+  "reasons": [
+   "Only 27:38 repeats Esau's plea 'Bless me also, father'; 27:35–37 are Isaac's replies and Esau's complaint, so they are split off."
+  ],
+  "confidence": "medium",
+  "book": "Genesis"
+ },
+ {
+  "existing_id": "ot-genesis-v44-4",
+  "current": "Genesis 44:4",
+  "title": "Joseph sends his steward after his brothers",
+  "record_type": "Commission",
+  "add": "Genesis 44:5",
+  "proposed": "Genesis 44:4–5",
+  "items": [
+   "E:ot-genesis-v44-4|Genesis 44:5"
+  ],
+  "reasons": [
+   "44:4 breaks off mid-message; 44:5 completes the words Joseph gives the steward to say about the silver cup."
+  ],
+  "confidence": "high",
+  "book": "Genesis"
+ },
+ {
+  "existing_id": "ot-genesis-v44-21",
+  "current": "Genesis 44:21",
+  "title": "Judah recalls Joseph asking to see Benjamin",
+  "record_type": "Command",
+  "add": "Genesis 44:23",
+  "proposed": "Genesis 44:21, 23",
+  "items": [
+   "SIM009"
+  ],
+  "reasons": [
+   "Judah continues the same recollection of Joseph's demand that Benjamin come down; same speaker and occasion as 44:21; wording matches 43:3–5."
+  ],
+  "confidence": "medium",
+  "book": "Genesis"
+ },
+ {
+  "existing_id": "ot-exodus-v5-7",
+  "current": "Exodus 5:7",
+  "title": "Pharaoh orders the brickmakers to gather their own straw",
+  "record_type": "Command",
+  "add": "Exodus 5:6",
+  "proposed": "Exodus 5:6–7",
+  "items": [
+   "E:ot-exodus-v5-7|Exodus 5:6"
+  ],
+  "reasons": [
+   "Speech formula reporting Pharaoh's command and naming its addressees, taskmasters and scribes; it opens 5:7 as 5:10 opens 5:11."
+  ],
+  "confidence": "high",
+  "book": "Exodus"
+ },
+ {
+  "existing_id": "ot-exodus-v18-19",
+  "current": "Exodus 18:19",
+  "title": "Jethro advises Moses to represent the people before God",
+  "record_type": "Instruction",
+  "add": "Exodus 18:17–18",
+  "proposed": "Exodus 18:17–19",
+  "items": [
+   "E:ot-exodus-v18-19|Exodus 18:17–18"
+  ],
+  "reasons": [
+   "Opening of Jethro's same counsel: his reason leads into 18:19's 'Now therefore listen to me'; same speaker and occasion, meaning unchanged."
+  ],
+  "confidence": "medium",
+  "book": "Exodus"
+ },
+ {
+  "existing_id": "C0277",
+  "current": "Exodus 27:1–5",
+  "title": "Make the bronze-covered altar with horns, grating and rings",
+  "record_type": "Instruction",
+  "add": "Exodus 27:8",
+  "proposed": "Exodus 27:1–5, 8",
+  "items": [
+   "E:C0277|Exodus 27:8"
+  ],
+  "reasons": [
+   "Continues the altar instruction (make it hollow, of boards, as shown on the mountain); C0277 stays itemized at 27:1–5, 8."
+  ],
+  "confidence": "high",
+  "book": "Exodus"
+ },
+ {
+  "existing_id": "C0496",
+  "current": "Leviticus 13:50–51",
+  "title": "Priest: inspect and classify the affected garment or leather by the stated criteria",
+  "record_type": "Instruction",
+  "add": "Leviticus 13:53, 55",
+  "proposed": "Leviticus 13:50–51, 53, 55",
+  "items": [
+   "E:C0496|Leviticus 13:53, 55"
+  ],
+  "reasons": [
+   "The re-inspection findings (unspread; unchanged after washing, so unclean) continue the same inspect-and-classify direction; C0496 stays at four verses."
+  ],
+  "confidence": "medium",
+  "book": "Leviticus"
+ },
+ {
+  "existing_id": "C0519",
+  "current": "Leviticus 14:35",
+  "title": "The house owner: report a suspected house lesion to the priest",
+  "record_type": "Instruction",
+  "add": "Leviticus 14:34",
+  "proposed": "Leviticus 14:34–35",
+  "items": [
+   "E:C0519|Leviticus 14:34"
+  ],
+  "reasons": [
+   "14:34 is the protasis ('When you enter… and I put a lesion') of the same house-lesion law completed by 14:35."
+  ],
+  "confidence": "high",
+  "book": "Leviticus"
+ },
+ {
+  "existing_id": "C0675",
+  "current": "Leviticus 22:20–25",
+  "title": "Do not offer blemished or mutilated animals, including those supplied by foreigners",
+  "record_type": "Law",
+  "add": "Leviticus 22:18–19",
+  "proposed": "Leviticus 22:18–25",
+  "items": [
+   "E:C0675|Leviticus 22:18–19"
+  ],
+  "reasons": [
+   "Opening of the same blemish law: offerers, resident foreigners included, must bring unblemished males; C0675 becomes 22:18–25, eight verses."
+  ],
+  "confidence": "medium",
+  "book": "Leviticus"
+ },
+ {
+  "existing_id": "ot-numbers-v5-30",
+  "current": "Numbers 5:30",
+  "title": "The priest's role when a husband suspects his wife",
+  "record_type": "Law",
+  "add": "Numbers 5:31",
+  "proposed": "Numbers 5:30–31",
+  "items": [
+   "E:ot-numbers-v5-30|Numbers 5:31"
+  ],
+  "reasons": [
+   "Closing ruling of the same jealousy law: the husband is free of guilt and the wife bears her sin; same speaker and law."
+  ],
+  "confidence": "medium",
+  "book": "Numbers"
+ },
+ {
+  "existing_id": "C0816",
+  "current": "Numbers 6:6–7",
+  "title": "Nazirite: do not incur corpse defilement, even for close relatives",
+  "record_type": "Law",
+  "add": "Numbers 6:8",
+  "proposed": "Numbers 6:6–8",
+  "items": [
+   "E:C0816|Numbers 6:8"
+  ],
+  "reasons": [
+   "6:8 closes the corpse-defilement rule (6:6–8), restating its ground: the Nazirite is holy to the Lord all his vowed days."
+  ],
+  "confidence": "medium",
+  "book": "Numbers"
+ },
+ {
+  "existing_id": "ot-numbers-v10-31",
+  "current": "Numbers 10:31",
+  "title": "Moses asks Hobab to stay with Israel in the wilderness",
+  "record_type": "Command",
+  "add": "Numbers 10:32",
+  "proposed": "Numbers 10:31–32",
+  "items": [
+   "E:ot-numbers-v10-31|Numbers 10:32"
+  ],
+  "reasons": [
+   "Moses completes the same appeal to Hobab with its promise: 'if you go with us… we will do you good'."
+  ],
+  "confidence": "high",
+  "book": "Numbers"
+ },
+ {
+  "existing_id": "ot-numbers-v14-9",
+  "current": "Numbers 14:9",
+  "title": "Joshua and Caleb urge Israel to trust God",
+  "record_type": "Command",
+  "add": "Numbers 14:8",
+  "proposed": "Numbers 14:8–9",
+  "items": [
+   "E:ot-numbers-v14-9|Numbers 14:8"
+  ],
+  "reasons": [
+   "Same speech: the premise 'He will bring us into this land' leads straight into 14:9's 'Only do not become deserters'; meaning unchanged."
+  ],
+  "confidence": "medium",
+  "book": "Numbers"
+ },
+ {
+  "existing_id": "C0856",
+  "current": "Numbers 14:42",
+  "title": "Israel: do not launch the presumptuous ascent after God's refusal",
+  "record_type": "Command",
+  "add": "Numbers 14:43",
+  "proposed": "Numbers 14:42–43",
+  "items": [
+   "E:C0856|Numbers 14:43"
+  ],
+  "reasons": [
+   "Moses' same warning continues: Amalek and the Canaanites are there and the Lord will not be among you; it completes 14:42's grounds."
+  ],
+  "confidence": "high",
+  "book": "Numbers"
+ },
+ {
+  "existing_id": "AUD-04-18-8",
+  "current": "Numbers 18:8",
+  "title": "God entrusts the sacred contributions to Aaron and his line",
+  "record_type": "Commission",
+  "add": "Numbers 18:19",
+  "proposed": "Numbers 18:8, 19",
+  "items": [
+   "E:AUD-04-18-8|Numbers 18:19"
+  ],
+  "reasons": [
+   "18:19 renews the 18:8 grant in summary, adding daughters and the covenant of salt; same speaker, occasion and direction."
+  ],
+  "confidence": "high",
+  "book": "Numbers"
+ },
+ {
+  "existing_id": "C0884",
+  "current": "Numbers 18:29–30",
+  "title": "Set apart the best portion of the gifts due to God",
+  "record_type": "Instruction",
+  "add": "Numbers 18:32",
+  "proposed": "Numbers 18:29–30, 32",
+  "items": [
+   "E:C0884|Numbers 18:32"
+  ],
+  "reasons": [
+   "Sanction of the same requirement: no sin once the best portion is set apart; do not profane the holy things, lest you die."
+  ],
+  "confidence": "medium",
+  "book": "Numbers"
+ },
+ {
+  "existing_id": "M024",
+  "current": "Numbers 32:20–22",
+  "title": "Reuben and Gad: cross armed with Israel before returning to your eastern possession",
+  "record_type": "Commission",
+  "add": "Numbers 32:23",
+  "proposed": "Numbers 32:20–23",
+  "items": [
+   "E:M024|Numbers 32:23"
+  ],
+  "reasons": [
+   "Negative sanction completing the same terms Moses sets in 32:20–22: if not, 'you shall sin before the Lord'."
+  ],
+  "confidence": "high",
+  "book": "Numbers"
+ },
+ {
+  "existing_id": "C0945",
+  "current": "Numbers 35:19",
+  "title": "The blood-avenger: execute the condemned murderer under the prescribed judgment",
+  "record_type": "Law",
+  "add": "Numbers 35:21",
+  "proposed": "Numbers 35:19, 21",
+  "items": [
+   "E:C0945|Numbers 35:21"
+  ],
+  "reasons": [
+   "35:21 ends by repeating C0945's clause verbatim (the avenger shall kill the murderer when he meets him); its enmity case stays with AUD-04-35-16."
+  ],
+  "confidence": "medium",
+  "book": "Numbers"
+ },
+ {
+  "existing_id": "C0955",
+  "current": "Deuteronomy 1:6–7",
+  "title": "Israel: depart Horeb for the commanded journey toward Canaan",
+  "record_type": "Command",
+  "add": "Deuteronomy 1:8",
+  "proposed": "Deuteronomy 1:6–8",
+  "items": [
+   "P:C0652|Deuteronomy 1:8"
+  ],
+  "reasons": [
+   "1:8 completes God's Horeb command of 1:6–7 (same speaker and occasion): 'Enter and inherit the land'; extend C0955 rather than link C0652."
+  ],
+  "confidence": "medium",
+  "book": "Deuteronomy"
+ },
+ {
+  "existing_id": "C1209",
+  "current": "Deuteronomy 27:12–14",
+  "title": "Station the specified tribes on Gerizim and Ebal for the covenant ceremony",
+  "record_type": "Instruction",
+  "add": "Deuteronomy 27:11",
+  "proposed": "Deuteronomy 27:11–14",
+  "items": [
+   "E:C1209|Deuteronomy 27:11"
+  ],
+  "reasons": [
+   "Speech formula reporting Moses' command that same day; it introduces the station order of 27:12–14 without changing it."
+  ],
+  "confidence": "high",
+  "book": "Deuteronomy"
+ },
+ {
+  "existing_id": "ot-deuteronomy-v31-26",
+  "current": "Deuteronomy 31:26",
+  "title": "Moses tells the Levites to place the law beside the ark",
+  "record_type": "Command",
+  "add": "Deuteronomy 31:25",
+  "proposed": "Deuteronomy 31:25–26",
+  "items": [
+   "E:ot-deuteronomy-v31-26|Deuteronomy 31:25"
+  ],
+  "reasons": [
+   "Speech formula reporting Moses' command and naming its addressees, the Levites who carry the ark; it opens 31:26."
+  ],
+  "confidence": "high",
+  "book": "Deuteronomy"
+ },
+ {
+  "existing_id": "ot-joshua-v1-13",
+  "current": "Joshua 1:13–14",
+  "title": "Joshua reminds the eastern tribes to cross armed with their brothers",
+  "record_type": "Instruction",
+  "add": "Joshua 1:15",
+  "proposed": "Joshua 1:13–15",
+  "items": [
+   "E:ot-joshua-v1-13|Joshua 1:15"
+  ],
+  "reasons": [
+   "1:14 ends mid-sentence; 1:15 completes the same charge with its time limit and the return to the eastern inheritance."
+  ],
+  "confidence": "high",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "ot-joshua-v1-18",
+  "current": "Joshua 1:18",
+  "title": "The eastern tribes pledge obedience and encourage Joshua",
+  "record_type": "Law",
+  "add": "Joshua 1:16–17",
+  "proposed": "Joshua 1:16–18",
+  "items": [
+   "E:ot-joshua-v1-18|Joshua 1:16–17"
+  ],
+  "reasons": [
+   "The pledge of obedience named in the title begins at 1:16; same speakers and reply, with 1:17's wish inside it."
+  ],
+  "confidence": "high",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "ot-joshua-v2-13",
+  "current": "Joshua 2:13",
+  "title": "Rahab asks the spies to spare her household",
+  "record_type": "Command",
+  "add": "Joshua 2:14",
+  "proposed": "Joshua 2:13–14",
+  "items": [
+   "E:ot-joshua-v2-13|Joshua 2:14"
+  ],
+  "reasons": [
+   "After the spies' pledge, Rahab renews her request: 'you shall show me mercy and faithfulness'; same speaker and exchange."
+  ],
+  "confidence": "medium",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "ot-joshua-v2-18",
+  "current": "Joshua 2:18",
+  "title": "The spies tell Rahab to mark her window with scarlet cord",
+  "record_type": "Command",
+  "add": "Joshua 2:19–20",
+  "proposed": "Joshua 2:18–20",
+  "items": [
+   "E:ot-joshua-v2-18|Joshua 2:19–20"
+  ],
+  "reasons": [
+   "The spies' same instructions continue with the oath's terms: keep everyone inside the house and do not disclose the agreement."
+  ],
+  "confidence": "medium",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "ot-joshua-v4-5",
+  "current": "Joshua 4:5",
+  "title": "Joshua tells the tribal representatives to carry one stone each",
+  "record_type": "Instruction",
+  "add": "Joshua 4:4",
+  "proposed": "Joshua 4:4–5",
+  "items": [
+   "U5874"
+  ],
+  "reasons": [
+   "Joshua's summons of the twelve tribal men opens the charge recorded at 4:5 ('summoned... and said to them'); same speaker and occasion."
+  ],
+  "confidence": "medium",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "ot-joshua-v7-13",
+  "current": "Joshua 7:13",
+  "title": "The Lord tells Joshua to consecrate Israel and remove what was banned",
+  "record_type": "Instruction",
+  "add": "Joshua 7:12",
+  "proposed": "Joshua 7:12–13",
+  "items": [
+   "E:ot-joshua-v7-13|Joshua 7:12"
+  ],
+  "reasons": [
+   "Same divine speech: 'unless you remove that which is under the ban' states the direction that 7:13 repeats; meaning unchanged."
+  ],
+  "confidence": "medium",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "ot-joshua-v8-4",
+  "current": "Joshua 8:4",
+  "title": "Joshua positions troops in ambush behind Ai",
+  "record_type": "Instruction",
+  "add": "Joshua 8:3",
+  "proposed": "Joshua 8:3–4",
+  "items": [
+   "E:ot-joshua-v8-4|Joshua 8:3"
+  ],
+  "reasons": [
+   "Joshua selects and sends the thirty thousand by night, the dispatch that 8:4's 'He commanded them' completes, as Numbers 22:5 opens 22:6."
+  ],
+  "confidence": "medium",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "AUD-06-9-21",
+  "current": "Joshua 9:21–23",
+  "title": "Israel’s leaders assign the spared Gibeonites to cut wood and carry water",
+  "record_type": "Command",
+  "add": "Joshua 9:27",
+  "proposed": "Joshua 9:21–23, 27",
+  "items": [
+   "E:AUD-06-9-21|Joshua 9:27",
+   "SIM030"
+  ],
+  "reasons": [
+   "That day Joshua formally appoints them woodcutters and water-carriers, for the congregation and God's altar (cf. 9:23); same assignment and occasion.",
+   "Joshua formally appoints the Gibeonites woodcutters and water-carriers that day: the assignment of 9:21–23, same speaker and occasion."
+  ],
+  "confidence": "medium",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "ot-joshua-v15-19",
+  "current": "Joshua 15:19",
+  "title": "Achsah asks Caleb for springs to accompany her land",
+  "record_type": "Command",
+  "add": "Joshua 15:18",
+  "proposed": "Joshua 15:18–19",
+  "items": [
+   "E:ot-joshua-v15-19|Joshua 15:18"
+  ],
+  "reasons": [
+   "Same exchange: Achsah's stated intent to ask for a field and Caleb's 'What is it?' prompt the request answered in 15:19."
+  ],
+  "confidence": "medium",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "ot-joshua-v18-6",
+  "current": "Joshua 18:6",
+  "title": "Joshua tells the surveyors to divide the land into seven portions",
+  "record_type": "Command",
+  "add": "Joshua 18:5",
+  "proposed": "Joshua 18:5–6",
+  "items": [
+   "E:ot-joshua-v18-6|Joshua 18:5"
+  ],
+  "reasons": [
+   "Same instruction to the surveyors: Judah marks its boundary on the southwest and Joseph on the north while the land is divided."
+  ],
+  "confidence": "medium",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "ot-joshua-v23-11",
+  "current": "Joshua 23:11",
+  "title": "Joshua urges Israel to take care to love the Lord",
+  "record_type": "Command",
+  "add": "Joshua 23:12–13",
+  "proposed": "Joshua 23:11–13",
+  "items": [
+   "N:GAP-06-23-12"
+  ],
+  "reasons": [
+   "The “For if…” warning grounds the charge of 23:11 in the same speech (clinging to and intermarrying with the remaining nations); not a separate command."
+  ],
+  "confidence": "medium",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "X004",
+  "current": "Joshua 24:14–24",
+  "title": "Serve the Lord and remove foreign gods",
+  "record_type": "Instruction",
+  "add": "Joshua 24:25–27",
+  "proposed": "Joshua 24:14–27",
+  "items": [
+   "N:GAP-06-24-25"
+  ],
+  "reasons": [
+   "Joshua seals the same exhortation with covenant, written law and witness stone, renewing X004’s direction without distinct substantive law (cf. ruling on 2 Kings 11:17)."
+  ],
+  "confidence": "medium",
+  "book": "Joshua"
+ },
+ {
+  "existing_id": "ot-judges-v1-15",
+  "current": "Judges 1:15",
+  "title": "Achsah asks Caleb for water rights in the southern land",
+  "record_type": "Command",
+  "add": "Judges 1:14",
+  "proposed": "Judges 1:14–15",
+  "items": [
+   "N:GAP-07-1-14"
+  ],
+  "reasons": [
+   "Opens the same request: urged by Othniel, Achsah voices the southern-land complaint repeated in 1:15. Othniel’s reported urging needs no separate record."
+  ],
+  "confidence": "medium",
+  "book": "Judges"
+ },
+ {
+  "existing_id": "AUD-07-5-2",
+  "current": "Judges 5:2",
+  "title": "Deborah and Barak call Israel to bless the Lord",
+  "record_type": "Command",
+  "add": "Judges 5:9–11",
+  "proposed": "Judges 5:2, 9–11",
+  "items": [
+   "V033"
+  ],
+  "reasons": [
+   "Same song and singers renew 5:2's call: 'bless the Lord!' (5:9) and riders and travellers called to make music (5:10–11)."
+  ],
+  "confidence": "medium",
+  "book": "Judges"
+ },
+ {
+  "existing_id": "ot-judges-v6-10",
+  "current": "Judges 6:10",
+  "title": "The Lord recalls warning Israel against fearing Amorite gods",
+  "record_type": "Command",
+  "add": "Judges 6:8–9",
+  "proposed": "Judges 6:8–10",
+  "items": [
+   "E:ot-judges-v6-10|Judges 6:8–9"
+  ],
+  "reasons": [
+   "Opening of the same oracle: the prophet's 'Thus says the Lord' and prologue lead into 6:10's recalled command; meaning unchanged."
+  ],
+  "confidence": "medium",
+  "book": "Judges"
+ },
+ {
+  "existing_id": "ot-judges-v6-18",
+  "current": "Judges 6:18",
+  "title": "Gideon asks the messenger to wait for his offering",
+  "record_type": "Command",
+  "add": "Judges 6:17",
+  "proposed": "Judges 6:17–18",
+  "items": [
+   "E:ot-judges-v6-18|Judges 6:17"
+  ],
+  "reasons": [
+   "Gideon's same request opens at 6:17 ('give me a sign'); waiting while he brings his offering is how the sign is sought."
+  ],
+  "confidence": "medium",
+  "book": "Judges"
+ },
+ {
+  "existing_id": "ot-judges-v17-10",
+  "current": "Judges 17:10",
+  "title": "Micah offers the Levite wages to serve as his priest",
+  "record_type": "Commission",
+  "add": "Judges 17:11–12",
+  "proposed": "Judges 17:10–12",
+  "items": [
+   "E:ot-judges-v17-10|Judges 17:11–12"
+  ],
+  "reasons": [
+   "17:10 breaks off ('And the Levite went'); 17:11 completes it, and 17:12 narrates Micah installing him as priest, completing the commission."
+  ],
+  "confidence": "medium",
+  "book": "Judges"
+ },
+ {
+  "existing_id": "ot-judges-v18-9",
+  "current": "Judges 18:9",
+  "title": "The Danite scouts urge their tribe to attack Laish",
+  "record_type": "Command",
+  "add": "Judges 18:10",
+  "proposed": "Judges 18:9–10",
+  "items": [
+   "E:ot-judges-v18-9|Judges 18:10"
+  ],
+  "reasons": [
+   "18:10 completes the scouts' same exhortation, ending the quotation: a spacious land that 'God has delivered into your hands'."
+  ],
+  "confidence": "high",
+  "book": "Judges"
+ },
+ {
+  "existing_id": "ot-judges-v19-8",
+  "current": "Judges 19:8",
+  "title": "The woman’s father urges the Levite to stay until afternoon",
+  "record_type": "Instruction",
+  "add": "Judges 19:9",
+  "proposed": "Judges 19:8–9",
+  "items": [
+   "E:ot-judges-v19-8|Judges 19:9"
+  ],
+  "reasons": [
+   "The same fifth-day urging continues: 'Lodge here today also… tomorrow you may rise early'; same speaker, occasion and direction to stay."
+  ],
+  "confidence": "medium",
+  "book": "Judges"
+ },
+ {
+  "existing_id": "ot-judges-v21-21",
+  "current": "Judges 21:21",
+  "title": "Israel’s leaders tell the Benjaminites to seize wives at Shiloh",
+  "record_type": "Command",
+  "add": "Judges 21:22",
+  "proposed": "Judges 21:21–22",
+  "items": [
+   "E:ot-judges-v21-21|Judges 21:22"
+  ],
+  "reasons": [
+   "21:22 completes the leaders' same instruction, ending the quotation with their promise to answer the fathers' complaints."
+  ],
+  "confidence": "medium",
+  "book": "Judges"
+ },
+ {
+  "existing_id": "ot-ruth-v1-11",
+  "current": "Ruth 1:11–12",
+  "title": "Naomi urges her daughters-in-law to return home because she has no sons",
+  "record_type": "Command",
+  "add": "Ruth 1:13",
+  "proposed": "Ruth 1:11–13",
+  "items": [
+   "E:ot-ruth-v1-11|Ruth 1:13"
+  ],
+  "reasons": [
+   "1:12 ends mid-sentence; 1:13 completes Naomi's same appeal ('No, my daughters'); 1:15 is already linked separately."
+  ],
+  "confidence": "high",
+  "book": "Ruth"
+ },
+ {
+  "existing_id": "ot-ruth-v3-3",
+  "current": "Ruth 3:3–4",
+  "title": "Naomi prepares Ruth to approach Boaz at the threshing floor",
+  "record_type": "Instruction",
+  "add": "Ruth 3:1–2",
+  "proposed": "Ruth 3:1–4",
+  "items": [
+   "E:ot-ruth-v3-3|Ruth 3:1–2"
+  ],
+  "reasons": [
+   "Opening of Naomi's same speech (seeking Ruth's rest; Boaz winnows tonight) leading into 3:3's instructions; same speaker, meaning unchanged."
+  ],
+  "confidence": "medium",
+  "book": "Ruth"
+ },
+ {
+  "existing_id": "ot-ruth-v3-13",
+  "current": "Ruth 3:13",
+  "title": "Boaz asks Ruth to stay overnight and promises to act if the nearer kinsman declines",
+  "record_type": "Command",
+  "add": "Ruth 3:11–12",
+  "proposed": "Ruth 3:11–13",
+  "items": [
+   "E:ot-ruth-v3-13|Ruth 3:11–12"
+  ],
+  "reasons": [
+   "Boaz's same reply: 'do not be afraid', his promise, and the nearer kinsman to whom 3:13's 'if he will act' refers."
+  ],
+  "confidence": "high",
+  "book": "Ruth"
+ },
+ {
+  "existing_id": "ot-1-samuel-v1-23",
+  "current": "1 Samuel 1:23",
+  "title": "Elkanah tells Hannah to stay until Samuel is weaned",
+  "record_type": "Instruction",
+  "add": "1 Samuel 1:22",
+  "proposed": "1 Samuel 1:22–23",
+  "items": [
+   "E:ot-1-samuel-v1-23|1 Samuel 1:22"
+  ],
+  "reasons": [
+   "Hannah's proposal is what Elkanah's reply approves ('what has come from your mouth'); same exchange, as 1 Samuel 26:8 was added."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v2-24",
+  "current": "1 Samuel 2:24",
+  "title": "Eli rebukes his sons for their misconduct",
+  "record_type": "Command",
+  "add": "1 Samuel 2:23, 25",
+  "proposed": "1 Samuel 2:23–25",
+  "items": [
+   "N:GAP-09-2-25",
+   "E:ot-1-samuel-v2-24|1 Samuel 2:23"
+  ],
+  "reasons": [
+   "Completes Eli’s rebuke in the same speech; the saying grounds his “Do not act this way.” Not a separate wisdom record.",
+   "Eli's rebuke opens at 2:23 ('Why do you act according to this report…?'); same speech, addressees and occasion."
+  ],
+  "confidence": "high",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v5-8",
+  "current": "1 Samuel 5:8",
+  "title": "The Philistine rulers send the ark from Ashdod to Gath",
+  "record_type": "Instruction",
+  "add": "1 Samuel 5:7",
+  "proposed": "1 Samuel 5:7–8",
+  "items": [
+   "E:ot-1-samuel-v5-8|1 Samuel 5:7"
+  ],
+  "reasons": [
+   "Ashdod's resolution, 'The ark… must not stay with us', is the same direction that convenes the rulers and moves the ark."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v8-6",
+  "current": "1 Samuel 8:5–6",
+  "title": "Israel asks Samuel for a king to judge them",
+  "record_type": "Command",
+  "add": "1 Samuel 8:19–20",
+  "proposed": "1 Samuel 8:5–6, 19–20",
+  "items": [
+   "P:ot-1-samuel-v8-6|1 Samuel 8:19–20",
+   "SIM038"
+  ],
+  "reasons": [
+   "Same speakers on the same occasion renew the demand for a king after Samuel's warning, so extend rather than parallel.",
+   "The people renew the 8:5 demand for a king at the same assembly (8:4–22), so extend; 8:19 begins the sentence."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v9-5",
+  "current": "1 Samuel 9:5–6",
+  "title": "Saul suggests going home and his servant proposes consulting a seer",
+  "record_type": "Instruction",
+  "add": "1 Samuel 9:7–8",
+  "proposed": "1 Samuel 9:5–8",
+  "items": [
+   "E:ot-1-samuel-v9-5|1 Samuel 9:7–8"
+  ],
+  "reasons": [
+   "The same exchange continues the servant's proposal (what to bring; 'You will give it to the man of God'), filling the gap before 9:9–10."
+  ],
+  "confidence": "high",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v9-19",
+  "current": "1 Samuel 9:19",
+  "title": "Samuel invites Saul to eat with him at the high place",
+  "record_type": "Command",
+  "add": "1 Samuel 9:20",
+  "proposed": "1 Samuel 9:19–20",
+  "items": [
+   "E:ot-1-samuel-v9-19|1 Samuel 9:20"
+  ],
+  "reasons": [
+   "Samuel's same reply continues: 'do not set your heart on' the donkeys, already found; same speaker, addressee and occasion."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v10-19",
+  "current": "1 Samuel 10:19",
+  "title": "Samuel has Israel assemble before the Lord by tribe and clan",
+  "record_type": "Command",
+  "add": "1 Samuel 10:17–18",
+  "proposed": "1 Samuel 10:17–19",
+  "items": [
+   "E:ot-1-samuel-v10-19|1 Samuel 10:17–18"
+  ],
+  "reasons": [
+   "Samuel's summons to Mizpah and 'Thus says the Lord' open the same address that ends in 10:19's order to stand by tribes."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v12-16",
+  "current": "1 Samuel 12:16",
+  "title": "Samuel asks Israel to witness the sign the Lord will give",
+  "record_type": "Command",
+  "add": "1 Samuel 12:17",
+  "proposed": "1 Samuel 12:16–17",
+  "items": [
+   "E:ot-1-samuel-v12-16|1 Samuel 12:17"
+  ],
+  "reasons": [
+   "Samuel's same call continues: the thunder sign is announced and 'Know and see that the evil you have done… is great'."
+  ],
+  "confidence": "high",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v12-24",
+  "current": "1 Samuel 12:24",
+  "title": "Samuel urges Israel to fear and serve the Lord sincerely",
+  "record_type": "Command",
+  "add": "1 Samuel 12:14–15, 25",
+  "proposed": "1 Samuel 12:14–15, 24–25",
+  "items": [
+   "N:GAP-09-12-14",
+   "E:ot-1-samuel-v12-24|1 Samuel 12:25"
+  ],
+  "reasons": [
+   "Same speech and charge (fear, serve and obey the Lord, people and king) stated conditionally; 12:24–25 restate it. Extend rather than duplicate.",
+   "Closing sanction of the same charge: if you do evil, you and your king 'will be added', that is, swept away."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v14-9",
+  "current": "1 Samuel 14:9",
+  "title": "Jonathan sets the condition for remaining in place",
+  "record_type": "Instruction",
+  "add": "1 Samuel 14:8",
+  "proposed": "1 Samuel 14:8–9",
+  "items": [
+   "E:ot-1-samuel-v14-9|1 Samuel 14:8"
+  ],
+  "reasons": [
+   "Opening of Jonathan's same plan ('We will cross to the men'), whose conditions follow in 14:9–10; speech formula and premise."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v14-38",
+  "current": "1 Samuel 14:38",
+  "title": "Saul gathers Israel’s chiefs to investigate the day’s offense",
+  "record_type": "Command",
+  "add": "1 Samuel 14:39",
+  "proposed": "1 Samuel 14:38–39",
+  "items": [
+   "E:ot-1-samuel-v14-38|1 Samuel 14:39"
+  ],
+  "reasons": [
+   "Saul's same speech binds the inquiry by oath: whoever is found guilty, even Jonathan, must die; it continues the direction."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v15-3",
+  "current": "1 Samuel 15:3",
+  "title": "Samuel relays the Lord’s order to strike Amalek",
+  "record_type": "Command",
+  "add": "1 Samuel 15:2",
+  "proposed": "1 Samuel 15:2–3",
+  "items": [
+   "E:ot-1-samuel-v15-3|1 Samuel 15:2"
+  ],
+  "reasons": [
+   "15:2 opens the same oracle Samuel relays (‘Thus says the Lord Sabaoth’) and grounds the order; the origin basis already reads 15:2–3."
+  ],
+  "confidence": "high",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v15-18",
+  "current": "1 Samuel 15:18",
+  "title": "Samuel reminds Saul of his mission against Amalek",
+  "record_type": "Commission",
+  "add": "1 Samuel 15:17, 19",
+  "proposed": "1 Samuel 15:17–19",
+  "items": [
+   "E:ot-1-samuel-v15-18|1 Samuel 15:17, 19"
+  ],
+  "reasons": [
+   "15:17–19 form one rebuke: the anointing, the recalled mission, ‘why did you not listen?’ Same speaker and occasion; meaning unchanged."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v19-2",
+  "current": "1 Samuel 19:2",
+  "title": "Jonathan warns David to hide from Saul",
+  "record_type": "Command",
+  "add": "1 Samuel 19:3",
+  "proposed": "1 Samuel 19:2–3",
+  "items": [
+   "E:ot-1-samuel-v19-2|1 Samuel 19:3"
+  ],
+  "reasons": [
+   "19:3 completes Jonathan’s same instruction (wait in the field; he will speak to Saul and report back); the quotation closes there."
+  ],
+  "confidence": "high",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v19-4",
+  "current": "1 Samuel 19:4",
+  "title": "Jonathan urges Saul not to wrong David",
+  "record_type": "Command",
+  "add": "1 Samuel 19:5",
+  "proposed": "1 Samuel 19:4–5",
+  "items": [
+   "E:ot-1-samuel-v19-4|1 Samuel 19:5–6"
+  ],
+  "reasons": [
+   "Extend only 19:5, which completes Jonathan’s plea; 19:6 is Saul’s compliance and oath, a response rather than the plea."
+  ],
+  "confidence": "high",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v19-15",
+  "current": "1 Samuel 19:15",
+  "title": "Saul orders David brought in on his bed to be killed",
+  "record_type": "Command",
+  "add": "1 Samuel 19:14",
+  "proposed": "1 Samuel 19:14–15",
+  "items": [
+   "E:ot-1-samuel-v19-15|1 Samuel 19:14"
+  ],
+  "reasons": [
+   "19:14 reports Saul’s first sending to take David; 19:15 renews the same order after Michal’s excuse. Same occasion and direction."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v22-17",
+  "current": "1 Samuel 22:17",
+  "title": "Saul orders his guards to kill the priests and they refuse",
+  "record_type": "Command",
+  "add": "1 Samuel 22:18",
+  "proposed": "1 Samuel 22:17–18",
+  "items": [
+   "RC01"
+  ],
+  "reasons": [
+   "Saul renews the same order to Doeg after the guards refuse: same speaker and occasion. Found by reviewer R8a; in no batch."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-1-samuel-v28-22",
+  "current": "1 Samuel 28:22",
+  "title": "The medium urges Saul to eat before leaving",
+  "record_type": "Command",
+  "add": "1 Samuel 28:23",
+  "proposed": "1 Samuel 28:22–23",
+  "items": [
+   "E:ot-1-samuel-v28-22|1 Samuel 28:23"
+  ],
+  "reasons": [
+   "28:23 reports the woman, now joined by the servants, renewing the same urging until Saul yields; same occasion, meaning unchanged."
+  ],
+  "confidence": "medium",
+  "book": "1 Samuel"
+ },
+ {
+  "existing_id": "ot-2-samuel-v1-15",
+  "current": "2 Samuel 1:15",
+  "title": "David orders the Amalekite messenger struck down",
+  "record_type": "Command",
+  "add": "2 Samuel 1:14, 16",
+  "proposed": "2 Samuel 1:14–16",
+  "items": [
+   "E:ot-2-samuel-v1-15|2 Samuel 1:14, 16"
+  ],
+  "reasons": [
+   "The charge (1:14) and verdict (1:16) frame the same execution order, as AUD-10-4-9 keeps David’s charge with his order."
+  ],
+  "confidence": "medium",
+  "book": "2 Samuel"
+ },
+ {
+  "existing_id": "ot-2-samuel-v3-14",
+  "current": "2 Samuel 3:14",
+  "title": "David demands that Michal be returned to him",
+  "record_type": "Command",
+  "add": "2 Samuel 3:13",
+  "proposed": "2 Samuel 3:13–14",
+  "items": [
+   "E:ot-2-samuel-v3-14|2 Samuel 3:13, 15"
+  ],
+  "reasons": [
+   "Extend only 3:13, where David first demands Michal as the covenant’s condition; 3:15 is fulfilment narrative, not linked."
+  ],
+  "confidence": "medium",
+  "book": "2 Samuel"
+ },
+ {
+  "existing_id": "ot-2-samuel-v11-15",
+  "current": "2 Samuel 11:15",
+  "title": "David orders Joab to expose Uriah to deadly fighting",
+  "record_type": "Command",
+  "add": "2 Samuel 11:14",
+  "proposed": "2 Samuel 11:14–15",
+  "items": [
+   "E:ot-2-samuel-v11-15|2 Samuel 11:14"
+  ],
+  "reasons": [
+   "11:14 introduces the same letter (‘wrote a letter to Joab’), as ot-1-kings-v20-9 includes 20:8, where Jezebel writes hers."
+  ],
+  "confidence": "high",
+  "book": "2 Samuel"
+ },
+ {
+  "existing_id": "ot-2-samuel-v14-32",
+  "current": "2 Samuel 14:32",
+  "title": "Absalom demands that Joab arrange an audience with David",
+  "record_type": "Command",
+  "add": "2 Samuel 14:29",
+  "proposed": "2 Samuel 14:29, 32",
+  "items": [
+   "E:ot-2-samuel-v14-32|2 Samuel 14:29–31"
+  ],
+  "reasons": [
+   "Extend only 14:29, the sendings 14:32 quotes; 14:30 is the separate barley order (ot-2-samuel-v14-30) and 14:31 Joab’s question."
+  ],
+  "confidence": "medium",
+  "book": "2 Samuel"
+ },
+ {
+  "existing_id": "ot-2-samuel-v15-34",
+  "current": "2 Samuel 15:34",
+  "title": "David asks Hushai to return and counter Ahithophel’s advice",
+  "record_type": "Command",
+  "add": "2 Samuel 15:33",
+  "proposed": "2 Samuel 15:33–34",
+  "items": [
+   "E:ot-2-samuel-v15-34|2 Samuel 15:33"
+  ],
+  "reasons": [
+   "15:33 is the first half of the same conditional (‘If you cross over… But if you return’), grounding the instruction."
+  ],
+  "confidence": "high",
+  "book": "2 Samuel"
+ },
+ {
+  "existing_id": "ot-2-samuel-v16-10",
+  "current": "2 Samuel 16:10–11",
+  "title": "David refuses to let his men stop Shimei’s curses",
+  "record_type": "Command",
+  "add": "2 Samuel 16:9",
+  "proposed": "2 Samuel 16:9–11",
+  "items": [
+   "E:ot-2-samuel-v16-10|2 Samuel 16:9"
+  ],
+  "reasons": [
+   "Abishai’s proposal is what David’s refusal answers; the catalogue keeps such proposals with refusals (1 Samuel 26:8–11; 2 Samuel 19:22–24)."
+  ],
+  "confidence": "medium",
+  "book": "2 Samuel"
+ },
+ {
+  "existing_id": "ot-2-samuel-v19-28",
+  "current": "2 Samuel 19:28",
+  "title": "Mephibosheth appeals to David after accusing his servant of slander",
+  "record_type": "Study Context",
+  "add": "2 Samuel 19:27",
+  "proposed": "2 Samuel 19:27–28",
+  "items": [
+   "N:GAP-10-19-27"
+  ],
+  "reasons": [
+   "Opens the same appeal: Mephibosheth accuses his servant, quoting his order to saddle the donkey; the record’s title already describes this."
+  ],
+  "confidence": "high",
+  "book": "2 Samuel"
+ },
+ {
+  "existing_id": "ot-2-samuel-v19-38",
+  "current": "2 Samuel 19:38",
+  "title": "Barzillai asks to return home and sends Chimham in his place",
+  "record_type": "Command",
+  "add": "2 Samuel 19:35–37",
+  "proposed": "2 Samuel 19:35–38",
+  "items": [
+   "E:ot-2-samuel-v19-38|2 Samuel 19:35–37"
+  ],
+  "reasons": [
+   "19:35–37 open Barzillai’s same reply: his age and declining the king’s offer ground the request to stay home."
+  ],
+  "confidence": "medium",
+  "book": "2 Samuel"
+ },
+ {
+  "existing_id": "ot-2-samuel-v23-3",
+  "current": "2 Samuel 23:3",
+  "title": "David recounts God asking him to speak a parable about fearing God",
+  "record_type": "Commission",
+  "add": "2 Samuel 23:1–2",
+  "proposed": "2 Samuel 23:1–3",
+  "items": [
+   "E:ot-2-samuel-v23-3|2 Samuel 23:1–2"
+  ],
+  "reasons": [
+   "23:1–2 frame the same oracle (David’s last words; the Spirit speaking in him) that leads into the recounted charge; meaning unchanged."
+  ],
+  "confidence": "medium",
+  "book": "2 Samuel"
+ },
+ {
+  "existing_id": "ot-1-kings-v1-53",
+  "current": "1 Kings 1:53",
+  "title": "Solomon has Adonijah brought from the altar and sends him home",
+  "record_type": "Command",
+  "add": "1 Kings 1:52",
+  "proposed": "1 Kings 1:52–53",
+  "items": [
+   "N:GAP-11-1-52"
+  ],
+  "reasons": [
+   "Solomon’s conditional sparing of Adonijah is the ruling carried out in 1:53; same speaker and occasion, so extend rather than add."
+  ],
+  "confidence": "high",
+  "book": "1 Kings"
+ },
+ {
+  "existing_id": "ot-1-kings-v2-2",
+  "current": "1 Kings 2:2",
+  "title": "David calls on Solomon to be strong as he faces death",
+  "record_type": "Command",
+  "add": "1 Kings 2:1",
+  "proposed": "1 Kings 2:1–2",
+  "items": [
+   "E:ot-1-kings-v2-2|1 Kings 2:1"
+  ],
+  "reasons": [
+   "2:1 is the same charge’s narrative frame (‘he commanded his son Solomon, saying’), like published frames such as 2 Kings 22:12."
+  ],
+  "confidence": "high",
+  "book": "1 Kings"
+ },
+ {
+  "existing_id": "ot-1-kings-v5-20",
+  "current": "1 Kings 5:20",
+  "title": "Solomon asks Hiram to have cedar timber cut in Lebanon",
+  "record_type": "Command",
+  "add": "1 Kings 5:16–19",
+  "proposed": "1 Kings 5:16–20",
+  "items": [
+   "E:ot-1-kings-v5-20|1 Kings 5:16–19"
+  ],
+  "reasons": [
+   "5:16–19 open the same message to Hiram (frame, purpose, plan to build); the request is unchanged. 5:19 stays linked to ot-1-chronicles-v28-10."
+  ],
+  "confidence": "medium",
+  "book": "1 Kings"
+ },
+ {
+  "existing_id": "ot-1-kings-v8-19",
+  "current": "1 Kings 8:19",
+  "title": "Solomon recounts God appointing David’s son to build the temple",
+  "record_type": "Commission",
+  "add": "1 Kings 8:18",
+  "proposed": "1 Kings 8:18–19",
+  "items": [
+   "E:ot-1-kings-v8-19|1 Kings 8:18"
+  ],
+  "reasons": [
+   "8:18 begins the same quoted word of the Lord (‘you did well… Nevertheless, you shall not build’); one quotation, meaning unchanged."
+  ],
+  "confidence": "high",
+  "book": "1 Kings"
+ },
+ {
+  "existing_id": "ot-1-kings-v15-19",
+  "current": "1 Kings 15:19",
+  "title": "Asa offers gifts for an alliance and asks Syria to break with Baasha",
+  "record_type": "Instruction",
+  "add": "1 Kings 15:18",
+  "proposed": "1 Kings 15:18–19",
+  "items": [
+   "E:ot-1-kings-v15-19|1 Kings 15:18"
+  ],
+  "reasons": [
+   "15:18 sends the gifts by envoys, ‘saying’, introducing the same message; the gifts are those named in 15:19."
+  ],
+  "confidence": "high",
+  "book": "1 Kings"
+ },
+ {
+  "existing_id": "ot-1-kings-v18-19",
+  "current": "1 Kings 18:19",
+  "title": "Elijah tells Ahab to gather Israel and the prophets at Carmel",
+  "record_type": "Command",
+  "add": "1 Kings 18:18",
+  "proposed": "1 Kings 18:18–19",
+  "items": [
+   "E:ot-1-kings-v18-19|1 Kings 18:18"
+  ],
+  "reasons": [
+   "18:18 opens Elijah’s same reply; the rebuke grounds the ‘Now send and gather’ summons, as an indictment opens Ezra 10:10–11."
+  ],
+  "confidence": "medium",
+  "book": "1 Kings"
+ },
+ {
+  "existing_id": "ot-1-kings-v21-19",
+  "current": "1 Kings 21:19",
+  "title": "Orders concerning the district rulers’ attendants during the siege",
+  "record_type": "Command",
+  "add": "1 Kings 21:18",
+  "proposed": "1 Kings 21:18–19",
+  "items": [
+   "V045"
+  ],
+  "reasons": [
+   "Verified as asked: 21:18–19a is one speech of Syria's king to his men about Samaria's attendants coming out; same speaker, recipients, occasion."
+  ],
+  "confidence": "medium",
+  "book": "1 Kings"
+ },
+ {
+  "existing_id": "ot-1-kings-v22-8",
+  "current": "1 Kings 22:8–9",
+  "title": "Jehoshaphat challenges Ahab’s dismissal of Micaiah and Ahab summons him",
+  "record_type": "Command",
+  "add": "1 Kings 22:7",
+  "proposed": "1 Kings 22:7–9",
+  "items": [
+   "E:ot-1-kings-v22-8|1 Kings 22:7",
+   "SIM051"
+  ],
+  "reasons": [
+   "Jehoshaphat’s request for a prophet of the Lord opens the exchange; the record’s parallel 2 Chronicles 18:6–8 already includes its counterpart, 18:6.",
+   "Jehoshaphat's request for a prophet of the Lord opens the recorded exchange; its Chronicles parallel 18:6 is already linked to this record."
+  ],
+  "confidence": "high",
+  "book": "1 Kings"
+ },
+ {
+  "existing_id": "ot-1-kings-v22-22",
+  "current": "1 Kings 22:22",
+  "title": "Micaiah recounts a spirit being permitted to deceive Ahab’s prophets",
+  "record_type": "Commission",
+  "add": "1 Kings 22:19–21",
+  "proposed": "1 Kings 22:19–22",
+  "items": [
+   "E:ot-1-kings-v22-22|1 Kings 22:19–21"
+  ],
+  "reasons": [
+   "22:19–21 hold the vision and the Lord’s call, ‘Who will deceive Ahab?’, which the commission at 22:22 completes; one recounted scene."
+  ],
+  "confidence": "high",
+  "book": "1 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v1-2",
+  "current": "2 Kings 1:2–3",
+  "title": "Ahaziah sends messengers to inquire of Baal-zebub",
+  "record_type": "Commission",
+  "add": "2 Kings 1:4",
+  "proposed": "2 Kings 1:2–4",
+  "items": [
+   "E:ot-2-kings-v1-2|2 Kings 1:4"
+  ],
+  "reasons": [
+   "1:4 completes the message the angel charges Elijah to deliver (1:3), as the messengers repeat it in 1:6; same commission."
+  ],
+  "confidence": "high",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v2-16",
+  "current": "2 Kings 2:16–17",
+  "title": "The prophets press Elisha to let them search for Elijah",
+  "record_type": "Command",
+  "add": "2 Kings 2:18",
+  "proposed": "2 Kings 2:16–18",
+  "items": [
+   "E:ot-2-kings-v2-16|2 Kings 2:18"
+  ],
+  "reasons": [
+   "Elisha expressly recalls his own prohibition (‘Did I not tell you, Do not go?’) at the close of the same episode."
+  ],
+  "confidence": "medium",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v3-15",
+  "current": "2 Kings 3:15–16",
+  "title": "Elisha calls for a musician and gives the Lord’s instruction to dig pits",
+  "record_type": "Command",
+  "add": "2 Kings 3:17–18",
+  "proposed": "2 Kings 3:15–18",
+  "items": [
+   "E:ot-2-kings-v3-15|2 Kings 3:17–19"
+  ],
+  "reasons": [
+   "Extend 3:17–18, the oracle’s promise explaining the pits; 3:19 predicts conquest and devastation, a different matter that would change the record."
+  ],
+  "confidence": "medium",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v6-2",
+  "current": "2 Kings 6:2",
+  "title": "The prophets ask Elisha to let them build by the Jordan",
+  "record_type": "Command",
+  "add": "2 Kings 6:1, 3",
+  "proposed": "2 Kings 6:1–3",
+  "items": [
+   "E:ot-2-kings-v6-2|2 Kings 6:1, 3"
+  ],
+  "reasons": [
+   "6:1 opens the same request (the place is too narrow); 6:3 completes it, asking Elisha to come along. One exchange."
+  ],
+  "confidence": "high",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v6-28",
+  "current": "2 Kings 6:28",
+  "title": "A woman recounts a desperate bargain made during the famine",
+  "record_type": "Instruction",
+  "add": "2 Kings 6:29",
+  "proposed": "2 Kings 6:28–29",
+  "items": [
+   "E:ot-2-kings-v6-28|2 Kings 6:29"
+  ],
+  "reasons": [
+   "6:29 completes the woman’s same account and repeats the demand ‘Give your son’; her quotation closes there."
+  ],
+  "confidence": "high",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v7-4",
+  "current": "2 Kings 7:4",
+  "title": "Four men with leprosy decide to risk entering the Syrian camp",
+  "record_type": "Instruction",
+  "add": "2 Kings 7:3",
+  "proposed": "2 Kings 7:3–4",
+  "items": [
+   "E:ot-2-kings-v7-4|2 Kings 7:3"
+  ],
+  "reasons": [
+   "7:3 introduces the four men and opens the same deliberation (‘Why are we sitting here until we die?’), as 1 Maccabees 2:40–41."
+  ],
+  "confidence": "high",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "AUD-12-9-6",
+  "current": "2 Kings 9:6–9",
+  "title": "The prophetic messenger anoints Jehu and charges him to avenge the slain prophets",
+  "record_type": "Commission",
+  "add": "2 Kings 9:10",
+  "proposed": "2 Kings 9:6–10",
+  "items": [
+   "E:AUD-12-9-6|2 Kings 9:10"
+  ],
+  "reasons": [
+   "9:10 ends the same oracle with Jezebel’s fate (cf. ‘at Jezebel’s hand’, 9:7); the quotation closes there."
+  ],
+  "confidence": "medium",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v10-16",
+  "current": "2 Kings 10:16",
+  "title": "Jehu invites Jonadab to witness his zeal",
+  "record_type": "Command",
+  "add": "2 Kings 10:15",
+  "proposed": "2 Kings 10:15–16",
+  "items": [
+   "E:ot-2-kings-v10-16|2 Kings 10:15"
+  ],
+  "reasons": [
+   "‘Give me your hand’ and seating Jonadab in the chariot begin the same invitation that 10:16 completes."
+  ],
+  "confidence": "high",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v10-25",
+  "current": "2 Kings 10:25",
+  "title": "Jehu orders his men to kill the assembled worshipers of Baal",
+  "record_type": "Command",
+  "add": "2 Kings 10:24",
+  "proposed": "2 Kings 10:24–25",
+  "items": [
+   "E:ot-2-kings-v10-25|2 Kings 10:24"
+  ],
+  "reasons": [
+   "10:24 posts the guards under the same no-escape order, on pain of life, that 10:25 repeats (‘Let no man come out’)."
+  ],
+  "confidence": "high",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v17-38",
+  "current": "2 Kings 17:38",
+  "title": "Israel is warned to remember the covenant and reject other gods",
+  "record_type": "Law",
+  "add": "2 Kings 17:39",
+  "proposed": "2 Kings 17:38–39",
+  "items": [
+   "E:ot-2-kings-v17-38|2 Kings 17:39"
+  ],
+  "reasons": [
+   "17:39 is the positive half of the same charge: no other gods, ‘but you shall fear the Lord your God’."
+  ],
+  "confidence": "high",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v18-29",
+  "current": "2 Kings 18:29",
+  "title": "The Assyrian envoy tells Jerusalem not to trust Hezekiah",
+  "record_type": "Command",
+  "add": "2 Kings 18:28",
+  "proposed": "2 Kings 18:28–29",
+  "items": [
+   "E:ot-2-kings-v18-29|2 Kings 18:28"
+  ],
+  "reasons": [
+   "18:28’s summons, ‘Hear the words of the great king’, opens the same message; same speaker and occasion."
+  ],
+  "confidence": "high",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v19-4",
+  "current": "2 Kings 19:3–4",
+  "title": "Hezekiah asks Isaiah to pray for the remnant",
+  "record_type": "Command",
+  "add": "2 Kings 19:2",
+  "proposed": "2 Kings 19:2–4",
+  "items": [
+   "SIM053"
+  ],
+  "reasons": [
+   "Hezekiah sends the delegation that carries the recorded message (19:3–4); the parallel Isaiah 37:2–4 record likewise includes the sending."
+  ],
+  "confidence": "high",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v19-10",
+  "current": "2 Kings 19:10",
+  "title": "Sennacherib warns Hezekiah against trusting God to save Jerusalem",
+  "record_type": "Command",
+  "add": "2 Kings 19:9",
+  "proposed": "2 Kings 19:9–10",
+  "items": [
+   "E:ot-2-kings-v19-10|2 Kings 19:9"
+  ],
+  "reasons": [
+   "19:9 sends the messengers ‘saying’, introducing the same warning; a frame like those in published extensions."
+  ],
+  "confidence": "high",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v20-5",
+  "current": "2 Kings 20:5",
+  "title": "The Lord sends Isaiah back with a promise to heal Hezekiah",
+  "record_type": "Commission",
+  "add": "2 Kings 20:6",
+  "proposed": "2 Kings 20:5–6",
+  "items": [
+   "E:ot-2-kings-v20-5|2 Kings 20:6"
+  ],
+  "reasons": [
+   "20:6 completes the message Isaiah must deliver; 20:5 breaks off mid-sentence and the quotation closes at 20:6."
+  ],
+  "confidence": "high",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-2-kings-v22-15",
+  "current": "2 Kings 22:15",
+  "title": "Huldah directs the officials to relay the Lord’s answer to Josiah",
+  "record_type": "Command",
+  "add": "2 Kings 22:18",
+  "proposed": "2 Kings 22:15, 18",
+  "items": [
+   "E:ot-2-kings-v22-15|2 Kings 22:16–20"
+  ],
+  "reasons": [
+   "Extend only 22:18, the renewed ‘say this’ charge (as 2 Chronicles 34:26 is linked); 22:16–17 and 22:19–20 are the oracle’s predictions."
+  ],
+  "confidence": "medium",
+  "book": "2 Kings"
+ },
+ {
+  "existing_id": "ot-1-chronicles-v15-12",
+  "current": "1 Chronicles 15:12",
+  "title": "David tells the Levites to purify themselves and carry the ark",
+  "record_type": "Command",
+  "add": "1 Chronicles 15:11",
+  "proposed": "1 Chronicles 15:11–12",
+  "items": [
+   "U10725"
+  ],
+  "reasons": [
+   "David's summons names the priests and Levite chiefs addressed in 15:12 ('He said to them'); same speaker, occasion and charge."
+  ],
+  "confidence": "medium",
+  "book": "1 Chronicles"
+ },
+ {
+  "existing_id": "ot-1-chronicles-v16-34",
+  "current": "1 Chronicles 16:34–35",
+  "title": "David’s song calls for thanksgiving and prayer for rescue",
+  "record_type": "Study Context",
+  "add": "1 Chronicles 16:36",
+  "proposed": "1 Chronicles 16:34–36",
+  "items": [
+   "N:GAP-13-16-36"
+  ],
+  "reasons": [
+   "The people’s ‘Amen’ continues the song’s direction ‘Say…’ in 16:35; same speaker and occasion as ot-1-chronicles-v16-34, so no new Command."
+  ],
+  "confidence": "medium",
+  "book": "1 Chronicles"
+ },
+ {
+  "existing_id": "ot-1-chronicles-v21-22",
+  "current": "1 Chronicles 21:22–23",
+  "title": "David asks to purchase Orna’s threshing floor for an altar",
+  "record_type": "Command",
+  "add": "1 Chronicles 21:24",
+  "proposed": "1 Chronicles 21:22–24",
+  "items": [
+   "E:ot-1-chronicles-v21-22|1 Chronicles 21:24"
+  ],
+  "reasons": [
+   "David renews his demand to pay full price; the record’s parallel 2 Samuel 24:21–24 already includes the matching 24:24."
+  ],
+  "confidence": "high",
+  "book": "1 Chronicles"
+ },
+ {
+  "existing_id": "ot-1-chronicles-v22-13",
+  "current": "1 Chronicles 22:13",
+  "title": "David urges Solomon to keep Moses’ ordinances and take courage",
+  "record_type": "Instruction",
+  "add": "1 Chronicles 22:11–12",
+  "proposed": "1 Chronicles 22:11–13",
+  "items": [
+   "E:ot-1-chronicles-v22-13|1 Chronicles 22:11–12"
+  ],
+  "reasons": [
+   "22:11–12 open the same charge (‘He will grant success… to observe the law’), which 22:13 continues: ‘Then He will grant success, if…’."
+  ],
+  "confidence": "medium",
+  "book": "1 Chronicles"
+ },
+ {
+  "existing_id": "ot-2-chronicles-v2-6",
+  "current": "2 Chronicles 2:6–7",
+  "title": "Solomon asks Hiram for a skilled artisan and timber from Lebanon",
+  "record_type": "Command",
+  "add": "2 Chronicles 2:2–5, 8–9",
+  "proposed": "2 Chronicles 2:2–9",
+  "items": [
+   "E:ot-2-chronicles-v2-6|2 Chronicles 2:2–5, 8–9"
+  ],
+  "reasons": [
+   "One letter: 2:2–5 open it, 2:8 finishes 2:7’s broken sentence and 2:9 states the provisions; the request is unchanged."
+  ],
+  "confidence": "medium",
+  "book": "2 Chronicles"
+ },
+ {
+  "existing_id": "ot-2-chronicles-v10-10",
+  "current": "2 Chronicles 10:10",
+  "title": "Rehoboam’s young advisers tell him to answer the people harshly",
+  "record_type": "Command",
+  "add": "2 Chronicles 10:9, 11",
+  "proposed": "2 Chronicles 10:9–11",
+  "items": [
+   "E:ot-2-chronicles-v10-10|2 Chronicles 10:9, 11"
+  ],
+  "reasons": [
+   "10:11 completes the advisers’ words (1 Kings 12:11 already linked); 10:9 is the request they answer, as AUD-11-12-6 keeps 12:6."
+  ],
+  "confidence": "medium",
+  "book": "2 Chronicles"
+ },
+ {
+  "existing_id": "ot-2-chronicles-v16-3",
+  "current": "2 Chronicles 16:3",
+  "title": "Asa asks Syria’s king to make an alliance and drive Baasha away",
+  "record_type": "Command",
+  "add": "2 Chronicles 16:2",
+  "proposed": "2 Chronicles 16:2–3",
+  "items": [
+   "E:ot-2-chronicles-v16-3|2 Chronicles 16:2"
+  ],
+  "reasons": [
+   "16:2 sends the gold and silver ‘saying’, introducing the same message; same frame as 1 Kings 15:18."
+  ],
+  "confidence": "high",
+  "book": "2 Chronicles"
+ },
+ {
+  "existing_id": "ot-2-chronicles-v18-21",
+  "current": "2 Chronicles 18:21",
+  "title": "Micaiah recounts a spirit being permitted to deceive the king’s prophets",
+  "record_type": "Commission",
+  "add": "2 Chronicles 18:18–20",
+  "proposed": "2 Chronicles 18:18–21",
+  "items": [
+   "E:ot-2-chronicles-v18-21|2 Chronicles 18:18–20"
+  ],
+  "reasons": [
+   "The vision and the Lord’s call for a volunteer (18:18–20) open the same commission completed at 18:21; one recounted scene."
+  ],
+  "confidence": "high",
+  "book": "2 Chronicles"
+ },
+ {
+  "existing_id": "ot-2-chronicles-v24-5",
+  "current": "2 Chronicles 24:5",
+  "title": "Joash orders a collection for annual temple repairs",
+  "record_type": "Law",
+  "add": "2 Chronicles 24:6",
+  "proposed": "2 Chronicles 24:5–6",
+  "items": [
+   "E:ot-2-chronicles-v24-5|2 Chronicles 24:6"
+  ],
+  "reasons": [
+   "After the Levites delay, Joash presses the same collection on Jehoiada, citing Moses’ levy; same speaker, occasion and direction."
+  ],
+  "confidence": "medium",
+  "book": "2 Chronicles"
+ },
+ {
+  "existing_id": "ot-2-chronicles-v25-16",
+  "current": "2 Chronicles 25:16",
+  "title": "Amaziah threatens the prophet who rebukes him",
+  "record_type": "Command",
+  "add": "2 Chronicles 25:15",
+  "proposed": "2 Chronicles 25:15–16",
+  "items": [
+   "E:ot-2-chronicles-v25-16|2 Chronicles 25:15"
+  ],
+  "reasons": [
+   "25:15 is the rebuke the title names and 25:16 calls ‘my counsel’; the record already includes the prophet’s reply."
+  ],
+  "confidence": "medium",
+  "book": "2 Chronicles"
+ },
+ {
+  "existing_id": "ot-2-chronicles-v25-17",
+  "current": "2 Chronicles 25:17–18",
+  "title": "Amaziah challenges Joash, who answers with the thornbush story",
+  "record_type": "Wisdom",
+  "add": "2 Chronicles 25:19",
+  "proposed": "2 Chronicles 25:17–19",
+  "items": [
+   "V058"
+  ],
+  "reasons": [
+   "Reconciled with Kings: ot-2-kings-v14-9 keeps the story with its application (14:9–10); 25:19 is that application in Joash's same reply."
+  ],
+  "confidence": "medium",
+  "book": "2 Chronicles"
+ },
+ {
+  "existing_id": "ot-2-chronicles-v28-11",
+  "current": "2 Chronicles 28:11",
+  "title": "Oded calls on Israel to send Judah’s captives back",
+  "record_type": "Command",
+  "add": "2 Chronicles 28:9–10",
+  "proposed": "2 Chronicles 28:9–11",
+  "items": [
+   "E:ot-2-chronicles-v28-11|2 Chronicles 28:9–10"
+  ],
+  "reasons": [
+   "28:9–10 open Oded’s same address; the indictment grounds the release command, as Ezra 10:10 opens Ezra’s charge."
+  ],
+  "confidence": "high",
+  "book": "2 Chronicles"
+ },
+ {
+  "existing_id": "ot-2-chronicles-v29-5",
+  "current": "2 Chronicles 29:5",
+  "title": "Hezekiah tells the Levites to purify themselves and the temple",
+  "record_type": "Command",
+  "add": "2 Chronicles 29:4",
+  "proposed": "2 Chronicles 29:4–5",
+  "items": [
+   "E:ot-2-chronicles-v29-5|2 Chronicles 29:4"
+  ],
+  "reasons": [
+   "29:4 gathers and stations the priests and Levites addressed in 29:5, as 1 Maccabees 16:2 names those summoned; meaning unchanged."
+  ],
+  "confidence": "medium",
+  "book": "2 Chronicles"
+ },
+ {
+  "existing_id": "ot-2-chronicles-v32-7",
+  "current": "2 Chronicles 32:7",
+  "title": "Hezekiah urges his people not to fear the Assyrian army",
+  "record_type": "Command",
+  "add": "2 Chronicles 32:8",
+  "proposed": "2 Chronicles 32:7–8",
+  "items": [
+   "RC02"
+  ],
+  "reasons": [
+   "Completes Hezekiah's speech (32:7–8), as reviewer R2a noted."
+  ],
+  "confidence": "medium",
+  "book": "2 Chronicles"
+ },
+ {
+  "existing_id": "ot-1-maccabees-v3-58",
+  "current": "1 Maccabees 3:58",
+  "title": "Judas orders his troops to prepare for battle at dawn",
+  "record_type": "Command",
+  "add": "1 Maccabees 3:59–60",
+  "proposed": "1 Maccabees 3:58–60",
+  "items": [
+   "N:GAP-15-3-59"
+  ],
+  "reasons": [
+   "Same speech and occasion: Judas's quotation begun at 3:58 closes at 3:60; the 'better… than' line and trust in Heaven motivate the order."
+  ],
+  "confidence": "high",
+  "book": "1 Maccabees"
+ },
+ {
+  "existing_id": "ot-1-maccabees-v5-57",
+  "current": "1 Maccabees 5:57",
+  "title": "Joseph and Azariah seek a name for themselves in battle",
+  "record_type": "Instruction",
+  "add": "1 Maccabees 5:58",
+  "proposed": "1 Maccabees 5:57–58",
+  "items": [
+   "E:ot-1-maccabees-v5-57|1 Maccabees 5:58"
+  ],
+  "reasons": [
+   "5:58 reports their orders to the force, turning the same resolve into a command to march; same speakers and occasion."
+  ],
+  "confidence": "medium",
+  "book": "1 Maccabees"
+ },
+ {
+  "existing_id": "ot-1-maccabees-v6-58",
+  "current": "1 Maccabees 6:58–59",
+  "title": "The king’s side proposes peace and restoration of Jewish customs",
+  "record_type": "Instruction",
+  "add": "1 Maccabees 6:57",
+  "proposed": "1 Maccabees 6:57–59",
+  "items": [
+   "E:ot-1-maccabees-v6-58|1 Maccabees 6:57, 60–61"
+  ],
+  "reasons": [
+   "Extend only 6:57, which opens Lysias’s same proposal; 6:60–61 narrate its adoption and sworn implementation, fulfilment narrative."
+  ],
+  "confidence": "medium",
+  "book": "1 Maccabees"
+ },
+ {
+  "existing_id": "ot-1-maccabees-v7-7",
+  "current": "1 Maccabees 7:7",
+  "title": "Alcimus urges Demetrius to investigate and punish Judas’s supporters",
+  "record_type": "Command",
+  "add": "1 Maccabees 7:6",
+  "proposed": "1 Maccabees 7:6–7",
+  "items": [
+   "E:ot-1-maccabees-v7-7|1 Maccabees 7:6"
+  ],
+  "reasons": [
+   "The accusation (7:6) opens the same appeal to the king; one quotation, same speakers and occasion."
+  ],
+  "confidence": "high",
+  "book": "1 Maccabees"
+ },
+ {
+  "existing_id": "AUD-15-8-24",
+  "current": "1 Maccabees 8:24–30",
+  "title": "Rome and Judea establish mutual treaty obligations",
+  "record_type": "Law",
+  "add": "1 Maccabees 8:31–32",
+  "proposed": "1 Maccabees 8:24–32",
+  "items": [
+   "N:GAP-15-8-31"
+  ],
+  "reasons": [
+   "Close of the same Roman letter: the senate applies its pledge of help (8:27) by warning Demetrius; question and threat need no separate record."
+  ],
+  "confidence": "medium",
+  "book": "1 Maccabees"
+ },
+ {
+  "existing_id": "ot-1-maccabees-v10-54",
+  "current": "1 Maccabees 10:54",
+  "title": "Alexander asks for Ptolemy’s daughter in marriage",
+  "record_type": "Command",
+  "add": "1 Maccabees 10:51–53",
+  "proposed": "1 Maccabees 10:51–54",
+  "items": [
+   "E:ot-1-maccabees-v10-54|1 Maccabees 10:51–53"
+  ],
+  "reasons": [
+   "10:51–53 are the same letter’s frame and opening, leading into the marriage request; meaning unchanged."
+  ],
+  "confidence": "high",
+  "book": "1 Maccabees"
+ },
+ {
+  "existing_id": "ot-1-maccabees-v10-56",
+  "current": "1 Maccabees 10:56",
+  "title": "Ptolemy agrees to a marriage alliance and proposes a meeting",
+  "record_type": "Instruction",
+  "add": "1 Maccabees 10:55",
+  "proposed": "1 Maccabees 10:55–56",
+  "items": [
+   "E:ot-1-maccabees-v10-56|1 Maccabees 10:55"
+  ],
+  "reasons": [
+   "10:55 opens Ptolemy’s same reply; one quotation, meaning unchanged."
+  ],
+  "confidence": "high",
+  "book": "1 Maccabees"
+ },
+ {
+  "existing_id": "AUD-15-12-1",
+  "current": "1 Maccabees 12:1–2",
+  "title": "Jonathan sends envoys to Rome and letters to Sparta to renew ties",
+  "record_type": "Commission",
+  "add": "1 Maccabees 12:3, 16–18",
+  "proposed": "1 Maccabees 12:1–3, 16–18",
+  "items": [
+   "N:GAP-15-12-16"
+  ],
+  "reasons": [
+   "The letter named in 12:2 restates the envoys' commission, charges them to Sparta and asks a reply; 12:3 (envoys' delivery in Rome) added too."
+  ],
+  "confidence": "medium",
+  "book": "1 Maccabees"
+ },
+ {
+  "existing_id": "ot-1-maccabees-v12-45",
+  "current": "1 Maccabees 12:45",
+  "title": "Tryphon deceives Jonathan into dismissing his troops",
+  "record_type": "Command",
+  "add": "1 Maccabees 12:43–44",
+  "proposed": "1 Maccabees 12:43–45",
+  "items": [
+   "N:GAP-15-12-43"
+  ],
+  "reasons": [
+   "Same speaker and deception: the feigned honours and order to obey Jonathan (12:43) and the speech's opening question (12:44) belong to the 12:45 ploy."
+  ],
+  "confidence": "medium",
+  "book": "1 Maccabees"
+ },
+ {
+  "existing_id": "ot-1-maccabees-v13-16",
+  "current": "1 Maccabees 13:16",
+  "title": "Tryphon demands silver and hostages for Jonathan’s release",
+  "record_type": "Command",
+  "add": "1 Maccabees 13:14–15",
+  "proposed": "1 Maccabees 13:14–16",
+  "items": [
+   "E:ot-1-maccabees-v13-16|1 Maccabees 13:14–15"
+  ],
+  "reasons": [
+   "13:14–15 send the envoys and state the debt pretext that opens the same demand; one message."
+  ],
+  "confidence": "high",
+  "book": "1 Maccabees"
+ },
+ {
+  "existing_id": "AUD-15-13-36",
+  "current": "1 Maccabees 13:36–39",
+  "title": "Demetrius II confirms Judea's strongholds and remits offenses and levies",
+  "record_type": "Law",
+  "add": "1 Maccabees 13:40",
+  "proposed": "1 Maccabees 13:36–40",
+  "items": [
+   "N:GAP-15-13-40"
+  ],
+  "reasons": [
+   "Final clause of the same Demetrius II letter (the quotation closes at 13:40); enrollment and peace complete the charter."
+  ],
+  "confidence": "medium",
+  "book": "1 Maccabees"
+ },
+ {
+  "existing_id": "AUD-16-1-20",
+  "current": "2 Maccabees 1:20–21",
+  "title": "Nehemiah sends priests’ descendants to recover the hidden fire",
+  "record_type": "Instruction",
+  "add": "2 Maccabees 1:31",
+  "proposed": "2 Maccabees 1:20–21, 31",
+  "items": [
+   "N:GAP-16-1-31",
+   "SIM062"
+  ],
+  "reasons": [
+   "Same speaker and fire ritual: Nehemiah's further order for the remaining water continues 1:21; 1:32 is outcome narrative.",
+   "Nehemiah's further order in the same fire-recovery procedure, with the same liquid as 1:21; extend rather than a new record (cf. N:GAP-16-1-31)."
+  ],
+  "confidence": "medium",
+  "book": "2 Maccabees"
+ },
+ {
+  "existing_id": "AUD-16-6-21",
+  "current": "2 Maccabees 6:21–28",
+  "title": "Eleazar refuses to mislead younger people by pretending to break the law",
+  "record_type": "Wisdom",
+  "add": "2 Maccabees 6:18–20",
+  "proposed": "2 Maccabees 6:18–28",
+  "items": [
+   "E:AUD-16-6-21|2 Maccabees 6:18–20, 29–31"
+  ],
+  "reasons": [
+   "Extend 6:18–20: they introduce ‘the man’ of 6:21 and the narrator’s maxim on refusing unlawful food; 6:29–31 narrate his death."
+  ],
+  "confidence": "medium",
+  "book": "2 Maccabees"
+ },
+ {
+  "existing_id": "AUD-16-13-14",
+  "current": "2 Maccabees 13:14",
+  "title": "Judas urges his men to fight to the death for law and homeland",
+  "record_type": "Command",
+  "add": "2 Maccabees 13:13",
+  "proposed": "2 Maccabees 13:13–14",
+  "items": [
+   "N:GAP-16-13-13"
+  ],
+  "reasons": [
+   "Judas’s council decision to go out and decide matters with God’s help leads straight into his recorded exhortation; same speaker and occasion."
+  ],
+  "confidence": "medium",
+  "book": "2 Maccabees"
+ },
+ {
+  "existing_id": "ot-2-maccabees-v15-2",
+  "current": "2 Maccabees 15:2",
+  "title": "Jewish companions urge Nicanor to honor the Sabbath",
+  "record_type": "Command",
+  "add": "2 Maccabees 15:3–4",
+  "proposed": "2 Maccabees 15:2–4",
+  "items": [
+   "E:ot-2-maccabees-v15-2|2 Maccabees 15:3–4"
+  ],
+  "reasons": [
+   "Asked who commanded it, the same companions renew their plea by citing the Lord’s command to keep the seventh day."
+  ],
+  "confidence": "high",
+  "book": "2 Maccabees"
+ },
+ {
+  "existing_id": "AUD-16-15-8",
+  "current": "2 Maccabees 15:8–9",
+  "title": "Judas urges his men to remember past help from heaven",
+  "record_type": "Wisdom",
+  "add": "2 Maccabees 15:10–11",
+  "proposed": "2 Maccabees 15:8–11",
+  "items": [
+   "U13399"
+  ],
+  "reasons": [
+   "Judas's same exhortation continues: he gives orders, exposes the nations' perjury and arms his men with encouraging words."
+  ],
+  "confidence": "medium",
+  "book": "2 Maccabees"
+ },
+ {
+  "existing_id": "ot-ezra-v4-21",
+  "current": "Ezra 4:21–22",
+  "title": "The king orders the rebuilding of Jerusalem to stop",
+  "record_type": "Command",
+  "add": "Ezra 4:17–20",
+  "proposed": "Ezra 4:17–22",
+  "items": [
+   "N:GAP-17-4-17"
+  ],
+  "reasons": [
+   "Opening of the same royal letter whose stop order is recorded (4:21–22); extend, adding 4:20 to complete the sentence."
+  ],
+  "confidence": "medium",
+  "book": "Ezra"
+ },
+ {
+  "existing_id": "ot-ezra-v7-17",
+  "current": "Ezra 7:17–20",
+  "title": "The king entrusts Ezra with offerings and funds for the temple",
+  "record_type": "Commission",
+  "add": "Ezra 7:15–16",
+  "proposed": "Ezra 7:15–20",
+  "items": [
+   "E:ot-ezra-v7-17|Ezra 7:15–16"
+  ],
+  "reasons": [
+   "7:15–16 name the silver, gold and freewill offerings entrusted in the same sentence that 7:17–20 assigns; 7:18 presupposes them."
+  ],
+  "confidence": "high",
+  "book": "Ezra"
+ },
+ {
+  "existing_id": "ot-ezra-v10-3",
+  "current": "Ezra 10:3",
+  "title": "Shecaniah proposes an oath to send away foreign wives and their children",
+  "record_type": "Instruction",
+  "add": "Ezra 10:2",
+  "proposed": "Ezra 10:2–3",
+  "items": [
+   "E:ot-ezra-v10-3|Ezra 10:2"
+  ],
+  "reasons": [
+   "10:2 opens Shecaniah’s same proposal with confession and hope, as the published Ezra 10:10–11 keeps its indictment."
+  ],
+  "confidence": "high",
+  "book": "Ezra"
+ },
+ {
+  "existing_id": "ot-ezra-v10-14",
+  "current": "Ezra 10:14",
+  "title": "The assembly proposes scheduled hearings for foreign marriages",
+  "record_type": "Instruction",
+  "add": "Ezra 10:12–13",
+  "proposed": "Ezra 10:12–14",
+  "items": [
+   "E:ot-ezra-v10-14|Ezra 10:12–13"
+  ],
+  "reasons": [
+   "10:12–13 open the assembly’s same reply, giving the reasons for the proposed schedule; one quotation."
+  ],
+  "confidence": "high",
+  "book": "Ezra"
+ },
+ {
+  "existing_id": "ot-nehemiah-v5-12",
+  "current": "Nehemiah 5:12",
+  "title": "Nehemiah has the lenders swear to return what they took",
+  "record_type": "Instruction",
+  "add": "Nehemiah 5:13",
+  "proposed": "Nehemiah 5:12–13",
+  "items": [
+   "E:ot-nehemiah-v5-12|Nehemiah 5:13"
+  ],
+  "reasons": [
+   "Nehemiah seals the same oath with a curse on whoever fails to uphold ‘this word’; the assembly’s Amen completes the ceremony."
+  ],
+  "confidence": "medium",
+  "book": "Nehemiah"
+ },
+ {
+  "existing_id": "ot-nehemiah-v6-7",
+  "current": "Nehemiah 6:7",
+  "title": "Sanballat uses an accusation to press Nehemiah for a meeting",
+  "record_type": "Command",
+  "add": "Nehemiah 6:5–6",
+  "proposed": "Nehemiah 6:5–7",
+  "items": [
+   "E:ot-nehemiah-v6-7|Nehemiah 6:5–6"
+  ],
+  "reasons": [
+   "6:5–6 send the open letter and begin its accusation; 6:7 continues the same letter."
+  ],
+  "confidence": "high",
+  "book": "Nehemiah"
+ },
+ {
+  "existing_id": "ot-nehemiah-v13-19",
+  "current": "Nehemiah 13:19–21",
+  "title": "Nehemiah shuts Jerusalem’s gates against Sabbath trade",
+  "record_type": "Instruction",
+  "add": "Nehemiah 13:15–18",
+  "proposed": "Nehemiah 13:15–21",
+  "items": [
+   "E:ot-nehemiah-v13-19|Nehemiah 13:15–18"
+  ],
+  "reasons": [
+   "13:15–18 report Nehemiah’s warning to Sabbath sellers and rebuke of Judah’s nobles, the same campaign against Sabbath trade."
+  ],
+  "confidence": "medium",
+  "book": "Nehemiah"
+ },
+ {
+  "existing_id": "ot-esther-v1-19",
+  "current": "Esther 1:19",
+  "title": "The advisers propose removing Vashti by royal decree",
+  "record_type": "Law",
+  "add": "Esther 1:16–18",
+  "proposed": "Esther 1:16–19",
+  "items": [
+   "E:ot-esther-v1-19|Esther 1:16–18"
+  ],
+  "reasons": [
+   "1:16–18 open Muchaeus’s same speech, giving the grounds for the proposed decree; one quotation."
+  ],
+  "confidence": "high",
+  "book": "Esther"
+ },
+ {
+  "existing_id": "ot-esther-v4-10",
+  "current": "Esther 4:10",
+  "title": "Esther sends her reply to Mordecai through a messenger",
+  "record_type": "Commission",
+  "add": "Esther 4:11",
+  "proposed": "Esther 4:10–11",
+  "items": [
+   "N:GAP-19-4-11"
+  ],
+  "reasons": [
+   "4:10 stops at ‘say:’; 4:11 is the reply itself, citing the court law. Extend rather than present Esther’s report as a royal law."
+  ],
+  "confidence": "medium",
+  "book": "Esther"
+ },
+ {
+  "existing_id": "AUD-21-40-2",
+  "current": "Greek Psalm 40:2",
+  "title": "Blessed is the one who considers the poor and needy",
+  "record_type": "Wisdom",
+  "add": "Greek Psalm 40:3–4",
+  "proposed": "Greek Psalm 40:2–4",
+  "items": [
+   "V075"
+  ],
+  "reasons": [
+   "40:3–4 complete the beatitude: the Lord’s promised protection of the one who considers the poor, which the record’s own note cites."
+  ],
+  "confidence": "medium",
+  "book": "Psalms"
+ },
+ {
+  "existing_id": "AUD-21-61-6",
+  "current": "Greek Psalm 61:6–8",
+  "title": "The psalmist tells his own soul to submit to God as his hope",
+  "record_type": "Wisdom",
+  "add": "Greek Psalm 61:2–3",
+  "proposed": "Greek Psalm 61:2–3, 6–8",
+  "items": [
+   "SIM077"
+  ],
+  "reasons": [
+   "First occurrence of the refrain recorded at 61:6–8, as the record's note says; same psalm and speaker. 61:2 included to keep the refrain whole."
+  ],
+  "confidence": "medium",
+  "book": "Psalms"
+ },
+ {
+  "existing_id": "AUD-21-82-4",
+  "current": "Greek Psalm 82:4–5",
+  "title": "The nations allied against Israel plot to wipe out its name",
+  "record_type": "Command",
+  "add": "Greek Psalm 82:13",
+  "proposed": "Greek Psalm 82:4–5, 13",
+  "items": [
+   "V080"
+  ],
+  "reasons": [
+   "The same coalition rulers’ plot quoted again (‘Let us inherit God’s sanctuary’), as the record’s note says; same speakers and occasion."
+  ],
+  "confidence": "medium",
+  "book": "Psalms"
+ },
+ {
+  "existing_id": "ot-proverbs-v5-8",
+  "current": "Proverbs 5:8–10",
+  "title": "Keep away from the seducer's house",
+  "record_type": "Wisdom",
+  "add": "Proverbs 5:11–14",
+  "proposed": "Proverbs 5:8–14",
+  "items": [
+   "N:GAP-22-5-11"
+  ],
+  "reasons": [
+   "5:11 continues the sentence of 5:8–10: the regret that follows ignoring the warning. Same speaker and charge, not a separate direction."
+  ],
+  "confidence": "high",
+  "book": "Proverbs"
+ },
+ {
+  "existing_id": "AUD-22-9-17",
+  "current": "Proverbs 9:17–18",
+  "title": "Stolen water tastes sweet, but Folly's guests perish",
+  "record_type": "Wisdom",
+  "add": "Proverbs 9:13–16",
+  "proposed": "Proverbs 9:13–18",
+  "items": [
+   "N:GAP-22-9-13",
+   "SIM086"
+  ],
+  "reasons": [
+   "Folly's call ('turn aside to me') runs straight into her words at 9:17; join it to AUD-22-9-17, mirroring Wisdom's invitation 9:1–6.",
+   "Folly's call opens the speech continued in 9:17; extend the Folly record (as Wisdom's 9:1–6) rather than make a separate record."
+  ],
+  "confidence": "medium",
+  "book": "Proverbs"
+ },
+ {
+  "existing_id": "ot-proverbs-v23-25",
+  "current": "Proverbs 23:24–26",
+  "title": "Give your parents reason to rejoice",
+  "record_type": "Wisdom",
+  "add": "Proverbs 23:27–28",
+  "proposed": "Proverbs 23:24–28",
+  "items": [
+   "N:GAP-22-23-27"
+  ],
+  "reasons": [
+   "23:27 ('for…') completes 23:26's sentence: keep my ways, for another's house is a leaking jar. Motive of the same charge, so extend."
+  ],
+  "confidence": "medium",
+  "book": "Proverbs"
+ },
+ {
+  "existing_id": "ot-proverbs-v31-3",
+  "current": "Proverbs 31:3–5",
+  "title": "A mother counsels the king about wine and sound judgment",
+  "record_type": "Wisdom",
+  "add": "Proverbs 31:1–2",
+  "proposed": "Proverbs 31:1–5",
+  "items": [
+   "N:GAP-22-31-1"
+  ],
+  "reasons": [
+   "Heading and opening appeal of the same mother's instruction; 'keep God's sayings' comes as a question, so extend rather than create."
+  ],
+  "confidence": "medium",
+  "book": "Proverbs"
+ },
+ {
+  "existing_id": "AUD-23-1-8",
+  "current": "Ecclesiastes 1:8–11",
+  "title": "Nothing is new under the sun, and the past is forgotten",
+  "record_type": "Wisdom",
+  "add": "Ecclesiastes 1:4–7",
+  "proposed": "Ecclesiastes 1:4–11",
+  "items": [
+   "V085"
+  ],
+  "reasons": [
+   "The cycles of generations, sun, wind and streams are the premise of ‘all things are wearisome… nothing new’ (1:8–11); same speaker and poem."
+  ],
+  "confidence": "medium",
+  "book": "Ecclesiastes"
+ },
+ {
+  "existing_id": "ot-ecclesiastes-v5-7",
+  "current": "Ecclesiastes 5:7",
+  "title": "Do not be surprised by oppression under layers of officials",
+  "record_type": "Wisdom",
+  "add": "Ecclesiastes 5:8",
+  "proposed": "Ecclesiastes 5:7–8",
+  "items": [
+   "E:ot-ecclesiastes-v5-7|Ecclesiastes 5:8"
+  ],
+  "reasons": [
+   "5:8 completes 5:7's reasoning about officials over officials, ending with the king and the land's yield. Same saying, not a new direction."
+  ],
+  "confidence": "medium",
+  "book": "Ecclesiastes"
+ },
+ {
+  "existing_id": "ot-lamentations-v1-12",
+  "current": "Lamentations 1:12",
+  "title": "The lament asks passersby to witness its incomparable sorrow",
+  "record_type": "Study Context",
+  "add": "Lamentations 1:18",
+  "proposed": "Lamentations 1:12, 18",
+  "items": [
+   "V088"
+  ],
+  "reasons": [
+   "Zion renews the same appeal (‘Hear… all you peoples, and see my pain’) in the same lament; attach to that Study Context record."
+  ],
+  "confidence": "medium",
+  "book": "Lamentations"
+ },
+ {
+  "existing_id": "ot-lamentations-v3-40",
+  "current": "Lamentations 3:40",
+  "title": "The lament calls the people to return to the Lord",
+  "record_type": "Wisdom",
+  "add": "Lamentations 3:39",
+  "proposed": "Lamentations 3:39–40",
+  "items": [
+   "E:ot-lamentations-v3-40|Lamentations 3:39"
+  ],
+  "reasons": [
+   "3:39's question (why grumble over one's sin?) leads straight into 'let us return'; same speaker and sense unit, not a separate direction."
+  ],
+  "confidence": "medium",
+  "book": "Lamentations"
+ },
+ {
+  "existing_id": "AUD-26-3-13",
+  "current": "Wisdom of Solomon 3:13–15",
+  "title": "Blessed are the undefiled barren woman and the faithful eunuch",
+  "record_type": "Wisdom",
+  "add": "Wisdom of Solomon 3:16–19",
+  "proposed": "Wisdom of Solomon 3:13–19",
+  "items": [
+   "N:GAP-26-3-16"
+  ],
+  "reasons": [
+   "3:16 ('But…') is the antithesis of 3:13's beatitude: undefiled bed versus unlawful bed. Completes the same teaching rather than a separate record."
+  ],
+  "confidence": "medium",
+  "book": "Wisdom of Solomon"
+ },
+ {
+  "existing_id": "AUD-26-4-1",
+  "current": "Wisdom of Solomon 4:1–2",
+  "title": "Childlessness with virtue is better, for virtue is remembered",
+  "record_type": "Wisdom",
+  "add": "Wisdom of Solomon 4:3–6",
+  "proposed": "Wisdom of Solomon 4:1–6",
+  "items": [
+   "N:GAP-26-4-3"
+  ],
+  "reasons": [
+   "4:3 ('But…') completes 4:1–2's 'better' saying: virtuous childlessness against the rootless offspring of the ungodly. Same teaching, so extend."
+  ],
+  "confidence": "medium",
+  "book": "Wisdom of Solomon"
+ },
+ {
+  "existing_id": "ot-sirach-v16-17",
+  "current": "Sirach 16:17",
+  "title": "Do not imagine you can hide from God",
+  "record_type": "Wisdom",
+  "add": "Sirach 16:18–19",
+  "proposed": "Sirach 16:17–19",
+  "items": [
+   "E:ot-sirach-v16-17|Sirach 16:18–19"
+  ],
+  "reasons": [
+   "16:18–19 answer 16:17's quoted thought: heaven and earth shake when He looks on them, so none can hide. Same speaker, continuing passage."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "ot-sirach-v19-6",
+  "current": "Sirach 19:6–9",
+  "title": "Do not repeat what was said in confidence",
+  "record_type": "Wisdom",
+  "add": "Sirach 19:5",
+  "proposed": "Sirach 19:5–9",
+  "items": [
+   "E:ot-sirach-v19-6|Sirach 19:5, 9"
+  ],
+  "reasons": [
+   "19:5 opens the sentence that 19:6 completes ('…but the one who hates chatter'); 19:9 is already in the record, so add only 19:5."
+  ],
+  "confidence": "high",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "AUD-27-23-22",
+  "current": "Sirach 23:22–23",
+  "title": "A wife's adultery breaks God's law and wrongs her husband",
+  "record_type": "Wisdom",
+  "add": "Sirach 23:24–26",
+  "proposed": "Sirach 23:22–26",
+  "items": [
+   "N:GAP-27-23-24"
+  ],
+  "reasons": [
+   "Same adulteress as 23:22–23: her public judgment, rootless children and cursed memory complete the passage. Extending avoids a duplicate record."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "AUD-27-26-13",
+  "current": "Sirach 26:13–15",
+  "title": "A gracious, silent and modest wife is a gift of the Lord",
+  "record_type": "Wisdom",
+  "add": "Sirach 26:16–18",
+  "proposed": "Sirach 26:13–18",
+  "items": [
+   "N:GAP-27-26-16"
+  ],
+  "reasons": [
+   "Continues 26:13–15's praise of a good wife (her beauty in an ordered house) with the same speaker; not a separate direction."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "ot-sirach-v30-23",
+  "current": "Sirach 30:23–24",
+  "title": "Take comfort and do not let grief consume you",
+  "record_type": "Wisdom",
+  "add": "Sirach 30:25",
+  "proposed": "Sirach 30:23–25",
+  "items": [
+   "E:ot-sirach-v30-23|Sirach 30:24–25"
+  ],
+  "reasons": [
+   "30:24 is already in the record; 30:25 closes the same saying on a glad heart that cares for its food."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "ot-sirach-v32-1",
+  "current": "Sirach 32:1–4",
+  "title": "A banquet leader should serve without exalting himself",
+  "record_type": "Wisdom",
+  "add": "Sirach 32:5–6",
+  "proposed": "Sirach 32:1–6",
+  "items": [
+   "E:ot-sirach-v32-1|Sirach 32:5–6"
+  ],
+  "reasons": [
+   "The similes give the reason behind 32:3–4's 'do not hinder the music'; same banquet counsel and speaker."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "ot-sirach-v32-7",
+  "current": "Sirach 32:7–9",
+  "title": "Speak briefly when you are asked to speak",
+  "record_type": "Wisdom",
+  "add": "Sirach 32:10",
+  "proposed": "Sirach 32:7–10",
+  "items": [
+   "E:ot-sirach-v32-7|Sirach 32:10"
+  ],
+  "reasons": [
+   "32:10 gives the motive for 32:9's modesty: grace goes ahead of a modest person. Same counsel."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "AUD-27-33-10",
+  "current": "Sirach 33:10–13",
+  "title": "Human beings are like clay in the hand of their Maker",
+  "record_type": "Wisdom",
+  "add": "Sirach 33:7–9",
+  "proposed": "Sirach 33:7–13",
+  "items": [
+   "N:GAP-27-33-7"
+  ],
+  "reasons": [
+   "First half of the same comparison: as the Lord distinguished days, so people (33:8 and 33:11 match). Doctrine alone; extend, not a record."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "AUD-27-35-23",
+  "current": "Sirach 35:23–24",
+  "title": "God's mercy in affliction is like rain in drought",
+  "record_type": "Wisdom",
+  "add": "Sirach 35:19–22",
+  "proposed": "Sirach 35:19–24",
+  "items": [
+   "N:GAP-27-35-19"
+  ],
+  "reasons": [
+   "35:19–23 is one sentence; AUD-27-35-23 now starts mid-sentence at 'until He judges'. Extend back to 35:19 and broaden its title."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "ot-sirach-v37-12",
+  "current": "Sirach 37:12–13",
+  "title": "Seek counsel from someone godly who shares your concerns",
+  "record_type": "Wisdom",
+  "add": "Sirach 37:14",
+  "proposed": "Sirach 37:12–14",
+  "items": [
+   "E:ot-sirach-v37-12|Sirach 37:14"
+  ],
+  "reasons": [
+   "37:14 ('For…') is the reason for 37:13's counsel to trust your own heart; same saying."
+  ],
+  "confidence": "high",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "AUD-27-38-4",
+  "current": "Sirach 38:4–5",
+  "title": "Do not reject the medicines the Lord created from the earth",
+  "record_type": "Wisdom",
+  "add": "Sirach 38:6–8",
+  "proposed": "Sirach 38:4–8",
+  "items": [
+   "N:GAP-27-38-6"
+  ],
+  "reasons": [
+   "Continues 38:4–5 on medicines: God gave the knowledge by which He heals. Repeats existing coverage, so extend rather than a new record."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "AUD-27-38-24",
+  "current": "Sirach 38:24–26",
+  "title": "A scribe’s study takes leisure that farm labor leaves little room for",
+  "record_type": "Wisdom",
+  "add": "Sirach 38:27–30",
+  "proposed": "Sirach 38:24–30",
+  "items": [
+   "N:GAP-27-38-27"
+  ],
+  "reasons": [
+   "Craftsman, smith and potter continue the list begun with the farmer in 38:25–26 ('So also…'); part of the scribe-and-trades comparison."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "AUD-27-39-22",
+  "current": "Sirach 39:22–25",
+  "title": "God's ways bless the holy but trip up the lawless",
+  "record_type": "Wisdom",
+  "add": "Sirach 39:26–31",
+  "proposed": "Sirach 39:22–31",
+  "items": [
+   "N:GAP-27-39-26",
+   "N:GAP-27-39-28"
+  ],
+  "reasons": [
+   "39:26–27 continue 39:25 in AUD-27-39-22: life's necessities are good for the godly but turn evil for sinners. Same teaching.",
+   "Continues the same strophe (39:25 'evil things for sinners'): forces of retribution created to serve His command. Extend; not a separate teaching."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "AUD-27-40-1",
+  "current": "Sirach 40:1–4",
+  "title": "Toil and fear of death burden everyone, from throne to ashes",
+  "record_type": "Wisdom",
+  "add": "Sirach 40:5–7",
+  "proposed": "Sirach 40:1–7",
+  "items": [
+   "N:GAP-27-40-5"
+  ],
+  "reasons": [
+   "Continues 40:1–4's burden on all mortals: even sleep brings anxious dreams. Same passage and teaching."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "ot-sirach-v41-3",
+  "current": "Sirach 41:3–4",
+  "title": "Remember others who have died and do not fear death",
+  "record_type": "Wisdom",
+  "add": "Sirach 41:1–2",
+  "proposed": "Sirach 41:1–4",
+  "items": [
+   "N:GAP-27-41-1"
+  ],
+  "reasons": [
+   "Opens the same saying on death: 41:3 takes up 41:2's 'sentence' ('Do not fear death's sentence'). Same speaker and passage."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "ot-sirach-v42-11",
+  "current": "Sirach 42:9–12",
+  "title": "Sirach's advice to fathers about a daughter's reputation",
+  "record_type": "Wisdom",
+  "add": "Sirach 42:13–14",
+  "proposed": "Sirach 42:9–14",
+  "items": [
+   "E:ot-sirach-v42-11|Sirach 42:9–10, 13–14"
+  ],
+  "reasons": [
+   "42:9–10 are already in the record; 42:13–14 ('For…') give the reason for 42:12's direction, so add only those."
+  ],
+  "confidence": "medium",
+  "book": "Sirach"
+ },
+ {
+  "existing_id": "ot-isaiah-v7-4",
+  "current": "Isaiah 7:4",
+  "title": "Isaiah is to reassure Ahaz about the two threatening kings",
+  "record_type": "Commission",
+  "add": "Isaiah 7:5–8",
+  "proposed": "Isaiah 7:4–8",
+  "items": [
+   "V096"
+  ],
+  "reasons": [
+   "Body of the message Isaiah must deliver (7:4–9; 7:9 already linked): the plot is quoted only to be annulled. Not a separate plan record."
+  ],
+  "confidence": "medium",
+  "book": "Isaiah"
+ },
+ {
+  "existing_id": "ot-isaiah-v30-8",
+  "current": "Isaiah 30:8",
+  "title": "The Lord tells Isaiah to write the warning for future generations",
+  "record_type": "Commission",
+  "add": "Isaiah 30:7",
+  "proposed": "Isaiah 30:7–8",
+  "items": [
+   "E:ot-isaiah-v30-8|Isaiah 30:7"
+  ],
+  "reasons": [
+   "'Announce to them' is the same charge to Isaiah that 30:8 continues ('Now then… write these things'). Same speaker and occasion."
+  ],
+  "confidence": "medium",
+  "book": "Isaiah"
+ },
+ {
+  "existing_id": "ot-isaiah-v32-5",
+  "current": "Isaiah 32:5",
+  "title": "Under righteous rule fools will no longer be called to govern",
+  "record_type": "Study Context",
+  "add": "Isaiah 32:6–8",
+  "proposed": "Isaiah 32:5–8",
+  "items": [
+   "N:GAP-28-32-6"
+  ],
+  "reasons": [
+   "32:6 ('For…') explains 32:5: the fool's lawless counsel against the devout's lasting plans. Continues that record; no separate direction."
+  ],
+  "confidence": "medium",
+  "book": "Isaiah"
+ },
+ {
+  "existing_id": "ot-isaiah-v36-4",
+  "current": "Isaiah 36:4",
+  "title": "The Assyrian envoy challenges Hezekiah’s confidence",
+  "record_type": "Commission",
+  "add": "Isaiah 36:5–10",
+  "proposed": "Isaiah 36:4–10",
+  "items": [
+   "V106"
+  ],
+  "reasons": [
+   "36:5–10 completes the message Rapsakes tells the officials to deliver (36:4), including the horse wager (36:8) and claimed divine sanction (36:10)."
+  ],
+  "confidence": "medium",
+  "book": "Isaiah"
+ },
+ {
+  "existing_id": "ot-isaiah-v40-3",
+  "current": "Isaiah 40:3",
+  "title": "A wilderness voice calls for preparing the Lord’s way",
+  "record_type": "Instruction",
+  "add": "Isaiah 40:4",
+  "proposed": "Isaiah 40:3–4",
+  "items": [
+   "SIM091"
+  ],
+  "reasons": [
+   "Continues the same voice's call to prepare the way (levelling the road); Luke 3:5, already linked to this record, quotes it."
+  ],
+  "confidence": "medium",
+  "book": "Isaiah"
+ },
+ {
+  "existing_id": "ot-isaiah-v40-27",
+  "current": "Isaiah 40:27",
+  "title": "Israel is challenged over its claim that God does not see its plight",
+  "record_type": "Command",
+  "add": "Isaiah 40:28–31",
+  "proposed": "Isaiah 40:27–31",
+  "items": [
+   "V107"
+  ],
+  "reasons": [
+   "The answer to Israel’s complaint in the same address: the unwearied God strengthens those who endure for Him. Completes the record’s passage."
+  ],
+  "confidence": "medium",
+  "book": "Isaiah"
+ },
+ {
+  "existing_id": "ot-isaiah-v42-11",
+  "current": "Isaiah 42:11",
+  "title": "Desert settlements and Petra are called to rejoice",
+  "record_type": "Study Context",
+  "add": "Isaiah 42:12",
+  "proposed": "Isaiah 42:11–12",
+  "items": [
+   "SIM092"
+  ],
+  "reasons": [
+   "Completes the call of 42:11: Kedar's and Petra's people give God glory and announce His praise. Same hymn; 42:8 shares only vocabulary."
+  ],
+  "confidence": "medium",
+  "book": "Isaiah"
+ },
+ {
+  "existing_id": "ot-isaiah-v44-21",
+  "current": "Isaiah 44:21",
+  "title": "God calls Jacob and Israel to remember their Maker",
+  "record_type": "Command",
+  "add": "Isaiah 44:20",
+  "proposed": "Isaiah 44:20–21",
+  "items": [
+   "V108"
+  ],
+  "reasons": [
+   "‘Know… see’ closes the idol satire with the lesson that 44:21’s ‘Remember these things’ refers to; the same appeal to Israel."
+  ],
+  "confidence": "medium",
+  "book": "Isaiah"
+ },
+ {
+  "existing_id": "ot-isaiah-v45-20",
+  "current": "Isaiah 45:20",
+  "title": "Survivors from the nations are called to gather, unlike idol worshippers",
+  "record_type": "Instruction",
+  "add": "Isaiah 45:21",
+  "proposed": "Isaiah 45:20–21",
+  "items": [
+   "E:ot-isaiah-v45-20|Isaiah 45:21"
+  ],
+  "reasons": [
+   "45:21 continues the summons ('let them draw near so that they may know together'); same speaker and occasion."
+  ],
+  "confidence": "medium",
+  "book": "Isaiah"
+ },
+ {
+  "existing_id": "ot-isaiah-v58-6",
+  "current": "Isaiah 58:6",
+  "title": "The fast God chooses releases people from injustice and coercion",
+  "record_type": "Instruction",
+  "add": "Isaiah 58:3–5",
+  "proposed": "Isaiah 58:3–6",
+  "items": [
+   "N:GAP-28-58-3"
+  ],
+  "reasons": [
+   "Negative half of the same instruction: 'I did not choose this fast' (58:5) leads into 58:6's 'It is not such a fast.' Extend."
+  ],
+  "confidence": "medium",
+  "book": "Isaiah"
+ },
+ {
+  "existing_id": "ot-jeremiah-v7-4",
+  "current": "Jeremiah 7:4",
+  "title": "Judah is warned against trusting in slogans about the temple",
+  "record_type": "Command",
+  "add": "Jeremiah 7:8–11",
+  "proposed": "Jeremiah 7:4, 8–11",
+  "items": [
+   "E:ot-jeremiah-v7-4|Jeremiah 7:8–11"
+  ],
+  "reasons": [
+   "7:8 restates 7:4's warning against trusting false words; the sentence runs to 7:11's 'robbers' cave'. Same sermon and direction."
+  ],
+  "confidence": "medium",
+  "book": "Jeremiah"
+ },
+ {
+  "existing_id": "ot-jeremiah-v7-23",
+  "current": "Jeremiah 7:23",
+  "title": "God recalls telling Israel to listen and walk in His ways",
+  "record_type": "Instruction",
+  "add": "Jeremiah 7:22",
+  "proposed": "Jeremiah 7:22–23",
+  "items": [
+   "V115"
+  ],
+  "reasons": [
+   "7:22–23 is one sentence: God did not command sacrifice but ‘Hear My voice’. 7:22 is the contrast half of the recorded recollection."
+  ],
+  "confidence": "high",
+  "book": "Jeremiah"
+ },
+ {
+  "existing_id": "ot-jeremiah-v28-62",
+  "current": "Jeremiah 28:62",
+  "title": "A prayer acknowledges the Lord’s declaration against Babylon",
+  "record_type": "Commission",
+  "add": "Jeremiah 28:61",
+  "proposed": "Jeremiah 28:61–62",
+  "items": [
+   "E:ot-jeremiah-v28-62|Jeremiah 28:61"
+  ],
+  "reasons": [
+   "28:61 opens Jeremiah's charge to Seraiah that 28:62 continues ('and say'); consider retitling as that charge."
+  ],
+  "confidence": "high",
+  "book": "Jeremiah"
+ },
+ {
+  "existing_id": "ot-jeremiah-v32-15",
+  "current": "Jeremiah 32:15",
+  "title": "God gives Jeremiah the cup of judgment to take to the nations",
+  "record_type": "Commission",
+  "add": "Jeremiah 32:16",
+  "proposed": "Jeremiah 32:15–16",
+  "items": [
+   "SIM098"
+  ],
+  "reasons": [
+   "Completes the 32:15 sentence: give the cup to the nations, and they will drink and go mad. Same speaker and occasion."
+  ],
+  "confidence": "medium",
+  "book": "Jeremiah"
+ },
+ {
+  "existing_id": "ot-jeremiah-v32-27",
+  "current": "Jeremiah 32:27",
+  "title": "The cup pictures nations falling under the sword of judgment",
+  "record_type": "Command",
+  "add": "Jeremiah 32:28",
+  "proposed": "Jeremiah 32:27–28",
+  "items": [
+   "E:ot-jeremiah-v32-27|Jeremiah 32:28"
+  ],
+  "reasons": [
+   "Continues the same instruction to Jeremiah: if the nations refuse the cup, say 'You will certainly drink.'"
+  ],
+  "confidence": "high",
+  "book": "Jeremiah"
+ },
+ {
+  "existing_id": "ot-jeremiah-v36-31",
+  "current": "Jeremiah 36:31",
+  "title": "God tells the exiles that He did not send Shemaiah to prophesy",
+  "record_type": "Commission",
+  "add": "Jeremiah 36:30",
+  "proposed": "Jeremiah 36:30–31",
+  "items": [
+   "SIM099"
+  ],
+  "reasons": [
+   "Word-event formula that directly introduces the recorded order 'Send to the deportees' (36:31); the catalogue adds such introductions (cf. 2 Kings 22:3)."
+  ],
+  "confidence": "medium",
+  "book": "Jeremiah"
+ },
+ {
+  "existing_id": "ot-jeremiah-v42-7",
+  "current": "Jeremiah 42:5–10",
+  "title": "The Rechabites recount Jonadab’s rule on houses, crops and tents",
+  "record_type": "Instruction",
+  "add": "Jeremiah 42:11",
+  "proposed": "Jeremiah 42:5–11",
+  "items": [
+   "V119"
+  ],
+  "reasons": [
+   "Closing sentence of the same Rechabite reply: why, despite the tent rule, they now live in Jerusalem. Same speakers and occasion."
+  ],
+  "confidence": "medium",
+  "book": "Jeremiah"
+ },
+ {
+  "existing_id": "ot-jeremiah-v42-13",
+  "current": "Jeremiah 42:13",
+  "title": "God sends Jeremiah to ask why Judah refuses instruction",
+  "record_type": "Commission",
+  "add": "Jeremiah 42:14",
+  "proposed": "Jeremiah 42:13–14",
+  "items": [
+   "E:ot-jeremiah-v42-13|Jeremiah 42:14"
+  ],
+  "reasons": [
+   "42:14 is the content of the message 42:13 sends Jeremiah to deliver: the Rechabites obeyed, Judah did not listen."
+  ],
+  "confidence": "high",
+  "book": "Jeremiah"
+ },
+ {
+  "existing_id": "ot-jeremiah-v50-9",
+  "current": "Jeremiah 50:9",
+  "title": "God tells Jeremiah to hide stones at Pharaoh’s gate in Tahpanhes",
+  "record_type": "Instruction",
+  "add": "Jeremiah 50:8",
+  "proposed": "Jeremiah 50:8–9",
+  "items": [
+   "SIM102"
+  ],
+  "reasons": [
+   "Word-event formula directly introducing the recorded order to hide stones at Taphnas (50:9); same speaker and occasion."
+  ],
+  "confidence": "medium",
+  "book": "Jeremiah"
+ },
+ {
+  "existing_id": "ot-ezekiel-v2-8",
+  "current": "Ezekiel 2:8",
+  "title": "God tells Ezekiel to listen and eat what he is given",
+  "record_type": "Instruction",
+  "add": "Ezekiel 2:9–3:3",
+  "proposed": "Ezekiel 2:8–3:3",
+  "items": [
+   "E:ot-ezekiel-v2-8|Ezekiel 2:9–3:3"
+  ],
+  "reasons": [
+   "3:1 and 3:3 renew 2:8's command to eat; 2:9–10 and 3:2 are the connecting vision and fulfilment within the same passage."
+  ],
+  "confidence": "high",
+  "book": "Ezekiel"
+ },
+ {
+  "existing_id": "ot-ezekiel-v3-17",
+  "current": "Ezekiel 3:17",
+  "title": "God appoints Ezekiel as a watchman to warn Israel",
+  "record_type": "Commission",
+  "add": "Ezekiel 3:16",
+  "proposed": "Ezekiel 3:16–17",
+  "items": [
+   "SIM103"
+  ],
+  "reasons": [
+   "Word-event formula directly introducing the recorded watchman appointment (3:17); same speaker and occasion."
+  ],
+  "confidence": "medium",
+  "book": "Ezekiel"
+ },
+ {
+  "existing_id": "ot-ezekiel-v12-10",
+  "current": "Ezekiel 12:10",
+  "title": "Ezekiel identifies Jerusalem’s ruler in the sign of deportation",
+  "record_type": "Study Context",
+  "add": "Ezekiel 12:8–9",
+  "proposed": "Ezekiel 12:8–10",
+  "items": [
+   "SIM106"
+  ],
+  "reasons": [
+   "Formula and the Lord's question introduce the recorded 'Say to them' (12:10); same speaker. 12:9 is included to keep the speech contiguous."
+  ],
+  "confidence": "medium",
+  "book": "Ezekiel"
+ },
+ {
+  "existing_id": "ot-ezekiel-v21-17",
+  "current": "Ezekiel 21:17",
+  "title": "Ezekiel is told to wail because the sword has come on Israel",
+  "record_type": "Instruction",
+  "add": "Ezekiel 21:18–20",
+  "proposed": "Ezekiel 21:17–20",
+  "items": [
+   "E:ot-ezekiel-v21-17|Ezekiel 21:18–19"
+  ],
+  "reasons": [
+   "21:19 renews the sign ('strike hand upon hand'); extended to 21:20 because the sentence ends there. Reference corrected from 21:18–19."
+  ],
+  "confidence": "medium",
+  "book": "Ezekiel"
+ },
+ {
+  "existing_id": "ot-ezekiel-v24-21",
+  "current": "Ezekiel 24:21",
+  "title": "God says He will profane the sanctuary Israel takes pride in",
+  "record_type": "Study Context",
+  "add": "Ezekiel 24:20",
+  "proposed": "Ezekiel 24:20–21",
+  "items": [
+   "SIM110"
+  ],
+  "reasons": [
+   "Ezekiel's word-event formula introducing the message he is told to relay (24:21); same speaker and occasion."
+  ],
+  "confidence": "medium",
+  "book": "Ezekiel"
+ },
+ {
+  "existing_id": "ot-ezekiel-v39-17",
+  "current": "Ezekiel 39:17",
+  "title": "The oracle summons birds and beasts to a feast after judgment",
+  "record_type": "Command",
+  "add": "Ezekiel 39:18–20",
+  "proposed": "Ezekiel 39:17–20",
+  "items": [
+   "E:ot-ezekiel-v39-17|Ezekiel 39:18–20"
+  ],
+  "reasons": [
+   "39:18–20 continue the same summons to birds and beasts ('you will eat… drink'); same speaker and occasion."
+  ],
+  "confidence": "high",
+  "book": "Ezekiel"
+ },
+ {
+  "existing_id": "ot-ezekiel-v43-9",
+  "current": "Ezekiel 43:9",
+  "title": "God promises to dwell with Israel when they put away idolatry and bloodshed",
+  "record_type": "Command",
+  "add": "Ezekiel 43:7–8",
+  "proposed": "Ezekiel 43:7–9",
+  "items": [
+   "E:ot-ezekiel-v43-9|Ezekiel 43:7–8"
+  ],
+  "reasons": [
+   "43:7–9 is one speech: Israel will no longer profane My name by prostitution and murder; 43:9 turns it into the direction."
+  ],
+  "confidence": "medium",
+  "book": "Ezekiel"
+ },
+ {
+  "existing_id": "AUD-31-2-2",
+  "current": "Daniel 2:5–6",
+  "title": "Nebuchadnezzar demands that the Chaldeans tell and interpret his dream",
+  "record_type": "Command",
+  "add": "Daniel 2:2, 8–9",
+  "proposed": "Daniel 2:2, 5–6, 8–9",
+  "items": [
+   "V124"
+  ],
+  "reasons": [
+   "2:2 is the reported summons to report the dream and 2:8–9 the renewed demand: same king, occasion and direction, as the record’s note says."
+  ],
+  "confidence": "high",
+  "book": "Daniel"
+ },
+ {
+  "existing_id": "AUD-36-4-9",
+  "current": "Jonah 4:9–11",
+  "title": "The Lord teaches Jonah to share His compassion for Nineveh",
+  "record_type": "Wisdom",
+  "add": "Jonah 4:4",
+  "proposed": "Jonah 4:4, 9–11",
+  "items": [
+   "SIM116"
+  ],
+  "reasons": [
+   "The Lord's first teaching question about Jonah's anger over Nineveh; 4:9 repeats it. Same speaker and occasion; the gourd narrative is not added."
+  ],
+  "confidence": "medium",
+  "book": "Jonah"
+ },
+ {
+  "existing_id": "ot-zechariah-v6-12",
+  "current": "Zechariah 6:12",
+  "title": "Zechariah announces the one called Rising who will build the Lord’s house",
+  "record_type": "Commission",
+  "add": "Zechariah 6:13–15",
+  "proposed": "Zechariah 6:12–15",
+  "items": [
+   "V131"
+  ],
+  "reasons": [
+   "Rest of the message Zechariah is told to speak (6:12–15), ending with its condition: ‘if you truly listen to the voice of the Lord’."
+  ],
+  "confidence": "medium",
+  "book": "Zechariah"
+ },
+ {
+  "existing_id": "K022",
+  "current": "Matthew 8:4",
+  "title": "Jesus sends the man he healed to the priest with the prescribed offering",
+  "record_type": "Instruction",
+  "add": "Matthew 8:2–3",
+  "proposed": "Matthew 8:2–4",
+  "items": [
+   "E:K022|Matthew 8:2–3"
+  ],
+  "reasons": [
+   "Same occasion: the healing word 'be cleansed' precedes the charge; matches the linked Mark 1:40–45 and pericope practice (Luke 17:11–19)."
+  ],
+  "confidence": "medium",
+  "book": "Matthew"
+ },
+ {
+  "existing_id": "AUD-44-27-6",
+  "current": "Matthew 27:6–8",
+  "title": "The chief priests decline to put blood money in the treasury",
+  "record_type": "Law",
+  "add": "Matthew 27:3–5",
+  "proposed": "Matthew 27:3–8",
+  "items": [
+   "E:AUD-44-27-6|Matthew 27:3–5"
+  ],
+  "reasons": [
+   "Immediate occasion: Judas returns the silver confessing ‘innocent blood’ and throws it into the sanctuary, prompting the priests’ blood-price ruling (27:6)."
+  ],
+  "confidence": "medium",
+  "book": "Matthew"
+ },
+ {
+  "existing_id": "K023",
+  "current": "Mark 11:17",
+  "title": "Jesus calls the temple a house of prayer for all nations",
+  "record_type": "Study Context",
+  "add": "Mark 11:15–16",
+  "proposed": "Mark 11:15–17",
+  "items": [
+   "P:AUD-47-2-13|Mark 11:15–16"
+  ],
+  "reasons": [
+   "Same Markan pericope as K023 (11:17): the expulsion and the ban on carrying vessels that the house-of-prayer saying explains; Luke 19:45–46 is linked there."
+  ],
+  "confidence": "medium",
+  "book": "Mark"
+ },
+ {
+  "existing_id": "AUD-46-8-21",
+  "current": "Luke 8:21",
+  "title": "Hear God’s word and do it",
+  "record_type": "Wisdom",
+  "add": "Luke 8:19–20",
+  "proposed": "Luke 8:19–21",
+  "items": [
+   "E:AUD-46-8-21|Luke 8:19–20"
+  ],
+  "reasons": [
+   "Immediate occasion: the report that his mother and brothers stand outside prompts 8:21; the linked Matthew 12:46–50 and Mark 3:31–35 already include it."
+  ],
+  "confidence": "high",
+  "book": "Luke"
+ },
+ {
+  "existing_id": "AUD-46-8-50",
+  "current": "Luke 8:50–56",
+  "title": "Trust Jesus and care for the restored child",
+  "record_type": "Command",
+  "add": "Luke 8:49",
+  "proposed": "Luke 8:49–56",
+  "items": [
+   "E:AUD-46-8-50|Luke 8:49"
+  ],
+  "reasons": [
+   "Immediate occasion: ‘Do not trouble the Teacher any longer’ is what ‘Do not fear; only believe’ answers; the linked Mark 5:35–43 includes it."
+  ],
+  "confidence": "high",
+  "book": "Luke"
+ },
+ {
+  "existing_id": "K089",
+  "current": "Luke 17:32–33",
+  "title": "Remember Lot’s wife and do not turn back",
+  "record_type": "Command",
+  "add": "Luke 17:34–35",
+  "proposed": "Luke 17:32–35",
+  "items": [
+   "E:K089|Luke 17:34–35"
+  ],
+  "reasons": [
+   "Same speech and warning: one taken, one left closes the charge not to turn back (17:31–33), whose antecedent 17:26–31 is already linked."
+  ],
+  "confidence": "medium",
+  "book": "Luke"
+ },
+ {
+  "existing_id": "K032",
+  "current": "John 3:3–15",
+  "title": "Jesus teaches Nicodemus about birth from above",
+  "record_type": "Study Context",
+  "add": "John 3:16–18",
+  "proposed": "John 3:3–18",
+  "items": [
+   "P:K031|John 3:16–18"
+  ],
+  "reasons": [
+   "Same speech to Nicodemus (the quotation runs to 3:21); 3:16 restates 3:15 inside K032, so extend K032 rather than parallel K031."
+  ],
+  "confidence": "medium",
+  "book": "John"
+ },
+ {
+  "existing_id": "AUD-47-4-35",
+  "current": "John 4:35–38",
+  "title": "Jesus sends his disciples to reap where others have labored",
+  "record_type": "Commission",
+  "add": "John 4:31–34",
+  "proposed": "John 4:31–38",
+  "items": [
+   "E:AUD-47-4-35|John 4:31–34"
+  ],
+  "reasons": [
+   "Same exchange with the disciples: their ‘Rabbi, eat’ and Jesus’ food of doing the Sender’s will lead straight into the harvest commission (4:35)."
+  ],
+  "confidence": "medium",
+  "book": "John"
+ },
+ {
+  "existing_id": "AUD-47-5-19",
+  "current": "John 5:19–30",
+  "title": "Honor the Son as the Father is honored",
+  "record_type": "Wisdom",
+  "add": "John 5:16–18",
+  "proposed": "John 5:16–30",
+  "items": [
+   "N:GAP-47-5-17"
+  ],
+  "reasons": [
+   "5:17 opens the discourse AUD-47-5-19 continues (‘So Jesus answered them’, 5:19): the Son works as the Father works. 5:16, 18 give occasion and reaction."
+  ],
+  "confidence": "medium",
+  "book": "John"
+ },
+ {
+  "existing_id": "AUD-47-9-20",
+  "current": "John 9:20–23",
+  "title": "The authorities threaten synagogue exclusion for confessing Jesus as Christ",
+  "record_type": "Law",
+  "add": "John 9:24",
+  "proposed": "John 9:20–24",
+  "items": [
+   "E:AUD-47-9-20|John 9:24–34"
+  ],
+  "reasons": [
+   "Same authorities and hearing: ‘Give glory to God’ (9:24) renews the pressure behind 9:22; 9:25–34 is testimony and plain fulfilment."
+  ],
+  "confidence": "low",
+  "book": "John"
+ },
+ {
+  "existing_id": "AUD-47-19-6",
+  "current": "John 19:6–7",
+  "title": "Jesus’ accusers invoke their law in demanding his death",
+  "record_type": "Law",
+  "add": "John 19:12–15",
+  "proposed": "John 19:6–7, 12–15",
+  "items": [
+   "E:AUD-47-19-6|John 19:8–15",
+   "SIM154"
+  ],
+  "reasons": [
+   "The accusers renew their demand (‘not Caesar’s friend’, 19:12; ‘Crucify Him!’, 19:15). 19:8–11 is Pilate’s separate exchange with Jesus, not added.",
+   "The same accusers renew the demand 'Crucify Him!' before Pilate in the same trial; extend this verse, not all of 19:8–15."
+  ],
+  "confidence": "medium",
+  "book": "John"
+ },
+ {
+  "existing_id": "A110",
+  "current": "Acts 2:16–21",
+  "title": "Peter connects the outpouring of the Spirit with Joel’s prophecy",
+  "record_type": "Study Context",
+  "add": "Acts 2:14–15",
+  "proposed": "Acts 2:14–21",
+  "items": [
+   "E:A110|Acts 2:14–15"
+  ],
+  "reasons": [
+   "Same speech: Peter’s call to listen (2:14) and ‘not drunk’ (2:15) run straight into ‘Rather, this is what was spoken’ (2:16)."
+  ],
+  "confidence": "medium",
+  "book": "Acts"
+ },
+ {
+  "existing_id": "A003",
+  "current": "Acts 4:12",
+  "title": "Salvation is found in Jesus alone",
+  "record_type": "Study Context",
+  "add": "Acts 4:8–11",
+  "proposed": "Acts 4:8–12",
+  "items": [
+   "E:A003|Acts 4:8–11"
+  ],
+  "reasons": [
+   "Same short speech: healing ‘in the name of Jesus Christ’ and the rejected stone (4:10–11) lead directly into ‘no other name’ (4:12)."
+  ],
+  "confidence": "medium",
+  "book": "Acts"
+ },
+ {
+  "existing_id": "AUD-48-26-15",
+  "current": "Acts 26:15–18",
+  "title": "The risen Jesus appoints Paul as a servant and witness",
+  "record_type": "Commission",
+  "add": "Acts 26:13–14",
+  "proposed": "Acts 26:13–18",
+  "items": [
+   "P:AUD-48-9-3|Acts 26:13–14"
+  ],
+  "reasons": [
+   "Same speech and occasion: the light and Jesus' opening words lead straight into 26:15–18; they lack the Damascus order, so AUD-48-9-3 does not fit."
+  ],
+  "confidence": "medium",
+  "book": "Acts"
+ },
+ {
+  "existing_id": "AUD-49-11-13",
+  "current": "Romans 11:13–24",
+  "title": "Do not boast over the branches; remain in God’s kindness",
+  "record_type": "Instruction",
+  "add": "Romans 11:25",
+  "proposed": "Romans 11:13–25",
+  "items": [
+   "V197"
+  ],
+  "reasons": [
+   "Same speech: Paul discloses the mystery ‘so that you may not be wise in your own eyes’, renewing the warning against boasting."
+  ],
+  "confidence": "medium",
+  "book": "Romans"
+ },
+ {
+  "existing_id": "AUD-50-4-14",
+  "current": "1 Corinthians 4:14–17",
+  "title": "Imitate Paul’s example and hear Timothy’s reminder",
+  "record_type": "Commission",
+  "add": "1 Corinthians 4:9–13, 18–21",
+  "proposed": "1 Corinthians 4:9–21",
+  "items": [
+   "E:AUD-50-4-14|1 Corinthians 4:9–13, 18–21"
+  ],
+  "reasons": [
+   "4:9–13 is the apostolic conduct ‘these things’ (4:14) describe and 4:16 asks them to imitate; 4:18–21 closes the same fatherly admonition."
+  ],
+  "confidence": "medium",
+  "book": "1 Corinthians"
+ },
+ {
+  "existing_id": "AUD-51-4-16",
+  "current": "2 Corinthians 4:16–18",
+  "title": "Look to what is unseen and lasting amid affliction",
+  "record_type": "Wisdom",
+  "add": "2 Corinthians 4:7–15, 5:1–8",
+  "proposed": "2 Corinthians 4:7–5:8",
+  "items": [
+   "E:AUD-51-4-16|2 Corinthians 4:7–15, 5:1–8",
+   "V203"
+  ],
+  "reasons": [
+   "4:7–15 grounds ‘Therefore we do not lose heart’ (4:16); 5:1–8 continues the same contrast of seen and unseen across the chapter break.",
+   "5:1–8 continues 4:16–18 across the chapter break: the eternal unseen dwelling and ‘we walk by faith, not by sight’ (5:7)."
+  ],
+  "confidence": "medium",
+  "book": "2 Corinthians"
+ },
+ {
+  "existing_id": "AUD-51-13-5",
+  "current": "2 Corinthians 13:5–12",
+  "title": "Examine yourselves and seek restoration and peace",
+  "record_type": "Instruction",
+  "add": "2 Corinthians 12:19–21, 13:2–4",
+  "proposed": "2 Corinthians 12:19–21, 13:2–12",
+  "items": [
+   "N:GAP-51-12-19"
+  ],
+  "reasons": [
+   "Paul’s warning (‘I will not spare’) is his own plan, not a standalone direction; it leads into 13:5’s self-examination (cf. 13:10). 13:1 is A085."
+  ],
+  "confidence": "medium",
+  "book": "2 Corinthians"
+ },
+ {
+  "existing_id": "AUD-52-5-1",
+  "current": "Galatians 5:1–6",
+  "title": "Stand firm in freedom rather than seeking justification through circumcision",
+  "record_type": "Instruction",
+  "add": "Galatians 5:7–12",
+  "proposed": "Galatians 5:1–12",
+  "items": [
+   "E:AUD-52-5-1|Galatians 4:13–20, 5:7–12"
+  ],
+  "reasons": [
+   "5:7–12 continues 5:1–6 against the circumcision agitators (‘the one troubling you will bear the judgment’). 4:13–20 is Paul’s personal appeal; not added."
+  ],
+  "confidence": "medium",
+  "book": "Galatians"
+ },
+ {
+  "existing_id": "AUD-53-3-7",
+  "current": "Ephesians 3:7–13",
+  "title": "Proclaim Christ’s riches among the nations",
+  "record_type": "Commission",
+  "add": "Ephesians 3:1–6",
+  "proposed": "Ephesians 3:1–13",
+  "items": [
+   "E:AUD-53-3-7|Ephesians 3:1–6"
+  ],
+  "reasons": [
+   "Same commission: ‘the stewardship of God’s grace that was given to me for you’ (3:2) and the mystery it proclaims (3:3–6) lead into 3:7."
+  ],
+  "confidence": "medium",
+  "book": "Ephesians"
+ },
+ {
+  "existing_id": "A049",
+  "current": "Ephesians 5:25",
+  "title": "Husbands are called to love their wives as Christ loved the church",
+  "record_type": "Command",
+  "add": "Ephesians 5:26–27",
+  "proposed": "Ephesians 5:25–27",
+  "items": [
+   "E:A049|Ephesians 5:26–27, 31–33"
+  ],
+  "reasons": [
+   "5:26–27 completes the 5:25 sentence: Christ gave himself to sanctify the church, the husbands’ pattern. 5:31–33 is already linked to A049."
+  ],
+  "confidence": "high",
+  "book": "Ephesians"
+ },
+ {
+  "existing_id": "AUD-54-3-12",
+  "current": "Philippians 3:12–21",
+  "title": "Press on and follow faithful examples",
+  "record_type": "Wisdom",
+  "add": "Philippians 3:4–11",
+  "proposed": "Philippians 3:4–21",
+  "items": [
+   "N:GAP-54-3-4"
+  ],
+  "reasons": [
+   "Paul’s example of counting all loss runs into 3:12 (‘Not that I have already obtained it’); 3:15–17 tells readers to imitate it."
+  ],
+  "confidence": "medium",
+  "book": "Philippians"
+ },
+ {
+  "existing_id": "AUD-62-6-9",
+  "current": "Hebrews 6:9–12",
+  "title": "Continue diligent service and imitate those who inherit the promises",
+  "record_type": "Instruction",
+  "add": "Hebrews 6:13–20",
+  "proposed": "Hebrews 6:9–20",
+  "items": [
+   "E:AUD-62-6-9|Hebrews 6:13–20"
+  ],
+  "reasons": [
+   "‘For’ (6:13): Abraham, who ‘waited patiently’ and obtained the promise, illustrates 6:12, and 6:18 renews ‘hold fast the hope’; one argument to 6:20."
+  ],
+  "confidence": "medium",
+  "book": "Hebrews"
+ },
+ {
+  "existing_id": "A072",
+  "current": "Hebrews 11:4–7",
+  "title": "Abel, Enoch, and Noah as examples of faith",
+  "record_type": "Wisdom",
+  "add": "Hebrews 11:1–3",
+  "proposed": "Hebrews 11:1–7",
+  "items": [
+   "E:A072|Hebrews 11:1–3"
+  ],
+  "reasons": [
+   "The definition of faith heads the examples A072 begins at 11:4; 11:6, already in A072, depends on it. Same speaker and passage."
+  ],
+  "confidence": "medium",
+  "book": "Hebrews"
+ },
+ {
+  "existing_id": "AUD-62-12-25",
+  "current": "Hebrews 12:25–29",
+  "title": "Heed the One who speaks and worship with gratitude and reverence",
+  "record_type": "Instruction",
+  "add": "Hebrews 12:18–24",
+  "proposed": "Hebrews 12:18–29",
+  "items": [
+   "E:AUD-62-12-25|Hebrews 12:18–24"
+  ],
+  "reasons": [
+   "The Sinai–Zion contrast grounds ‘See that you do not refuse the One who speaks’ (12:25) and its earth–heaven comparison; 12:20 stays linked to C0140."
+  ],
+  "confidence": "medium",
+  "book": "Hebrews"
+ },
+ {
+  "existing_id": "X009",
+  "current": "Revelation 2:2–7",
+  "title": "Remember, repent and return to the first works",
+  "record_type": "Command",
+  "add": "Revelation 2:1",
+  "proposed": "Revelation 2:1–7",
+  "items": [
+   "E:X009|Revelation 2:1–3"
+  ],
+  "reasons": [
+   "2:2–3 is already in X009; add the letter’s opening ‘write’ (2:1), as X011 and AUD-70-2-12 to AUD-70-3-14 include theirs."
+  ],
+  "confidence": "medium",
+  "book": "Revelation"
+ },
+ {
+  "existing_id": "X010",
+  "current": "Revelation 2:9–11",
+  "title": "Remain faithful through suffering",
+  "record_type": "Command",
+  "add": "Revelation 2:8",
+  "proposed": "Revelation 2:8–11",
+  "items": [
+   "E:X010|Revelation 2:8–9"
+  ],
+  "reasons": [
+   "2:9 is already in X010; add the letter’s opening ‘write’ (2:8), as X011 and AUD-70-2-12 to AUD-70-3-14 include theirs."
+  ],
+  "confidence": "medium",
+  "book": "Revelation"
+ }
+]

@@ -1,0 +1,71 @@
+book,division,directive_verses,attached_before,attached_after,new_records,records_extended,parallel_links
+Genesis,Law,567,350,362,1,8,4
+Exodus,Law,678,536,557,3,3,18
+Leviticus,Law,698,589,639,2,3,30
+Numbers,Law,574,404,435,0,9,21
+Deuteronomy,Law,672,440,489,0,3,44
+Joshua,Judgement,179,96,111,1,12,10
+Judges,Judgement,195,114,128,6,8,3
+Ruth,Judgement,41,30,32,0,3,0
+1 Samuel,Judgement,287,201,227,9,18,4
+2 Samuel,Judgement,201,129,136,7,9,4
+1 Kings,Judgement,239,147,167,13,9,8
+2 Kings,Judgement,231,134,165,21,15,7
+1 Chronicles,Judgement,101,60,66,2,4,11
+2 Chronicles,Judgement,167,86,101,16,10,10
+1 Maccabees,Judgement,182,117,141,38,11,4
+2 Maccabees,Judgement,128,52,83,28,5,6
+Ezra,Judgement,44,31,36,6,4,2
+Nehemiah,Judgement,76,29,38,5,3,4
+Esther,Judgement,73,38,43,7,2,2
+Job,Judgement,233,101,105,5,0,1
+Psalms,Wisdom,824,256,265,1,3,6
+Proverbs,Wisdom,233,228,230,3,4,0
+Ecclesiastes,Wisdom,48,46,48,1,2,1
+Song of Songs,Wisdom,33,27,27,0,0,0
+Lamentations,Wisdom,26,11,12,0,2,0
+Wisdom of Solomon,Wisdom,86,43,46,0,2,2
+Sirach,Wisdom,474,420,423,1,16,4
+Isaiah,Providence,450,233,254,6,10,3
+Jeremiah,Providence,462,278,294,3,9,6
+Ezekiel,Providence,348,203,210,1,7,2
+Daniel,Providence,175,105,108,1,1,2
+Hosea,Providence,62,24,24,0,0,0
+Joel,Providence,36,24,24,0,0,0
+Amos,Providence,48,23,24,1,0,0
+Obadiah,Providence,9,4,4,0,0,0
+Jonah,Providence,18,8,8,0,1,0
+Micah,Providence,40,18,18,0,0,0
+Nahum,Providence,11,4,4,0,0,0
+Habakkuk,Providence,20,9,9,0,0,0
+Zephaniah,Providence,20,9,9,0,0,0
+Haggai,Providence,15,14,14,0,0,0
+Zechariah,Providence,88,44,46,0,1,0
+Malachi,Providence,23,17,17,0,0,0
+Matthew,Salvation,383,318,351,6,2,24
+Mark,Salvation,196,153,171,0,1,13
+Luke,Salvation,341,277,302,3,3,16
+John,Salvation,253,163,181,4,5,8
+Acts,Discipleship,213,174,185,2,3,10
+Romans,Discipleship,130,73,83,0,1,6
+1 Corinthians,Discipleship,147,137,140,0,1,3
+2 Corinthians,Discipleship,59,38,53,2,2,5
+Galatians,Discipleship,36,27,27,0,1,3
+Ephesians,Discipleship,39,36,37,0,2,0
+Philippians,Discipleship,26,18,21,0,1,1
+Colossians,Discipleship,30,29,29,0,0,0
+1 Thessalonians,Discipleship,32,29,30,0,0,1
+2 Thessalonians,Discipleship,15,10,10,0,0,0
+1 Timothy,Discipleship,46,44,45,1,0,1
+2 Timothy,Discipleship,31,29,29,0,0,0
+Titus,Discipleship,20,19,19,0,0,0
+Philemon,Discipleship,4,4,4,0,0,0
+Hebrews,Discipleship,78,59,62,2,3,11
+James,Discipleship,57,57,57,0,0,0
+1 Peter,Discipleship,45,41,41,0,0,0
+2 Peter,Discipleship,14,11,14,0,0,2
+1 John,Discipleship,25,22,24,0,0,2
+2 John,Discipleship,5,4,4,0,0,0
+3 John,Discipleship,5,3,3,0,0,0
+Jude,Discipleship,9,8,8,0,0,0
+Revelation,Glory,110,81,86,1,2,3

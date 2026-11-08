@@ -1,0 +1,79 @@
+[
+ {
+  "item": "V014",
+  "kind": "residual verse",
+  "decision": "record_extend",
+  "reference": "Leviticus 13:15, 17",
+  "why": "Same verses go to C0485 as Additional Scripture under E:C0485 (R4a), keeping the Law record itemized; the catalogue holds C0484/C0486/C0487's in-chapter repeats the same way."
+ },
+ {
+  "item": "V015",
+  "kind": "residual verse",
+  "decision": "record_extend",
+  "reference": "Leviticus 13:20, 22–23, 25, 27–28, 30",
+  "why": "Same verses go to C0485 as Additional Scripture under E:C0485 (R4a)."
+ },
+ {
+  "item": "V016",
+  "kind": "residual verse",
+  "decision": "record_extend",
+  "reference": "Leviticus 13:36–37, 39–40",
+  "why": "Same verses go to C0485 as Additional Scripture under E:C0485 (R4a)."
+ },
+ {
+  "item": "V017",
+  "kind": "residual verse",
+  "decision": "record_extend",
+  "reference": "Leviticus 13:43–44",
+  "why": "Same verses go to C0485 as Additional Scripture under E:C0485 (R4a)."
+ },
+ {
+  "item": "V051",
+  "kind": "residual verse",
+  "decision": "record_new",
+  "reference": "1 Chronicles 11:25",
+  "why": "Same appointment as N:GAP-10-23-23 (2 Samuel 23:23); 1 Chronicles 11:25 is its Additional Scripture."
+ },
+ {
+  "item": "V056",
+  "kind": "residual verse",
+  "decision": "record_parallel",
+  "reference": "2 Chronicles 10:16",
+  "why": "Same event as N:GAP-11-12-16 (1 Kings 12:16); 2 Chronicles 10:16 is its Additional Scripture."
+ },
+ {
+  "item": "U11655",
+  "kind": "sweep verse",
+  "decision": "record_new",
+  "reference": "2 Chronicles 26:1",
+  "why": "Same accession as N:GAP-12-14-21 (2 Kings 14:21); 2 Chronicles 26:1 is its Additional Scripture."
+ },
+ {
+  "item": "U11919",
+  "kind": "sweep verse",
+  "decision": "record_new",
+  "reference": "2 Chronicles 36:1",
+  "why": "Same event as N:GAP-12-23-30 (2 Kings 23:30); 2 Chronicles 36:1 is its Additional Scripture."
+ },
+ {
+  "item": "V101",
+  "kind": "residual verse",
+  "decision": "record_new",
+  "reference": "Isaiah 23:1, 14",
+  "why": "Duplicate of N:GAP-28-23-1 (Isaiah 23:1, 14), decided the same way."
+ },
+ {
+  "item": "V146",
+  "kind": "residual verse",
+  "decision": "record_new",
+  "reference": "Mark 7:24–30",
+  "why": "Same event as N:GAP-44-15-21 (Matthew 15:21–28); Mark 7:24–30 is its Additional Scripture."
+ },
+ {
+  "item": "U23584",
+  "kind": "sweep verse",
+  "decision": "no_record",
+  "reference": "",
+  "why": "Attached as Additional Scripture on N:GAP-14-36-10 (Nebuchadnezzar makes Zedekiah king), as the reviewer asked."
+ }
+]

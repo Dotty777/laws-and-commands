@@ -1,0 +1,2930 @@
+[
+ {
+  "item": "N:GAP-06-15-16",
+  "kind": "held new record",
+  "reference": "Joshua 15:16–17",
+  "confidence": "medium",
+  "reason": "A conditional offer of reward, not a direction (at most Study Context); the parallel offers in Judges 1:12 and 1 Chronicles 11:6 are likewise unrecorded.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-07-3-15",
+  "kind": "held new record",
+  "reference": "Judges 3:15",
+  "confidence": "high",
+  "reason": "Narrative of providence: no commission or direction is spoken. The parallel raising of Othniel (Judges 3:9) is likewise unrecorded.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-07-4-10",
+  "kind": "held new record",
+  "reference": "Judges 4:10",
+  "confidence": "high",
+  "reason": "Fulfilment narrative: Barak carries out the order relayed in 4:6 (ot-judges-v4-6) to take ten thousand men of Naphtali and Zebulun.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-07-9-28",
+  "kind": "held new record",
+  "reference": "Judges 9:28–29",
+  "confidence": "high",
+  "reason": "Rhetorical questions and Gaal’s own plan; the dare is hypothetical (“I will … say to him”). It directs no one.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-07-10-18",
+  "kind": "held new record",
+  "reference": "Judges 10:18",
+  "confidence": "medium",
+  "reason": "A conditional offer the rulers voice among themselves; it directs no one. The enlistment itself is recorded (ot-judges-v11-6, AUD-07-11-8).",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-07-11-30",
+  "kind": "held new record",
+  "reference": "Judges 11:30–31",
+  "confidence": "high",
+  "reason": "A conditional vow addressed to the Lord about Jephthah’s own offering; no command is issued (same ruling as Numbers 21:2, GAP-04-21-2).",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-07-14-11",
+  "kind": "held new record",
+  "reference": "Judges 14:11",
+  "confidence": "medium",
+  "reason": "Narrated wedding custom: unnamed hosts assign companions, with no stated speaker or charge. Lacks an independent direction.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-07-17-3",
+  "kind": "held new record",
+  "reference": "Judges 17:3–4",
+  "confidence": "medium",
+  "reason": "The mother declares her own consecration; her commission of the caster is implied by payment, not stated. Lacks a stated direction.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-07-21-13",
+  "kind": "held new record",
+  "reference": "Judges 21:13",
+  "confidence": "medium",
+  "reason": "A summarized offer of peace with no stated direction; offers and proclamations are at most Study Context. Lacks an independent direction.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-09-1-11",
+  "kind": "held new record",
+  "reference": "1 Samuel 1:11",
+  "confidence": "high",
+  "reason": "Hannah’s conditional vow is a prayer addressed to the Lord about her own gift; no command is issued (same ruling as GAP-04-21-2).",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-09-1-26",
+  "kind": "held new record",
+  "reference": "1 Samuel 1:26–28",
+  "confidence": "high",
+  "reason": "Hannah’s declaration fulfils her vow; Eli is not instructed and no one is directed. Narrated dedication, not a direction.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-09-3-4",
+  "kind": "held new record",
+  "reference": "1 Samuel 3:4–14",
+  "confidence": "high",
+  "reason": "Call narrative and a judgment oracle on Eli’s house; no direction is given to Samuel. Eli’s directions (3:5–6, 3:9) are already recorded.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-09-12-23",
+  "kind": "held new record",
+  "reference": "1 Samuel 12:23",
+  "confidence": "medium",
+  "reason": "Samuel’s own resolve to keep praying and teaching; it states what he will do, not a direction or general teaching.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-09-25-21",
+  "kind": "held new record",
+  "reference": "1 Samuel 25:21–22",
+  "confidence": "high",
+  "reason": "David’s oath states what he himself will do; his order to his men is already AUD-09-25-13. A speaker’s own plan.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-09-28-3",
+  "kind": "held new record",
+  "reference": "1 Samuel 28:3",
+  "confidence": "medium",
+  "reason": "Narrated background of Saul’s past removal of mediums; no decree is stated (cannot be verified), and comparable reform notices (2 Kings 23:24) are unrecorded.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-09-30-26",
+  "kind": "held new record",
+  "reference": "1 Samuel 30:26–31",
+  "confidence": "medium",
+  "reason": "David’s distribution of spoil with a greeting is a historical gift that directs no one (cf. the ruling on Abraham’s estate, GAP-01-25-5).",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-10-3-35",
+  "kind": "held new record",
+  "reference": "2 Samuel 3:35",
+  "confidence": "high",
+  "reason": "The people’s urging is narrated without words, and David’s oath binds only his own fast. No direction to anyone.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-10-5-11",
+  "kind": "held new record",
+  "reference": "2 Samuel 5:11",
+  "confidence": "medium",
+  "reason": "Narrated diplomatic gift of envoys, timber and craftsmen; no direction is stated (parallel 1 Chronicles 14:1 likewise unrecorded).",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-10-8-10",
+  "kind": "held new record",
+  "reference": "2 Samuel 8:10",
+  "confidence": "medium",
+  "reason": "Courtesy embassy to greet and bless David, narrated without any direction; greetings are not recorded unless the catalogue does so nearby.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-10-10-2",
+  "kind": "held new record",
+  "reference": "2 Samuel 10:2",
+  "confidence": "medium",
+  "reason": "David’s words state his own intent; the condolence embassy is narrated courtesy without stated instructions (parallel 1 Chronicles 19:2 unrecorded).",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-10-12-22",
+  "kind": "held new record",
+  "reference": "2 Samuel 12:22–23",
+  "confidence": "medium",
+  "reason": "David explains his own conduct with rhetorical questions; a personal reflection that directs no one and is not framed as general teaching.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-10-15-21",
+  "kind": "held new record",
+  "reference": "2 Samuel 15:21",
+  "confidence": "high",
+  "reason": "Ittai’s oath refuses David’s order and pledges his own loyalty; a refusal and a speaker’s own commitment, not a direction.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-10-17-23",
+  "kind": "held new record",
+  "reference": "2 Samuel 17:23",
+  "confidence": "medium",
+  "reason": "The content of Ahithophel’s instructions is not stated; the verse narrates his final acts. Cannot be verified as a specific direction.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-10-23-15",
+  "kind": "held new record",
+  "reference": "2 Samuel 23:15–17",
+  "confidence": "medium",
+  "reason": "David’s longing is a wish, not a request to anyone; his libation and words are addressed to the Lord (parallel 1 Chronicles 11:17–19).",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-11-1-24",
+  "kind": "held new record",
+  "reference": "1 Kings 1:24–27",
+  "confidence": "medium",
+  "reason": "Nathan carries out his own stated plan (1:14) by questioning David; no new direction. The scheme is recorded at ot-1-kings-v1-12.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-11-1-39",
+  "kind": "held new record",
+  "reference": "1 Kings 1:39",
+  "confidence": "high",
+  "reason": "Fulfilment narrative of David’s order (AUD-11-1-34) that Zadok anoint Solomon at Gihon; it neither quotes nor cites the order.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-11-5-15",
+  "kind": "held new record",
+  "reference": "1 Kings 5:15",
+  "confidence": "medium",
+  "reason": "Narrated courtesy embassy recognising Solomon’s accession; no direction is stated, and greetings are not recorded unless the catalogue does so nearby.",
+  "batch": "R1a"
+ },
+ {
+  "item": "N:GAP-11-12-18",
+  "kind": "held new record",
+  "reference": "1 Kings 12:18",
+  "confidence": "medium",
+  "reason": "Cannot be verified: a reported sending whose charge is not stated; Adoniram’s task is implied. Parallel 2 Chronicles 10:18 likewise gives none.",
+  "batch": "R1b"
+ },
+ {
+  "item": "N:GAP-11-16-28g",
+  "kind": "held new record",
+  "reference": "1 Kings 16:28g",
+  "confidence": "high",
+  "reason": "Lacks direction: the king of Israel states his own plan to send men on the ship, and Jehoshaphat refuses.",
+  "batch": "R1b"
+ },
+ {
+  "item": "N:GAP-11-21-34",
+  "kind": "held new record",
+  "reference": "1 Kings 21:34",
+  "confidence": "medium",
+  "reason": "Lacks direction: Ben-hadad’s offered terms and Ahab’s release are the speakers’ own undertakings; the narrated treaty directs no one.",
+  "batch": "R1b"
+ },
+ {
+  "item": "N:GAP-12-5-3",
+  "kind": "held new record",
+  "reference": "2 Kings 5:3–4",
+  "confidence": "medium",
+  "reason": "Cannot be verified: the girl voices a wish; the direction to seek the prophet is implied, not stated. Its outcome is recorded at ot-2-kings-v5-5.",
+  "batch": "R1b"
+ },
+ {
+  "item": "N:GAP-12-8-4",
+  "kind": "held new record",
+  "reference": "2 Kings 8:4",
+  "confidence": "medium",
+  "reason": "Weak ordinary speech: a request for an account, which the catalogue files as context (ot-2-samuel-v1-4). The resulting order is ot-2-kings-v8-6.",
+  "batch": "R1b"
+ },
+ {
+  "item": "N:GAP-12-9-12",
+  "kind": "held new record",
+  "reference": "2 Kings 9:12",
+  "confidence": "medium",
+  "reason": "Weak ordinary speech: the officers ask to hear the report, a kind filed as context; the anointing itself is AUD-12-9-6.",
+  "batch": "R1b"
+ },
+ {
+  "item": "N:GAP-12-18-22",
+  "kind": "held new record",
+  "reference": "2 Kings 18:22",
+  "confidence": "high",
+  "reason": "Misattribution: the envoy’s argument quotes Hezekiah’s alleged order; no Hezekiah decree record exists to link. Isaiah 36:7 lacks the clause.",
+  "batch": "R1b"
+ },
+ {
+  "item": "N:GAP-14-9-7",
+  "kind": "held new record",
+  "reference": "2 Chronicles 9:7",
+  "confidence": "medium",
+  "reason": "Praise: the queen’s beatitude extols Solomon’s court and teaches no general conduct. Parallel 1 Kings 10:8 likewise needs no record.",
+  "batch": "R1b"
+ },
+ {
+  "item": "N:GAP-14-19-2",
+  "kind": "held new record",
+  "reference": "2 Chronicles 19:2",
+  "confidence": "medium",
+  "reason": "Rhetorical question with announced wrath; the prohibition on aiding the wicked is implied, not stated.",
+  "batch": "R1b"
+ },
+ {
+  "item": "N:GAP-14-30-23",
+  "kind": "held new record",
+  "reference": "2 Chronicles 30:23",
+  "confidence": "medium",
+  "reason": "Lacks direction: a narrated one-time decision about the assembly’s own celebration; it directs no one else and sets no ordinance.",
+  "batch": "R1b"
+ },
+ {
+  "item": "N:GAP-15-2-19",
+  "kind": "held new record",
+  "reference": "1 Maccabees 2:19–22",
+  "confidence": "high",
+  "reason": "Lacks an independent direction: Mattathias's refusal and vow about what his house will do; a refusal commands no one. His call is recorded (2:27).",
+  "batch": "R2a"
+ },
+ {
+  "item": "N:GAP-15-12-11",
+  "kind": "held new record",
+  "reference": "1 Maccabees 12:11",
+  "confidence": "medium",
+  "reason": "Lacks a direction: describes the Jews' own practice of remembering the Spartans; the 'right and fitting' clause is courtesy, not a teaching.",
+  "batch": "R2a"
+ },
+ {
+  "item": "N:GAP-15-12-35",
+  "kind": "held new record",
+  "reference": "1 Maccabees 12:35–37",
+  "confidence": "medium",
+  "reason": "Implied, not stated: narrated deliberation about the speakers' own building plans, then the work itself (12:37); no direction is reported.",
+  "batch": "R2a"
+ },
+ {
+  "item": "N:GAP-16-2-14",
+  "kind": "held new record",
+  "reference": "2 Maccabees 2:14–15",
+  "confidence": "medium",
+  "reason": "Weaker ordinary speech: a conditional offer to share Judas's collected writings; the letter's actual direction (2:16) is already recorded.",
+  "batch": "R2a"
+ },
+ {
+  "item": "N:GAP-16-3-37",
+  "kind": "held new record",
+  "reference": "2 Maccabees 3:37–39",
+  "confidence": "medium",
+  "reason": "Ironic reply, not a genuine direction: its substance is testimony that God guards the temple (3:39), which is doctrine.",
+  "batch": "R2a"
+ },
+ {
+  "item": "N:GAP-16-5-17",
+  "kind": "held new record",
+  "reference": "2 Maccabees 5:17–20",
+  "confidence": "high",
+  "reason": "Doctrine: the narrator explains why God allowed the temple’s plunder; no direction or teaching on conduct is stated.",
+  "batch": "R2b"
+ },
+ {
+  "item": "N:GAP-16-8-10",
+  "kind": "held new record",
+  "reference": "2 Maccabees 8:10–11",
+  "confidence": "medium",
+  "reason": "Nicanor’s own plan (8:10) and a sale offer to merchants; offers are weaker speech the catalogue does not record here.",
+  "batch": "R2b"
+ },
+ {
+  "item": "N:GAP-16-11-16",
+  "kind": "held new record",
+  "reference": "2 Maccabees 11:16–21",
+  "confidence": "medium",
+  "reason": "Lysias’s letter documents the same settlement; folded into the record proposed under GAP-16-11-13 (2 Maccabees 11:13–21), not a separate record.",
+  "batch": "R2b"
+ },
+ {
+  "item": "N:GAP-16-15-39",
+  "kind": "held new record",
+  "reference": "2 Maccabees 15:39",
+  "confidence": "high",
+  "reason": "The epitomist’s literary analogy for his own composition; it teaches no conduct and directs no one.",
+  "batch": "R2b"
+ },
+ {
+  "item": "N:GAP-18-4-5",
+  "kind": "held new record",
+  "reference": "Nehemiah 4:5",
+  "confidence": "medium",
+  "reason": "The adversaries state their own plan of attack (‘until we come among them’); a plan, with no direction to anyone.",
+  "batch": "R2b"
+ },
+ {
+  "item": "N:GAP-18-11-23",
+  "kind": "held new record",
+  "reference": "Nehemiah 11:23",
+  "confidence": "high",
+  "reason": "Reported royal command with no stated content in the Saints text; the direction cannot be verified.",
+  "batch": "R2b"
+ },
+ {
+  "item": "N:GAP-21-31-5",
+  "kind": "held new record",
+  "reference": "Greek Psalm 31:5–6",
+  "confidence": "medium",
+  "reason": "Psalmist recounts his own confession and addresses God; 'every holy one will pray' is a statement in prayer. Direction implied, not stated.",
+  "batch": "R3a"
+ },
+ {
+  "item": "N:GAP-21-57-2",
+  "kind": "held new record",
+  "reference": "Greek Psalm 57:2–3",
+  "confidence": "medium",
+  "reason": "Rhetorical question and accusation against unjust judges; no direction is stated, and the call to judge rightly is only implied.",
+  "batch": "R3a"
+ },
+ {
+  "item": "N:GAP-22-30-2",
+  "kind": "held new record",
+  "reference": "Proverbs 30:2–4",
+  "confidence": "medium",
+  "reason": "Agur's confession of ignorance and rhetorical questions about the Creator: self-description and doctrine, with no direction; the call to humility is implied.",
+  "batch": "R3a"
+ },
+ {
+  "item": "N:GAP-26-3-1",
+  "kind": "held new record",
+  "reference": "Wisdom of Solomon 3:1–4",
+  "confidence": "medium",
+  "reason": "Doctrine about the righteous dead's peace and immortality; no direction or conduct teaching. The review likewise trimmed the following 3:5–8 from AUD-26-3-5.",
+  "batch": "R3a"
+ },
+ {
+  "item": "N:GAP-26-12-26",
+  "kind": "held new record",
+  "reference": "Wisdom of Solomon 12:26",
+  "confidence": "medium",
+  "reason": "Statement within the prayer to God about the Egyptians' judgment after the plagues; narrative and doctrine, and the call to heed reproof is implied.",
+  "batch": "R3a"
+ },
+ {
+  "item": "N:GAP-27-39-16",
+  "kind": "held new record",
+  "reference": "Sirach 39:16–18",
+  "confidence": "medium",
+  "reason": "Already linked: 39:16 is Additional Scripture on AUD-27-39-32. 39:17–18 praise God's word and command; they state or restate no direction.",
+  "batch": "R3a"
+ },
+ {
+  "item": "N:GAP-28-10-5",
+  "kind": "held new record",
+  "reference": "Isaiah 10:5–6",
+  "confidence": "medium",
+  "reason": "Woe oracle against Assyria and God's stated plan ('I will send… I will command'); no direction is addressed to anyone.",
+  "batch": "R3a"
+ },
+ {
+  "item": "N:GAP-28-66-19",
+  "kind": "held new record",
+  "reference": "Isaiah 66:19–21",
+  "confidence": "medium",
+  "reason": "God's prediction of what He will do ('I will send… I will take'); no direction is addressed to the survivors or anyone else.",
+  "batch": "R3a"
+ },
+ {
+  "item": "N:GAP-44-21-23",
+  "kind": "held new record",
+  "reference": "Matthew 21:23–27",
+  "confidence": "high",
+  "reason": "Lacks a direction: a challenge, counter-questions and a refusal (‘Neither do I tell you’). The implied rebuke is taught in AUD-44-21-28.",
+  "batch": "R3b"
+ },
+ {
+  "item": "N:GAP-44-26-3",
+  "kind": "held new record",
+  "reference": "Matthew 26:3–5",
+  "confidence": "medium",
+  "reason": "The council’s own plan about what it will do (‘Not during the feast’), not a direction to anyone; Mark 14:1–2 and Luke 22:1–2 likewise.",
+  "batch": "R3b"
+ },
+ {
+  "item": "N:GAP-44-26-14",
+  "kind": "held new record",
+  "reference": "Matthew 26:14–16",
+  "confidence": "high",
+  "reason": "Judas proposes terms for himself (‘What are you willing to give me, and I will hand Him over’): a bargain, not a direction.",
+  "batch": "R3b"
+ },
+ {
+  "item": "E:K073|Matthew 26:36–40, 42–46",
+  "kind": "held extension",
+  "reference": "Matthew 26:36–40, 42–46",
+  "confidence": "high",
+  "reason": "Already linked: K073’s Additional Scripture holds Matthew 26:36–38, 40, 42–46; 26:39 is Jesus’ prayer to the Father, out of scope.",
+  "batch": "R3b"
+ },
+ {
+  "item": "N:GAP-48-7-26",
+  "kind": "held new record",
+  "reference": "Acts 7:26–28",
+  "confidence": "medium",
+  "reason": "Moses’ words are a rhetorical question (‘Why are you wronging one another?’); reconciliation is narrated, not directed. Source Exodus 2:13 is likewise unrecorded.",
+  "batch": "R3b"
+ },
+ {
+  "item": "E:A086|Romans 12:17–18",
+  "kind": "held extension",
+  "reference": "Romans 12:17–18",
+  "confidence": "high",
+  "reason": "Already linked: 12:17 is Additional Scripture on A086, and 12:18 is its own record, AUD-49-12-17.",
+  "batch": "R3b"
+ },
+ {
+  "item": "E:A024|Philippians 2:1–2, 9–11",
+  "kind": "held extension",
+  "reference": "Philippians 2:1–2, 9–11",
+  "confidence": "medium",
+  "reason": "2:1–2 is already in A024 (2:1–8). 2:9–11 is doctrine of Christ’s exaltation, not the self-humbling pattern the record directs.",
+  "batch": "R3b"
+ },
+ {
+  "item": "N:GAP-54-2-19",
+  "kind": "held new record",
+  "reference": "Philippians 2:19–24",
+  "confidence": "high",
+  "reason": "Paul’s own plan (‘I hope… to send Timothy’; ‘I myself also will come’); no direction to Timothy or the church, unlike AUD-54-2-25.",
+  "batch": "R3b"
+ },
+ {
+  "item": "E:AUD-70-14-6|Revelation 14:8–12",
+  "kind": "held extension",
+  "reference": "Revelation 14:8–12",
+  "confidence": "medium",
+  "reason": "Other angels speak: 14:8 announces Babylon’s fall, directing no one, and 14:9–12 is already linked to AUD-70-13-11 as the warning against the beast.",
+  "batch": "R3b"
+ },
+ {
+  "item": "E:ot-judges-v8-20|Judges 8:19",
+  "kind": "held extension",
+  "reference": "Judges 8:19",
+  "confidence": "medium",
+  "reason": "Lacks a direction: Gideon's oath to the kings states what he himself will do; the order to Jether is complete at 8:20.",
+  "batch": "R4a"
+ },
+ {
+  "item": "E:ot-judges-v15-12|Judges 15:13",
+  "kind": "held extension",
+  "reference": "Judges 15:13",
+  "confidence": "medium",
+  "reason": "Carrying out the request: the men of Judah swear as asked and bind Samson; compliance and narrative, with no renewed direction.",
+  "batch": "R4a"
+ },
+ {
+  "item": "E:ot-1-samuel-v12-3|1 Samuel 12:4–5",
+  "kind": "held extension",
+  "reference": "1 Samuel 12:4–5",
+  "confidence": "medium",
+  "reason": "The people's acquittal answers the request and Samuel's 'The Lord is witness' attests it; reply and declaration, not a continued direction.",
+  "batch": "R4a"
+ },
+ {
+  "item": "E:ot-1-samuel-v24-22|1 Samuel 24:23",
+  "kind": "held extension",
+  "reference": "1 Samuel 24:23",
+  "confidence": "high",
+  "reason": "Fulfilment narrative: David swears as asked and they part, quoting nothing of the request; the cited Judges 15:13 extension was never published.",
+  "batch": "R4b"
+ },
+ {
+  "item": "P:C0769|Numbers 2:17",
+  "kind": "held parallel",
+  "reference": "Numbers 2:17",
+  "confidence": "medium",
+  "reason": "Already linked: Numbers 2:16–17 is Additional Scripture on C0773; the verse sets the Tent's and Levites' place in the march.",
+  "batch": "R5a"
+ },
+ {
+  "item": "P:ot-2-chronicles-v2-6|1 Kings 7:1",
+  "kind": "held parallel",
+  "reference": "1 Kings 7:1",
+  "confidence": "medium",
+  "reason": "Plain narrative of Solomon fetching the craftsman; it neither quotes nor reports the request of 2 Chronicles 2:6.",
+  "batch": "R5b"
+ },
+ {
+  "item": "P:ot-isaiah-v36-4|2 Kings 18:17",
+  "kind": "held parallel",
+  "reference": "2 Kings 18:17",
+  "confidence": "medium",
+  "reason": "Narrative of the envoys' dispatch; it does not restate the challenge, whose Kings form is 18:19 (ot-2-kings-v18-19).",
+  "batch": "R5b"
+ },
+ {
+  "item": "P:ot-2-kings-v22-5|2 Chronicles 34:10–12",
+  "kind": "held parallel",
+  "reference": "2 Chronicles 34:10–12",
+  "confidence": "medium",
+  "reason": "Plain fulfilment narrative: the silver is paid to the workers without quoting or citing Josiah's order.",
+  "batch": "R5b"
+ },
+ {
+  "item": "P:ot-1-maccabees-v6-58|2 Maccabees 13:23",
+  "kind": "held parallel",
+  "reference": "2 Maccabees 13:23",
+  "confidence": "medium",
+  "reason": "Narrates the resulting settlement and oath; it neither quotes nor reports the peace proposal, and the conditions are unstated.",
+  "batch": "R5b"
+ },
+ {
+  "item": "P:ot-ezra-v5-15|Ezra 1:7–8",
+  "kind": "held parallel",
+  "reference": "Ezra 1:7–8",
+  "confidence": "medium",
+  "reason": "Plain narrative of Cyrus releasing the vessels; the direction to take them to Jerusalem is stated only at 5:15.",
+  "batch": "R5b"
+ },
+ {
+  "item": "P:AUD-14-15-1|Ezra 8:22",
+  "kind": "held parallel",
+  "reference": "Ezra 8:22",
+  "confidence": "medium",
+  "reason": "Ezra reports his own statement of God's dealings (doctrine); it does not restate or recall Azarias's exhortation.",
+  "batch": "R5b"
+ },
+ {
+  "item": "U3894",
+  "kind": "sweep verse",
+  "reference": "Numbers 7:84",
+  "confidence": "high",
+  "reason": "Narrative summary of the leaders' dedication gifts, fulfilling C0830; 'the day he anointed it' is narration, not a direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U4458",
+  "kind": "sweep verse",
+  "reference": "Numbers 26:9",
+  "confidence": "high",
+  "reason": "Genealogy: 'summoned members of the congregation' is an epithet for Dathan and Abiram; no direction is stated.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U6442",
+  "kind": "sweep verse",
+  "reference": "Joshua 24:8",
+  "confidence": "high",
+  "reason": "Joshua's recital of the Lord's past deeds against the Amorites: historical narrative and doctrine that directs no one.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U6445",
+  "kind": "sweep verse",
+  "reference": "Joshua 24:11",
+  "confidence": "high",
+  "reason": "Recital of the Jericho conquest within Joshua's covenant speech: narrative, no direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U6520",
+  "kind": "sweep verse",
+  "reference": "Judges 2:14",
+  "confidence": "high",
+  "reason": "Narrator's account of the Lord handing Israel to plunderers: narrative judgment, not a direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U6833",
+  "kind": "sweep verse",
+  "reference": "Judges 12:3",
+  "confidence": "high",
+  "reason": "Jephthah's self-defence and rhetorical question to Ephraim; it recounts the Lord's deliverance and directs no one.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U7555",
+  "kind": "sweep verse",
+  "reference": "1 Samuel 15:35",
+  "confidence": "high",
+  "reason": "Narrative of Samuel's mourning and the Lord's regret over making Saul king; no direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U7568",
+  "kind": "sweep verse",
+  "reference": "1 Samuel 16:13",
+  "confidence": "medium",
+  "reason": "Fulfilment narrative: Samuel carries out ot-1-samuel-v16-12 ('Rise and anoint David') without quoting or expressly citing the command.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U7844",
+  "kind": "sweep verse",
+  "reference": "1 Samuel 26:16",
+  "confidence": "medium",
+  "reason": "David's rebuke of Abner with a rhetorical challenge ('where are the spear and flask?'): a verdict, not a direction to act.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U8074",
+  "kind": "sweep verse",
+  "reference": "2 Samuel 5:17",
+  "confidence": "high",
+  "reason": "Narrative: the foreigners hear that David was anointed and march out; no direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U8231",
+  "kind": "sweep verse",
+  "reference": "2 Samuel 12:20",
+  "confidence": "high",
+  "reason": "Narrative of David ending his fast; the narrated request for bread is ordinary speech, not recorded.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U8908",
+  "kind": "sweep verse",
+  "reference": "1 Kings 7:31",
+  "confidence": "high",
+  "reason": "Inventory of the bronze work Hiram made for Solomon: narrative, no direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U9681",
+  "kind": "sweep verse",
+  "reference": "2 Kings 8:20",
+  "confidence": "medium",
+  "reason": "Narrative of Edom's revolt; the installation of an unnamed king is incidental and states no commission or direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U9949",
+  "kind": "sweep verse",
+  "reference": "2 Kings 17:32",
+  "confidence": "medium",
+  "reason": "Narrator describes the settlers' syncretistic custom of making their own high-place priests; it directs no one.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U10705",
+  "kind": "sweep verse",
+  "reference": "1 Chronicles 14:8",
+  "confidence": "high",
+  "reason": "Narrative: the foreigners hear that David was anointed and march out; no direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U11009",
+  "kind": "sweep verse",
+  "reference": "1 Chronicles 26:10",
+  "confidence": "medium",
+  "reason": "Garbled genealogical aside in the gatekeeper list: the appointee is unnamed and unclear; no stated direction or commission.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U11391",
+  "kind": "sweep verse",
+  "reference": "2 Chronicles 13:16",
+  "confidence": "high",
+  "reason": "Battle narrative: the Lord hands Israel over to Judah; no direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U11573",
+  "kind": "sweep verse",
+  "reference": "2 Chronicles 22:7",
+  "confidence": "medium",
+  "reason": "Narrative epithet 'the Lord's anointed—Ahab's house' mentions Jehu's commission (AUD-12-9-6) without restating it; the charge is implied, not stated.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U11690",
+  "kind": "sweep verse",
+  "reference": "2 Chronicles 28:5",
+  "confidence": "high",
+  "reason": "Narrative of the Lord delivering Ahaz to the kings of Syria and Israel; no direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U12883",
+  "kind": "sweep verse",
+  "reference": "2 Maccabees 1:10",
+  "confidence": "high",
+  "reason": "Salutation of the second letter (senders, recipients, greeting); the letter's directions are recorded at 2 Maccabees 1:18 and 2:16.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U14153",
+  "kind": "sweep verse",
+  "reference": "Esther 2:14",
+  "confidence": "high",
+  "reason": "Narrator describes the harem custom (no return to the king unless summoned by name); it directs no one.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U15687",
+  "kind": "sweep verse",
+  "reference": "Greek Psalm 19:7",
+  "confidence": "high",
+  "reason": "Psalm confession that the Lord saved His anointed: praise and doctrine, not a direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U15787",
+  "kind": "sweep verse",
+  "reference": "Greek Psalm 26:1",
+  "confidence": "high",
+  "reason": "Psalm title ('before being anointed') and a declaration of trust; no direction addressed to anyone.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U16913",
+  "kind": "sweep verse",
+  "reference": "Greek Psalm 88:39",
+  "confidence": "high",
+  "reason": "Lament addressed to God about rejecting His anointed: prayer, out of scope.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U17243",
+  "kind": "sweep verse",
+  "reference": "Greek Psalm 105:41",
+  "confidence": "high",
+  "reason": "Historical recital of God handing Israel over to the nations: narrative, no direction.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U17719",
+  "kind": "sweep verse",
+  "reference": "Greek Psalm 131:17",
+  "confidence": "high",
+  "reason": "Divine promise of a horn and a lamp for David's anointed: a promise that directs no one.",
+  "batch": "R6a"
+ },
+ {
+  "item": "P:S156|Matthew 22:23–28",
+  "kind": "held parallel",
+  "reference": "Matthew 22:23–28",
+  "confidence": "medium",
+  "reason": "Already linked: 22:24, the quoted levirate rule, is on S156; 22:23, 25–28 are the Sadducees' setting and hypothetical, not a restatement.",
+  "batch": "R6a"
+ },
+ {
+  "item": "U27558",
+  "kind": "sweep verse",
+  "reference": "Matthew 27:2",
+  "confidence": "high",
+  "reason": "Passion narrative: the council binds Jesus and hands Him over to Pilate; no direction stated.",
+  "batch": "R6a"
+ },
+ {
+  "item": "P:S156|Mark 12:18–23",
+  "kind": "held parallel",
+  "reference": "Mark 12:18–23",
+  "confidence": "medium",
+  "reason": "Already linked: 12:19, the quoted levirate rule, is on S156; 12:18, 20–23 are the Sadducees' setting and hypothetical, not a restatement.",
+  "batch": "R6a"
+ },
+ {
+  "item": "P:AUD-47-12-1|Mark 14:3–9",
+  "kind": "held parallel",
+  "reference": "Mark 14:3–9",
+  "confidence": "high",
+  "reason": "Already linked: Mark 14:6–9 is on AUD-47-12-1; 14:3–5 narrate the anointing and the objection, adding no restatement of the direction.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:AUD-44-26-51|Mark 14:47",
+  "kind": "held parallel",
+  "reference": "Mark 14:47",
+  "confidence": "high",
+  "reason": "Narration only: Mark reports the sword stroke but not Jesus' order to put the sword away, so it does not restate the direction.",
+  "batch": "R6b"
+ },
+ {
+  "item": "U28250",
+  "kind": "sweep verse",
+  "reference": "Mark 15:1",
+  "confidence": "high",
+  "reason": "Narrative: the council's consultation and the handing over to Pilate report actions; no direction is stated or recalled.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:C0036|Luke 1:59",
+  "kind": "held parallel",
+  "reference": "Luke 1:59",
+  "confidence": "high",
+  "reason": "Fulfilment narrative: the eighth-day circumcision is performed without quoting or citing the command; the verse is already linked to AUD-46-1-13 (naming).",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:C0036|Luke 2:21",
+  "kind": "held parallel",
+  "reference": "Luke 2:21",
+  "confidence": "high",
+  "reason": "Fulfilment narrative: Jesus' eighth-day circumcision is reported without citing the law (unlike 2:22–24); the verse is already linked to AUD-46-1-30.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:C0586|Luke 3:18–20",
+  "kind": "held parallel",
+  "reference": "Luke 3:18–20",
+  "confidence": "high",
+  "reason": "Already linked: Luke 3:19–20 is on C0586; 3:18 summarises John's other exhortations and does not concern Herodias.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:K022|Luke 5:12–13",
+  "kind": "held parallel",
+  "reference": "Luke 5:12–13",
+  "confidence": "medium",
+  "reason": "Narrative and healing word: 5:12–13 do not restate the priest instruction, which is at 5:14, already linked to K022.",
+  "batch": "R6b"
+ },
+ {
+  "item": "U29431",
+  "kind": "sweep verse",
+  "reference": "Luke 24:20",
+  "confidence": "high",
+  "reason": "Narrative recollection by the Emmaus disciples of the handing over and crucifixion; it states and recalls no direction.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:C1086|John 8:13–16",
+  "kind": "held parallel",
+  "reference": "John 8:13–16",
+  "confidence": "medium",
+  "reason": "Dispute over self-testimony without citing the law; the two-witness citation is 8:17–18, already linked to C1086.",
+  "batch": "R6b"
+ },
+ {
+  "item": "U29944",
+  "kind": "sweep verse",
+  "reference": "John 11:2",
+  "confidence": "high",
+  "reason": "Narrator identifies Mary as the anointer; it recalls her act, not a direction, and adds nothing to AUD-47-12-1.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:ot-isaiah-v6-8|John 12:39–41",
+  "kind": "held parallel",
+  "reference": "John 12:39–41",
+  "confidence": "high",
+  "reason": "Already linked: John 12:40–41 carries the quotation on ot-isaiah-v6-8; 12:39 is only the narrator's lead-in.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:K081|John 14:6–10",
+  "kind": "held parallel",
+  "reference": "John 14:6–10",
+  "confidence": "medium",
+  "reason": "Doctrine (14:6–7), Philip's request (14:8) and rhetorical questions; the call to believe is stated at 14:1 and 14:11, already covered.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:ot-genesis-v45-9|Acts 7:13–14",
+  "kind": "held parallel",
+  "reference": "Acts 7:13–14",
+  "confidence": "high",
+  "reason": "Already linked: Acts 7:14 is on ot-genesis-v45-9; 7:13 narrates Joseph making himself known, not the summons.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:A032|Romans 2:13",
+  "kind": "held parallel",
+  "reference": "Romans 2:13",
+  "confidence": "medium",
+  "reason": "Doctrine: a premise in Paul's argument on judgment by the law (2:12–16), directing no one; it does not restate James' direction.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:AUD-50-16-20|Romans 16:3–15",
+  "kind": "held parallel",
+  "reference": "Romans 16:3–15",
+  "confidence": "high",
+  "reason": "Weaker ordinary speech: named greetings to convey, not the mutual holy-kiss direction of AUD-50-16-20 (Romans 16:16 is already linked).",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:AUD-50-16-20|Philippians 4:21",
+  "kind": "held parallel",
+  "reference": "Philippians 4:21",
+  "confidence": "medium",
+  "reason": "Weaker ordinary speech: a closing greeting to convey, not the mutual holy-kiss direction of AUD-50-16-20; nearby closing greetings are unrecorded.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:AUD-50-16-20|2 Timothy 4:19",
+  "kind": "held parallel",
+  "reference": "2 Timothy 4:19",
+  "confidence": "high",
+  "reason": "Weaker ordinary speech: a named greeting, which the review left out of AUD-59-4-9 (4:9, 11, 13, 21); not the holy-kiss direction.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:AUD-50-16-20|Titus 3:15",
+  "kind": "held parallel",
+  "reference": "Titus 3:15",
+  "confidence": "high",
+  "reason": "Weaker ordinary speech: a closing greeting, left outside the recorded closing instructions 3:12–14; not the holy-kiss direction of AUD-50-16-20.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:C0252|Hebrews 9:1–5",
+  "kind": "held parallel",
+  "reference": "Hebrews 9:1–5",
+  "confidence": "medium",
+  "reason": "Description of the sanctuary and its furnishings; it neither quotes nor cites the construction command, unlike the linked Hebrews 8:5.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:C0131|Hebrews 9:4",
+  "kind": "held parallel",
+  "reference": "Hebrews 9:4",
+  "confidence": "medium",
+  "reason": "Lists the manna jar among the ark's contents without quoting or citing the preservation instruction; descriptive, like fulfilment narrative.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:C0872|Hebrews 9:4",
+  "kind": "held parallel",
+  "reference": "Hebrews 9:4",
+  "confidence": "medium",
+  "reason": "Lists Aaron's sprouted rod among the ark's contents without quoting or citing the instruction to keep it; descriptive, like fulfilment narrative.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:AUD-50-16-20|Hebrews 13:24",
+  "kind": "held parallel",
+  "reference": "Hebrews 13:24",
+  "confidence": "medium",
+  "reason": "Weaker ordinary speech: a closing greeting to leaders and saints, not the mutual holy-kiss direction of AUD-50-16-20.",
+  "batch": "R6b"
+ },
+ {
+  "item": "P:AUD-50-16-20|3 John 1:15",
+  "kind": "held parallel",
+  "reference": "3 John 1:15",
+  "confidence": "high",
+  "reason": "Weaker ordinary speech: a closing greeting by name, not the mutual holy-kiss direction of AUD-50-16-20.",
+  "batch": "R6b"
+ },
+ {
+  "item": "SIM001",
+  "kind": "similarity candidate",
+  "reference": "1 Kings 2:35d",
+  "confidence": "high",
+  "reason": "Creation narrative of God making the animals; not a direction. Shares only 'according to their kind' wording with Noah's ark instruction.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM002",
+  "kind": "similarity candidate",
+  "reference": "1 Kings 2:46k",
+  "confidence": "high",
+  "reason": "God's sworn promise of blessing after the test; a promise directing no one. It recalls Abraham's obedience, not the command in 22:12.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM003",
+  "kind": "similarity candidate",
+  "reference": "Mark 13:12",
+  "confidence": "high",
+  "reason": "Promise of blessing through Abraham's seed; directs no one. The similar 26:4 is promise inside Isaac's record, not its direction.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM004",
+  "kind": "similarity candidate",
+  "reference": "Matthew 12:29",
+  "confidence": "high",
+  "reason": "Dialogue lead-in ('Father' / 'Who are you?'); no direction. Jacob's request is recorded at 27:19; Genesis 22:7 shares only the address.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM005",
+  "kind": "similarity candidate",
+  "reference": "Proverbs 9:4",
+  "confidence": "high",
+  "reason": "Isaac's blessing-wish ('may my God bless you'); a blessing directing no one. His charge is recorded at 28:1–2 with 28:6 linked.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM006",
+  "kind": "similarity candidate",
+  "reference": "Mark 12:10",
+  "confidence": "high",
+  "reason": "Fulfilment narrative: Jacob builds the altar commanded in 35:1; it echoes the wording but does not quote or cite the command.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM007",
+  "kind": "similarity candidate",
+  "reference": "Mark 5:35",
+  "confidence": "high",
+  "reason": "Reuben's lament over Joseph's absence; narrative speech with no direction. Shares only the word 'child' with Luke 15:31.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM008",
+  "kind": "similarity candidate",
+  "reference": "Greek Psalm 13:7",
+  "confidence": "high",
+  "reason": "Joseph's interpretation predicting famine; a prediction directing no one. His advice to Pharaoh, from 41:33, is already recorded.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM012",
+  "kind": "similarity candidate",
+  "reference": "Acts 8:32",
+  "confidence": "high",
+  "reason": "Fulfilment narrative of Jacob's burial charge (49:29–32); repeats the cave description but does not quote or cite the charge.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM013",
+  "kind": "similarity candidate",
+  "reference": "Job 34:3",
+  "confidence": "high",
+  "reason": "Genealogy of Kohath's sons; narrative list with no direction. Numbers 3:19 is a genealogy verse inside a broad range record.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM014",
+  "kind": "similarity candidate",
+  "reference": "2 Samuel 10:7",
+  "confidence": "high",
+  "reason": "Moses' assurance (prediction) that the frogs will be removed; directs no one. Pharaoh's request is recorded at 8:4.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM016",
+  "kind": "similarity candidate",
+  "reference": "Joshua 17:3",
+  "confidence": "high",
+  "reason": "Narrative of the calf feast; Paul quotes it as an example in 1 Corinthians 10:7, but the verse itself directs no one.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM017",
+  "kind": "similarity candidate",
+  "reference": "Hebrews 5:6",
+  "confidence": "high",
+  "reason": "Fulfilment narrative: the third day's leader presents his gift as ordered in 7:11; no citation of the direction.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM018",
+  "kind": "similarity candidate",
+  "reference": "Ezekiel 17:11",
+  "confidence": "high",
+  "reason": "Fulfilment narrative: the eleventh day's leader presents his gift; shares only the leader's name with the census list at 1:13.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM019",
+  "kind": "similarity candidate",
+  "reference": "John 7:48",
+  "confidence": "medium",
+  "reason": "Narrative of the first march from Sinai (10:11–28); 'shall set out' follows the Greek tense; plain fulfilment of the 2:31 order.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM020",
+  "kind": "similarity candidate",
+  "reference": "Jeremiah 39:6",
+  "confidence": "high",
+  "reason": "Moses' complaint addressed to God (prayer, 11:11–15); not a direction. Shares wording with Jethro's advice in Exodus 18:18 only.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM021",
+  "kind": "similarity candidate",
+  "reference": "Jeremiah 39:6",
+  "confidence": "high",
+  "reason": "Census genealogy naming Zelophehad's daughters; no direction. Joshua 17:3–6 is linked because the daughters cite the ruling there; this verse cites nothing.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM022",
+  "kind": "similarity candidate",
+  "reference": "Luke 17:27",
+  "confidence": "high",
+  "reason": "Census genealogy of Levi's clans; narrative list, not a direction.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM023",
+  "kind": "similarity candidate",
+  "reference": "Isaiah 37:2",
+  "confidence": "high",
+  "reason": "Narrative note on Nadab and Abihu's death within the census; not a direction.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM024",
+  "kind": "similarity candidate",
+  "reference": "Genesis 49:30",
+  "confidence": "high",
+  "reason": "Narrative summary of the census done by Moses and Eleazar; plain fulfilment of 26:1–4 with no direction stated.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM025",
+  "kind": "similarity candidate",
+  "reference": "John 12:5",
+  "confidence": "medium",
+  "reason": "Narrator recalls the Lord's sentence of death in the wilderness and notes its fulfilment; a judgment, not a direction.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM026",
+  "kind": "similarity candidate",
+  "reference": "1 Kings 2:35a",
+  "confidence": "medium",
+  "reason": "Moses recalls God's oath excluding the exodus generation except Caleb and Joshua; a judgment within his rebuke, not a direction.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM027",
+  "kind": "similarity candidate",
+  "reference": "Jonah 4:9",
+  "confidence": "high",
+  "reason": "God's promise of Israel's borders, recalling the promise of Deuteronomy 11:24; directs no one. The commission is recorded at 1:2 and 1:6–9.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM028",
+  "kind": "similarity candidate",
+  "reference": "Numbers 3:19",
+  "confidence": "high",
+  "reason": "Joshua's assurance of conquest ('by this you shall know'); a promise, not a direction. His call to hear (3:9) is recorded.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM031",
+  "kind": "similarity candidate",
+  "reference": "Matthew 25:30",
+  "confidence": "high",
+  "reason": "List of defeated kings; narrative, not a direction. Shares only place names with Jabin's coalition summons.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM033",
+  "kind": "similarity candidate",
+  "reference": "Zechariah 1:14",
+  "confidence": "high",
+  "reason": "Boundary description in Zebulun's allotment; narrative geography, not a direction. Shares wording with Numbers 34:5 only.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM034",
+  "kind": "similarity candidate",
+  "reference": "Acts 8:33",
+  "confidence": "high",
+  "reason": "Boundary description in Asher's allotment; narrative geography, not a direction. Shares wording with Numbers 34:5 only.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM035",
+  "kind": "similarity candidate",
+  "reference": "Sirach 39:10",
+  "confidence": "medium",
+  "reason": "Narrative introduction to Joshua's speech; his dismissal and charge are recorded at 22:4 and 22:5. The verse itself states no direction.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM036",
+  "kind": "similarity candidate",
+  "reference": "Matthew 9:11",
+  "confidence": "medium",
+  "reason": "The rulers' deliberation and conditional offer among themselves; directs no one. The elders' actual commission of Jephthah is recorded (11:6, 11:8–11).",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM037",
+  "kind": "similarity candidate",
+  "reference": "Job 32:8",
+  "confidence": "high",
+  "reason": "Rhetorical question within Jephthah's message (the sending is AUD-07-11-12); not a direction. Shares only Balak's name with Numbers 22:10.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM039",
+  "kind": "similarity candidate",
+  "reference": "Exodus 11:3",
+  "confidence": "medium",
+  "reason": "Saul's oath that David shall not die; a sworn undertaking about his own action, not a direction to anyone.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM040",
+  "kind": "similarity candidate",
+  "reference": "Ezekiel 17:11",
+  "confidence": "medium",
+  "reason": "David's protest of innocence; 'know and see' is an appeal, not a direction. His restraint toward Saul is already linked at 24:5–8.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM041",
+  "kind": "similarity candidate",
+  "reference": "Acts 3:21",
+  "confidence": "high",
+  "reason": "David's appeal for the Lord to judge between them; a prayer-wish, not a direction. Shares wording with Proverbs 22:23 only.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM042",
+  "kind": "similarity candidate",
+  "reference": "1 Kings 2:46l",
+  "confidence": "high",
+  "reason": "Narrative of Abner and Ish-bosheth's servants moving to Gibeon; not a direction.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM043",
+  "kind": "similarity candidate",
+  "reference": "Matthew 26:51",
+  "confidence": "high",
+  "reason": "List of David's officials; narrative, not a direction. Shares only the priests' names with 15:35.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM044",
+  "kind": "similarity candidate",
+  "reference": "Mark 1:4",
+  "confidence": "medium",
+  "reason": "Bathsheba carries out Nathan's recorded advice (fulfilment); the oath she recalls is a promise. Her petition 1:17–21 is item N:GAP-11-1-17.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM045",
+  "kind": "similarity candidate",
+  "reference": "Ezekiel 20:19",
+  "confidence": "high",
+  "reason": "Narrative of Solomon's God-given wisdom; not a direction. Matches 2:35a only because AUD-11-2-35's '1 Kings 2:35' sweeps in the Greek supplements.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM046",
+  "kind": "similarity candidate",
+  "reference": "Luke 3:5",
+  "confidence": "high",
+  "reason": "Narrative of Solomon's labour force; not a direction. Matches 2:35d only because AUD-11-2-35's reference sweeps in the Greek supplements 2:35a–o.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM047",
+  "kind": "similarity candidate",
+  "reference": "Numbers 26:3",
+  "confidence": "high",
+  "reason": "Narrative description of Solomon's overseers; not a direction. Matches 2:35h only through AUD-11-2-35's sweep of the Greek supplements.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM048",
+  "kind": "similarity candidate",
+  "reference": "2 Chronicles 18:6",
+  "confidence": "high",
+  "reason": "Narrative of the extent of Solomon's rule; not a direction. Matches 2:46k only because AUD-11-2-46's '1 Kings 2:46' sweeps in the Greek supplements.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM049",
+  "kind": "similarity candidate",
+  "reference": "Luke 9:45",
+  "confidence": "high",
+  "reason": "Narrative of Jeroboam's flight to Egypt; not a direction. Matches 12:24c only because ot-1-kings-v12-23's range sweeps in the Greek supplement.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM050",
+  "kind": "similarity candidate",
+  "reference": "1 Kings 12:24c",
+  "confidence": "high",
+  "reason": "Elijah's judgment oracle on Ahab's house; a prediction directing no one. 2 Kings 9:9 repeats it inside Jehu's commission, whose direction is 9:7.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM052",
+  "kind": "similarity candidate",
+  "reference": "2 Samuel 15:35",
+  "confidence": "medium",
+  "reason": "Elijah delivers the oracle in person: rebuke and death sentence, directing no one. 1:6 is recorded for the messengers' charge to return and tell.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM057",
+  "kind": "similarity candidate",
+  "reference": "2 Samuel 2:8",
+  "confidence": "medium",
+  "reason": "Hiram's reply describing the artisan he supplied: fulfilment of Solomon's 2:6 request, with no direction. Hiram's sending (2:12) is item N:GAP-14-2-12.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM059",
+  "kind": "similarity candidate",
+  "reference": "Luke 20:27",
+  "confidence": "high",
+  "reason": "Narrative of the people destroying Baal's house; not a direction. 2 Kings 11:18 is linked only for Jehoiada's appointment, held at 23:18.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM060",
+  "kind": "similarity candidate",
+  "reference": "Sirach 8:6",
+  "confidence": "medium",
+  "reason": "Chronicles narrates the silver reaching the workers with no order stated; plain fulfilment of 2 Kings 22:5 (R5b separately proposes linking 34:10–12).",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM061",
+  "kind": "similarity candidate",
+  "reference": "Luke 20:29",
+  "confidence": "high",
+  "reason": "The letter's opening blessing-wish ('May God do good to you'); a prayer, not a direction. The letter's direction is recorded at 1:9.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM063",
+  "kind": "similarity candidate",
+  "reference": "Genesis 6:20",
+  "confidence": "high",
+  "reason": "Closing greeting and date of the Roman envoys' letter; no direction. That letter (11:34–38) is item N:GAP-16-11-34.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM065",
+  "kind": "similarity candidate",
+  "reference": "Ezekiel 17:11",
+  "confidence": "medium",
+  "reason": "The king's question soliciting counsel; not itself a direction. Haman's proposals (6:8–9) and the king's order (6:10) are recorded.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM066",
+  "kind": "similarity candidate",
+  "reference": "Jeremiah 39:6",
+  "confidence": "medium",
+  "reason": "Job's maxim within his argument; in 34:3 the same image is Elihu's reason, not the direction. Shared proverb, no direction here.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM067",
+  "kind": "similarity candidate",
+  "reference": "Luke 24:40",
+  "confidence": "high",
+  "reason": "Eliphaz's description of Job's calamities; accusation, not a direction. Shares only light and darkness wording with Luke 11:35.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM068",
+  "kind": "similarity candidate",
+  "reference": "Colossians 4:18",
+  "confidence": "medium",
+  "reason": "Elihu's claim that God's spirit made and teaches him; doctrine about himself. His calls to hear and answer are recorded at 33:1 and 33:5.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM069",
+  "kind": "similarity candidate",
+  "reference": "1 Kings 2:35h",
+  "confidence": "medium",
+  "reason": "Elihu's doctrinal statement that God disregards improper things; not a direction. Shares wording with 34:12 but not its warning.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM070",
+  "kind": "similarity candidate",
+  "reference": "Numbers 2:7",
+  "confidence": "high",
+  "reason": "Prayer addressed to God ('Thy praises'); out of scope. Shares wording with Psalm 72:28 only.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM071",
+  "kind": "similarity candidate",
+  "reference": "Greek Psalm 72:28",
+  "confidence": "high",
+  "reason": "Lament later cited as fulfilled at John 19:24; it directs no one. AUD-47-19-23 notes the citation without linking it.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM072",
+  "kind": "similarity candidate",
+  "reference": "Mark 1:40",
+  "confidence": "high",
+  "reason": "Imprecatory prayer addressed to God; out of scope. Shares 'according to their works' with Romans 2:6 only.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM074",
+  "kind": "similarity candidate",
+  "reference": "Genesis 35:1",
+  "confidence": "medium",
+  "reason": "Narrative opening of the theophany; God's summons is recorded in direct speech at 49:5 and 49:7. Shares only a phrase with 112:3.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM076",
+  "kind": "similarity candidate",
+  "reference": "Mark 1:28",
+  "confidence": "high",
+  "reason": "Prayer addressed to God ('Attend to me and hear me'); out of scope. Shares only 'grieved' and 'troubled' with Micah 6:3.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM078",
+  "kind": "similarity candidate",
+  "reference": "Luke 7:28",
+  "confidence": "medium",
+  "reason": "Prayer-wish echoing the priestly blessing's words; it does not recall or repeat the command to bless (C0827).",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM079",
+  "kind": "similarity candidate",
+  "reference": "Proverbs 22:23",
+  "confidence": "high",
+  "reason": "Lament addressed to God about boasting sinners; out of scope. Shares wording with Psalm 74:6 only.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM080",
+  "kind": "similarity candidate",
+  "reference": "Matthew 15:14",
+  "confidence": "medium",
+  "reason": "Doctrinal ground ('For the Lord will not reject') of the recorded beatitude 93:12–13, not a direction; shares doctrine with Lamentations 3:31 only.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM081",
+  "kind": "similarity candidate",
+  "reference": "Numbers 1:13",
+  "confidence": "high",
+  "reason": "Psalm statement Jesus cites in the tenants parable; doctrine, not a direction. AUD-44-21-33 notes the citation without linking the psalm.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM082",
+  "kind": "similarity candidate",
+  "reference": "1 Samuel 28:10",
+  "confidence": "high",
+  "reason": "Prayer addressed to God ('teach me Thine ordinances'); out of scope. The petition at 118:12 is covered only as part of a recorded stanza.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM083",
+  "kind": "similarity candidate",
+  "reference": "Numbers 14:30",
+  "confidence": "high",
+  "reason": "Prayer addressed to God ('Help me, and I will be saved'); out of scope. Shares meditation wording with 118:16 only.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM084",
+  "kind": "similarity candidate",
+  "reference": "Lamentations 3:31",
+  "confidence": "high",
+  "reason": "David's vow about his own conduct; a self-commitment, not a direction. Shares sleep imagery with Proverbs 6:4 only.",
+  "batch": "R7a"
+ },
+ {
+  "item": "SIM085",
+  "kind": "similarity candidate",
+  "reference": "Judges 11:8",
+  "confidence": "high",
+  "reason": "Book superscription naming Solomon; no direction. It shares only wording with the 1 Kings 2:46l reign notice, which is narrative.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM087",
+  "kind": "similarity candidate",
+  "reference": "1 Peter 3:13",
+  "confidence": "high",
+  "reason": "Praise of the ancestors: a statement, not a direction. It shares only wording with Sirach 39:10.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM088",
+  "kind": "similarity candidate",
+  "reference": "John 5:31",
+  "confidence": "high",
+  "reason": "Ben Sira's autobiographical testimony about pursuing wisdom; directs no one. Similarity to 1 Peter 3:13 is vocabulary only.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM089",
+  "kind": "similarity candidate",
+  "reference": "Ezekiel 20:13",
+  "confidence": "high",
+  "reason": "Prediction of terror at Babylon's fall; directs no one. It shares only the childbirth image with Sirach 19:11.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM090",
+  "kind": "similarity candidate",
+  "reference": "Isaiah 42:8",
+  "confidence": "high",
+  "reason": "The prophet's anguish at the harsh vision; narrative, not a direction. It shares only the childbirth image with Sirach 19:11.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM093",
+  "kind": "similarity candidate",
+  "reference": "Proverbs 6:4",
+  "confidence": "medium",
+  "reason": "God's promise to carry Israel into old age; promise and doctrine, not a direction. It shares only 'old age' with Sirach 8:6.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM094",
+  "kind": "similarity candidate",
+  "reference": "Luke 24:46",
+  "confidence": "high",
+  "reason": "Servant prophecy, not a direction. Acts 8:32 quotes it as the passage the eunuch was reading, not as Philip's commission.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM095",
+  "kind": "similarity candidate",
+  "reference": "Genesis 42:38",
+  "confidence": "high",
+  "reason": "Servant prophecy, not a direction. Acts 8:33 quotes it as the passage being read, not as the commission.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM096",
+  "kind": "similarity candidate",
+  "reference": "Numbers 2:25",
+  "confidence": "high",
+  "reason": "Rhetorical questions and threat against Jerusalem; directs no one. It shares only the childbirth image with Sirach 19:11.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM097",
+  "kind": "similarity candidate",
+  "reference": "John 19:6",
+  "confidence": "high",
+  "reason": "Heading of the drought oracle, followed by lament; no direction. The oracle's command (14:11) is already recorded.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM100",
+  "kind": "similarity candidate",
+  "reference": "Mark 13:22",
+  "confidence": "high",
+  "reason": "Promise that God will break Israel's yoke; prediction, not a direction. It shares only 'tear apart their bonds' with Psalm 2:3.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM101",
+  "kind": "similarity candidate",
+  "reference": "Genesis 43:9",
+  "confidence": "medium",
+  "reason": "Time-note that the answer came; narrative (49:8) and a new speech introduction intervene before the recorded commands (49:11, 49:19).",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM104",
+  "kind": "similarity candidate",
+  "reference": "Mark 14:35",
+  "confidence": "medium",
+  "reason": "The guide announces further sights; no order is given. It repeats 8:6's remark, not the recorded commands to look and enter.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM105",
+  "kind": "similarity candidate",
+  "reference": "Joshua 9:21",
+  "confidence": "medium",
+  "reason": "Promise of a new heart enabling obedience; directs no one. Ezekiel 20:19's command shares only the wording.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM107",
+  "kind": "similarity candidate",
+  "reference": "Genesis 22:12",
+  "confidence": "high",
+  "reason": "Accusation in the Jerusalem allegory; no direction. Psalm 118:3 shares only 'walk in their ways' and 'lawlessness'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM108",
+  "kind": "similarity candidate",
+  "reference": "Sirach 7:34",
+  "confidence": "medium",
+  "reason": "Indictment narrating the children's disobedience; it quotes no command. The commands it alludes to are recorded at 20:18–20.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM109",
+  "kind": "similarity candidate",
+  "reference": "Genesis 42:15",
+  "confidence": "high",
+  "reason": "Rhetorical question in the Oholah and Oholibah allegory; no direction. James 2:11 shares only 'commit adultery'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM111",
+  "kind": "similarity candidate",
+  "reference": "Genesis 26:4",
+  "confidence": "high",
+  "reason": "Promise that God's Spirit will cause obedience; directs no one. Leviticus 26:3's condition shares only the wording.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM112",
+  "kind": "similarity candidate",
+  "reference": "Sirach 30:10",
+  "confidence": "high",
+  "reason": "Narrative introducing the Prayer of Azariah; prayer is out of scope. 1 Maccabees 2:59 shares only the names.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM113",
+  "kind": "similarity candidate",
+  "reference": "Esther 3:11",
+  "confidence": "high",
+  "reason": "Prediction about the kings of the south and north; directs no one. Proverbs 4:15 shares only 'turn away' and 'pass'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM114",
+  "kind": "similarity candidate",
+  "reference": "Romans 16:16",
+  "confidence": "high",
+  "reason": "God's own plan to woo Israel in the wilderness; promise, not a direction. 1 John 2:26 shares only 'leading astray'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM115",
+  "kind": "similarity candidate",
+  "reference": "Deuteronomy 11:24",
+  "confidence": "high",
+  "reason": "Judgment statement within the oracle; directs no one. Exodus 22:28 shares only 'threshing floor and winepress'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM117",
+  "kind": "similarity candidate",
+  "reference": "2 Kings 11:18",
+  "confidence": "high",
+  "reason": "Promise to break the oppressor's rod; prediction, not a direction. Psalm 2:3 shares only 'tear apart your bonds'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM118",
+  "kind": "similarity candidate",
+  "reference": "Sirach 19:11",
+  "confidence": "medium",
+  "reason": "Oracle declaring God's zeal; it repeats 1:14's message but not the command to proclaim it, and directs no one.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM119",
+  "kind": "similarity candidate",
+  "reference": "Leviticus 26:42",
+  "confidence": "medium",
+  "reason": "The leper's plea is narrative setting; it does not restate K022's priestly instruction, and pleas for healing are not recorded.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM120",
+  "kind": "similarity candidate",
+  "reference": "1 Samuel 24:6",
+  "confidence": "medium",
+  "reason": "Performative healing word and narrative, not a direction to act (cf. unrecorded Luke 18:42). K022 holds the instruction that follows.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM121",
+  "kind": "similarity candidate",
+  "reference": "Mark 1:42",
+  "confidence": "high",
+  "reason": "Prediction of exclusion from the kingdom; directs no one. Matthew 25:30 shares only the outer-darkness wording.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM122",
+  "kind": "similarity candidate",
+  "reference": "1 Corinthians 10:1",
+  "confidence": "high",
+  "reason": "Narrator's fulfilment citation of Isaiah 53:4; doctrine, not a direction. It shares only the formula with Matthew 12:17.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM128",
+  "kind": "similarity candidate",
+  "reference": "Greek Psalm 118:12",
+  "confidence": "high",
+  "reason": "Narrative introduction to the Sadducees' question; S156 links only their citation of the levirate law (22:24), which is already linked.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM129",
+  "kind": "similarity candidate",
+  "reference": "Numbers 34:5",
+  "confidence": "high",
+  "reason": "Prediction of false prophets; directs no one. The warnings themselves are recorded at 24:4–8 and 24:23–28.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM130",
+  "kind": "similarity candidate",
+  "reference": "John 19:6",
+  "confidence": "medium",
+  "reason": "Noah comparison: illustration and prediction, no direction. Matthew's related charge to watch (24:42–44) is already linked to K083.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM131",
+  "kind": "similarity candidate",
+  "reference": "1 Corinthians 10:7",
+  "confidence": "high",
+  "reason": "Jesus' prayer to the Father; prayer is out of scope. K073's note deliberately excludes 26:39 for this reason.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM134",
+  "kind": "similarity candidate",
+  "reference": "Greek Psalm 118:3",
+  "confidence": "medium",
+  "reason": "Narrative of the disciples' incomprehension; Mark's account lacks the recorded command (Luke 9:44) and restates no direction.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM136",
+  "kind": "similarity candidate",
+  "reference": "2 Kings 22:5",
+  "confidence": "high",
+  "reason": "The Sadducees' hypothetical applies the law quoted in 12:19 (already linked to S156); a narrative case, not a restatement.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM137",
+  "kind": "similarity candidate",
+  "reference": "Sirach 19:11",
+  "confidence": "medium",
+  "reason": "The guests' objection is the occasion, not the direction; Mark's account of Jesus' reply (14:6–9) is already linked to AUD-47-12-1.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM138",
+  "kind": "similarity candidate",
+  "reference": "Genesis 35:11",
+  "confidence": "high",
+  "reason": "Narrative of the sword stroke; Mark records no command to sheathe the sword, so nothing restates AUD-44-26-51's direction.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM139",
+  "kind": "similarity candidate",
+  "reference": "Luke 11:35",
+  "confidence": "high",
+  "reason": "Zechariah's hymn of praise; doctrine, not a direction. Acts 3:21 shares only the 'holy prophets' wording.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM141",
+  "kind": "similarity candidate",
+  "reference": "1 John 2:26",
+  "confidence": "high",
+  "reason": "Narrative of Jesus' fame spreading; no direction. The exorcism command is recorded at Luke 4:33–36.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM142",
+  "kind": "similarity candidate",
+  "reference": "Mark 3:32",
+  "confidence": "medium",
+  "reason": "Performative healing word and narrative; it does not restate K022's priestly instruction (Luke 5:14, already linked).",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM144",
+  "kind": "similarity candidate",
+  "reference": "Leviticus 26:3",
+  "confidence": "medium",
+  "reason": "Report that prompts Jesus' saying; it gives no direction. AUD-46-8-21 begins at his reply (8:21).",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM145",
+  "kind": "similarity candidate",
+  "reference": "Ezra 2:63",
+  "confidence": "medium",
+  "reason": "The messenger's report prompts Jesus' reply; weak ordinary speech, not Jesus' direction. AUD-46-8-50 begins at his answer (8:50).",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM148",
+  "kind": "similarity candidate",
+  "reference": "Exodus 7:29",
+  "confidence": "high",
+  "reason": "Narrative identifying Andrew as a follower; no direction. It shares only the naming formula with John 6:8.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM149",
+  "kind": "similarity candidate",
+  "reference": "Greek Psalm 2:3",
+  "confidence": "high",
+  "reason": "The Samaritan woman's question; narrative dialogue with no direction. John 4:19 shares only the address 'Sir'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM150",
+  "kind": "similarity candidate",
+  "reference": "Exodus 22:28",
+  "confidence": "medium",
+  "reason": "The Pharisees' objection; it states no direction and does not expressly cite the law (Jesus cites it at 8:17, linked to C1086).",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM151",
+  "kind": "similarity candidate",
+  "reference": "1 Corinthians 16:20",
+  "confidence": "medium",
+  "reason": "Jesus' claim about his own testimony; doctrine, not a direction. It answers 8:13 rather than restating John 5:31.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM153",
+  "kind": "similarity candidate",
+  "reference": "Matthew 10:12",
+  "confidence": "high",
+  "reason": "Narrative about rulers who believed but did not confess; no direction. It shares wording with John 7:48 only.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM155",
+  "kind": "similarity candidate",
+  "reference": "Genesis 22:7",
+  "confidence": "high",
+  "reason": "Mary Magdalene's report of the empty tomb; narrative, no direction. John 21:7 shares only 'the disciple whom Jesus loved'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM156",
+  "kind": "similarity candidate",
+  "reference": "Mark 1:41",
+  "confidence": "medium",
+  "reason": "Narrative of Jesus showing his wounds; John states no command here. AUD-46-24-36's note already identifies this as the same evening.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM157",
+  "kind": "similarity candidate",
+  "reference": "1 Kings 8:19",
+  "confidence": "high",
+  "reason": "Paul's proclamation of the fulfilled promise; doctrine, not a direction. 1 Corinthians 9:16 shares only 'proclaim the good news'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM158",
+  "kind": "similarity candidate",
+  "reference": "Micah 6:3",
+  "confidence": "high",
+  "reason": "Narrative of Paul's preaching: fulfilment, not a restatement of K094's commission. It shares the Christ-must-suffer wording only.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM159",
+  "kind": "similarity candidate",
+  "reference": "John 19:24",
+  "confidence": "high",
+  "reason": "Paul's account of his own travel plans; not a direction. 1 Corinthians 10:1 shares only 'I do not want you to be unaware'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM160",
+  "kind": "similarity candidate",
+  "reference": "Genesis 41:36",
+  "confidence": "medium",
+  "reason": "Paul quotes Deuteronomy 32:21, a threat that directs no one, not the record's charge to remember and teach the song.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM161",
+  "kind": "similarity candidate",
+  "reference": "Joshua 22:13",
+  "confidence": "medium",
+  "reason": "Named personal greetings: ordinary epistolary speech. AUD-50-16-20 holds the mutual holy-kiss instruction (16:16), not these; K097 shares only 'greet'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM162",
+  "kind": "similarity candidate",
+  "reference": "John 5:31",
+  "confidence": "medium",
+  "reason": "Named personal greetings: ordinary epistolary speech, not the mutual holy-kiss instruction of AUD-50-16-20 (Romans 16:16).",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM165",
+  "kind": "similarity candidate",
+  "reference": "Jeremiah 32:27",
+  "confidence": "high",
+  "reason": "Authentication note about Paul's handwriting; no direction is stated. Colossians 4:18's record turns on 'Remember my chains', absent here.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM166",
+  "kind": "similarity candidate",
+  "reference": "John 21:7",
+  "confidence": "high",
+  "reason": "A creedal saying and Paul's confession; doctrine, not a direction. 1 Timothy 4:9 shares only the 'trustworthy saying' formula.",
+  "batch": "R7b"
+ },
+ {
+  "item": "SIM168",
+  "kind": "similarity candidate",
+  "reference": "2 Chronicles 2:6",
+  "confidence": "high",
+  "reason": "Prophetic narrative of merchants mourning Babylon; directs no one. Sirach 7:34 shares only 'weep and mourn'.",
+  "batch": "R7b"
+ },
+ {
+  "item": "V001",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Misattribution (editor): Abram's oath refuses Sodom's spoils with an exception for his allies; a refusal is not a command to the king.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V005",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Editor: a narrator describes an Israelite custom with no divine prohibition; torah-genesis-32-25 already covers the custom.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V006",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Ordinary call to listen before telling a dream; the catalogue keeps such calls as Study Context at most (ot-judges-v9-7); no independent direction.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V008",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "An offer phrased as a question, not a direction; the resulting order 'Go' is already recorded at ot-exodus-v2-8.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V009",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Editor: the text reports a summons and the enchanters' imitation; it never states Pharaoh told them to match the sign (implied only).",
+  "batch": "R8a"
+ },
+ {
+  "item": "V012",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Editor: the people's pledge is covenant assent to commands already given, not a separately imposed requirement.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V022",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Editor: the people's own rebellious proposal, held as Study Context; it lies within passage group torah-numbers-14-1 and directs no one.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V024",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Editor: animal and offerer differ from C0400's cited verse; a new record would repeat C0400's individual sin offering (Leviticus 4:27–28).",
+  "batch": "R8a"
+ },
+ {
+  "item": "V025",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Already linked: Numbers 29:13–34 is Additional Scripture on C0699, as the editor published.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V028",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Editor: the Saints wording is a statement letting God destroy and does not reproduce C0356's command to leave Him alone.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V029",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Already linked: Deuteronomy 14:3 is within S127 (14:3–20), which the editor found covers the heading exactly.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V031",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Already linked within C1210 (27:15–26); editor: these curses lack the full conditions of C0587 and C0588.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V032",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Editor: rhetorical question and covenant warning of consequences, not an explicit command; torah-deuteronomy-29-1 gives the context.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V034",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Fable speech of the bramble; the catalogue keeps fable lines as Study Context (ot-judges-v9-10, 9:12) and records the applied warning at AUD-07-9-16.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V035",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Prediction and oath of judgment on Eli's house directing no one; Samuel's call itself is decided under R1a N:GAP-09-3-4.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V037",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Editor: the people's rhetorical question and oath defend Jonathan; no independently imposed command is explicit.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V038",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Prediction and defiance directing no one; the editor published AUD-09-17-45 at 17:47 only, the wisdom saying.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V041",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Editor: Ahithophel states what he himself will do (a speaker's own plan), counsel or context rather than an instruction to Absalom.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V042",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Narrates the counsel's adoption and God's providential purpose; the editor published AUD-10-17-7 at 17:11–13, leaving the reception narrative out.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V047",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Editor: narrated covenant renewal with no distinct substantive law; Study Context only, which this round cannot create.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V048",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Editor: renews the existing duty to keep the book; covenant context (cf. Study Context ot-nehemiah-v10-30). Reconciled: 2 Chronicles 34:31 treated alike.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V050",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "David's wish phrased as a question and his refusal to drink; any request is implied, not stated. Parallel 2 Samuel 23:15–17 pending in R1a.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V052",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Passive duty list without a stated appointer; AUD-13-26-29's note confines it to David's express appointment (26:32), leaving earlier assignments out.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V054",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Editor: conditional promise to Solomon; it directs no one, and the catalogue treats such promises as Study Context (ot-1-chronicles-v28-7).",
+  "batch": "R8a"
+ },
+ {
+  "item": "V057",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Same narrated covenant as 2 Kings 11:17, which the editor held as Study Context with no distinct law; treated alike.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V059",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Misattribution: the Assyrian envoy quotes Hezekiah's alleged order within an argument (editor's ruling on 2 Kings 18:22); not Hezekiah's own order.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V060",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Josiah's own covenant commitment; reconciled with 2 Kings 23:3, which the editor holds as covenant context renewing existing duties.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V061",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "6:23 is the renegades' statement of past loyalty, no direction; it falls within the petition record proposed under V062 (6:22–27).",
+  "batch": "R8a"
+ },
+ {
+  "item": "V065",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Narrator describes Job's habitual practice of sending for and purifying his children; no direction is stated (custom, narrative).",
+  "batch": "R8a"
+ },
+ {
+  "item": "V066",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "1:20 narrates Job's mourning and worship; 1:21 is praise and personal acceptance, not a direction or taught maxim (praise out of scope).",
+  "batch": "R8a"
+ },
+ {
+  "item": "V067",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Illustrative description and rhetorical question in Bildad's speech; adds no teaching beyond AUD-20-8-11 (8:11–13).",
+  "batch": "R8a"
+ },
+ {
+  "item": "V068",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Rhetorical question aimed at Job's own speech, not a stated maxim; lacks an independent teaching (unlike AUD-20-11-2's declarative saying).",
+  "batch": "R8a"
+ },
+ {
+  "item": "V070",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Rhetorical question giving the motive (God sees my steps); the editor published AUD-20-31-1 at 31:1 only, its note naming 31:2–4 as motive.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V071",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Self-curse that directs no one; the editor published AUD-20-31-9 at 31:11–12 only, noting that 31:10 merely frames the maxim.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V072",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Elihu's statement about himself (he cannot show partiality); a speaker's own resolve, not a direction or general maxim.",
+  "batch": "R8a"
+ },
+ {
+  "item": "V076",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Praise of the royal bridegroom: the reported anointing gives no charge or direction (doctrine/praise); Hebrews 1:9’s quotation is likewise unrecorded.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V079",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Address to God recounting the wicked’s downfall: narrative and doctrine within prayer; AUD-21-72-16 rightly keeps only the lesson of 72:27–28.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V081",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Quoted ‘Return, sons of men’ inside a prayer is most likely the decree of mortality (89:4–6), not a call to repent; cannot be verified.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V082",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "David’s own resolve and past conduct addressed to God (‘I will make music… I used to walk’): a speaker’s plan, not a direction.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V083",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Narrator’s purpose clause closing the history psalm: doctrine about why the land was given; it recalls no specific recorded direction.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V084",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Agur’s petition is a prayer addressed to God, out of scope; the catalogue likewise leaves Sirach 23:1–6 and Wisdom 9 unrecorded.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V087",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "The brothers’ conditional, figurative plan for their sister (‘let us build battlements’) is their own deliberation, not a direction; Song dialogue is mostly Study Context.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V089",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Prediction that the righteous will judge nations directs no one; the editor limited AUD-26-3-5 to the teaching of 3:9.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V090",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Narrative introduction to the ungodly’s speech (5:4–13) in a judgment forecast; no direction, and the speech’s lesson is recorded at AUD-26-5-6.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V091",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "The writer announces what he himself will declare: a speaker’s own plan, not a direction; AUD-26-6-22 rightly begins at 6:23.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V092",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Narrator’s account of how image worship spread ‘at rulers’ commands’: a custom described, with no specific ruler, order or speaker.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V093",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Reported attitude of the idol-maker, condemned by the narrator; the counter-teaching (do not seek gain from evil) is implied, not stated.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V095",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Historical judgment in the retelling (Egypt worse than Sodom); the hospitality lesson is implied, not stated as a direction.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V097",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Prophetic portrait of the coming king’s judging: prediction, not a direction, and not a quotation of K015’s ‘judge with righteous judgment’.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V098",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Future scripted taunt (‘you will take up this lament… on that day’): prediction of Israel’s song, not a present direction; cf. Study Context 12:4.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V104",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Greek-based imperative with no identifiable addressee and unclear object (‘hand all these things over’): cannot be verified with sufficient context.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V105",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Summons ‘Women coming from a spectacle, come!’ states no purpose or task; obscure Greek-based line, so it cannot be verified with sufficient context.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V110",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Lament that the righteous perish unheeded: observation and doctrine; ‘See’ is rhetorical and no direction or rule of life is stated.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V111",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Sarcastic jussive to idolaters (‘let them rescue you’) and a conditional promise to the faithful; neither directs anyone.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V114",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Rhetorical question and declaration that Judah’s offerings are unacceptable: indictment, not a direction; the catalogue keeps Amos 5:21–22 as Study Context.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V118",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Isolated imperative inside first-person divine speech, with no stated addressee or purpose: cannot be verified with sufficient context.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V121",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Isolated alarm cry with no stated addressee and an obscure clause (‘judge everything’); adjacent 7:12 jussives are only Study Context. Cannot be verified.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V123",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Foretold burial procedure (‘they will designate men’): prediction of what Israel will do, not a direction to anyone.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V127",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Narrative of the false witnesses performing the rite, without quoting or citing Leviticus 24:14; plain narrative is not linked.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V128",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Obscure figurative imperative with an unstated addressee (Greek-based text); cannot be verified with sufficient context, cf. Joel 4:13 kept as Study Context.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V130",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Rhetorical question in an encouragement oracle; the maxim ‘do not despise small beginnings’ is implied, not stated.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V133",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Repeats coverage: included in the record proposed at V132 (Matthew 4:3, 5–6, 8–9), one record for all three demands.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V134",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "The disciples’ plea for rescue is a petition, and Jesus’ reply is a rhetorical rebuke; the storm scene states no recordable direction.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V141",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Mocking taunt (‘Prophesy to us… who struck Thee?’), not a direction meant to be obeyed; the catalogue does not record such taunts.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V142",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Taunts at the cross (‘save Thyself… come down’) are mockery, not directions; the parallel taunt of Greek Psalm 21:9 is also unrecorded.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V143",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Bystanders’ mocking aside (‘let us see whether Elijah comes’) is a taunt, not a direction or resolution with any purpose.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V145",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "‘Be silent; be still’ addresses wind and sea (nature speech, cf. unrecorded Joshua 10:12); 4:40 is a rhetorical rebuke whose direction is implied.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V148",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Peter’s offer to build tents (‘he did not know what to answer’) is a speaker’s own proposal, not a direction; Luke 9:33 likewise.",
+  "batch": "R8b"
+ },
+ {
+  "item": "V153",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Debate counter-question: ‘Answer Me’ presses the challengers for a reply but states no independent direction; applies equally to the Matthew 21:23–27 draft.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V154",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "The leaders’ evasion and Jesus’ refusal to answer; a refusal is not a command, and the exchange states no direction.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V155",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Narrated plot; ‘Not during the feast’ is the council’s own plan, directing no one. Matthew 26:3–5 draft is the same case.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V156",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "The high priest’s interrogation question during the trial narrative; it demands a reply but states no direction or law.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V157",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Mocking taunt during abuse, not a genuine direction; the catalogue treats mockery as context (compare 2 Kings 2:23, Study Context).",
+  "batch": "R8c"
+ },
+ {
+  "item": "V158",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Pilate’s offer, framed as a question, and a narrated custom (15:6); offers and customs are not recorded. John 18:38–40 draft is parallel.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V159",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Taunts at the cross (‘save Thyself… come down’) are mockery, not genuine directions; the catalogue does not record such derision.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V160",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Bystanders’ derisive remarks (‘let us see whether Elijah comes’) at the cross; mockery and narration, not a direction.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V161",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Fulfilment narrative of Zechariah’s incense service; it cites priestly custom for the lot, not the incense ordinance (C0337).",
+  "batch": "R8c"
+ },
+ {
+  "item": "V162",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Gabriel’s greeting; greetings are not recorded, and it neither continues nor renews the naming command (AUD-46-1-30).",
+  "batch": "R8c"
+ },
+ {
+  "item": "V163",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Mary’s question to the angel, not a direction; it does not continue the naming command (AUD-46-1-30).",
+  "batch": "R8c"
+ },
+ {
+  "item": "V164",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Shepherds’ own resolution to go; the editor’s note on AUD-46-2-8 says their decision to go to Bethlehem is their own.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V165",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "The devil’s temptation; the catalogue records only the answers (Luke 4:4, 8, 12), as with the accuser’s unrecorded demands in Job 1:11; 2:5.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V166",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "The devil’s temptation, quoting a Psalm promise; only Jesus’ answer (4:12, linked to C0996) is recorded, consistent with Job 1:11; 2:5.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V167",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Petitions to Jesus are out of scope (AUD-47-4-46 note); AUD-44-8-13 notes Luke reports the healing without the dismissal command.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V168",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Peter’s own proposal about what they will do, and the narrator adds he did not know what he was saying.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V169",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "The disciples’ offer is a question; Jesus’ rebuke (9:55) is narrated without words, so any direction is implied, not stated.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V172",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "The rulers’ sneer (‘let Him save Himself’) is mockery, not a genuine direction; same as the Mark and Matthew cross taunts.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V173",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "The criminal’s blasphemous taunt (‘Save Thyself and us!’) is mockery, not a genuine direction or request.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V174",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "John’s testimony to the coming One states no direction; Acts 19:4’s instruction to believe is not stated here.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V176",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "The healed man’s argument, not a direction; it neither restates nor applies the exclusion rule (AUD-47-9-20).",
+  "batch": "R8c"
+ },
+ {
+  "item": "V177",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "9:33 is argument, 9:34 narrates the expulsion without citing the rule, and 9:35 is a question eliciting faith, not a stated direction.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V178",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Declaration of Jesus’ purpose in judgment (doctrine); 9:41 pronounces guilt; no direction or how-to-live teaching is stated.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V179",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Self-declaration and promise with a question eliciting Martha’s confession; the call to believe is implied, not stated.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V180",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Narrative; the angels’ question (1:11) is rhetorical with a promise of return, directing no one.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V181",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "False witnesses’ accusation and narration of setting them up; a hostile act narrated, with no stated order.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V182",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Judgment pronounced on Elymas, a curse that directs no one; 13:10 is a rhetorical rebuke.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V184",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Amos 9:11 prophecy James cites as grounds; a prediction directing no one. A111 rightly begins at the ruling (15:19).",
+  "batch": "R8c"
+ },
+ {
+  "item": "V185",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "God’s purpose and human dependence on Him, a doctrinal premise carrying no direction; AUD-48-17-29 already begins with the ‘offspring’ inference.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V190",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Doctrinal indictment closing the vice list; the direction is implied, not stated. Romans 1:18–32 has no imperative.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V193",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Doctrinal contrast of the two mindsets; it states no direction, and extending AUD-49-8-12 would sweep in doctrine (8:5–11).",
+  "batch": "R8c"
+ },
+ {
+  "item": "V198",
+  "kind": "residual verse",
+  "reference": "Romans 16:3–15",
+  "confidence": "medium",
+  "reason": "Named greetings are ordinary speech, not the holy-kiss direction (16:16 is already linked); two other reviewers declined the same verses.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V201",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Paul’s report of affliction in Asia; reliance on God (1:9) and prayer help (1:11) are purpose and expectation, not stated directions.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V202",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Paul’s statement of faith and resurrection hope (doctrine); it does not restate looking to the unseen, and extending would sweep in 4:7–15.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V206",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Promise of God’s provision for givers and resulting thanksgiving; it directs no one and does not renew A046’s giving instruction.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V207",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Ironic request opening the fool’s speech; the editor linked only 11:30 to AUD-51-12-7, and 11:16 states no independent direction.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V208",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Rhetorical questions of Paul’s concern; the editor linked only 11:30’s boast in weakness to AUD-51-12-7.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V211",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Doctrinal argument on justification in Paul’s speech (2:19–20 is Study Context A053); no direction beyond 2:14’s rebuke.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V212",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Doctrinal conclusion of Paul’s speech (grace not set aside); states no direction, and A053 treats 2:19–20 as Study Context.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V213",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Paul’s wish and perplexity, a personal feeling; 4:13–20 recalls their welcome without restating the 4:12 appeal.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V214",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Paul’s personal deliberation about life and death and expectation to remain, a speaker’s own plan, not a direction.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V215",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Rhetorical reminder opening eschatological teaching (2:5–12); adds no direction to AUD-57-2-1’s warning.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V216",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "high",
+  "reason": "Prediction of the lawless one’s revealing and destruction; doctrine that directs no one.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V217",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "General statement of the high-priestly office in Hebrews’ argument; it neither quotes nor expressly recalls Exodus 28:1 (compare Study Context A102).",
+  "batch": "R8c"
+ },
+ {
+  "item": "V218",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Legal analogy within doctrinal argument; states no direction. Comparable analogies (Galatians 3:15; Hebrews 6:16) are unrecorded.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V219",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Doctrinal argument on the law’s shadow; Hebrews’ yearly-atonement descriptions are handled as Study Context (A102, A103), not linked to C0570.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V220",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Doctrinal contrast of daily priestly offerings with Christ’s single sacrifice; it describes rather than restates C0333’s instruction.",
+  "batch": "R8c"
+ },
+ {
+  "item": "V221",
+  "kind": "residual verse",
+  "reference": "",
+  "confidence": "medium",
+  "reason": "Doctrinal conclusion to the faith examples; no direction, and the lesson is drawn in 12:1–4 (AUD-62-12-1).",
+  "batch": "R8c"
+ }
+]
