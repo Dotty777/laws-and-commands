@@ -1,0 +1,217 @@
+{
+ "sample": 63,
+ "drawn_from": "nine records at random from each of the seven review batches",
+ "method": "A separate reviewer classified the sample from the same brief without seeing the reviewers' answers.",
+ "by_field": {
+  "form": {
+   "agree": 63,
+   "of": 63
+  },
+  "category": {
+   "agree": 62,
+   "of": 63
+  },
+  "second_category": {
+   "agree": 58,
+   "of": 63
+  },
+  "mixed": {
+   "agree": 61,
+   "of": 63
+  },
+  "ceremonial_area": {
+   "agree": 26,
+   "of": 27
+  }
+ },
+ "differences": [
+  {
+   "id": "C0217",
+   "reference": "Exodus 23:2",
+   "fields": [
+    "secondary"
+   ],
+   "reviewer": {
+    "form": "Negative",
+    "mixed": false,
+    "category": "Moral",
+    "secondary": "",
+    "area": "",
+    "confidence": "high"
+   },
+   "check": {
+    "form": "Negative",
+    "mixed": false,
+    "category": "Moral",
+    "secondary": "Civil",
+    "area": "",
+    "confidence": "medium"
+   }
+  },
+  {
+   "id": "C0666",
+   "reference": "Leviticus 21:13–14",
+   "fields": [
+    "mixed"
+   ],
+   "reviewer": {
+    "form": "Positive",
+    "mixed": false,
+    "category": "Ceremonial",
+    "secondary": "",
+    "area": "Priesthood and sanctuary",
+    "confidence": "high"
+   },
+   "check": {
+    "form": "Positive",
+    "mixed": true,
+    "category": "Ceremonial",
+    "secondary": "",
+    "area": "Priesthood and sanctuary",
+    "confidence": "high"
+   }
+  },
+  {
+   "id": "C0931",
+   "reference": "Numbers 30:4–6",
+   "fields": [
+    "category",
+    "secondary"
+   ],
+   "reviewer": {
+    "form": "Positive",
+    "mixed": false,
+    "category": "Civil",
+    "secondary": "Ceremonial",
+    "area": "Signs, vows and dedications",
+    "confidence": "medium"
+   },
+   "check": {
+    "form": "Positive",
+    "mixed": false,
+    "category": "Ceremonial",
+    "secondary": "Civil",
+    "area": "Signs, vows and dedications",
+    "confidence": "medium"
+   }
+  },
+  {
+   "id": "C1063",
+   "reference": "Deuteronomy 17:17",
+   "fields": [
+    "secondary"
+   ],
+   "reviewer": {
+    "form": "Negative",
+    "mixed": false,
+    "category": "Civil",
+    "secondary": "Moral",
+    "area": "",
+    "confidence": "high"
+   },
+   "check": {
+    "form": "Negative",
+    "mixed": false,
+    "category": "Civil",
+    "secondary": "",
+    "area": "",
+    "confidence": "high"
+   }
+  },
+  {
+   "id": "C1070",
+   "reference": "Deuteronomy 18:6–8",
+   "fields": [
+    "area"
+   ],
+   "reviewer": {
+    "form": "Positive",
+    "mixed": false,
+    "category": "Ceremonial",
+    "secondary": "",
+    "area": "Sacrifice and offerings",
+    "confidence": "high"
+   },
+   "check": {
+    "form": "Positive",
+    "mixed": false,
+    "category": "Ceremonial",
+    "secondary": "",
+    "area": "Priesthood and sanctuary",
+    "confidence": "high"
+   }
+  },
+  {
+   "id": "C1127",
+   "reference": "Deuteronomy 22:6–7",
+   "fields": [
+    "secondary"
+   ],
+   "reviewer": {
+    "form": "Positive",
+    "mixed": true,
+    "category": "Civil",
+    "secondary": "",
+    "area": "",
+    "confidence": "medium"
+   },
+   "check": {
+    "form": "Positive",
+    "mixed": true,
+    "category": "Civil",
+    "secondary": "Moral",
+    "area": "",
+    "confidence": "medium"
+   }
+  },
+  {
+   "id": "C1164",
+   "reference": "Deuteronomy 23:25",
+   "fields": [
+    "mixed"
+   ],
+   "reviewer": {
+    "form": "Permission",
+    "mixed": false,
+    "category": "Civil",
+    "secondary": "Moral",
+    "area": "",
+    "confidence": "high"
+   },
+   "check": {
+    "form": "Permission",
+    "mixed": true,
+    "category": "Civil",
+    "secondary": "Moral",
+    "area": "",
+    "confidence": "high"
+   }
+  },
+  {
+   "id": "C1146",
+   "reference": "Deuteronomy 23:8",
+   "fields": [
+    "secondary",
+    "area"
+   ],
+   "reviewer": {
+    "form": "Negative",
+    "mixed": false,
+    "category": "Moral",
+    "secondary": "Ceremonial",
+    "area": "Priesthood and sanctuary",
+    "confidence": "medium"
+   },
+   "check": {
+    "form": "Negative",
+    "mixed": false,
+    "category": "Moral",
+    "secondary": "Civil",
+    "area": "",
+    "confidence": "medium"
+   }
+  }
+ ],
+ "changes": [],
+ "summary": "The two agreed on the form of all 63 records and on the main category of 62; the one difference (C0931) swaps the main and second categories and was already flagged. They agreed on the second category for 58, on whether the form is mixed for 61, and on the ceremonial area for 26 of the 27 both called ceremonial. No answer was changed as a result."
+}

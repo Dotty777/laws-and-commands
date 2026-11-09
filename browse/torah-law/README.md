@@ -13,4 +13,39 @@
 | [Numbers](numbers/README.md) | 79 |
 | [Deuteronomy](deuteronomy/README.md) | 165 |
 
-[Audit method and merge index](../../audit/torah-law/README.md)
+## By category
+
+Category follows the traditional Christian division of the Mosaic law into moral, ceremonial and civil law, with ceremonial laws grouped by area. Each record is listed under its main category; the Category column shows any second category.
+
+| Category | Records | Meaning |
+| --- | ---: | --- |
+| [Moral](moral/README.md) | 134 | A duty of love toward God or neighbour, stated as right or wrong in itself. |
+| [Ceremonial: Sacrifice and offerings](ceremonial-sacrifice-and-offerings/README.md) | 107 | Sacrifices, offerings, tithes, firstfruits and firstborn animals for the altar. |
+| [Ceremonial: Priesthood and sanctuary](ceremonial-priesthood-and-sanctuary/README.md) | 67 | Priests, Levites, the high priest, the tabernacle and its holy things. |
+| [Ceremonial: Dietary laws](ceremonial-dietary-laws/README.md) | 20 | Clean and unclean animals, blood, fat, carcasses and other food prohibitions. |
+| [Ceremonial: Ritual purity](ceremonial-ritual-purity/README.md) | 38 | Impurity and cleansing: corpses, skin disease, discharges, childbirth. |
+| [Ceremonial: Festivals and holy days](ceremonial-festivals-and-holy-days/README.md) | 38 | Sabbath rites, new moons, the annual feasts, and the sacred side of the sabbatical year and Jubilee. |
+| [Ceremonial: Signs, vows and dedications](ceremonial-signs-vows-and-dedications/README.md) | 42 | Circumcision, tassels, mixed kinds, vows, Nazirites, valuations and devoted things. |
+| [Civil](civil/README.md) | 200 | A rule for Israel as a nation: its courts, penalties, government, land and economy. |
+
+## By form
+
+Form follows the Jewish division of the commandments into positive (do) and negative (do not). Permissions allow without requiring.
+
+| Form | Records | Meaning |
+| --- | ---: | --- |
+| [Positive](positive/README.md) | 334 | Requires an action, a procedure, or a status or penalty to be applied (mitzvat aseh). |
+| [Negative](negative/README.md) | 293 | Forbids an action (mitzvat lo ta'aseh). |
+| [Permission](permission/README.md) | 19 | Allows an action without requiring it. |
+
+## Form by category
+
+| Category | Positive | Negative | Permission | Records |
+| --- | ---: | ---: | ---: | ---: |
+| Moral | 23 | 111 | 0 | 134 |
+| Ceremonial | 179 | 121 | 12 | 312 |
+| Civil | 132 | 61 | 7 | 200 |
+
+Form and category are editorial study labels. The site's classification of how each law applies today is a separate field.
+
+[Category method and borderline cases](../../audit/torah-law-categories/README.md) · [Audit method and merge index](../../audit/torah-law/README.md)

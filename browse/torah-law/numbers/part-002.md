@@ -8,11 +8,11 @@
 
 Records 76–79 of 79.
 
-| Torah Law | Scripture | Original audience | Origin |
-| --- | --- | --- | --- |
-| [Do not accept ransom to release the manslayer before the high priest's death](../../books/numbers/part-005.md#record-c0951)<br>`C0951` | [Numbers 35:32](https://saints.bible/bible/law/numbers/chapter-35/#v35-32) | Israel’s authorities administering refuge for an accidental killer | Heavenly (God-given) |
-| [Do not pollute the land with bloodshed](../../books/numbers/part-005.md#record-c0952)<br>`C0952` | [Numbers 35:33–34](https://saints.bible/bible/law/numbers/chapter-35/#v35-33) | Israel living in its allotted land | Heavenly (God-given) |
-| [An inheriting daughter: marry within the father's clan under the tribal-land provision](../../books/numbers/part-005.md#record-c0953)<br>`C0953` | [Numbers 36:6](https://saints.bible/bible/law/numbers/chapter-36/#v36-6) | Zelophehad’s daughters and other daughters inheriting ancestral land among Israel’s tribes | Heavenly (God-given) |
-| [Preserve ancestral tribal allotments against transfer to another tribe](../../books/numbers/part-005.md#record-c0954)<br>`C0954` | [Numbers 36:7](https://saints.bible/bible/law/numbers/chapter-36/#v36-7) | Israel’s tribes and holders of ancestral allotments | Heavenly (God-given) |
+| Torah Law | Scripture | Form | Category | Original audience | Origin |
+| --- | --- | --- | --- | --- | --- |
+| [Do not accept ransom to release the manslayer before the high priest's death](../../books/numbers/part-005.md#record-c0951)<br>`C0951` | [Numbers 35:32](https://saints.bible/bible/law/numbers/chapter-35/#v35-32) | Negative | Civil | Israel’s authorities administering refuge for an accidental killer | Heavenly (God-given) |
+| [Do not pollute the land with bloodshed](../../books/numbers/part-005.md#record-c0952)<br>`C0952` | [Numbers 35:33–34](https://saints.bible/bible/law/numbers/chapter-35/#v35-33) | Negative | Moral<br>also Civil | Israel living in its allotted land | Heavenly (God-given) |
+| [An inheriting daughter: marry within the father's clan under the tribal-land provision](../../books/numbers/part-005.md#record-c0953)<br>`C0953` | [Numbers 36:6](https://saints.bible/bible/law/numbers/chapter-36/#v36-6) | Positive | Civil | Zelophehad’s daughters and other daughters inheriting ancestral land among Israel’s tribes | Heavenly (God-given) |
+| [Preserve ancestral tribal allotments against transfer to another tribe](../../books/numbers/part-005.md#record-c0954)<br>`C0954` | [Numbers 36:7](https://saints.bible/bible/law/numbers/chapter-36/#v36-7) | Negative | Civil | Israel’s tribes and holders of ancestral allotments | Heavenly (God-given) |
 
 [Previous part](part-001.md) · [All parts](README.md)

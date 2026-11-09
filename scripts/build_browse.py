@@ -24,6 +24,23 @@ TYPE_ORDER = (
     ("Mixed", "mixed", "Several types without one dominant type"),
 )
 AUDIT_GROUP = "70-book audit"
+TORAH_CATEGORIES = "data/current/torah-law-categories.json"
+FORM_ORDER = (
+    ("Positive", "positive", "Positive Torah Laws"),
+    ("Negative", "negative", "Negative Torah Laws"),
+    ("Permission", "permission", "Torah Law permissions"),
+)
+CATEGORY_ORDER = (
+    ("Moral", None, "moral", "Moral Torah Laws"),
+    ("Ceremonial", "Sacrifice and offerings", "ceremonial-sacrifice-and-offerings", "Ceremonial Torah Laws: sacrifice and offerings"),
+    ("Ceremonial", "Priesthood and sanctuary", "ceremonial-priesthood-and-sanctuary", "Ceremonial Torah Laws: priesthood and sanctuary"),
+    ("Ceremonial", "Dietary laws", "ceremonial-dietary-laws", "Ceremonial Torah Laws: dietary laws"),
+    ("Ceremonial", "Ritual purity", "ceremonial-ritual-purity", "Ceremonial Torah Laws: ritual purity"),
+    ("Ceremonial", "Festivals and holy days", "ceremonial-festivals-and-holy-days", "Ceremonial Torah Laws: festivals and holy days"),
+    ("Ceremonial", "Signs, vows and dedications", "ceremonial-signs-vows-and-dedications", "Ceremonial Torah Laws: signs, vows and dedications"),
+    ("Civil", None, "civil", "Civil Torah Laws"),
+)
+RIGHT_ALIGNED = {"Records", "No.", "Positive", "Negative", "Permission"}
 
 
 def read(path):
@@ -46,7 +63,7 @@ def local(source, target, label, fragment=""):
 
 def table(headers, rows):
     yield "| " + " | ".join(headers) + " |"
-    yield "| " + " | ".join("---:" if h in {"Records", "No."} else "---" for h in headers) + " |"
+    yield "| " + " | ".join("---:" if h in RIGHT_ALIGNED else "---" for h in headers) + " |"
     for row in rows:
         yield "| " + " | ".join(map(str, row)) + " |"
 
@@ -95,6 +112,11 @@ def build():
     aliases = summary["merged_record_ids"]
     active_archive = set(archive) - aliases.keys()
     archive_topics = read("data/categories.json")
+    torah_layer = read(TORAH_CATEGORIES)
+    torah_cats = {c["id"]: c for c in torah_layer["records"]}
+    if (len(torah_cats) != len(torah_layer["records"]) or
+            set(torah_cats) != {r["id"] for r in records if r["study_placement"] == "Torah Law"}):
+        raise ValueError("Torah Law categories do not match the Torah Law records")
     if len(books) != summary["canonical_books"] or len(active_archive) != summary["archive_join"]["matched"]:
         raise ValueError("Book register or archival IDs do not match the catalogue summary")
 
@@ -185,6 +207,17 @@ def build():
             ("browse/categories/README.md", "All topics"),
         ))
 
+    def form_label(c):
+        label = c["form"]
+        if c["form_mixed"]:
+            label += {"Positive": " (also forbids)", "Negative": " (also commands)"}.get(c["form"], " (mixed)")
+        return md(label)
+
+    def category_label(c):
+        def one(name):
+            return md(name + (": " + c["ceremonial_area"] if name == "Ceremonial" else ""))
+        return one(c["category"]) + ("<br>also " + one(c["second_category"]) if c["second_category"] else "")
+
     def record_row(path, r, dimension):
         ref = link(r["reference"], r["scripture_url"])
         if dimension == "books" and r["additional_scripture"]:
@@ -208,7 +241,8 @@ def build():
             return (title, ref, book, md(r["origin"]), md(r["audience"]))
         type_label = type_book_link(path, r["record_type"], r["book"], r["record_type"])
         if dimension == "torah-law":
-            return (title, ref, md(r["original_audience_or_recipient"]), md(r["origin"]))
+            c = torah_cats[r["id"]]
+            return (title, ref, form_label(c), category_label(c), md(r["original_audience_or_recipient"]), md(r["origin"]))
         return (title, ref, book, type_label, md(r["audience"]))
 
     def render_group(dimension, name, slug, items, caption):
@@ -218,7 +252,7 @@ def build():
             "books": ("Study record", "Scripture", "Record type", "Origin", "Filing"),
             "record-types": ("Study record", "Scripture", "Book", "Origin", "Filing"),
             "categories": ("Study record", "Scripture", "Book", "Record type", "Filing"),
-            "torah-law": ("Torah Law", "Scripture", "Original audience", "Origin"),
+            "torah-law": ("Torah Law", "Scripture", "Form", "Category", "Original audience", "Origin"),
         }[dimension]
         lines = [f"# {md(name)}", "", main_nav(index), "", f"**{len(items):,} current study records.** {caption}", ""]
         if dimension == "books":
@@ -268,7 +302,7 @@ def build():
         f"**{len(records):,} study records** across **{len(books):,} books**, including **{source_link_count:,} additional Scripture links**.", "",
         "- " + local(hub, "browse/books/README.md", "By book") + " — read in the Saints.Bible book and passage order.",
         "- " + local(hub, "browse/record-types/README.md", "By Record type") + " — browse all seven types.",
-        "- " + local(hub, "browse/torah-law/README.md", "Torah Law") + " — browse the reviewed standing provisions in Exodus through Deuteronomy.",
+        "- " + local(hub, "browse/torah-law/README.md", "Torah Law") + " — browse the reviewed standing provisions in Exodus through Deuteronomy by book, category and form.",
         "- " + local(hub, "browse/categories/README.md", "By topic") + " — browse the original topic groupings with current records, plus the 70-book audit additions.", "",
         "The type and topic views link to the same record in its book. The book view includes primary and additional Scripture references. The Filing column shows whether the catalogue lists the record under General or Personal.", "",
         local(hub, "README.md", "Repository home") + " · " + local(hub, "README.md", "Original category archive", "archival-import-and-category-index") + " · " +
@@ -317,14 +351,53 @@ def build():
     count = sum(map(len, torah.values()))
     if count != summary["torah_laws"]:
         raise ValueError("Torah Law counts disagree")
+    torah_all = [r for rows in torah.values() for r in rows]
+    definitions = torah_layer["definitions"]
+    category_groups = []
+    for category, area, slug, title in CATEGORY_ORDER:
+        items = [r for r in torah_all if torah_cats[r["id"]]["category"] == category
+                 and (area is None or torah_cats[r["id"]]["ceremonial_area"] == area)]
+        label = category if area is None else f"{category}: {area}"
+        meaning = definitions["category"][category] if area is None else definitions["ceremonial_area"][area]
+        category_groups.append((label, safe_slug(slug), title, meaning, items))
+    form_groups = [(name, safe_slug(slug), title, definitions["form"][name],
+                    [r for r in torah_all if torah_cats[r["id"]]["form"] == name]) for name, slug, title in FORM_ORDER]
+    if sum(len(g[-1]) for g in category_groups) != count or sum(len(g[-1]) for g in form_groups) != count:
+        raise ValueError("Torah Law category or form groups do not cover every record")
+
+    def group_link(slug, label, items):
+        return local(torah_index, group_path("torah-law", slug), label) if items else md(label)
+
     files[torah_index] = page(["# Torah Law", "", main_nav(torah_index), "",
         f"**{count:,} records tagged Torah Law.** The catalogue counts distinct standing provisions within their original scope.",
         "", *table(("Book", "Records"), ((local(torah_index, group_path("torah-law", books_by_name[b]), b), len(rows))
                                          for b, rows in torah.items())),
-        "", local(torah_index, "audit/torah-law/README.md", "Audit method and merge index"),
+        "", "## By category", "",
+        "Category follows the traditional Christian division of the Mosaic law into moral, ceremonial and civil law, with ceremonial laws grouped by area. "
+        "Each record is listed under its main category; the Category column shows any second category.", "",
+        *table(("Category", "Records", "Meaning"), ((group_link(slug, label, items), len(items), md(meaning))
+                                                    for label, slug, _, meaning, items in category_groups)),
+        "", "## By form", "",
+        "Form follows the Jewish division of the commandments into positive (do) and negative (do not). Permissions allow without requiring.", "",
+        *table(("Form", "Records", "Meaning"), ((group_link(slug, name, items), len(items), md(meaning))
+                                                for name, slug, _, meaning, items in form_groups)),
+        "", "## Form by category", "",
+        *table(("Category", "Positive", "Negative", "Permission", "Records"), (
+            (name, *(sum(torah_cats[r["id"]]["category"] == name and torah_cats[r["id"]]["form"] == form for r in torah_all)
+                     for form, _, _ in FORM_ORDER), sum(torah_cats[r["id"]]["category"] == name for r in torah_all))
+            for name in ("Moral", "Ceremonial", "Civil"))),
+        "", "Form and category are editorial study labels. The site's classification of how each law applies today is a separate field.", "",
+        local(torah_index, "audit/torah-law-categories/README.md", "Category method and borderline cases") + " · " +
+        local(torah_index, "audit/torah-law/README.md", "Audit method and merge index"),
     ])
     for name, items in torah.items():
         render_group("torah-law", name, books_by_name[name], items, "Select a title to see all sources in its book view.")
+    for label, slug, title, meaning, items in category_groups:
+        if items:
+            render_group("torah-law", title, slug, items, f"{meaning} Select a title to see all sources in its book view.")
+    for name, slug, title, meaning, items in form_groups:
+        if items:
+            render_group("torah-law", title, slug, items, f"{meaning} Select a title to see all sources in its book view.")
     if len(book_home) != len(records):
         raise ValueError("Missing canonical book record target")
     if any(len(content.encode("utf-8")) > MAX_PAGE_BYTES for content in files.values()):

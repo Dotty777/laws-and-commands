@@ -1,0 +1,1219 @@
+[
+ {
+  "id": "C0091",
+  "reference": "Exodus 12:2",
+  "title": "Reckon the Exodus month as the first month of the year",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Transformed",
+  "original_audience": "The congregation of Israel, whose calendar begins with the Exodus month",
+  "context_note": "Sabbath and festival observance remain disputed among Christians. This label does not declare Scripture abolished or prescribe a particular weekday of Christian worship.",
+  "verse_text": "[12:2] “This month shall be the beginning of months for you; it shall be the first month of the year for you.",
+  "maimonides": [
+   "P153: Court sanctifies new months and fixes the calendar"
+  ]
+ },
+ {
+  "id": "C0094",
+  "reference": "Exodus 12:6",
+  "title": "Slaughter the Passover at the prescribed time and location",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Fulfilled",
+  "original_audience": "The assembled Israelite households slaughtering the Passover animal",
+  "context_note": "This does not settle every Christian disagreement about commemorating the festival.",
+  "verse_text": "[12:6] And you shall keep it until the fourteenth day of this month; and the whole multitude of the congregation of the sons of Israel shall slaughter it toward evening.",
+  "maimonides": [
+   "P55: Slaughter the Passover offering at its appointed time"
+  ]
+ },
+ {
+  "id": "C0097",
+  "reference": "Exodus 12:9",
+  "title": "Do not eat the Passover animal raw or boiled",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Fulfilled",
+  "original_audience": "Eligible Passover participants eating the sacrificial meal",
+  "context_note": "Exodus 12:9 requires roasting and excludes both eating it raw and boiling it in water. The rule applies to the preparation of the Passover meat. This does not settle every Christian disagreement about commemorating the festival.",
+  "verse_text": "[12:9] You shall eat none of it raw, nor boiled in water, but roasted with fire, its head together with its feet and inward parts.",
+  "maimonides": [
+   "N125: Do not eat the Passover offering raw or boiled"
+  ]
+ },
+ {
+  "id": "C0099",
+  "reference": "Exodus 12:10",
+  "title": "Do not leave Passover meat until morning",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Fulfilled",
+  "original_audience": "Passover households responsible for what remains of their meal",
+  "context_note": "This does not settle every Christian disagreement about commemorating the festival.",
+  "verse_text": "[12:10] You shall leave none of it until morning, and you shall not break a bone of it. Whatever remains until morning you shall burn with fire.",
+  "maimonides": [
+   "N117: Do not leave Passover meat until morning",
+   "N118: Do not leave festival (chagigah) meat until the third day",
+   "N119: Do not leave second-Passover meat until morning"
+  ]
+ },
+ {
+  "id": "C0101",
+  "reference": "Exodus 12:10",
+  "title": "Do not break a bone of the Passover",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Fulfilled",
+  "original_audience": "Passover participants handling the sacrificial animal and meal",
+  "context_note": "This does not settle every Christian disagreement about commemorating the festival.",
+  "verse_text": "[12:10] You shall leave none of it until morning, and you shall not break a bone of it. Whatever remains until morning you shall burn with fire.",
+  "maimonides": [
+   "N121: Do not break a bone of the Passover offering",
+   "N122: Do not break a bone of the second Passover offering"
+  ]
+ },
+ {
+  "id": "C0103",
+  "reference": "Exodus 12:14",
+  "title": "Keep the Passover memorial throughout the generations",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Fulfilled",
+  "original_audience": "The congregation of Israel and its descendants keeping Passover",
+  "context_note": "This does not settle every Christian disagreement about commemorating the festival.",
+  "verse_text": "[12:14] This day shall be a memorial for you. You shall celebrate it as a feast to the Lord throughout all your generations; you shall celebrate it as a perpetual statute.",
+  "maimonides": []
+ },
+ {
+  "id": "C0104",
+  "reference": "Exodus 12:15",
+  "title": "Eat unleavened bread during the appointed seven days",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Transformed",
+  "original_audience": "Israel and resident foreigners included in the observance of Unleavened Bread",
+  "context_note": "Sabbath and festival observance remain disputed among Christians. This label does not declare Scripture abolished or prescribe a particular weekday of Christian worship.",
+  "verse_text": "[12:15] For seven days you shall eat unleavened bread, and from the first day you shall remove leaven out of your houses; whoever eats leaven, from the first day to the seventh day, that soul shall be destroyed from Israel.",
+  "maimonides": [
+   "P158: Eat matzah on the first night of Passover"
+  ]
+ },
+ {
+  "id": "C0106",
+  "reference": "Exodus 12:15",
+  "title": "Do not eat leaven during the seven-day feast",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Transformed",
+  "original_audience": "Native Israelites and resident foreigners during Unleavened Bread",
+  "context_note": "Sabbath and festival observance remain disputed among Christians. This label does not declare Scripture abolished or prescribe a particular weekday of Christian worship.",
+  "verse_text": "[12:15] For seven days you shall eat unleavened bread, and from the first day you shall remove leaven out of your houses; whoever eats leaven, from the first day to the seventh day, that soul shall be destroyed from Israel.",
+  "maimonides": [
+   "N197: Do not eat leaven on Passover",
+   "N198: Do not eat any mixture containing leaven on Passover",
+   "N199: Do not eat leaven after midday on Passover eve"
+  ]
+ },
+ {
+  "id": "C0107",
+  "reference": "Exodus 12:16",
+  "title": "Hold the appointed holy assemblies on the first and seventh days of Unleavened Bread",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Transformed",
+  "original_audience": "The congregation of Israel observing the feast on the appointed days",
+  "context_note": "Sabbath and festival observance remain disputed among Christians. This label does not declare Scripture abolished or prescribe a particular weekday of Christian worship.",
+  "verse_text": "[12:16] The first day shall be called holy, and the seventh day shall be a holy appointed day for you. You shall do no servile work on them, except what must be done for each person; that alone may be done for you.",
+  "maimonides": [
+   "P159: Rest on the first day of Passover",
+   "P160: Rest on the seventh day of Passover"
+  ]
+ },
+ {
+  "id": "C0108",
+  "reference": "Exodus 12:16",
+  "title": "Do no prohibited work on the first and seventh days, with the stated food exception",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Transformed",
+  "original_audience": "The people observing Unleavened Bread, with food preparation permitted",
+  "context_note": "Sabbath and festival observance remain disputed among Christians. This label does not declare Scripture abolished or prescribe a particular weekday of Christian worship.",
+  "verse_text": "[12:16] The first day shall be called holy, and the seventh day shall be a holy appointed day for you. You shall do no servile work on them, except what must be done for each person; that alone may be done for you.",
+  "maimonides": [
+   "P159: Rest on the first day of Passover",
+   "P160: Rest on the seventh day of Passover",
+   "N323: Do not work on the first day of Passover",
+   "N324: Do not work on the seventh day of Passover"
+  ]
+ },
+ {
+  "id": "C0109",
+  "reference": "Exodus 12:15, 19",
+  "title": "Remove leaven from Israelite houses for the seven-day feast",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Transformed",
+  "original_audience": "Native Israelite and resident foreigner households during Unleavened Bread",
+  "context_note": "Remove household leaven from the first day, and keep it out of the houses during the seven days. The territorial rule and the prohibition on eating leaven have separate scope. Sabbath and festival observance remain disputed among Christians. This label does not declare Scripture abolished or prescribe a particular weekday of Christian worship.",
+  "verse_text": "[12:15] For seven days you shall eat unleavened bread, and from the first day you shall remove leaven out of your houses; whoever eats leaven, from the first day to the seventh day, that soul shall be destroyed from Israel. [12:19] For seven days no leaven shall be found in your houses; whoever eats anything leavened, that soul shall be destroyed from the congregation of Israel, whether a resident foreigner or a native of the land.",
+  "maimonides": [
+   "P156: Remove (destroy) all leaven by 14 Nisan",
+   "N201: Leaven must not be found in one's houses during Passover"
+  ]
+ },
+ {
+  "id": "TL-02-12-42",
+  "reference": "Exodus 12:42",
+  "title": "Observe the Passover night as a vigil for the Lord",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Covenant-specific instructions",
+  "original_audience": "Israel throughout its generations",
+  "context_note": "The verse calls this night a vigil for the Lord for all Israel throughout its generations. The vigil is the continuing observance of the night of departure.",
+  "verse_text": "[12:42] It is a night vigil for the Lord, to bring them out of the land of Egypt. This same night is a vigil for the Lord for all the sons of Israel throughout their generations.",
+  "maimonides": []
+ },
+ {
+  "id": "C0111",
+  "reference": "Exodus 12:43–45, 48",
+  "title": "Apply the stated circumcision and participation rules for the Passover meal",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Fulfilled",
+  "original_audience": "Israelite hosts and the people seeking to eat Passover",
+  "context_note": "Verse 48 expressly prohibits any uncircumcised person from eating and permits a resident foreigner to participate when the stated circumcision condition is met. Verses 43–45 set out the earlier household and eligibility distinctions.",
+  "verse_text": "[12:43] The Lord said to Moses and Aaron, “This is the law of the Passover: no foreigner shall eat of it. [12:44] And every man’s household slave, or one bought with silver, you shall circumcise; and then he shall eat of it. [12:45] A sojourner or a hired worker shall not eat of it. [12:48] But if a resident foreigner comes to you to keep the Passover to the Lord, you shall circumcise every male belonging to him; and then he shall draw near to keep it, and shall be as the native of the land. No uncircumcised person shall eat of it.",
+  "maimonides": [
+   "N126: A resident alien or hired worker may not eat the Passover",
+   "N127: An uncircumcised man may not eat the Passover",
+   "N128: An apostate Israelite may not eat the Passover"
+  ]
+ },
+ {
+  "id": "C0113",
+  "reference": "Exodus 12:46",
+  "title": "Keep the Passover meat within the house where it is eaten",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Fulfilled",
+  "original_audience": "Passover participants handling meat from the household meal",
+  "context_note": "Exodus 12:46 requires eating the Passover in one house and forbids taking any of its meat out of that house. This does not settle every Christian disagreement about commemorating the festival.",
+  "verse_text": "[12:46] It shall be eaten in one house. You shall not take any of the meat outside the house, and you shall not break a bone of it.",
+  "maimonides": [
+   "N123: Do not take Passover meat out of the eating place"
+  ]
+ },
+ {
+  "id": "C0114",
+  "reference": "Exodus 12:49",
+  "title": "Apply the same prescribed law to native and resident foreigner",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Native Israelites and resident foreigners living among Israel in the Passover setting",
+  "context_note": "",
+  "verse_text": "[12:49] There shall be one law for the native, and for the resident foreigner who has come among you.”",
+  "maimonides": []
+ },
+ {
+  "id": "C0115",
+  "reference": "Exodus 13:2",
+  "title": "Consecrate the firstborn males to God",
+  "topic": "Offerings, sacrifice and atonement",
+  "classification": "Fulfilled",
+  "original_audience": "Moses as the formal addressee and Israel as the people dedicating firstborn people and animals",
+  "context_note": "",
+  "verse_text": "[13:2] “Consecrate to Me every firstborn, the first offspring opening every womb among the sons of Israel, both human and animal. It is Mine.”",
+  "maimonides": [
+   "P79: Set apart the firstborn of clean animals as holy"
+  ]
+ },
+ {
+  "id": "AUD-02-13-7",
+  "reference": "Exodus 13:7",
+  "title": "Keep all leaven out of sight within your borders for the seven days",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Application under review",
+  "original_audience": "Israel",
+  "context_note": "The territorial restriction goes beyond the household restriction in Exodus 12:19 and differs from the direction to eat unleavened bread.",
+  "verse_text": "[13:7] For seven days you shall eat unleavened bread; no leavened thing shall be seen with you, neither shall there be leaven with you within all your borders.",
+  "maimonides": [
+   "N200: Leaven must not be seen in one's domain on Passover"
+  ]
+ },
+ {
+  "id": "C0118",
+  "reference": "Exodus 13:13",
+  "title": "Redeem the firstborn donkey as prescribed",
+  "topic": "Offerings, sacrifice and atonement",
+  "classification": "Fulfilled",
+  "original_audience": "Israelite owners of firstborn donkeys",
+  "context_note": "",
+  "verse_text": "[13:13] Every donkey that opens the womb you shall exchange for a sheep; and if you do not exchange it, you shall redeem it. Every firstborn of man among your sons you shall redeem.",
+  "maimonides": [
+   "P81: Redeem the firstborn donkey with a lamb",
+   "P82: Break the neck of an unredeemed firstborn donkey"
+  ]
+ },
+ {
+  "id": "C0119",
+  "reference": "Exodus 13:13",
+  "title": "Redeem firstborn sons",
+  "topic": "Offerings, sacrifice and atonement",
+  "classification": "Fulfilled",
+  "original_audience": "Israelite households with firstborn sons",
+  "context_note": "",
+  "verse_text": "[13:13] Every donkey that opens the womb you shall exchange for a sheep; and if you do not exchange it, you shall redeem it. Every firstborn of man among your sons you shall redeem.",
+  "maimonides": [
+   "P80: Redeem the firstborn son"
+  ]
+ },
+ {
+  "id": "C0129",
+  "reference": "Exodus 16:23",
+  "title": "Keep the seventh day as a holy Sabbath rest",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Transformed",
+  "original_audience": "Israelites gathering manna in the wilderness, with the Sabbath observance later addressed to Israel generally",
+  "context_note": "Sabbath and festival observance remain disputed among Christians. This label does not declare Scripture abolished or prescribe a particular weekday of Christian worship.",
+  "verse_text": "[16:23] And Moses said to them, “This is the word which the Lord has spoken: Tomorrow is a Sabbath, a holy rest to the Lord. What you would bake, bake; and what you would boil, boil; and all that remains, lay up to keep until morning.”",
+  "maimonides": [
+   "P154: Rest on the Sabbath",
+   "P155: Sanctify the Sabbath verbally (Kiddush and Havdalah)",
+   "N320: Do not do work on the Sabbath"
+  ]
+ },
+ {
+  "id": "C0146",
+  "reference": "Exodus 20:3",
+  "title": "Have no other gods",
+  "topic": "Knowing, loving and obeying God",
+  "classification": "Everlasting",
+  "original_audience": "Israel gathered at Sinai as the covenant people",
+  "context_note": "",
+  "verse_text": "[20:3] You shall have no other gods except Me.",
+  "maimonides": [
+   "N1: Do not believe in or acknowledge any other god"
+  ]
+ },
+ {
+  "id": "C0147",
+  "reference": "Exodus 20:4",
+  "title": "Do not make idols or images for worship",
+  "topic": "Knowing, loving and obeying God",
+  "classification": "Everlasting",
+  "original_audience": "Israel gathered at Sinai as the covenant people",
+  "context_note": "The chapter study covers the immediate altar context. Link the express prohibition on making gods of silver or gold as an additional source for the existing rule on making idols for worship.",
+  "verse_text": "[20:4] You shall not make for yourself an idol, nor any likeness of things in heaven above, or in the earth beneath, or in the waters under the earth.",
+  "maimonides": [
+   "N2: Do not make an idol for oneself (for worship)",
+   "N3: Do not make an idol, even for others to worship",
+   "N4: Do not make human figures, even for decoration"
+  ]
+ },
+ {
+  "id": "C0148",
+  "reference": "Exodus 20:5",
+  "title": "Do not bow down to other gods",
+  "topic": "Knowing, loving and obeying God",
+  "classification": "Everlasting",
+  "original_audience": "Israel gathered at Sinai as the covenant people",
+  "context_note": "",
+  "verse_text": "[20:5] You shall not bow down to them, neither shall you serve them; for I am the Lord your God, a jealous God, repaying the sins of fathers upon children to the third and fourth generation of those who hate Me,",
+  "maimonides": [
+   "N5: Do not bow down to an idol"
+  ]
+ },
+ {
+  "id": "C0149",
+  "reference": "Exodus 20:5",
+  "title": "Do not serve other gods",
+  "topic": "Knowing, loving and obeying God",
+  "classification": "Everlasting",
+  "original_audience": "Israel gathered at Sinai as the covenant people",
+  "context_note": "",
+  "verse_text": "[20:5] You shall not bow down to them, neither shall you serve them; for I am the Lord your God, a jealous God, repaying the sins of fathers upon children to the third and fourth generation of those who hate Me,",
+  "maimonides": [
+   "N6: Do not worship idols in their customary manner"
+  ]
+ },
+ {
+  "id": "C0150",
+  "reference": "Exodus 20:7",
+  "title": "Do not misuse God's name",
+  "topic": "Knowing, loving and obeying God",
+  "classification": "Everlasting",
+  "original_audience": "Israel gathered at Sinai as the covenant people",
+  "context_note": "",
+  "verse_text": "[20:7] You shall not take the name of the Lord your God in vain; for the Lord shall by no means hold him guiltless who takes His name in vain.",
+  "maimonides": [
+   "N62: Do not swear a vain (needless) oath by God's name"
+  ]
+ },
+ {
+  "id": "C0152",
+  "reference": "Exodus 20:9–10",
+  "title": "Do ordinary work in six days and rest on the seventh",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Transformed",
+  "original_audience": "Israelite householders, with children, servants, resident foreigners and livestock included in the rest",
+  "context_note": "Exodus 20:9–10 gives one weekly work/rest schedule. Its rest extends to household members, servants, livestock, and resident foreigners. The command to keep the day holy and the covenant-sign provision are retained separately. Sabbath and festival observance remain disputed among Christians. This label does not declare Scripture abolished or prescribe a particular weekday of Christian worship.",
+  "verse_text": "[20:9] For six days you shall labour and do all your works; [20:10] but the seventh day is a Sabbath to the Lord your God. You shall do no work on it: you, and your son, and your daughter, your male slave, and your female slave, your ox, and your beast of burden, and all your livestock, and the resident foreigner who dwells with you.",
+  "maimonides": [
+   "P154: Rest on the Sabbath",
+   "N320: Do not do work on the Sabbath"
+  ]
+ },
+ {
+  "id": "C0153",
+  "reference": "Exodus 20:12",
+  "title": "Honour father and mother",
+  "topic": "Marriage, family and care for parents",
+  "classification": "Everlasting",
+  "original_audience": "Israelites in their relationship to father and mother",
+  "context_note": "",
+  "verse_text": "[20:12] Honour your father and your mother, that it may be well with you, and that your days may be long upon the good land which the Lord your God gives you.",
+  "maimonides": [
+   "P210: Honour father and mother"
+  ]
+ },
+ {
+  "id": "C0154",
+  "reference": "Exodus 20:13",
+  "title": "Do not commit adultery",
+  "topic": "Marriage, family and care for parents",
+  "classification": "Everlasting",
+  "original_audience": "Israelites bound by the covenant prohibition of adultery",
+  "context_note": "",
+  "verse_text": "[20:13] You shall not commit adultery.",
+  "maimonides": [
+   "N347: Do not have relations with another man's wife"
+  ]
+ },
+ {
+  "id": "C0155",
+  "reference": "Exodus 20:14",
+  "title": "Do not steal",
+  "topic": "Property, honest trade and service",
+  "classification": "Everlasting",
+  "original_audience": "Israelites in their dealings with their neighbors",
+  "context_note": "",
+  "verse_text": "[20:14] You shall not steal.",
+  "maimonides": [
+   "N243: Do not kidnap a person",
+   "N244: Do not steal money or property stealthily"
+  ]
+ },
+ {
+  "id": "C0156",
+  "reference": "Exodus 20:15",
+  "title": "Do not murder",
+  "topic": "Human life, injury and care for neighbours",
+  "classification": "Everlasting",
+  "original_audience": "Israelites in their dealings with their neighbors",
+  "context_note": "",
+  "verse_text": "[20:15] You shall not murder.",
+  "maimonides": [
+   "N289: Do not murder"
+  ]
+ },
+ {
+  "id": "C0157",
+  "reference": "Exodus 20:16",
+  "title": "Do not bear false witness against your neighbour",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Everlasting",
+  "original_audience": "Israelites bearing witness about their neighbors",
+  "context_note": "",
+  "verse_text": "[20:16] You shall not bear false witness against your neighbour.",
+  "maimonides": [
+   "N285: Do not testify falsely",
+   "N286: Do not accept testimony from a wicked person"
+  ]
+ },
+ {
+  "id": "C0158",
+  "reference": "Exodus 20:17",
+  "title": "Do not covet your neighbour's wife",
+  "topic": "Property, honest trade and service",
+  "classification": "Everlasting",
+  "original_audience": "Israelites in their relationship to a neighbor and the neighbor's wife",
+  "context_note": "",
+  "verse_text": "[20:17] You shall not covet your neighbour’s wife. You shall not covet your neighbour’s house, nor his field, nor his male slave, nor his female slave, nor his ox, nor his beast of burden, nor any of his livestock, nor anything that is your neighbour’s.”",
+  "maimonides": [
+   "N265: Do not covet (scheme to acquire) another's property",
+   "N266: Do not desire (crave) another's possessions"
+  ]
+ },
+ {
+  "id": "C0159",
+  "reference": "Exodus 20:17",
+  "title": "Do not covet your neighbour's possessions",
+  "topic": "Property, honest trade and service",
+  "classification": "Everlasting",
+  "original_audience": "Israelites in their relationship to a neighbor and the neighbor's possessions",
+  "context_note": "",
+  "verse_text": "[20:17] You shall not covet your neighbour’s wife. You shall not covet your neighbour’s house, nor his field, nor his male slave, nor his female slave, nor his ox, nor his beast of burden, nor any of his livestock, nor anything that is your neighbour’s.”",
+  "maimonides": [
+   "N265: Do not covet (scheme to acquire) another's property",
+   "N266: Do not desire (crave) another's possessions"
+  ]
+ },
+ {
+  "id": "C0162",
+  "reference": "Exodus 20:25",
+  "title": "Do not build God's stone altar with hewn stones",
+  "topic": "Sanctuary, priesthood and ministry",
+  "classification": "Fulfilled",
+  "original_audience": "Israelites constructing a stone altar for the Lord",
+  "context_note": "",
+  "verse_text": "[20:25] But if you make Me an altar of stones, you shall not build with hewn stones; for you have laid your blade upon them, and they are defiled.",
+  "maimonides": [
+   "N79: Do not build the altar of hewn stones"
+  ]
+ },
+ {
+  "id": "C0163",
+  "reference": "Exodus 20:26",
+  "title": "Do not ascend the altar by steps exposing nakedness",
+  "topic": "Sanctuary, priesthood and ministry",
+  "classification": "Fulfilled",
+  "original_audience": "Israelites approaching the Lord's altar to minister",
+  "context_note": "",
+  "verse_text": "[20:26] You shall not go up by steps to My altar, lest you uncover your nakedness on it.’”",
+  "maimonides": [
+   "N80: Do not ascend the altar by steps"
+  ]
+ },
+ {
+  "id": "C0164",
+  "reference": "Exodus 21:2–4",
+  "title": "Release the Hebrew servant after six years under the stated household conditions",
+  "topic": "Wages, lending, pledges and inheritance",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israelite masters acquiring a Hebrew slave and releasing him under the specified household terms",
+  "context_note": "",
+  "verse_text": "[21:2] If you acquire a Hebrew slave, he shall serve you for six years; and in the seventh year he shall go out free, without payment. [21:3] If he comes in alone, he shall go out alone; but if a wife comes in with him, his wife shall also go out with him. [21:4] But if his master gives him a wife, and she bears him sons or daughters, the wife and the children shall be his master’s, and he shall go out alone.",
+  "maimonides": [
+   "P232: Deal with a Hebrew servant by his prescribed laws"
+  ]
+ },
+ {
+  "id": "C0165",
+  "reference": "Exodus 21:5–6",
+  "title": "A Hebrew servant may choose to remain under the prescribed procedure",
+  "topic": "Wages, lending, pledges and inheritance",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "An Israelite master whose slave declares his choice to remain",
+  "context_note": "The servant explicitly elects to remain with his master. The passage prescribes appearing before God's tribunal and piercing his ear at the doorpost, with continuing service as the legal result.",
+  "verse_text": "[21:5] But if the slave answers and says, ‘I love my master, and my wife, and my children; I will not go out free,’ [21:6] his master shall bring him before God’s tribunal, and then bring him to the door, to the doorpost. His master shall pierce his ear with an awl, and he shall serve him for ever.",
+  "maimonides": []
+ },
+ {
+  "id": "C0166",
+  "reference": "Exodus 21:7–8",
+  "title": "Provide redemption for the betrothed servant woman rejected by her master",
+  "topic": "Property, honest trade and service",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "An Israelite master who rejects the servant woman he pledged to himself",
+  "context_note": "",
+  "verse_text": "[21:7] And if a man sells his own daughter as a household slave, she shall not go out as the female slaves go out. [21:8] If she does not please her master, who pledged her to himself, he shall redeem her; he has no right to sell her to a foreign nation, because he has broken faith with her.",
+  "maimonides": [
+   "P233: Master must designate (betroth) the Hebrew maidservant",
+   "P234: Redeem the Hebrew maidservant"
+  ]
+ },
+ {
+  "id": "C0167",
+  "reference": "Exodus 21:8",
+  "title": "Do not sell the rejected servant woman to foreigners",
+  "topic": "Property, honest trade and service",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "An Israelite master who rejects the servant woman he pledged to himself",
+  "context_note": "",
+  "verse_text": "[21:8] If she does not please her master, who pledged her to himself, he shall redeem her; he has no right to sell her to a foreign nation, because he has broken faith with her.",
+  "maimonides": [
+   "N261: Do not sell the Hebrew maidservant to another"
+  ]
+ },
+ {
+  "id": "C0168",
+  "reference": "Exodus 21:9",
+  "title": "Treat a servant woman betrothed to the master's son according to a daughter's rights",
+  "topic": "Property, honest trade and service",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "An Israelite master who pledges a servant woman to his son",
+  "context_note": "",
+  "verse_text": "[21:9] But if he pledges her to his son, he shall deal with her according to the ordinance for daughters.",
+  "maimonides": [
+   "P233: Master must designate (betroth) the Hebrew maidservant"
+  ]
+ },
+ {
+  "id": "C0169",
+  "reference": "Exodus 21:10",
+  "title": "Do not deprive the servant wife of her necessities",
+  "topic": "Marriage, family and care for parents",
+  "classification": "Unchanged",
+  "original_audience": "An Israelite husband who takes another wife under the stated household conditions",
+  "context_note": "",
+  "verse_text": "[21:10] And if he takes another wife to himself, he shall not deprive her of her necessities, her clothing, or her conjugal companionship.",
+  "maimonides": [
+   "N262: Do not withhold a wife's food, clothing or conjugal rights"
+  ]
+ },
+ {
+  "id": "C0170",
+  "reference": "Exodus 21:10",
+  "title": "Do not deprive the wife of her clothing",
+  "topic": "Marriage, family and care for parents",
+  "classification": "Unchanged",
+  "original_audience": "An Israelite husband who takes another wife under the stated household conditions",
+  "context_note": "",
+  "verse_text": "[21:10] And if he takes another wife to himself, he shall not deprive her of her necessities, her clothing, or her conjugal companionship.",
+  "maimonides": [
+   "N262: Do not withhold a wife's food, clothing or conjugal rights"
+  ]
+ },
+ {
+  "id": "C0171",
+  "reference": "Exodus 21:10",
+  "title": "Do not deprive the wife of conjugal companionship",
+  "topic": "Marriage, family and care for parents",
+  "classification": "Unchanged",
+  "original_audience": "An Israelite husband who takes another wife under the stated household conditions",
+  "context_note": "",
+  "verse_text": "[21:10] And if he takes another wife to himself, he shall not deprive her of her necessities, her clothing, or her conjugal companionship.",
+  "maimonides": [
+   "N262: Do not withhold a wife's food, clothing or conjugal rights"
+  ]
+ },
+ {
+  "id": "C0172",
+  "reference": "Exodus 21:11",
+  "title": "Release the servant wife without payment when her stated rights are withheld",
+  "topic": "Property, honest trade and service",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "An Israelite master or husband who withholds the three stated rights",
+  "context_note": "",
+  "verse_text": "[21:11] But if he does not do these three things for her, she shall go out freely, without silver.",
+  "maimonides": []
+ },
+ {
+  "id": "C0173",
+  "reference": "Exodus 21:14",
+  "title": "Remove the deliberate murderer from sanctuary protection for judgment",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities responsible for judgment in a deliberate murder case",
+  "context_note": "",
+  "verse_text": "[21:14] But if a man attacks his neighbour to kill him by deceit, and flees for refuge, you shall take him from My altar to put him to death.",
+  "maimonides": []
+ },
+ {
+  "id": "C0174",
+  "reference": "Exodus 21:15",
+  "title": "Execute the person who strikes father or mother",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities administering the stated penalty for striking a parent",
+  "context_note": "",
+  "verse_text": "[21:15] He who strikes his father or his mother shall surely be put to death.",
+  "maimonides": [
+   "N319: Do not strike father or mother"
+  ]
+ },
+ {
+  "id": "C0175",
+  "reference": "Exodus 21:16",
+  "title": "Apply the prescribed death judgment for reviling father or mother",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities administering the stated penalty for reviling a parent",
+  "context_note": "",
+  "verse_text": "[21:16] He who reviles his father or his mother shall surely die.",
+  "maimonides": [
+   "N318: Do not curse father or mother"
+  ]
+ },
+ {
+  "id": "C0176",
+  "reference": "Exodus 21:17",
+  "title": "Execute the kidnapper who enslaves or sells the victim",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities judging a kidnapping and enslavement or sale case",
+  "context_note": "",
+  "verse_text": "[21:17] And if a man steals one of the sons of Israel, and overpowers him and sells him, and he is found with him, he shall surely die.",
+  "maimonides": [
+   "P227: Court executes by strangulation those so sentenced",
+   "N243: Do not kidnap a person"
+  ]
+ },
+ {
+  "id": "C0177",
+  "reference": "Exodus 21:18–19",
+  "title": "Compensate the injured person's lost labour and healing costs",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The person who injured his neighbor in the stated quarrel",
+  "context_note": "",
+  "verse_text": "[21:18] And if two men quarrel, and one strikes his neighbour with a stone or with his fist, and he does not die, but lies on his bed, [21:19] if the man rises and walks outside with a staff, the one who struck him shall be guiltless; only he shall pay for his lost labour and his healing.",
+  "maimonides": [
+   "P236: Judge injury cases: the assailant pays damages"
+  ]
+ },
+ {
+  "id": "C0178",
+  "reference": "Exodus 21:20–21",
+  "title": "Apply the stated judgment when a master fatally beats a slave",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities judging the fatal beating of a male or female slave",
+  "context_note": "",
+  "verse_text": "[21:20] And if a man strikes his male slave or his female slave with a rod, and the slave dies under his hands, he shall surely be avenged by judgment. [21:21] But if the slave survives a day or two, he shall not be avenged; for he is his silver.",
+  "maimonides": [
+   "P226: Court executes by the sword those so sentenced"
+  ]
+ },
+ {
+  "id": "C0179",
+  "reference": "Exodus 21:22",
+  "title": "Impose the assessed fine for the pregnancy injury described in this verse",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The person assessed compensation for the injury, the woman's husband, and those assessing the amount",
+  "context_note": "",
+  "verse_text": "[21:22] And if two men fight and strike a woman with child, and her child comes out not fully formed, he shall surely be fined; as the woman’s husband shall impose on him, he shall pay according to an assessment.",
+  "maimonides": []
+ },
+ {
+  "id": "C0180",
+  "reference": "Exodus 21:23–25",
+  "title": "Apply the prescribed proportionate life-and-injury judgment",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Transformed",
+  "original_audience": "Israel's authorities and the liable party in the stated life-and-injury case",
+  "context_note": "",
+  "verse_text": "[21:23] But if it was fully formed, he shall give life for life, [21:24] eye for eye, tooth for tooth, hand for hand, foot for foot, [21:25] burn for burn, wound for wound, bruise for bruise.",
+  "maimonides": []
+ },
+ {
+  "id": "C0181",
+  "reference": "Exodus 21:26–27",
+  "title": "Release the servant whose eye or tooth the master destroys",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "An Israelite master who destroys a slave's eye or knocks out a slave's tooth",
+  "context_note": "",
+  "verse_text": "[21:26] And if a man strikes the eye of his household slave or of his female slave, and blinds it, he shall set them free for their eye. [21:27] And if he knocks out the tooth of his household slave or of his female slave, he shall set them free for their tooth.",
+  "maimonides": []
+ },
+ {
+  "id": "C0182",
+  "reference": "Exodus 21:28–32",
+  "title": "Stone the ox that fatally gores a person",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities administering the rule when an ox kills a person",
+  "context_note": "",
+  "verse_text": "[21:28] And if a bull gores a man or a woman, and the person dies, the bull shall surely be stoned, and its flesh shall not be eaten; but the owner of the bull shall be guiltless. [21:29] But if the bull was in the habit of goring before, and its owner has been warned, and he does not remove it, and it kills a man or a woman, the bull shall be stoned, and its owner also shall die. [21:30] But if a ransom is imposed on him, he shall give for the ransom of his life all that they impose on him. [21:31] Whether it gores a son or a daughter, they shall deal with him according to this ordinance. [21:32] And if the bull gores a male slave or a female slave, he shall give thirty didrachmas of silver to their master, and the bull shall be stoned.",
+  "maimonides": [
+   "P237: Judge damages done by a goring ox"
+  ]
+ },
+ {
+  "id": "C0183",
+  "reference": "Exodus 21:28",
+  "title": "Do not eat the flesh of the condemned goring ox",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "People who might eat flesh from the condemned ox",
+  "context_note": "",
+  "verse_text": "[21:28] And if a bull gores a man or a woman, and the person dies, the bull shall surely be stoned, and its flesh shall not be eaten; but the owner of the bull shall be guiltless.",
+  "maimonides": [
+   "N188: Do not eat the flesh of an ox condemned to stoning"
+  ]
+ },
+ {
+  "id": "C0184",
+  "reference": "Exodus 21:29–31",
+  "title": "Apply the negligent owner's death liability or imposed ransom for a known dangerous ox",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities and the owner of an ox known to gore",
+  "context_note": "",
+  "verse_text": "[21:29] But if the bull was in the habit of goring before, and its owner has been warned, and he does not remove it, and it kills a man or a woman, the bull shall be stoned, and its owner also shall die. [21:30] But if a ransom is imposed on him, he shall give for the ransom of his life all that they impose on him. [21:31] Whether it gores a son or a daughter, they shall deal with him according to this ordinance.",
+  "maimonides": [
+   "P237: Judge damages done by a goring ox"
+  ]
+ },
+ {
+  "id": "C0185",
+  "reference": "Exodus 21:32",
+  "title": "Pay the prescribed compensation when an ox kills a slave",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The ox owner paying compensation to the master of the enslaved person killed",
+  "context_note": "",
+  "verse_text": "[21:32] And if the bull gores a male slave or a female slave, he shall give thirty didrachmas of silver to their master, and the bull shall be stoned.",
+  "maimonides": [
+   "P237: Judge damages done by a goring ox"
+  ]
+ },
+ {
+  "id": "C0186",
+  "reference": "Exodus 21:33–34",
+  "title": "Compensate the owner of an animal lost in an uncovered pit",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The owner of the uncovered pit into which another person's animal falls",
+  "context_note": "",
+  "verse_text": "[21:33] And if a man opens a pit, or hews out a pit, and does not cover it, and a calf or donkey falls in it, [21:34] the owner of the pit shall make restitution. He shall give silver to the animal’s owner, and the dead animal shall be his.",
+  "maimonides": [
+   "P238: Judge damages caused by an open pit"
+  ]
+ },
+ {
+  "id": "C0187",
+  "reference": "Exodus 21:35–36",
+  "title": "Settle loss caused by an ox killing another ox, distinguishing prior knowledge of danger",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Owners of the two oxen, with special liability on the owner warned about a dangerous ox",
+  "context_note": "",
+  "verse_text": "[21:35] And if a man’s bull gores his neighbour’s bull, and it dies, they shall sell the living bull and divide its silver; and they shall also divide the dead bull. [21:36] But if the bull is known to have been in the habit of goring before, and its owner has been warned, and he does not remove it, he shall repay bull for bull; and the dead bull shall be his.",
+  "maimonides": [
+   "P237: Judge damages done by a goring ox"
+  ]
+ },
+ {
+  "id": "C0188",
+  "reference": "Exodus 21:37",
+  "title": "Make the prescribed restitution for stolen property, with the stated multiples",
+  "topic": "Human life, injury and care for neighbours",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The person who steals and slaughters or sells another person's livestock",
+  "context_note": "",
+  "verse_text": "[21:37] And if a man steals a calf or a sheep, and slaughters it or sells it, he shall repay five calves for the calf, and four sheep for the sheep.”",
+  "maimonides": [
+   "P239: Judge the thief: restitution, multiples or sale"
+  ]
+ },
+ {
+  "id": "C0189",
+  "reference": "Exodus 22:1–2",
+  "title": "Distinguish the stated night and daylight liabilities when a burglar is killed",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities determining the liability for a burglar's death in the stated cases",
+  "context_note": "",
+  "verse_text": "[22:1] “And if the thief is found breaking in, and is struck and dies, there is no murder in his case. [22:2] But if the sun has risen upon him, he is guilty; he shall die in return. And if he has nothing, let him be sold for the theft.",
+  "maimonides": [
+   "P239: Judge the thief: restitution, multiples or sale"
+  ]
+ },
+ {
+  "id": "C0190",
+  "reference": "Exodus 22:2",
+  "title": "Sell the thief unable to pay the required restitution",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities dealing with a convicted thief who lacks restitution",
+  "context_note": "",
+  "verse_text": "[22:2] But if the sun has risen upon him, he is guilty; he shall die in return. And if he has nothing, let him be sold for the theft.",
+  "maimonides": [
+   "P239: Judge the thief: restitution, multiples or sale"
+  ]
+ },
+ {
+  "id": "AUD-02-22-3",
+  "reference": "Exodus 22:3",
+  "title": "Repay double when the stolen animal is found alive with the thief",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Application under review",
+  "original_audience": "Israel",
+  "context_note": "the Lord through Moses addresses Israel in this passage.",
+  "verse_text": "[22:3] But if he is caught, and the stolen thing is found alive in his hand, from donkey to sheep, he shall repay them double.",
+  "maimonides": [
+   "P239: Judge the thief: restitution, multiples or sale"
+  ]
+ },
+ {
+  "id": "C0191",
+  "reference": "Exodus 22:4",
+  "title": "Compensate for damage caused by grazing another person's field or vineyard",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The livestock keeper who allows grazing in a neighbor's field or vineyard",
+  "context_note": "",
+  "verse_text": "[22:4] And if a man grazes a field or a vineyard, and lets his beast graze another field, he shall repay from his own field according to its yield; but if it grazes the whole field, he shall repay the best of his field and the best of his vineyard.",
+  "maimonides": [
+   "P240: Judge damage done by grazing animals"
+  ]
+ },
+ {
+  "id": "C0192",
+  "reference": "Exodus 22:5",
+  "title": "Compensate for fire damage caused to another person's crops or land",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The person who starts the fire that damages another person's crop or land",
+  "context_note": "",
+  "verse_text": "[22:5] And if fire breaks out and catches thorns, and burns a threshing floor, or standing grain, or a plain, he who kindled the fire shall make restitution.",
+  "maimonides": [
+   "P241: Judge damage caused by fire"
+  ]
+ },
+ {
+  "id": "AUD-02-22-6",
+  "reference": "Exodus 22:6",
+  "title": "A thief caught stealing entrusted goods repays double",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Application under review",
+  "original_audience": "Israel",
+  "context_note": "the Lord through Moses addresses Israel in this passage.",
+  "verse_text": "[22:6] And if a man gives his neighbour silver or goods to keep, and they are stolen from the man’s house, if the thief is found, he shall repay double.",
+  "maimonides": [
+   "P242: Apply the laws of the unpaid custodian"
+  ]
+ },
+ {
+  "id": "C0195",
+  "reference": "Exodus 22:8",
+  "title": "Require double restitution from the convicted party in the property dispute",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The party found guilty in a disputed-property case",
+  "context_note": "",
+  "verse_text": "[22:8] In every alleged wrong concerning a calf, beast of burden, sheep, garment, or any disputed loss, whatever it may be, the case of both parties shall come before God. Whoever is convicted through God shall repay his neighbour double.",
+  "maimonides": [
+   "P246: Judge claims between plaintiff and defendant"
+  ]
+ },
+ {
+  "id": "C0196",
+  "reference": "Exodus 22:9–10",
+  "title": "Accept the keeper's exonerating oath without demanding restitution",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The property owner hearing the keeper's oath in the stated unwitnessed case",
+  "context_note": "22:9 states the case whose ruling C0196 (22:10) records; extend to 22:9–10.",
+  "verse_text": "[22:9] And if a man gives his neighbour a beast of burden, or a calf, or a sheep, or any beast to keep, and it is injured, or dies, or is taken captive, and no one knows, [22:10] an oath by God shall be between them that he has not acted dishonestly concerning any of his neighbour’s deposit. The owner shall accept it, and he shall not make restitution.",
+  "maimonides": [
+   "P243: Apply the laws of the paid custodian and renter"
+  ]
+ },
+ {
+  "id": "C0197",
+  "reference": "Exodus 22:11–12",
+  "title": "Apply the keeper's restitution liability for theft and the exemption for proved wild-animal loss",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The keeper of the entrusted animal whose owner is owed restitution or proof of loss",
+  "context_note": "",
+  "verse_text": "[22:11] But if it was stolen from him, he shall make restitution to its owner. [22:12] If it was taken by a wild animal, he shall bring the owner to the prey, and he shall not make restitution.",
+  "maimonides": [
+   "P243: Apply the laws of the paid custodian and renter"
+  ]
+ },
+ {
+  "id": "C0198",
+  "reference": "Exodus 22:13–14",
+  "title": "Apply the stated borrower liability and owner-present or hire exceptions",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The borrower or hirer and the owner of the animal under the specified conditions",
+  "context_note": "",
+  "verse_text": "[22:13] And if a man borrows from his neighbour, and it is injured, or dies, or is taken captive, and its owner is not with it, he shall make restitution. [22:14] But if its owner is with it, he shall not make restitution; and if it is hired, it shall be reckoned against its hire.",
+  "maimonides": [
+   "P244: Apply the laws of the borrower"
+  ]
+ },
+ {
+  "id": "C0199",
+  "reference": "Exodus 22:15–16",
+  "title": "Pay the prescribed marriage payment for seducing an unbetrothed virgin, subject to her father's refusal",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The man who seduces the unbetrothed woman, with her father entitled to refuse the marriage",
+  "context_note": "",
+  "verse_text": "[22:15] And if a man deceives a virgin who is not betrothed, and lies with her, he shall surely give the marriage payment for her to be his wife. [22:16] But if her father firmly refuses, and is unwilling to give her to him as a wife, he shall pay silver to the father according to the marriage payment for virgins.",
+  "maimonides": [
+   "P220: Seducer of an unbetrothed virgin pays the fine"
+  ]
+ },
+ {
+  "id": "C0200",
+  "reference": "Exodus 22:17",
+  "title": "Execute the practitioner of sorcery",
+  "topic": "Wages, lending, pledges and inheritance",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities charged with administering the stated penalty for sorcery",
+  "context_note": "",
+  "verse_text": "[22:17] You shall not preserve sorcerers alive.",
+  "maimonides": [
+   "N310: Do not let a sorcerer live"
+  ]
+ },
+ {
+  "id": "C0201",
+  "reference": "Exodus 22:18",
+  "title": "Execute the person who has sexual relations with an animal",
+  "topic": "Holiness, truthfulness and sexual conduct",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities charged with administering the stated penalty for sex with an animal",
+  "context_note": "",
+  "verse_text": "[22:18] Everyone who lies with a beast, you shall surely put to death.",
+  "maimonides": []
+ },
+ {
+  "id": "C0202",
+  "reference": "Exodus 22:19",
+  "title": "Apply the prescribed destruction to the person sacrificing to other gods",
+  "topic": "Knowing, loving and obeying God",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities administering the stated judgment for sacrifice to other gods",
+  "context_note": "",
+  "verse_text": "[22:19] He who sacrifices to gods, except to the Lord alone, shall surely be destroyed.",
+  "maimonides": []
+ },
+ {
+  "id": "C0203",
+  "reference": "Exodus 22:20",
+  "title": "Do not mistreat or oppress the resident foreigner",
+  "topic": "Land, harvests and provision for the poor",
+  "classification": "Everlasting",
+  "original_audience": "Israelites in their dealings with resident foreigners",
+  "context_note": "",
+  "verse_text": "[22:20] And you shall not ill-treat a resident foreigner, neither shall you afflict him; for you were resident foreigners in the land of Egypt.",
+  "maimonides": [
+   "N252: Do not wrong a convert with words",
+   "N253: Do not cheat a convert in business"
+  ]
+ },
+ {
+  "id": "C0204",
+  "reference": "Exodus 22:21",
+  "title": "Do not mistreat the widow or orphan",
+  "topic": "Land, harvests and provision for the poor",
+  "classification": "Everlasting",
+  "original_audience": "Israelites in their dealings with widows and orphans",
+  "context_note": "",
+  "verse_text": "[22:21] You shall not mistreat any widow or orphan.",
+  "maimonides": [
+   "N256: Do not afflict a widow or orphan"
+  ]
+ },
+ {
+  "id": "C0205",
+  "reference": "Exodus 22:24",
+  "title": "Do not press a poor borrower harshly",
+  "topic": "Wages, lending, pledges and inheritance",
+  "classification": "Everlasting",
+  "original_audience": "Israelites lending silver to a poor fellow Israelite",
+  "context_note": "",
+  "verse_text": "[22:24] And if you lend silver to your poor brother beside you, you shall not press him hard, neither shall you lay interest upon him.",
+  "maimonides": [
+   "N234: Do not press a poor debtor known unable to pay"
+  ]
+ },
+ {
+  "id": "C0206",
+  "reference": "Exodus 22:24",
+  "title": "Do not charge interest to a fellow Israelite",
+  "topic": "Wages, lending, pledges and inheritance",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israelites lending silver to a poor fellow Israelite",
+  "context_note": "",
+  "verse_text": "[22:24] And if you lend silver to your poor brother beside you, you shall not press him hard, neither shall you lay interest upon him.",
+  "maimonides": [
+   "N235: Do not lend at interest",
+   "N236: Do not borrow at interest from a fellow Israelite",
+   "N237: Do not join an interest loan as guarantor, witness or scribe"
+  ]
+ },
+ {
+  "id": "C0207",
+  "reference": "Exodus 22:25–26",
+  "title": "Return the poor debtor's covering pledge by sunset",
+  "topic": "Wages, lending, pledges and inheritance",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "An Israelite creditor holding a neighbor's only covering as a pledge",
+  "context_note": "",
+  "verse_text": "[22:25] And if you take your neighbour’s garment in pledge, you shall restore it to him before the setting of the sun; [22:26] for this is his covering, his only garment for his nakedness; What shall he sleep in? If therefore he cries to Me, I will listen to him; for I am merciful.",
+  "maimonides": [
+   "P199: Return the pledge to a poor debtor when he needs it",
+   "N240: Do not keep a poor debtor's needed pledge overnight"
+  ]
+ },
+ {
+  "id": "C0208",
+  "reference": "Exodus 22:27",
+  "title": "Do not revile the 'gods' named in the Saints text",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Application under review",
+  "original_audience": "The Israelites who hear the covenant ordinances",
+  "context_note": "An application under review does not remove the command from the catalogue or pronounce a forbidden act permissible.",
+  "verse_text": "[22:27] You shall not revile gods, neither shall you speak evil of the rulers of your people.",
+  "maimonides": [
+   "N315: Do not curse a judge"
+  ]
+ },
+ {
+  "id": "C0209",
+  "reference": "Exodus 22:27",
+  "title": "Do not speak evil of the rulers of your people",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Everlasting",
+  "original_audience": "Israelites in relation to the rulers of their people",
+  "context_note": "Paul invokes the same standing restriction on speaking evil of a ruler in this confrontation. Retain the Exodus record as the legal source.",
+  "verse_text": "[22:27] You shall not revile gods, neither shall you speak evil of the rulers of your people.",
+  "maimonides": [
+   "N316: Do not curse a ruler (head of state)"
+  ]
+ },
+ {
+  "id": "C0210",
+  "reference": "Exodus 22:28",
+  "title": "Do not delay the prescribed firstfruit offerings",
+  "topic": "Offerings, sacrifice and atonement",
+  "classification": "Fulfilled",
+  "original_audience": "Israelite producers whose grain or wine firstfruits are due",
+  "context_note": "",
+  "verse_text": "[22:28] You shall not delay the firstfruits of your threshing floor and your winepress; you shall give Me the firstborn of your sons.",
+  "maimonides": [
+   "N154: Do not separate tithes and terumah out of order"
+  ]
+ },
+ {
+  "id": "C0212",
+  "reference": "Exodus 22:29",
+  "title": "Give the firstborn animal to God on the eighth day, after seven days with its mother",
+  "topic": "Offerings, sacrifice and atonement",
+  "classification": "Fulfilled",
+  "original_audience": "Israelite livestock owners presenting a firstborn animal after the prescribed interval",
+  "context_note": "Exodus addresses dedication of firstborn animals. The general eligibility rule for offerings is in Leviticus 22:27.",
+  "verse_text": "[22:29] You shall do the same with your calf, and your sheep, and your beast of burden; it shall be under its mother for seven days, and on the eighth day you shall give it to Me.",
+  "maimonides": [
+   "P60: Offer animals only from their eighth day onward",
+   "P79: Set apart the firstborn of clean animals as holy"
+  ]
+ },
+ {
+  "id": "C0214",
+  "reference": "Exodus 22:30",
+  "title": "Do not eat flesh torn by wild animals and throw it to the dogs",
+  "topic": "Food, ritual purity and cleansing",
+  "classification": "Transformed",
+  "original_audience": "Israelites deciding whether to eat flesh torn by wild animals",
+  "context_note": "Christians differ about the reach of these passages. Acts 15:19–29 must also be read; the instruction concerning blood is treated separately.",
+  "verse_text": "[22:30] You shall be holy people to Me. You shall not eat flesh taken by wild animals; throw it to the dog.”",
+  "maimonides": [
+   "N181: Do not eat flesh of a torn (treifah) animal"
+  ]
+ },
+ {
+  "id": "C0216",
+  "reference": "Exodus 23:1",
+  "title": "Do not accept or circulate a false report",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Everlasting",
+  "original_audience": "Israelites hearing reports or giving testimony about others",
+  "context_note": "",
+  "verse_text": "[23:1] “You shall not receive an empty report. You shall not agree with the unrighteous to become an unrighteous witness.",
+  "maimonides": [
+   "N281: Judge must not hear one litigant without the other"
+  ]
+ },
+ {
+  "id": "C0217",
+  "reference": "Exodus 23:2",
+  "title": "Do not follow the crowd into wrongdoing",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Application under review",
+  "original_audience": "Israelites facing group pressure to do wrong, in the verse's setting of justice",
+  "context_note": "An application under review does not remove the command from the catalogue or pronounce a forbidden act permissible.",
+  "verse_text": "[23:2] You shall not join the many in evil; neither shall you join a multitude in turning aside with the many, to turn aside judgment.",
+  "maimonides": [
+   "P175: Decide by majority vote in judicial disputes",
+   "N282: Do not convict in capital cases by a majority of one"
+  ]
+ },
+ {
+  "id": "C0218",
+  "reference": "Exodus 23:2",
+  "title": "Do not pervert justice",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Everlasting",
+  "original_audience": "Israelites involved in testimony or a judgment that the crowd seeks to distort",
+  "context_note": "",
+  "verse_text": "[23:2] You shall not join the many in evil; neither shall you join a multitude in turning aside with the many, to turn aside judgment.",
+  "maimonides": [
+   "N283: Judge who argued acquittal must not then argue conviction"
+  ]
+ },
+ {
+  "id": "C0219",
+  "reference": "Exodus 23:3",
+  "title": "Do not favour the poor in judgment",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Everlasting",
+  "original_audience": "Israelites who judge a case involving a poor person",
+  "context_note": "",
+  "verse_text": "[23:3] Neither shall you favour a poor man in judgment.",
+  "maimonides": [
+   "N277: A judge must not favour the poor out of pity"
+  ]
+ },
+ {
+  "id": "C0220",
+  "reference": "Exodus 23:4",
+  "title": "Return your enemy’s straying ox or beast of burden",
+  "topic": "Human life, injury and care for neighbours",
+  "classification": "Everlasting",
+  "original_audience": "An Israelite who encounters an enemy's straying ox or other working animal",
+  "context_note": "",
+  "verse_text": "[23:4] And if you meet your enemy’s ox or his beast of burden wandering, you shall surely turn it back and restore it to him.",
+  "maimonides": [
+   "P204: Return lost property to its owner"
+  ]
+ },
+ {
+  "id": "C0221",
+  "reference": "Exodus 23:5",
+  "title": "Help raise an enemy’s animal fallen under its load",
+  "topic": "Human life, injury and care for neighbours",
+  "classification": "Everlasting",
+  "original_audience": "An Israelite who finds an enemy's working animal collapsed under its load",
+  "context_note": "Exodus 23:5 requires helping lift an enemy’s fallen beast. Deuteronomy 22:4 likewise requires helping raise a brother’s fallen animal. Preserve the different relationships named in the two passages.",
+  "verse_text": "[23:5] And if you see your enemy’s beast of burden fallen beneath its load, you shall not pass it by; but you shall raise it up together with him.",
+  "maimonides": [
+   "P202: Help unload an animal fallen under its burden",
+   "P203: Help reload a fallen animal together with its owner",
+   "N270: Do not leave an animal fallen under its load unaided"
+  ]
+ },
+ {
+  "id": "AUD-02-23-6",
+  "reference": "Exodus 23:6",
+  "title": "Do not pervert the justice due to the poor in his cause",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Application under review",
+  "original_audience": "Israel",
+  "context_note": "the Lord through Moses addresses Israel in this passage.",
+  "verse_text": "[23:6] You shall not pervert the judgment of a poor man in his cause.",
+  "maimonides": [
+   "N278: Judge must not pervert judgment against a habitual sinner"
+  ]
+ },
+ {
+  "id": "C0223",
+  "reference": "Exodus 23:7",
+  "title": "Keep away from a false accusation",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Everlasting",
+  "original_audience": "Israelites bringing charges or involved in judging them",
+  "context_note": "",
+  "verse_text": "[23:7] You shall keep far away from every unrighteous charge; the innocent and the righteous you shall not kill, neither shall you justify the ungodly for gifts.",
+  "maimonides": []
+ },
+ {
+  "id": "C0224",
+  "reference": "Exodus 23:7",
+  "title": "Do not execute the innocent or righteous",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Everlasting",
+  "original_audience": "Israel's authorities responsible for judgment and execution",
+  "context_note": "",
+  "verse_text": "[23:7] You shall keep far away from every unrighteous charge; the innocent and the righteous you shall not kill, neither shall you justify the ungodly for gifts.",
+  "maimonides": [
+   "N290: Do not convict or execute on circumstantial evidence"
+  ]
+ }
+]

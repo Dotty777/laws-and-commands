@@ -6,7 +6,7 @@
 
 - [By book](books/README.md) — read in the Saints.Bible book and passage order.
 - [By Record type](record-types/README.md) — browse all seven types.
-- [Torah Law](torah-law/README.md) — browse the reviewed standing provisions in Exodus through Deuteronomy.
+- [Torah Law](torah-law/README.md) — browse the reviewed standing provisions in Exodus through Deuteronomy by book, category and form.
 - [By topic](categories/README.md) — browse the original topic groupings with current records, plus the 70-book audit additions.
 
 The type and topic views link to the same record in its book. The book view includes primary and additional Scripture references. The Filing column shows whether the catalogue lists the record under General or Personal.

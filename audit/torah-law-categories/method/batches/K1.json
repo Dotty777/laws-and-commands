@@ -1,0 +1,811 @@
+[
+ {
+  "id": "C0170",
+  "reference": "Exodus 21:10",
+  "title": "Do not deprive the wife of her clothing",
+  "topic": "Marriage, family and care for parents",
+  "classification": "Unchanged",
+  "original_audience": "An Israelite husband who takes another wife under the stated household conditions",
+  "context_note": "",
+  "verse_text": "[21:10] And if he takes another wife to himself, he shall not deprive her of her necessities, her clothing, or her conjugal companionship.",
+  "maimonides": [
+   "N262: Do not withhold a wife's food, clothing or conjugal rights"
+  ]
+ },
+ {
+  "id": "C0186",
+  "reference": "Exodus 21:33–34",
+  "title": "Compensate the owner of an animal lost in an uncovered pit",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The owner of the uncovered pit into which another person's animal falls",
+  "context_note": "",
+  "verse_text": "[21:33] And if a man opens a pit, or hews out a pit, and does not cover it, and a calf or donkey falls in it, [21:34] the owner of the pit shall make restitution. He shall give silver to the animal’s owner, and the dead animal shall be his.",
+  "maimonides": [
+   "P238: Judge damages caused by an open pit"
+  ]
+ },
+ {
+  "id": "C0155",
+  "reference": "Exodus 20:14",
+  "title": "Do not steal",
+  "topic": "Property, honest trade and service",
+  "classification": "Everlasting",
+  "original_audience": "Israelites in their dealings with their neighbors",
+  "context_note": "",
+  "verse_text": "[20:14] You shall not steal.",
+  "maimonides": [
+   "N243: Do not kidnap a person",
+   "N244: Do not steal money or property stealthily"
+  ]
+ },
+ {
+  "id": "C0167",
+  "reference": "Exodus 21:8",
+  "title": "Do not sell the rejected servant woman to foreigners",
+  "topic": "Property, honest trade and service",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "An Israelite master who rejects the servant woman he pledged to himself",
+  "context_note": "",
+  "verse_text": "[21:8] If she does not please her master, who pledged her to himself, he shall redeem her; he has no right to sell her to a foreign nation, because he has broken faith with her.",
+  "maimonides": [
+   "N261: Do not sell the Hebrew maidservant to another"
+  ]
+ },
+ {
+  "id": "C0178",
+  "reference": "Exodus 21:20–21",
+  "title": "Apply the stated judgment when a master fatally beats a slave",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel's authorities judging the fatal beating of a male or female slave",
+  "context_note": "",
+  "verse_text": "[21:20] And if a man strikes his male slave or his female slave with a rod, and the slave dies under his hands, he shall surely be avenged by judgment. [21:21] But if the slave survives a day or two, he shall not be avenged; for he is his silver.",
+  "maimonides": [
+   "P226: Court executes by the sword those so sentenced"
+  ]
+ },
+ {
+  "id": "C0199",
+  "reference": "Exodus 22:15–16",
+  "title": "Pay the prescribed marriage payment for seducing an unbetrothed virgin, subject to her father's refusal",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The man who seduces the unbetrothed woman, with her father entitled to refuse the marriage",
+  "context_note": "",
+  "verse_text": "[22:15] And if a man deceives a virgin who is not betrothed, and lies with her, he shall surely give the marriage payment for her to be his wife. [22:16] But if her father firmly refuses, and is unwilling to give her to him as a wife, he shall pay silver to the father according to the marriage payment for virgins.",
+  "maimonides": [
+   "P220: Seducer of an unbetrothed virgin pays the fine"
+  ]
+ },
+ {
+  "id": "C0094",
+  "reference": "Exodus 12:6",
+  "title": "Slaughter the Passover at the prescribed time and location",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Fulfilled",
+  "original_audience": "The assembled Israelite households slaughtering the Passover animal",
+  "context_note": "This does not settle every Christian disagreement about commemorating the festival.",
+  "verse_text": "[12:6] And you shall keep it until the fourteenth day of this month; and the whole multitude of the congregation of the sons of Israel shall slaughter it toward evening.",
+  "maimonides": [
+   "P55: Slaughter the Passover offering at its appointed time"
+  ]
+ },
+ {
+  "id": "C0217",
+  "reference": "Exodus 23:2",
+  "title": "Do not follow the crowd into wrongdoing",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Application under review",
+  "original_audience": "Israelites facing group pressure to do wrong, in the verse's setting of justice",
+  "context_note": "An application under review does not remove the command from the catalogue or pronounce a forbidden act permissible.",
+  "verse_text": "[23:2] You shall not join the many in evil; neither shall you join a multitude in turning aside with the many, to turn aside judgment.",
+  "maimonides": [
+   "P175: Decide by majority vote in judicial disputes",
+   "N282: Do not convict in capital cases by a majority of one"
+  ]
+ },
+ {
+  "id": "C0183",
+  "reference": "Exodus 21:28",
+  "title": "Do not eat the flesh of the condemned goring ox",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "People who might eat flesh from the condemned ox",
+  "context_note": "",
+  "verse_text": "[21:28] And if a bull gores a man or a woman, and the person dies, the bull shall surely be stoned, and its flesh shall not be eaten; but the owner of the bull shall be guiltless.",
+  "maimonides": [
+   "N188: Do not eat the flesh of an ox condemned to stoning"
+  ]
+ },
+ {
+  "id": "C0235",
+  "reference": "Exodus 23:18",
+  "title": "Do not offer the sacrificial blood with leaven",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Fulfilled",
+  "original_audience": "Israelite worshipers offering a sacrifice covered by this feast regulation",
+  "context_note": "",
+  "verse_text": "[23:18] For when I cast out nations before you, and enlarge your borders, you shall not sacrifice the blood of My offering with leaven, neither shall the fat of My feast remain until morning.",
+  "maimonides": [
+   "N115: Do not slaughter the Passover offering while owning leaven"
+  ]
+ },
+ {
+  "id": "C0421",
+  "reference": "Leviticus 5:13",
+  "title": "Give the flour sin offering remainder to the priest",
+  "topic": "Offerings, sacrifice and atonement",
+  "classification": "Fulfilled",
+  "original_audience": "Officiating Aaronic priest",
+  "context_note": "",
+  "verse_text": "[5:13] And the priest shall make atonement for him for the sin which he has committed in any one of these matters, and he shall be forgiven. But what remains shall be the priest’s, as the sacrifice of fine flour.",
+  "maimonides": []
+ },
+ {
+  "id": "C0481",
+  "reference": "Leviticus 12:4",
+  "title": "Do not touch holy things during postpartum purification",
+  "topic": "Food, ritual purity and cleansing",
+  "classification": "Transformed",
+  "original_audience": "Israelite woman undergoing postpartum purification",
+  "context_note": "",
+  "verse_text": "[12:4] And she shall remain thirty-three days in her unclean blood. She shall touch nothing holy and shall not enter the sanctuary until the days of her purification are completed.",
+  "maimonides": [
+   "N129: An unclean person must not eat sacrificial food"
+  ]
+ },
+ {
+  "id": "C0238",
+  "reference": "Exodus 23:19",
+  "title": "Do not boil a lamb in its mother’s milk",
+  "topic": "Food, ritual purity and cleansing",
+  "classification": "Covenant-specific instructions",
+  "original_audience": "Israelites preparing a lamb or young animal in the setting of the covenant ordinances",
+  "context_note": "",
+  "verse_text": "[23:19] You shall bring the firstfruits of the first produce of your land into the house of the Lord your God. You shall not boil a lamb in its mother’s milk.",
+  "maimonides": [
+   "N186: Do not cook meat with milk",
+   "N187: Do not eat meat cooked with milk"
+  ]
+ },
+ {
+  "id": "C0225",
+  "reference": "Exodus 23:7–8",
+  "title": "Do not accept bribes or acquit the guilty for gifts",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Everlasting",
+  "original_audience": "Israelites in a position to influence or issue a judgment",
+  "context_note": "",
+  "verse_text": "[23:7] You shall keep far away from every unrighteous charge; the innocent and the righteous you shall not kill, neither shall you justify the ungodly for gifts. [23:8] And you shall receive no gifts; for gifts blind the eyes of those who see, and corrupt righteous words.",
+  "maimonides": [
+   "N274: Judge must not accept a bribe"
+  ]
+ },
+ {
+  "id": "C0394",
+  "reference": "Leviticus 3:1",
+  "title": "Present an unblemished animal of the prescribed kinds for a peace or deliverance offering",
+  "topic": "Offerings, sacrifice and atonement",
+  "classification": "Fulfilled",
+  "original_audience": "Israelite offerer",
+  "context_note": "",
+  "verse_text": "[3:1] And if his gift unto the Lord is a sacrifice of deliverance, if he brings it from his cattle, whether male or female, he shall bring it unblemished before the Lord.",
+  "maimonides": [
+   "P66: Offer the peace offering according to its prescribed laws"
+  ]
+ },
+ {
+  "id": "C0365",
+  "reference": "Exodus 35:3",
+  "title": "Do not kindle fire in your dwellings on the Sabbath",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Transformed",
+  "original_audience": "The households of the congregation of Israel on the Sabbath",
+  "context_note": "Sabbath and festival observance remain disputed among Christians. This label does not declare Scripture abolished or prescribe a particular weekday of Christian worship.",
+  "verse_text": "[35:3] You shall not kindle a fire in any of your dwellings on the Sabbath day. I am the Lord.”",
+  "maimonides": [
+   "N322: Courts must not carry out punishments on the Sabbath"
+  ]
+ },
+ {
+  "id": "C0472",
+  "reference": "Leviticus 11:24–31",
+  "title": "Observe the prescribed uncleanness until evening after carcass contact",
+  "topic": "Food, ritual purity and cleansing",
+  "classification": "Transformed",
+  "original_audience": "Israelites who touch or carry the specified carcasses",
+  "context_note": "",
+  "verse_text": "[11:24] And by these you shall become defiled: everyone who touches their carcasses shall be unclean until evening, [11:25] and whosoever carries any of their carcasses shall wash his garments and be unclean until evening. [11:26] Every animal that divides the hoof and has cleft claws but does not chew the cud shall be unclean for you. Whosoever touches their carcasses shall be unclean until evening. [11:27] And among all wild animals that walk on four, whatever walks on its hands shall be unclean for you. Whosoever touches their carcasses shall be unclean until evening. [11:28] And whosoever carries their carcasses shall wash his garments and be unclean until evening. They are unclean for you. [11:29] And these are unclean for you among the creeping things that creep on the earth: the weasel, the mouse, and the land crocodile; [11:30] the shrew, the chameleon, the spotted lizard, the lizard, and the mole. [11:31] These are unclean for you among all the creeping things on the earth. Whosoever touches them when they are dead shall be unclean until evening.",
+  "maimonides": [
+   "P96: Observe the impurity laws of animal carcasses (nevelah)",
+   "P97: Observe the impurity of the eight creeping creatures"
+  ]
+ },
+ {
+  "id": "C0410",
+  "reference": "Leviticus 5:1–5",
+  "title": "Confess the offense in the stated witness, impurity, or oath cases",
+  "topic": "Covenant signs, vows and dedications",
+  "classification": "Everlasting",
+  "original_audience": "Israelite who incurs the stated guilt",
+  "context_note": "Verse 5 requires confession of the fault in the cases laid out in verses 1–4. The specified remedies follow in verses 6–13.",
+  "verse_text": "[5:1] And if a soul sins, and hears the voice of a solemn adjuration, and he is a witness, whether he has seen or has knowledge of the matter, if he does not declare it, he shall bear the sin. [5:2] Or if a soul touches any unclean thing, whether a dead thing, or an unclean thing torn by wild beasts, or one of the dead things, or one of the unclean abominations, or a carcass of unclean livestock, [5:3] or touches human uncleanness, any uncleanness of a man by touching which he is defiled, and it escapes his notice, but afterward he knows it and incurs guilt; [5:4] or if a soul swears, declaring with his lips to do evil or to do good, whatsoever a man declares with an oath, and it escapes his notice, and he knows it and sins in any one of these matters, [5:5] he shall confess the sin concerning that wherein he has sinned.",
+  "maimonides": [
+   "P73: Confess one's sin before God"
+  ]
+ },
+ {
+  "id": "C0605",
+  "reference": "Leviticus 19:13",
+  "title": "Do not wrong your neighbour",
+  "topic": "Property, honest trade and service",
+  "classification": "Everlasting",
+  "original_audience": "Israel",
+  "context_note": "",
+  "verse_text": "[19:13] You shall not wrong your neighbour, neither shall you rob; and the wages of the hired worker shall in no wise remain with you overnight until morning.",
+  "maimonides": [
+   "N247: Do not withhold what is owed to your neighbour (oshek)"
+  ]
+ },
+ {
+  "id": "C0539",
+  "reference": "Leviticus 15:13",
+  "title": "Count seven clear days after the specified discharge ceases",
+  "topic": "Food, ritual purity and cleansing",
+  "classification": "Transformed",
+  "original_audience": "Israelite man recovering from the stated discharge",
+  "context_note": "",
+  "verse_text": "[15:13] When the man with a seminal discharge is cleansed from his flow, he shall count seven days for his cleansing, wash his garments, bathe his body in water, and be clean.",
+  "maimonides": []
+ },
+ {
+  "id": "C0579",
+  "reference": "Leviticus 18:8",
+  "title": "Do not have sexual relations with your father's wife",
+  "topic": "Marriage, family and care for parents",
+  "classification": "Everlasting",
+  "original_audience": "Men among Israel and its resident foreigners",
+  "context_note": "Interpretations of individual sexual texts can differ. This mark states the reading adopted in this study, not unanimity among Christians.",
+  "verse_text": "[18:8] You shall not uncover the nakedness of your father’s wife; it is your father’s nakedness.",
+  "maimonides": [
+   "N331: Do not have relations with your father's wife"
+  ]
+ },
+ {
+  "id": "C0593",
+  "reference": "Leviticus 18:23",
+  "title": "Do not have sexual relations with an animal",
+  "topic": "Holiness, truthfulness and sexual conduct",
+  "classification": "Application under review",
+  "original_audience": "Israelites and resident foreigners",
+  "context_note": "An application under review does not remove the command from the catalogue or pronounce a forbidden act permissible.",
+  "verse_text": "[18:23] And you shall not lie with any four-footed animal for insemination and become defiled through it. A woman shall not stand before any four-footed animal to be mounted; it is detestable.",
+  "maimonides": [
+   "N348: A man must not have relations with an animal",
+   "N349: A woman must not have relations with an animal"
+  ]
+ },
+ {
+  "id": "C0635",
+  "reference": "Leviticus 19:29",
+  "title": "Do not make your daughter a prostitute",
+  "topic": "Marriage, family and care for parents",
+  "classification": "Everlasting",
+  "original_audience": "Israelites responsible for daughters",
+  "context_note": "Interpretations of individual sexual texts can differ. This mark states the reading adopted in this study, not unanimity among Christians.",
+  "verse_text": "[19:29] You shall not profane your daughter by making her a prostitute, lest the land prostitute itself and the land be filled with lawlessness.",
+  "maimonides": []
+ },
+ {
+  "id": "C0600",
+  "reference": "Leviticus 19:10",
+  "title": "Do not gather the vineyard's fallen grapes",
+  "topic": "Land, harvests and provision for the poor",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israelite vineyard owners and harvesters",
+  "context_note": "",
+  "verse_text": "[19:10] neither shall you glean your vineyard again, nor gather the grapes of your vineyard; you shall leave them for the poor and the resident foreigner; I am the Lord your God.",
+  "maimonides": [
+   "P124: Leave the fallen grapes (peret) for the poor",
+   "N213: Do not gather the fallen grapes (peret)"
+  ]
+ },
+ {
+  "id": "C0490",
+  "reference": "Leviticus 13:45",
+  "title": "Observe the prescribed public signs while the lesion remains unclean",
+  "topic": "Food, ritual purity and cleansing",
+  "classification": "Transformed",
+  "original_audience": "Person with a diagnosed unclean skin lesion",
+  "context_note": "The affected person’s clothing is loosened, the head is uncovered, the mouth is covered, and the person is called unclean. Verse 44 separately names the priest who declares uncleanness. The Saints text does not say that the person must personally cry out.",
+  "verse_text": "[13:45] And he that has leprosy, in whom the lesion is, shall have his garments loosened and his head uncovered, and shall put a covering about his mouth, and shall be called unclean;",
+  "maimonides": [
+   "P112: The afflicted person rends garments, bares head, covers lip, announces uncleanness"
+  ]
+ },
+ {
+  "id": "C0619",
+  "reference": "Leviticus 19:18",
+  "title": "Do not hold a grudge",
+  "topic": "Knowing, loving and obeying God",
+  "classification": "Everlasting",
+  "original_audience": "Israel",
+  "context_note": "",
+  "verse_text": "[19:18] And your hand shall not take vengeance, neither shall you remain angry with the sons of your people; and you shall love your neighbour as yourself; I am the Lord.",
+  "maimonides": [
+   "N305: Do not bear a grudge"
+  ]
+ },
+ {
+  "id": "C0588",
+  "reference": "Leviticus 18:18",
+  "title": "Do not take a wife's sister as a rival during your wife's lifetime",
+  "topic": "Marriage, family and care for parents",
+  "classification": "Application under review",
+  "original_audience": "Men among Israel and its resident foreigners",
+  "context_note": "An application under review does not remove the command from the catalogue or pronounce a forbidden act permissible.",
+  "verse_text": "[18:18] You shall not take a woman in addition to her sister as a rival, to uncover her nakedness alongside her while she is alive.",
+  "maimonides": [
+   "N345: Do not marry your wife's sister during your wife's lifetime"
+  ]
+ },
+ {
+  "id": "C0668",
+  "reference": "Leviticus 21:15",
+  "title": "High priest: do not profane your offspring through the forbidden marriage",
+  "topic": "Sanctuary, priesthood and ministry",
+  "classification": "Fulfilled",
+  "original_audience": "Anointed high priest",
+  "context_note": "",
+  "verse_text": "[21:15] And he shall not profane his seed among his people, for I am the Lord who sanctifies him.",
+  "maimonides": [
+   "N162: The high priest must not cohabit with a widow, even unmarried"
+  ]
+ },
+ {
+  "id": "C0694",
+  "reference": "Leviticus 23:25",
+  "title": "Bring the prescribed trumpet-memorial offering",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Fulfilled",
+  "original_audience": "Israel’s congregation, with priests performing its offerings",
+  "context_note": "",
+  "verse_text": "[23:25] You shall do no laborious work, and you shall bring a whole burnt offering unto the Lord.",
+  "maimonides": [
+   "P47: Bring the additional Rosh Hashanah offering"
+  ]
+ },
+ {
+  "id": "C0689",
+  "reference": "Leviticus 23:21",
+  "title": "Hold a holy assembly at Weeks",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Transformed",
+  "original_audience": "Israel",
+  "context_note": "Sabbath and festival observance remain disputed among Christians. This label does not declare Scripture abolished or prescribe a particular weekday of Christian worship.",
+  "verse_text": "[23:21] And you shall proclaim this day a convocation; it shall be holy for you. You shall do no laborious work on it. This is an everlasting ordinance throughout your generations in every dwelling of yours.",
+  "maimonides": [
+   "P162: Rest from work on Shavuot"
+  ]
+ },
+ {
+  "id": "C0701",
+  "reference": "Leviticus 23:37–38",
+  "title": "Present the festival offerings in addition to the regular, vowed and freewill offerings",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Fulfilled",
+  "original_audience": "Israel’s congregation and officiating priests",
+  "context_note": "",
+  "verse_text": "[23:37] These are the feasts for the Lord, which you shall proclaim as holy convocations, to present offerings unto the Lord: whole burnt offerings and their sacrifices and their drink offerings, each day’s requirement on its day, [23:38] besides the Lord’s Sabbaths, besides your gifts, besides all your vows, and besides your freewill offerings that you give unto the Lord.",
+  "maimonides": []
+ },
+ {
+  "id": "AUD-03-25-17",
+  "reference": "Leviticus 25:17",
+  "title": "Do not oppress one another, but fear your God",
+  "topic": "Property, honest trade and service",
+  "classification": "Application under review",
+  "original_audience": "Israel",
+  "context_note": "The direction against oppressing a neighbor follows the Jubilee pricing provisions. Moses links it to fear of the Lord.",
+  "verse_text": "[25:17] Let no man oppress his neighbour, and you shall fear the Lord your God; I am the Lord your God.",
+  "maimonides": [
+   "N251: Do not wrong anyone with words"
+  ]
+ },
+ {
+  "id": "C0666",
+  "reference": "Leviticus 21:13–14",
+  "title": "High priest: marry a virgin from your own kin",
+  "topic": "Sanctuary, priesthood and ministry",
+  "classification": "Fulfilled",
+  "original_audience": "Anointed high priest",
+  "context_note": "",
+  "verse_text": "[21:13] He shall take a virgin wife from his own kin. [21:14] A widow, an expelled woman, a profaned woman, or a prostitute—these he shall not take. He shall take as his wife only a virgin from his own kin.",
+  "maimonides": [
+   "P38: The high priest must marry a virgin"
+  ]
+ },
+ {
+  "id": "C0644",
+  "reference": "Leviticus 20:2",
+  "title": "Execute by stoning the person giving offspring to the prohibited cultic service",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "People of the land charged with judgment",
+  "context_note": "",
+  "verse_text": "[20:2] And you shall speak unto the sons of Israel: If any of the sons of Israel, or of the resident foreigners who have joined Israel, gives any of his seed unto a ruler, let him surely be put to death; the nation upon the land shall stone him with stones.",
+  "maimonides": []
+ },
+ {
+  "id": "C0690",
+  "reference": "Leviticus 23:21",
+  "title": "Do no prohibited work at Weeks",
+  "topic": "Sabbath, appointed times and remembrance",
+  "classification": "Transformed",
+  "original_audience": "Israel",
+  "context_note": "Sabbath and festival observance remain disputed among Christians. This label does not declare Scripture abolished or prescribe a particular weekday of Christian worship.",
+  "verse_text": "[23:21] And you shall proclaim this day a convocation; it shall be holy for you. You shall do no laborious work on it. This is an everlasting ordinance throughout your generations in every dwelling of yours.",
+  "maimonides": [
+   "P162: Rest from work on Shavuot",
+   "N325: Do not work on Shavuot"
+  ]
+ },
+ {
+  "id": "C0730",
+  "reference": "Leviticus 25:34",
+  "title": "Do not sell the Levite cities' pasture land",
+  "topic": "Land, harvests and provision for the poor",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Levites and parties to a transaction in their city pasture",
+  "context_note": "",
+  "verse_text": "[25:34] And the fields set apart for their cities shall not be sold, for this is their everlasting possession.",
+  "maimonides": [
+   "N228: Do not sell or alter the Levite cities' open land"
+  ]
+ },
+ {
+  "id": "C0874",
+  "reference": "Numbers 18:4",
+  "title": "Israelites outside the appointed service: do not approach the restricted sanctuary ministry",
+  "topic": "Sanctuary, priesthood and ministry",
+  "classification": "Fulfilled",
+  "original_audience": "Outsiders to the appointed Tent service, including unappointed Israelites",
+  "context_note": "",
+  "verse_text": "[18:4] And they shall join you, and shall keep the charges of the Tent of Testimony according to all the ministries of the Tent; and the outsider shall not approach you.",
+  "maimonides": [
+   "N74: A non-priest must not serve in the sanctuary"
+  ]
+ },
+ {
+  "id": "C0928",
+  "reference": "Numbers 28:9–10",
+  "title": "Offer the additional Sabbath lambs with the prescribed accompaniments",
+  "topic": "Offerings, sacrifice and atonement",
+  "classification": "Fulfilled",
+  "original_audience": "Israel providing the Sabbath offerings, with sanctuary ministers officiating",
+  "context_note": "",
+  "verse_text": "[28:9] And on the Sabbath day you shall bring two unblemished year-old lambs, and two tenths of fine flour mixed with oil for a sacrifice, and a drink offering, [28:10] a Sabbath whole burnt offering on each Sabbath, besides the continual whole burning and its drink offering.",
+  "maimonides": [
+   "P41: Bring the additional Sabbath offering"
+  ]
+ },
+ {
+  "id": "C0747",
+  "reference": "Leviticus 27:16–18",
+  "title": "Value a consecrated ancestral field by its seed and remaining Jubilee years",
+  "topic": "Covenant signs, vows and dedications",
+  "classification": "Covenant-specific instructions",
+  "original_audience": "Israelite ancestral field dedicator and assessing priest",
+  "context_note": "",
+  "verse_text": "[27:16] If a man consecrates unto the Lord part of the field of his possession, the valuation shall be according to its seed: fifty didrachmas of silver for a kor of barley. [27:17] If he consecrates his field from the year of release, it shall stand according to its valuation. [27:18] If he consecrates his field later, after the release, the priest shall calculate the silver for him according to the years remaining until the year of release, and a deduction shall be made from its assessment.",
+  "maimonides": [
+   "P117: Apply the valuation laws for consecrated fields"
+  ]
+ },
+ {
+  "id": "TL-04-15-27",
+  "reference": "Numbers 15:27–29",
+  "title": "Offer a year-old female goat for the individual inadvertent offense in this provision",
+  "topic": "Offerings, sacrifice and atonement",
+  "classification": "Covenant-specific instructions",
+  "original_audience": "An Israelite or resident sojourner who sins inadvertently under this provision, with the priest officiating",
+  "context_note": "The verse specifies a year-old female goat and one law for native and sojourner. C0859 describes the congregation’s distinct rite in verses 22–26. The separate Leviticus 4 provisions permit different offerings in their stated cases.",
+  "verse_text": "[15:27] But if one soul sins unintentionally, he shall present one year-old female goat for sin. [15:28] And the priest shall make atonement before the Lord for the person who acted unintentionally and sinned unintentionally, making atonement for that person. [15:29] For the native among the sons of Israel, and for the sojourner joined unto them, they shall have one law for whosoever acts unintentionally.",
+  "maimonides": []
+ },
+ {
+  "id": "AUD-04-15-30",
+  "reference": "Numbers 15:30–31",
+  "title": "Apply the stated judgment for defiant sin",
+  "topic": "Knowing, loving and obeying God",
+  "classification": "Application under review",
+  "original_audience": "Israelites and sojourners",
+  "context_note": "The provision applies to native Israelites and sojourners. It contrasts defiant contempt for God's word with the provisions for unintentional sin in the preceding verses.",
+  "verse_text": "[15:30] And the soul that acts with a presumptuous hand, whether of the natives or of the sojourners, provokes God; that soul shall be destroyed from his people, [15:31] because he treated the word of the Lord as worthless, and scattered His commandments. That soul shall surely be wiped out; his sin is upon him.",
+  "maimonides": []
+ },
+ {
+  "id": "C0931",
+  "reference": "Numbers 30:4–6",
+  "title": "Apply the stated confirmation or timely annulment rules to a young daughter's vow",
+  "topic": "Covenant signs, vows and dedications",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "A young daughter in her father’s household and the father hearing her vow, through Israel’s tribal heads",
+  "context_note": "",
+  "verse_text": "[30:4] If a woman vows a vow unto the Lord or imposes a restriction while in her father’s house in her youth, [30:5] and her father hears her vows and her restrictions that she imposed upon herself, but her father remains silent toward her, then all her vows shall stand, and all her restrictions that she imposed upon herself shall remain. [30:6] But if her father refuses her on the day he hears, none of her vows or restrictions that she imposed upon herself shall stand. The Lord will cleanse her, because her father refused her.",
+  "maimonides": [
+   "P95: Apply the laws of annulling vows"
+  ]
+ },
+ {
+  "id": "C0743",
+  "reference": "Leviticus 27:11–12, 14",
+  "title": "Treat the priest’s valuation of the specified vowed livestock or consecrated house as binding",
+  "topic": "Covenant signs, vows and dedications",
+  "classification": "Covenant-specific instructions",
+  "original_audience": "Israelite dedicators and priests appraising the specified livestock or houses",
+  "context_note": "",
+  "verse_text": "[27:11] If it concerns any unclean livestock of a kind not presented as a gift unto the Lord, he shall set the animal before the priest. [27:12] And the priest shall value it, between good and bad. As the priest values it, so it shall stand. [27:14] And if a man consecrates his house as holy unto the Lord, the priest shall value it, between good and bad. As the priest values it, so it shall stand.",
+  "maimonides": [
+   "P115: Apply the valuation laws for consecrated animals",
+   "P116: Apply the valuation laws for consecrated houses"
+  ]
+ },
+ {
+  "id": "C0881",
+  "reference": "Numbers 18:20",
+  "title": "Do not assign Aaron's and Levi's tribe an ordinary territorial inheritance",
+  "topic": "Sanctuary, priesthood and ministry",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Aaron and the Levites concerning ordinary territorial inheritance",
+  "context_note": "",
+  "verse_text": "[18:20] And the Lord spoke unto Aaron: You shall not inherit in their land, neither shall you have a portion among them; for I am your portion and your inheritance among the sons of Israel.",
+  "maimonides": [
+   "N169: Levites must not receive a territorial inheritance",
+   "N170: Levites must not take a share of war spoils"
+  ]
+ },
+ {
+  "id": "C0826",
+  "reference": "Numbers 6:21",
+  "title": "Nazirites: bring the gift undertaken in the vow of consecration",
+  "topic": "Covenant signs, vows and dedications",
+  "classification": "Covenant-specific instructions",
+  "original_audience": "Nazirites concerning their pledged gifts",
+  "context_note": "",
+  "verse_text": "[6:21] This is the law of him who vows unto the Lord, his gift unto the Lord concerning the vow, apart from whatever his hand may find, according to the extent of his vow which he vows under the law of consecration.",
+  "maimonides": []
+ },
+ {
+  "id": "C1064",
+  "reference": "Deuteronomy 17:17",
+  "title": "Ruler: do not multiply silver and gold for yourself",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel, with its ruler specifically bound",
+  "context_note": "",
+  "verse_text": "[17:17] And he shall not multiply wives unto himself, neither shall his heart turn aside; and he shall not greatly multiply silver and gold unto himself.",
+  "maimonides": [
+   "N365: The king must not amass excessive silver and gold"
+  ]
+ },
+ {
+  "id": "C1046",
+  "reference": "Deuteronomy 15:19",
+  "title": "Do not shear a firstborn sheep",
+  "topic": "Offerings, sacrifice and atonement",
+  "classification": "Fulfilled",
+  "original_audience": "Israelite owners of firstborn male sheep",
+  "context_note": "",
+  "verse_text": "[15:19] Every firstborn male that is born among your cattle and among your sheep you shall sanctify unto the Lord your God. You shall do no work with your firstborn calf, neither shall you shear the firstborn of your sheep.",
+  "maimonides": [
+   "N114: Do not shear consecrated (firstborn) animals"
+  ]
+ },
+ {
+  "id": "C1249",
+  "reference": "Numbers 35:25",
+  "title": "Congregation: return the accidental killer to the city of refuge",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The Israelite congregation deciding an accidental-killing case",
+  "context_note": "",
+  "verse_text": "[35:25] And the congregation shall rescue the killer from the kinsman who avenges blood and restore him to the city of refuge to which he fled. He shall live there until the high priest dies, whom they anointed with the holy oil.",
+  "maimonides": [
+   "P225: Exile the accidental killer to a city of refuge"
+  ]
+ },
+ {
+  "id": "C0950",
+  "reference": "Numbers 35:31",
+  "title": "Do not accept ransom for a condemned murderer",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel’s authorities administering the homicide judgment",
+  "context_note": "",
+  "verse_text": "[35:31] And you shall not accept a ransom for a life from the killer who is guilty and liable to be killed; he shall surely be put to death.",
+  "maimonides": [
+   "N295: Do not accept ransom to spare a convicted murderer"
+  ]
+ },
+ {
+  "id": "C1063",
+  "reference": "Deuteronomy 17:17",
+  "title": "Ruler: do not multiply wives for yourself",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel, with its ruler specifically bound",
+  "context_note": "",
+  "verse_text": "[17:17] And he shall not multiply wives unto himself, neither shall his heart turn aside; and he shall not greatly multiply silver and gold unto himself.",
+  "maimonides": [
+   "N364: The king must not take many wives"
+  ]
+ },
+ {
+  "id": "C1070",
+  "reference": "Deuteronomy 18:6–8",
+  "title": "Give that ministering Levite his equal allotted share",
+  "topic": "Sanctuary, priesthood and ministry",
+  "classification": "Transformed",
+  "original_audience": "Israel, with the incoming ministering Levite as the beneficiary",
+  "context_note": "",
+  "verse_text": "[18:6] And if a Levite comes from any of your cities, from among all the sons of Israel where he sojourns, according to the desire of his soul, unto the place which the Lord shall choose, [18:7] then he shall minister in the name of the Lord his God, as do all his brethren the Levites who stand there before the Lord. [18:8] He shall eat an allotted portion, apart from the sale according to his ancestral family.",
+  "maimonides": [
+   "P36: Priestly courses serve in rotation, all equally at festivals"
+  ]
+ },
+ {
+  "id": "C1023",
+  "reference": "Deuteronomy 13:9–10",
+  "title": "Report the secret enticer to idolatry and do not conceal him",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The Israelite approached by a close relative or friend who secretly entices that person to serve other gods",
+  "context_note": "",
+  "verse_text": "[13:9] you shall not consent unto him, neither shall you hearken unto him; neither shall your eye spare him, nor shall you yearn for him, nor conceal him. [13:10] You shall surely report him; your hands shall be first upon him to put him to death, and afterward the hands of all the people.",
+  "maimonides": [
+   "N21: Do not withhold incriminating evidence against the enticer"
+  ]
+ },
+ {
+  "id": "C0945",
+  "reference": "Numbers 35:19",
+  "title": "The blood-avenger: execute the condemned murderer under the prescribed judgment",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "The kinsman acting as blood-avenger under Israel’s homicide law",
+  "context_note": "",
+  "verse_text": "[35:19] The kinsman who avenges blood shall himself kill the murderer. When he encounters him, he shall kill him.",
+  "maimonides": []
+ },
+ {
+  "id": "C1014",
+  "reference": "Deuteronomy 12:8–9",
+  "title": "Do not make personal preference the rule of covenant worship",
+  "topic": "Sanctuary, priesthood and ministry",
+  "classification": "Covenant-specific instructions",
+  "original_audience": "Israelite worshipers entering the land",
+  "context_note": "",
+  "verse_text": "[12:8] You shall not do all that we do here this day, every man that which is pleasing in his own sight; [12:9] for you have not yet come unto the rest and unto the inheritance which the Lord your God gives you.",
+  "maimonides": []
+ },
+ {
+  "id": "C1162",
+  "reference": "Deuteronomy 23:19",
+  "title": "Do not bring the stated price of a dog as a sanctuary vow offering",
+  "topic": "Offerings, sacrifice and atonement",
+  "classification": "Covenant-specific instructions",
+  "original_audience": "Israelites bringing a sanctuary vow offering",
+  "context_note": "",
+  "verse_text": "[23:19] You shall not bring the hire of a prostitute, nor the price of a dog, into the house of the Lord your God for any vow; for both are an abomination unto the Lord your God.",
+  "maimonides": [
+   "N100: Do not offer a harlot's hire or a dog's price"
+  ]
+ },
+ {
+  "id": "AUD-05-20-17",
+  "reference": "Deuteronomy 20:17–18",
+  "title": "Apply the devotion judgment to the seven named nations",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Application under review",
+  "original_audience": "Israel at war in the land",
+  "context_note": "the Lord through Moses addresses Israel at war in the land in this passage.",
+  "verse_text": "[20:17] But you shall utterly devote them to destruction, the Hittites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, and the Girgashites, as the Lord your God commanded you, [20:18] lest they teach you to do all their abominations which they did unto their gods, and you sin before the Lord your God.",
+  "maimonides": [
+   "P187: Utterly destroy the seven Canaanite nations",
+   "N49: Do not let any of the seven nations live"
+  ]
+ },
+ {
+  "id": "C1074",
+  "reference": "Deuteronomy 18:11",
+  "title": "Do not practice as a medium",
+  "topic": "Knowing, loving and obeying God",
+  "classification": "Everlasting",
+  "original_audience": "Israel",
+  "context_note": "",
+  "verse_text": "[18:11] or chants spells, or is a medium, or observes portents, or inquires of the dead.",
+  "maimonides": [
+   "N8: Do not practise as a spirit medium (ov)"
+  ]
+ },
+ {
+  "id": "C1127",
+  "reference": "Deuteronomy 22:6–7",
+  "title": "Release the mother bird if taking her young or eggs",
+  "topic": "Land, harvests and provision for the poor",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "An Israelite encountering a nesting bird in the stated circumstances",
+  "context_note": "The nest may be on a tree or the ground and contain young or eggs. Release the mother; the passage permits taking what is in the nest.",
+  "verse_text": "[22:6] And if you come upon a bird’s nest before you in the way, in any tree or upon the ground, with young birds or eggs, and the mother sitting upon the young or upon the eggs, you shall not take the mother with the young. [22:7] You shall surely let the mother go, but the young you may take unto yourself, that it may be well with you, and that your days may be long.",
+  "maimonides": [
+   "P148: Send away the mother bird before taking the young",
+   "N306: Do not take the mother bird together with her young"
+  ]
+ },
+ {
+  "id": "C1164",
+  "reference": "Deuteronomy 23:25",
+  "title": "Pick a neighbor’s standing grain by hand without using a sickle",
+  "topic": "Covenant signs, vows and dedications",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israelites eating from a neighbor's standing harvest",
+  "context_note": "",
+  "verse_text": "[23:25] And if you enter your neighbour’s harvest, you may gather heads of grain with your hands; but you shall not put a sickle unto your neighbour’s harvest.",
+  "maimonides": [
+   "P201: Let a hired worker eat from the crop he harvests",
+   "N267: A hired worker must not eat the crop while working"
+  ]
+ },
+ {
+  "id": "C1145",
+  "reference": "Deuteronomy 23:7",
+  "title": "Do not seek the specified Ammonite and Moabite peace or advantage",
+  "topic": "Food, ritual purity and cleansing",
+  "classification": "Historical commissions",
+  "original_audience": "Israel in its covenant relations with the specified Ammonites and Moabites",
+  "context_note": "",
+  "verse_text": "[23:7] You shall not speak peace unto them, nor seek their advantage, all your days for ever.",
+  "maimonides": [
+   "N56: Do not offer peace to Ammon and Moab"
+  ]
+ },
+ {
+  "id": "C1093",
+  "reference": "Deuteronomy 20:5–8",
+  "title": "Honor the prescribed exemptions from battle for a house, vineyard, betrothal or fear",
+  "topic": "Justice, testimony, government and war",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel’s officers announcing the exemptions and troops who qualify",
+  "context_note": "",
+  "verse_text": "[20:5] And the scribes shall speak unto the people, saying: What man has built a new house, and has not dedicated it? Let him go and return unto his house, lest he die in the battle, and another man dedicate it. [20:6] And what man has planted a vineyard, and has not enjoyed its fruit? Let him go and return unto his house, lest he die in the battle, and another man enjoy its fruit. [20:7] And what man has betrothed a wife, and has not taken her? Let him go and return unto his house, lest he die in the battle, and another man take her. [20:8] And the scribes shall speak further unto the people, and say: What man is fearful and faint of heart? Let him go and return unto his house, lest he make the heart of his brother faint, as his own.",
+  "maimonides": []
+ },
+ {
+  "id": "C1146",
+  "reference": "Deuteronomy 23:8",
+  "title": "Do not abhor the Edomite",
+  "topic": "Food, ritual purity and cleansing",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "Israel",
+  "context_note": "",
+  "verse_text": "[23:8] You shall not abhor an Edomite, for he is your brother; you shall not abhor an Egyptian, for you were a resident alien in his land.",
+  "maimonides": [
+   "N54: Do not reject third-generation Edomite converts from the assembly"
+  ]
+ },
+ {
+  "id": "C1184",
+  "reference": "Deuteronomy 25:5",
+  "title": "The childless widow in the stated levirate case: do not marry outside the prescribed kinship",
+  "topic": "Marriage, family and care for parents",
+  "classification": "Israel’s civil and land laws",
+  "original_audience": "An Israelite widow in the childless marriage case",
+  "context_note": "",
+  "verse_text": "[25:5] And if brethren dwell together, and one of them dies, and has no seed, the wife of the dead shall not be married outside unto a man who is not near of kin. Her husband’s brother shall go in unto her, and take her unto himself for a wife, and dwell with her as husband.",
+  "maimonides": [
+   "N357: The levirate widow must not marry an outsider"
+  ]
+ }
+]
