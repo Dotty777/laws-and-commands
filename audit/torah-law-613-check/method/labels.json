@@ -1,0 +1,1261 @@
+{
+ "relabel": [
+  {
+   "id": "C0709",
+   "verdict": "relabel",
+   "suggest": "No Mosaic type",
+   "is_law": false,
+   "confidence": "high",
+   "note": "24:14 is the one-off order to stone Shelomith's son; same-verse C0707/C0708 are historical. Standing penalty is 24:16; re-reference there if kept as law.",
+   "current": "Torah Law"
+  },
+  {
+   "id": "AUD-05-20-17",
+   "verdict": "relabel",
+   "suggest": "No Mosaic type",
+   "is_law": false,
+   "confidence": "high",
+   "note": "Conquest ban on the seven named nations; the same direction at Deut 7:2 (C0997) and 7:3 (C0998) is filed as historical.",
+   "current": "Torah Law"
+  },
+  {
+   "id": "C1041",
+   "verdict": "relabel",
+   "suggest": "Torah Law",
+   "is_law": true,
+   "confidence": "high",
+   "note": "Attitude prohibition, not a procedure; the matching 15:7-9 prohibitions C1037, C1038, C1040 are Torah Law. C1039/C1043 deserve the same review.",
+   "current": "Mosaic Instruction"
+  },
+  {
+   "id": "C1044",
+   "verdict": "relabel",
+   "suggest": "Torah Law",
+   "is_law": true,
+   "confidence": "high",
+   "note": "Attitude rule within the servant-release law, not a procedure; sibling C1042 (do not send him away empty-handed) is Torah Law.",
+   "current": "Mosaic Instruction"
+  },
+  {
+   "id": "ot-leviticus-v13-32",
+   "verdict": "relabel",
+   "suggest": "Mosaic Instruction",
+   "is_law": true,
+   "confidence": "high",
+   "note": "Standing step of the priest's scall examination, not a one-off direction; siblings C0486, C0488, C0489 are Mosaic Instruction.",
+   "current": "Torah · Historical direction study"
+  },
+  {
+   "id": "ot-numbers-v5-30",
+   "verdict": "relabel",
+   "suggest": "Mosaic Instruction",
+   "is_law": true,
+   "confidence": "medium",
+   "note": "Colophon directing the priest to perform the jealousy procedure, whose steps are all Instruction; not a one-off historical direction.",
+   "current": "Torah · Historical direction study"
+  },
+  {
+   "id": "ot-numbers-v18-31",
+   "verdict": "relabel",
+   "suggest": "Torah Law",
+   "is_law": true,
+   "confidence": "high",
+   "note": "Standing permission: Levites and households may eat their tithe anywhere as wages; parallels AUD-04-18-11. Not a one-off direction.",
+   "current": "Torah · Historical direction study"
+  },
+  {
+   "id": "C1091",
+   "verdict": "relabel",
+   "suggest": "Torah Law",
+   "is_law": true,
+   "confidence": "medium",
+   "note": "Generic 'when you go to war' charge, not one-off; the rest of Deut 20 has Mosaic types. Cf. C0959 (Torah Law); Mosaic Command possible.",
+   "current": "Torah · Historical direction"
+  },
+  {
+   "id": "C1092",
+   "verdict": "relabel",
+   "suggest": "Mosaic Instruction",
+   "is_law": true,
+   "confidence": "high",
+   "note": "The priest's address before any battle is a standing procedure, exactly like the officers' address C1093 (Mosaic Instruction).",
+   "current": "Torah · Historical direction"
+  },
+  {
+   "id": "C1145",
+   "verdict": "relabel",
+   "suggest": "Torah Law",
+   "is_law": true,
+   "confidence": "high",
+   "note": "Perpetual prohibition ('all your days for ever') among the assembly laws C1142-C1148, all Torah Law.",
+   "current": "Torah · Historical direction"
+  }
+ ],
+ "torah_law_not_laws": [
+  {
+   "id": "C0709",
+   "verdict": "relabel",
+   "suggest": "No Mosaic type",
+   "is_law": false,
+   "confidence": "high",
+   "note": "24:14 is the one-off order to stone Shelomith's son; same-verse C0707/C0708 are historical. Standing penalty is 24:16; re-reference there if kept as law.",
+   "current": "Torah Law"
+  },
+  {
+   "id": "AUD-05-20-17",
+   "verdict": "relabel",
+   "suggest": "No Mosaic type",
+   "is_law": false,
+   "confidence": "high",
+   "note": "Conquest ban on the seven named nations; the same direction at Deut 7:2 (C0997) and 7:3 (C0998) is filed as historical.",
+   "current": "Torah Law"
+  }
+ ],
+ "613_mislabel_flags": [
+  {
+   "m": "P15",
+   "statement": "Affix God's words (mezuzah) to doorposts and gates",
+   "source": "Deut. 6:9",
+   "saints": "Deuteronomy 6:9",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0991",
+    "S113"
+   ],
+   "labels": [
+    "Mosaic Instruction",
+    "Torah · Topical study"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Standing household rule like tassels (C0860, Torah Law), yet C0991 is Mosaic Instruction."
+  },
+  {
+   "m": "P17",
+   "statement": "The king must write a Torah scroll for himself",
+   "source": "Deut. 17:18",
+   "saints": "Deuteronomy 17:18",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C1065"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "The king's prohibitions (C1060-C1064) are Torah Law; his scroll duty is Instruction."
+  },
+  {
+   "m": "P21",
+   "statement": "Revere the sanctuary",
+   "source": "Lev. 19:30",
+   "saints": "Leviticus 19:30",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0636"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Only C0636 (Mosaic Command) itemizes it, while 'revere father and mother' (C0595) is Torah Law; it reads as a standing rule."
+  },
+  {
+   "m": "P22",
+   "statement": "Guard the sanctuary (Levitical watch)",
+   "source": "Num. 18:4",
+   "saints": "Numbers 18:4",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0772"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Guard duty only as Command C0772 (Num 1:53; 3:7-8); C0874 holds 18:4 but states the outsider ban (N74)."
+  },
+  {
+   "m": "P23",
+   "statement": "Levites perform their service in the sanctuary",
+   "source": "Num. 18:23",
+   "saints": "Numbers 18:23",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0768",
+    "AUD-05-10-8"
+   ],
+   "labels": [
+    "Mosaic Command",
+    "Mosaic Commission"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Only Command C0768 and Commission AUD-05-10-8; Torah Law C0840 covers service ages only; the 18:23 clause has no record."
+  },
+  {
+   "m": "P24",
+   "statement": "Priests wash hands and feet before sanctuary service",
+   "source": "Ex. 30:19",
+   "saints": "Exodus 30:19",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0345"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "C0345 is Instruction despite 'perpetual statute' and 'so that they do not die'; the parallel undergarment rule C0301 (Ex 28:43) is Torah Law."
+  },
+  {
+   "m": "P26",
+   "statement": "Priests bless Israel with the priestly blessing",
+   "source": "Num. 6:23",
+   "saints": "Numbers 6:23",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0827",
+    "AUD-05-10-8"
+   ],
+   "labels": [
+    "Mosaic Instruction",
+    "Mosaic Commission"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Standing priestly duty under Instruction (Commission AUD-05-10-8 also names blessing); comparable priestly duty C0846 (trumpets) is Torah Law."
+  },
+  {
+   "m": "P31",
+   "statement": "Send the ritually impure out of the camp (sanctuary)",
+   "source": "Num. 5:2",
+   "saints": "Numbers 5:2",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0796"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Only Command C0796; parallel exclusion rules are Torah Law (C0494 leper outside camp, C1151 no re-entry), so this standing rule reads as Law."
+  },
+  {
+   "m": "P39",
+   "statement": "Offer the two daily (tamid) lambs",
+   "source": "Num. 28:3",
+   "saints": "Numbers 28:3",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0333"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Only Instruction C0333 (Num 28:3-8 attached), while Lev 23 festival offerings (C0681, C0694, C0699) are Torah Law."
+  },
+  {
+   "m": "P41",
+   "statement": "Bring the additional Sabbath offering",
+   "source": "Num. 28:9",
+   "saints": "Numbers 28:9",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0928"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Only Instruction C0928; festival additional offerings are Torah Law (C0694, C0696, C0699), so labelling is inconsistent."
+  },
+  {
+   "m": "P42",
+   "statement": "Bring the additional new-moon offering",
+   "source": "Num. 28:11",
+   "saints": "Numbers 28:11",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0929"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Only Instruction C0929; festival additional offerings are Torah Law elsewhere, so labelling is inconsistent."
+  },
+  {
+   "m": "P45",
+   "statement": "Bring the additional Shavuot offering",
+   "source": "Num. 28:26-27",
+   "saints": "Numbers 28:26 (+1)",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "AUD-04-28-27"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Only Instruction AUD-04-28-27; Torah Law C0687 covers the Lev 23:18-19 loaves offerings, which Maimonides counts under P46."
+  },
+  {
+   "m": "P53",
+   "statement": "Appear before the Lord at the sanctuary on the three festivals",
+   "source": "Ex. 34:23",
+   "saints": "Exodus 34:23",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "S134"
+   ],
+   "labels": [
+    "Torah · Topical study"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Only topical study S134 (Deut 16:16-17, Ex 34:23-24); Ex 23:17 uncited; C0230 (Law) covers keeping the feasts at Ex 23:14."
+  },
+  {
+   "m": "P60",
+   "statement": "Offer animals only from their eighth day onward",
+   "source": "Lev. 22:27",
+   "saints": "Leviticus 22:27",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0211"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Lev 22:27 has no own record; only C0211 (Exod 22:29, Instruction) holds it, though offering-eligibility rules are Torah Law."
+  },
+  {
+   "m": "P74",
+   "statement": "A man cured of a discharge brings his offering",
+   "source": "Lev. 15:13-15",
+   "saints": "Leviticus 15:13 (+2)",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0542",
+    "C1239"
+   ],
+   "labels": [
+    "Mosaic Instruction",
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Instruction, while the woman's parallel (AUD-03-15-29), childbirth (C0483) and metzora (C0511) offerings are Torah Law."
+  },
+  {
+   "m": "P79",
+   "statement": "Set apart the firstborn of clean animals as holy",
+   "source": "Ex. 13:2",
+   "saints": "Exodus 13:2",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0115",
+    "C0212"
+   ],
+   "labels": [
+    "Mosaic Command",
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "C0115 is Command, C0212 Instruction; Deut 15:19's sanctify clause is unitemized, while firstborn rules C0119, C0877, C1045 are Torah Law."
+  },
+  {
+   "m": "P81",
+   "statement": "Redeem the firstborn donkey with a lamb",
+   "source": "Ex. 34:20",
+   "saints": "Exodus 34:20",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0118"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "C0118 (Instruction) cites Ex 34:20; the same verses' 'redeem firstborn sons' (C0119) is Torah Law."
+  },
+  {
+   "m": "P99",
+   "statement": "Observe the impurity laws of a menstruating woman (niddah)",
+   "source": "Lev. 15:19",
+   "saints": "Leviticus 15:19",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "S062"
+   ],
+   "labels": [
+    "Torah · Topical study"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Lev 15:19-24 has no C/AUD record, only topical study S062; parallel discharge rules (C0533, AUD-03-15-25) are Torah Law."
+  },
+  {
+   "m": "P115",
+   "statement": "Apply the valuation laws for consecrated animals",
+   "source": "Lev. 27:11-12",
+   "saints": "Leviticus 27:11 (+1)",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0743"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Valuation itself is Instruction C0743; Torah Law C0744 covers only the added fifth. Person and field valuations (C0740, C0747) are Torah Law."
+  },
+  {
+   "m": "P116",
+   "statement": "Apply the valuation laws for consecrated houses",
+   "source": "Lev. 27:14",
+   "saints": "Leviticus 27:14",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0745"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Valuation itself is Instruction C0745; Torah Law C0746 covers only the added fifth. Person and field valuations are Torah Law."
+  },
+  {
+   "m": "P130",
+   "statement": "Separate the poor man's tithe in the third year",
+   "source": "Deut. 14:28",
+   "saints": "Deuteronomy 14:28",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C1034"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Standing poor-relief rule like gleanings (C0601, Torah Law), yet C1034 is Mosaic Instruction."
+  },
+  {
+   "m": "P137",
+   "statement": "Sound the shofar on the Jubilee Day of Atonement",
+   "source": "Lev. 25:9",
+   "saints": "Leviticus 25:9",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0717"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Jubilee shofar proclamation under Instruction while the Jubilee ordinance (C0718) is Torah Law; arguably procedural, flagged for review."
+  },
+  {
+   "m": "P140",
+   "statement": "Count seven sabbatical cycles of years to the Jubilee",
+   "source": "Lev. 25:8",
+   "saints": "Leviticus 25:8",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0716"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Count under Instruction while Jubilee rules (C0718, C0721-C0723) are Torah Law; arguably procedural, flagged for review."
+  },
+  {
+   "m": "P147",
+   "statement": "Cover the blood of slaughtered wild animals and birds",
+   "source": "Lev. 17:13",
+   "saints": "Leviticus 17:13",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0574"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "C0574 (Instruction) states it, but it is an everyday rule for every hunter, not a sanctuary or purification procedure."
+  },
+  {
+   "m": "P148",
+   "statement": "Send away the mother bird before taking the young",
+   "source": "Deut. 22:7",
+   "saints": "Deuteronomy 22:7",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C1128"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Standing rule filed as Instruction; its negative twin C1127 and comparable positive duties (C1129) are Torah Law."
+  },
+  {
+   "m": "P156",
+   "statement": "Remove (destroy) all leaven by 14 Nisan",
+   "source": "Exo. 12:15",
+   "saints": "Exodus 12:15",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0105"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "C0105 is typed Instruction while the paired bans C0109 (no leaven in houses) and AUD-02-13-7 are Torah Law."
+  },
+  {
+   "m": "P161",
+   "statement": "Count the Omer: forty-nine days from the sheaf offering",
+   "source": "Lev. 23:15",
+   "saints": "Leviticus 23:15",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0685"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Counting reads as a standing annual observance like festival rules labelled Torah Law; catalogue treats it as procedure (Deut 16:9 attached)."
+  },
+  {
+   "m": "P169",
+   "statement": "Take the four species (lulav) on Sukkot",
+   "source": "Lev. 23:40",
+   "saints": "Leviticus 23:40",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0702"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Annual observance binding all Israel, like dwelling in booths (C0704, Torah Law), yet labelled Instruction."
+  },
+  {
+   "m": "P174",
+   "statement": "Obey the rulings of the supreme court",
+   "source": "Deut. 17:11",
+   "saints": "Deuteronomy 17:11",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C1055"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Negative twin C1056 is Torah Law; obeying the ruling is filed as referral procedure (Instruction)."
+  },
+  {
+   "m": "P176",
+   "statement": "Appoint judges and officers in every town",
+   "source": "Deut. 16:18",
+   "saints": "Deuteronomy 16:18",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0956",
+    "S135"
+   ],
+   "labels": [
+    "Mosaic Command",
+    "Torah · Topical study"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Standing law at 16:18 has only S135; C0956 (1:13, Command) is a one-time appointment that notes 16:18."
+  },
+  {
+   "m": "P188",
+   "statement": "Wipe out the descendants of Amalek",
+   "source": "Deut. 25:19",
+   "saints": "Deuteronomy 25:19",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "C1197"
+   ],
+   "labels": [
+    "Torah · Historical direction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Standing judgment filed as historical direction while the parallel seven-nations judgment AUD-05-20-17 is Torah Law; arguably a one-time charge."
+  },
+  {
+   "m": "P195",
+   "statement": "Give charity to the poor",
+   "source": "Deut. 15:8",
+   "saints": "Deuteronomy 15:8",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C1039",
+    "C0731"
+   ],
+   "labels": [
+    "Mosaic Instruction",
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Negative counterparts C1037-C1038 are Torah Law; the positive duty is Instruction (15:8) and Command (Lev 25:35)."
+  },
+  {
+   "m": "P196",
+   "statement": "Give parting gifts to a freed Hebrew servant",
+   "source": "Deut. 15:14",
+   "saints": "Deuteronomy 15:14",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C1043"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Its negative twin C1042 (15:13) is Torah Law; the positive duty at 15:14 is Instruction."
+  },
+  {
+   "m": "P197",
+   "statement": "Lend money to the poor",
+   "source": "Exo. 22:24",
+   "saints": "Exodus 22:24",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C1039"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Ex 22:24 records state only pressing and interest; C1039 (Deut 15:8) is Instruction beside Torah Law C1037, C1038, C1040."
+  },
+  {
+   "m": "P205",
+   "statement": "Rebuke a neighbour who does wrong",
+   "source": "Lev. 19:17",
+   "saints": "Leviticus 19:17",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0616"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Only C0616 (Mosaic Command) itemizes it, though the same verse's prohibitions are Torah Law; it reads as a standing duty."
+  },
+  {
+   "m": "P209",
+   "statement": "Honour the aged and the wise (rise before them)",
+   "source": "Lev. 19:32",
+   "saints": "Leviticus 19:32",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0639",
+    "C0640"
+   ],
+   "labels": [
+    "Mosaic Command",
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Only Mosaic Command records C0639 and C0640 itemize it; a standing conduct rule like Torah Law C0595 (revere parents)."
+  },
+  {
+   "m": "P210",
+   "statement": "Honour father and mother",
+   "source": "Exo. 20:12",
+   "saints": "Exodus 20:12",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0153"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "C0153 is typed Command; the companion 'Revere father and mother' (Lev 19:3, C0595) is Torah Law."
+  },
+  {
+   "m": "P215",
+   "statement": "Circumcise sons (males) on the eighth day",
+   "source": "Gen. 17:10",
+   "saints": "Genesis 17:10",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "C0036"
+   ],
+   "labels": [
+    "Indexed instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Genesis record C0036 (record type Law, no Mosaic type); the Lev 12:3 eighth-day restatement is held only by passage group torah-leviticus-12-1."
+  },
+  {
+   "m": "P224",
+   "statement": "Flog the guilty as the court prescribes",
+   "source": "Deut. 25:2",
+   "saints": "Deuteronomy 25:2",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C1181"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Judicial penalty filed as Instruction; comparable penalty rules (C1182, C1089, C1193) are Torah Law."
+  },
+  {
+   "m": "P231",
+   "statement": "Bury the executed person on the day of execution",
+   "source": "Deut. 21:23",
+   "saints": "Deuteronomy 21:23",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C1121"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Standing rule filed as Instruction while its twin in the same sentence, C1120, is Torah Law."
+  },
+  {
+   "m": "N2",
+   "statement": "Do not make an idol for oneself (for worship)",
+   "source": "Ex 20:4",
+   "saints": "Exodus 20:4",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0147"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "C0147 is Command (also holds Ex 34:17, Deut 27:15); Lev 19:4, 26:1 idol-making clauses unitemized, while Lev 26:1 pillar/stone bans are Torah Law."
+  },
+  {
+   "m": "N3",
+   "statement": "Do not make an idol, even for others to worship",
+   "source": "Lev 19:4",
+   "saints": "Leviticus 19:4",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0147"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Lev 19:4's cast-gods clause has no own record; only Decalogue C0147 (Command, includes Exod 34:17 molten gods) states it. C0596 covers turning."
+  },
+  {
+   "m": "N5",
+   "statement": "Do not bow down to an idol",
+   "source": "Ex 20:5",
+   "saints": "Exodus 20:5",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0148"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Decalogue ban typed Command; the Ex 23:24 bowing clause sits in C0241 (imitation, Law); penalty AUD-05-17-5 is Torah Law."
+  },
+  {
+   "m": "N6",
+   "statement": "Do not worship idols in their customary manner",
+   "source": "Ex 20:5",
+   "saints": "Exodus 20:5",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0149"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Typed Command (with Deut 5:9, 7:16); the penalty for serving other gods, AUD-05-17-5, is Torah Law."
+  },
+  {
+   "m": "N48",
+   "statement": "Do not make a covenant with the seven nations",
+   "source": "Ex 23:32",
+   "saints": "Exodus 23:32",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "C0244"
+   ],
+   "labels": [
+    "Torah · Historical direction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "C0244 (with Ex 34:12, 15) is a historical direction; the seven-nations judgment AUD-05-20-17 is typed Torah Law."
+  },
+  {
+   "m": "N50",
+   "statement": "Do not show mercy or favor to idolaters",
+   "source": "Deu 7:2",
+   "saints": "Deuteronomy 7:2",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "C0997"
+   ],
+   "labels": [
+    "Torah · Historical direction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "C0997 is a historical direction, though AUD-05-20-17 labels the same devotion judgment (20:17-18) Torah Law."
+  },
+  {
+   "m": "N51",
+   "statement": "Do not let idolaters dwell in the land",
+   "source": "Ex 23:33",
+   "saints": "Exodus 23:33",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "C0245"
+   ],
+   "labels": [
+    "Torah · Historical direction"
+   ],
+   "mislabel": true,
+   "confidence": "low",
+   "note": "Historical direction framed as a removal judgment; the comparable AUD-05-20-17 (Deut 20:17-18) is typed Torah Law."
+  },
+  {
+   "m": "N52",
+   "statement": "Do not intermarry with idolatrous nations",
+   "source": "Deu 7:3",
+   "saints": "Deuteronomy 7:3",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "C0998"
+   ],
+   "labels": [
+    "Torah · Historical direction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Standing marriage prohibition filed as historical direction; comparable assembly restrictions (23:3-4, C1143-C1144) are Torah Law."
+  },
+  {
+   "m": "N56",
+   "statement": "Do not offer peace to Ammon and Moab",
+   "source": "Deu 23:7",
+   "saints": "Deuteronomy 23:7",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "C1145"
+   ],
+   "labels": [
+    "Torah · Historical direction"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Perpetual prohibition ('all your days for ever') filed as historical direction; the adjacent assembly rules C1144-C1147 are Torah Law."
+  },
+  {
+   "m": "N58",
+   "statement": "Do not fear the enemy in battle",
+   "source": "Deu 7:21",
+   "saints": "Deuteronomy 7:21",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "C1091",
+    "S116"
+   ],
+   "labels": [
+    "Torah · Historical direction",
+    "Torah · Topical study"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Saints 7:21 reads 'not be wounded'; C1091 (20:1-4) is historical direction amid Deut 20 war laws labeled Law/Instruction."
+  },
+  {
+   "m": "N62",
+   "statement": "Do not swear a vain (needless) oath by God's name",
+   "source": "Ex 20:7",
+   "saints": "Exodus 20:7",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0150"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "C0150 is typed Command; the companion false-oath ban of Lev 19:12 (C0604) is Torah Law."
+  },
+  {
+   "m": "N67",
+   "statement": "Do not leave the sanctuary unguarded",
+   "source": "Num 18:5",
+   "saints": "Numbers 18:5",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0774",
+    "C0772"
+   ],
+   "labels": [
+    "Mosaic Command",
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "low",
+   "note": "Only positive Command charges (C0774 holds 18:5; C0772 Levite guard); Maimonides reads 'keep the charge' as forbidding an unguarded sanctuary."
+  },
+  {
+   "m": "N104",
+   "statement": "Do not put oil on the sotah's meal offering",
+   "source": "Num 5:15",
+   "saints": "Numbers 5:15",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0800"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Exact parallel ban for the sinner's flour offering (C0418, Lev 5:11) is Torah Law, but this one is Instruction."
+  },
+  {
+   "m": "N105",
+   "statement": "Do not put frankincense on the sotah's meal offering",
+   "source": "Num 5:15",
+   "saints": "Numbers 5:15",
+   "status": "other_mosaic",
+   "type": "Instruction",
+   "records": [
+    "C0801"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Exact parallel ban (C0419, Lev 5:11) is Torah Law, but the jealousy-offering ban is Instruction."
+  },
+  {
+   "m": "N171",
+   "statement": "Do not make a bald spot in mourning for the dead",
+   "source": "Deu 14:1",
+   "saints": "Deuteronomy 14:1",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "S126"
+   ],
+   "labels": [
+    "Torah · Topical study"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "For Israel only topical study S126; Torah Law C0655 (Lev 21:5) covers priests only."
+  },
+  {
+   "m": "N184",
+   "statement": "Do not eat blood",
+   "source": "Lev 7:26",
+   "saints": "Leviticus 7:26",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "C0019"
+   ],
+   "labels": [
+    "Indexed instruction"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Only Genesis indexed record C0019 (adds Lev 7:26-27, Deut 12); no Torah Law record; Lev 17:10-12, 14 cited by no record."
+  },
+  {
+   "m": "N244",
+   "statement": "Do not steal money or property stealthily",
+   "source": "Lev 19:11",
+   "saints": "Leviticus 19:11",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0155"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Lev 19:11's 'You shall not steal' has no own record; only Decalogue C0155 (Command) states it, which Maimonides reads as kidnapping."
+  },
+  {
+   "m": "N265",
+   "statement": "Do not covet (scheme to acquire) another's property",
+   "source": "Ex 20:17",
+   "saints": "Exodus 20:17",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0159",
+    "C0158"
+   ],
+   "labels": [
+    "Mosaic Command",
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Both records typed Command; the similar 'Do not covet the silver or gold on idols' (C0999) is Torah Law."
+  },
+  {
+   "m": "N285",
+   "statement": "Do not testify falsely",
+   "source": "Ex 20:16",
+   "saints": "Exodus 20:16",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0157"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Typed Command; related witness laws C0216 (Ex 23:1) and C1089 (Deut 19:19) are Torah Law."
+  },
+  {
+   "m": "N289",
+   "statement": "Do not murder",
+   "source": "Ex 20:15",
+   "saints": "Exodus 20:15",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0156"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Decalogue ban typed Command; the murder penalty rules (AUD-04-35-16, C1083, C0950) are Torah Law."
+  },
+  {
+   "m": "N347",
+   "statement": "Do not have relations with another man's wife",
+   "source": "Lev 18:20",
+   "saints": "Leviticus 18:20",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0154"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Only the Decalogue record C0154 (Mosaic Command) holds Lev 18:20; Lev 18's other unions are Torah Law. C0646 gives only the penalty."
+  }
+ ],
+ "label_conflicts": [
+  {
+   "id": "D001",
+   "a": "C0096",
+   "b": "C0097",
+   "verdict": "overlap",
+   "note": "C0096 (12:8–9) includes the not-raw clause C0097 states. Narrow C0096 to the positive manner (roasted, with unleavened bread, bitter herbs); labels differ."
+  },
+  {
+   "id": "D002",
+   "a": "C0096",
+   "b": "C0098",
+   "verdict": "overlap",
+   "note": "C0096 (12:8–9) includes the not-boiled clause C0098 states. Narrow C0096 to the positive manner of roasting and eating; Instruction vs Law on one clause."
+  },
+  {
+   "id": "D025",
+   "a": "C0214",
+   "b": "C0215",
+   "verdict": "split",
+   "note": "Ban on eating torn flesh and its disposal to dogs are one rule's two halves; disposal is no rite step, so Instruction is unexplained."
+  },
+  {
+   "id": "D086",
+   "a": "C0616",
+   "b": "C0617",
+   "verdict": "split",
+   "note": "If 'not bear sin because of him' means guilt from failing to reprove, it is reproof's negative; Command vs Law is then unexplained."
+  },
+  {
+   "id": "D146",
+   "a": "C0883",
+   "b": "C0884",
+   "verdict": "overlap",
+   "note": "Both direct the Levites' portion from their tithe; C0884 adds 'best'. Narrow C0883 to 18:26–28 or merge; labels and classifications differ."
+  },
+  {
+   "id": "D166",
+   "a": "C1024",
+   "b": "C1025",
+   "verdict": "overlap",
+   "note": "Both cover the same execution (13:10–11); C1024 only adds who strikes first. Narrow C1025 to the sentence (13:11) or merge; labels differ."
+  },
+  {
+   "id": "D174",
+   "a": "C1055",
+   "b": "C1056",
+   "verdict": "split",
+   "note": "Following the court's judgment and not turning aside are one standing rule's two forms; Instruction vs Law is unexplained."
+  },
+  {
+   "id": "D195",
+   "a": "C1120",
+   "b": "C1121",
+   "verdict": "split",
+   "note": "'Do not leave overnight' and 'bury the same day' are one standing rule's two forms; Instruction vs Law is unexplained."
+  },
+  {
+   "id": "D197",
+   "a": "C1121",
+   "b": "C1122",
+   "verdict": "split",
+   "note": "Burial duty vs its negative (C1122, which duplicates C1120); Instruction vs Law for one rule is unexplained."
+  },
+  {
+   "id": "D198",
+   "a": "C1123",
+   "b": "C1124",
+   "verdict": "split",
+   "note": "Ban on disregarding vs safekeeping found property are the rule's two sides; safekeeping is a standing duty, so Instruction is unexplained."
+  },
+  {
+   "id": "D206",
+   "a": "C1150",
+   "b": "C1151",
+   "verdict": "split",
+   "note": "'Go outside the camp' and 'do not enter it' are one exclusion's two forms; a purity rule, not a rite step, so the labels conflict."
+  },
+  {
+   "id": "X004",
+   "a": "C0146",
+   "b": "C0995",
+   "verdict": "restatement",
+   "note": "Deut 6:14 repeats the first commandment's ban on other gods; fold into C0146 (Mosaic Command) as Additional Scripture; C0995 is labelled Torah Law."
+  }
+ ]
+}

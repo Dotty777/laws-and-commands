@@ -1,0 +1,2374 @@
+{
+ "same_passage": [
+  {
+   "a": "C0096",
+   "b": "C0097",
+   "overlap": 1,
+   "jaccard": 0.22,
+   "same_ref": false,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0096",
+   "b": "C0098",
+   "overlap": 1,
+   "jaccard": 0.22,
+   "same_ref": false,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0097",
+   "b": "C0098",
+   "overlap": 1,
+   "jaccard": 0.5,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0099",
+   "b": "C0100",
+   "overlap": 1,
+   "jaccard": 0.29,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0099",
+   "b": "C0101",
+   "overlap": 1,
+   "jaccard": 0.14,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0100",
+   "b": "C0101",
+   "overlap": 1,
+   "jaccard": 0.17,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0104",
+   "b": "C0105",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0104",
+   "b": "C0106",
+   "overlap": 1,
+   "jaccard": 0.3,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0105",
+   "b": "C0106",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0107",
+   "b": "C0108",
+   "overlap": 1,
+   "jaccard": 0.23,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0112",
+   "b": "C0113",
+   "overlap": 1,
+   "jaccard": 0.29,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0118",
+   "b": "C0119",
+   "overlap": 1,
+   "jaccard": 0.5,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0166",
+   "b": "C0167",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0169",
+   "b": "C0170",
+   "overlap": 1,
+   "jaccard": 0.5,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0169",
+   "b": "C0171",
+   "overlap": 1,
+   "jaccard": 0.4,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0170",
+   "b": "C0171",
+   "overlap": 1,
+   "jaccard": 0.4,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0182",
+   "b": "C0183",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0182",
+   "b": "C0184",
+   "overlap": 3,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0182",
+   "b": "C0185",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0189",
+   "b": "C0190",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0193",
+   "b": "C0195",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0205",
+   "b": "C0206",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0208",
+   "b": "C0209",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0213",
+   "b": "C0214",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Command/Law"
+  },
+  {
+   "a": "C0214",
+   "b": "C0215",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0217",
+   "b": "C0218",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0221",
+   "b": "C0222",
+   "overlap": 1,
+   "jaccard": 0.18,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0223",
+   "b": "C0224",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0223",
+   "b": "C0225",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0224",
+   "b": "C0225",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0227",
+   "b": "C0228",
+   "overlap": 1,
+   "jaccard": 0.2,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0231",
+   "b": "C0232",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0233",
+   "b": "C0234",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0235",
+   "b": "C0236",
+   "overlap": 1,
+   "jaccard": 0.11,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0237",
+   "b": "C0238",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0325",
+   "b": "C0326",
+   "overlap": 2,
+   "jaccard": 0.45,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0328",
+   "b": "C0329",
+   "overlap": 1,
+   "jaccard": 0.08,
+   "same_ref": false,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0330",
+   "b": "C0331",
+   "overlap": 1,
+   "jaccard": 0.1,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0338",
+   "b": "C0339",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0338",
+   "b": "C0340",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0339",
+   "b": "C0340",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0348",
+   "b": "C0349",
+   "overlap": 2,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0389",
+   "b": "C0390",
+   "overlap": 1,
+   "jaccard": 0.14,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0389",
+   "b": "C0391",
+   "overlap": 1,
+   "jaccard": 0.2,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0390",
+   "b": "C0391",
+   "overlap": 2,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0392",
+   "b": "C0393",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0418",
+   "b": "C0419",
+   "overlap": 1,
+   "jaccard": 0.67,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0422",
+   "b": "C0423",
+   "overlap": 1,
+   "jaccard": 0.09,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0427",
+   "b": "C0428",
+   "overlap": 1,
+   "jaccard": 0.11,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0427",
+   "b": "C0429",
+   "overlap": 1,
+   "jaccard": 0.12,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0428",
+   "b": "C0429",
+   "overlap": 1,
+   "jaccard": 0.4,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0435",
+   "b": "C0436",
+   "overlap": 1,
+   "jaccard": 0.5,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0449",
+   "b": "C0450",
+   "overlap": 1,
+   "jaccard": 0.38,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0454",
+   "b": "C0455",
+   "overlap": 1,
+   "jaccard": 0.71,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0467",
+   "b": "C0468",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0472",
+   "b": "C0473",
+   "overlap": 1,
+   "jaccard": 0.3,
+   "same_ref": false,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0476",
+   "b": "C0477",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0481",
+   "b": "C0482",
+   "overlap": 1,
+   "jaccard": 0.22,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0490",
+   "b": "C0491",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0490",
+   "b": "C0492",
+   "overlap": 1,
+   "jaccard": 0.38,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0490",
+   "b": "C0493",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0491",
+   "b": "C0492",
+   "overlap": 1,
+   "jaccard": 0.38,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0491",
+   "b": "C0493",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0492",
+   "b": "C0493",
+   "overlap": 1,
+   "jaccard": 0.29,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0534",
+   "b": "C0536",
+   "overlap": 4,
+   "jaccard": 0.27,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0535",
+   "b": "C0536",
+   "overlap": 4,
+   "jaccard": 0.3,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0543",
+   "b": "C0544",
+   "overlap": 1,
+   "jaccard": 0.44,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0568",
+   "b": "C0569",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0577",
+   "b": "C0578",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0590",
+   "b": "C0591",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0597",
+   "b": "C0598",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0599",
+   "b": "C0600",
+   "overlap": 1,
+   "jaccard": 0.14,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0599",
+   "b": "C0601",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0600",
+   "b": "C0601",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0602",
+   "b": "C0603",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0605",
+   "b": "C0606",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0605",
+   "b": "C0607",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0606",
+   "b": "C0607",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0608",
+   "b": "C0609",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0608",
+   "b": "C0610",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Command"
+  },
+  {
+   "a": "C0609",
+   "b": "C0610",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Command"
+  },
+  {
+   "a": "C0611",
+   "b": "C0612",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0613",
+   "b": "C0614",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0615",
+   "b": "C0616",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Command"
+  },
+  {
+   "a": "C0615",
+   "b": "C0617",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0616",
+   "b": "C0617",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Command/Law"
+  },
+  {
+   "a": "C0618",
+   "b": "C0619",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0618",
+   "b": "C0620",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Command"
+  },
+  {
+   "a": "C0619",
+   "b": "C0620",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Command"
+  },
+  {
+   "a": "C0621",
+   "b": "C0622",
+   "overlap": 1,
+   "jaccard": 0.12,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0621",
+   "b": "C0623",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0622",
+   "b": "C0623",
+   "overlap": 1,
+   "jaccard": 0.11,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0628",
+   "b": "C0629",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0628",
+   "b": "C0630",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0629",
+   "b": "C0630",
+   "overlap": 1,
+   "jaccard": 0.17,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0631",
+   "b": "C0632",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0633",
+   "b": "C0634",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0637",
+   "b": "C0638",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0656",
+   "b": "C0657",
+   "overlap": 1,
+   "jaccard": 0.4,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0656",
+   "b": "C0658",
+   "overlap": 1,
+   "jaccard": 0.4,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0657",
+   "b": "C0658",
+   "overlap": 1,
+   "jaccard": 0.6,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0661",
+   "b": "C0662",
+   "overlap": 1,
+   "jaccard": 0.43,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0664",
+   "b": "C0665",
+   "overlap": 1,
+   "jaccard": 0.22,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0666",
+   "b": "C0667",
+   "overlap": 2,
+   "jaccard": 0.43,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0670",
+   "b": "C0671",
+   "overlap": 2,
+   "jaccard": 0.13,
+   "same_ref": false,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0675",
+   "b": "C0676",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0688",
+   "b": "C1225",
+   "overlap": 1,
+   "jaccard": 0.18,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0689",
+   "b": "C0690",
+   "overlap": 1,
+   "jaccard": 0.17,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0691",
+   "b": "C0692",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0693",
+   "b": "C0694",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0695",
+   "b": "C0696",
+   "overlap": 1,
+   "jaccard": 0.29,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0697",
+   "b": "C0698",
+   "overlap": 2,
+   "jaccard": 0.44,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0697",
+   "b": "C0699",
+   "overlap": 1,
+   "jaccard": 0.1,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0697",
+   "b": "C0700",
+   "overlap": 1,
+   "jaccard": 0.09,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0698",
+   "b": "C0699",
+   "overlap": 1,
+   "jaccard": 0.11,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0698",
+   "b": "C0700",
+   "overlap": 1,
+   "jaccard": 0.1,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0699",
+   "b": "C0700",
+   "overlap": 1,
+   "jaccard": 0.12,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0712",
+   "b": "C0713",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0714",
+   "b": "C0715",
+   "overlap": 1,
+   "jaccard": 0.36,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0718",
+   "b": "C0719",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Command"
+  },
+  {
+   "a": "C0718",
+   "b": "C0720",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0719",
+   "b": "C0720",
+   "overlap": 1,
+   "jaccard": 0.12,
+   "same_ref": true,
+   "types": "Command/Law"
+  },
+  {
+   "a": "C0721",
+   "b": "C0722",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0721",
+   "b": "C0723",
+   "overlap": 1,
+   "jaccard": 0.22,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0722",
+   "b": "C0723",
+   "overlap": 1,
+   "jaccard": 0.36,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0738",
+   "b": "C0739",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0741",
+   "b": "C0742",
+   "overlap": 1,
+   "jaccard": 0.1,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0743",
+   "b": "C0744",
+   "overlap": 3,
+   "jaccard": 0.18,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0745",
+   "b": "C0746",
+   "overlap": 2,
+   "jaccard": 0.22,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0751",
+   "b": "AUD-03-27-24",
+   "overlap": 2,
+   "jaccard": 0.3,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0755",
+   "b": "C0756",
+   "overlap": 1,
+   "jaccard": 0.6,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0757",
+   "b": "C0758",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0761",
+   "b": "C0762",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0761",
+   "b": "C0763",
+   "overlap": 1,
+   "jaccard": 0.4,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0762",
+   "b": "C0763",
+   "overlap": 1,
+   "jaccard": 0.22,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0768",
+   "b": "C0770",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Command/Law"
+  },
+  {
+   "a": "C0770",
+   "b": "C1244",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0770",
+   "b": "C1245",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0811",
+   "b": "C0812",
+   "overlap": 2,
+   "jaccard": 0.57,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0811",
+   "b": "C0813",
+   "overlap": 2,
+   "jaccard": 0.22,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0812",
+   "b": "C0813",
+   "overlap": 2,
+   "jaccard": 0.2,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0814",
+   "b": "C0815",
+   "overlap": 1,
+   "jaccard": 0.12,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0819",
+   "b": "C0820",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0877",
+   "b": "C0878",
+   "overlap": 1,
+   "jaccard": 0.09,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0877",
+   "b": "C0879",
+   "overlap": 1,
+   "jaccard": 0.1,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0883",
+   "b": "C0884",
+   "overlap": 1,
+   "jaccard": 0.2,
+   "same_ref": false,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0890",
+   "b": "C0892",
+   "overlap": 2,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0891",
+   "b": "C0892",
+   "overlap": 2,
+   "jaccard": 0.27,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0902",
+   "b": "C0903",
+   "overlap": 1,
+   "jaccard": 0.09,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C0943",
+   "b": "C0944",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0946",
+   "b": "C0947",
+   "overlap": 1,
+   "jaccard": 0.08,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0946",
+   "b": "C0948",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0946",
+   "b": "C1249",
+   "overlap": 1,
+   "jaccard": 0.08,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0947",
+   "b": "C0948",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0947",
+   "b": "C1249",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0948",
+   "b": "C1249",
+   "overlap": 1,
+   "jaccard": 0.18,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0958",
+   "b": "C0959",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0958",
+   "b": "C0960",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0959",
+   "b": "C0960",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C0975",
+   "b": "C0976",
+   "overlap": 1,
+   "jaccard": 0.4,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C0993",
+   "b": "C0994",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Command/Law"
+  },
+  {
+   "a": "C0999",
+   "b": "C1000",
+   "overlap": 1,
+   "jaccard": 0.6,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1001",
+   "b": "C1002",
+   "overlap": 1,
+   "jaccard": 0.5,
+   "same_ref": true,
+   "types": "Law/Command"
+  },
+  {
+   "a": "C1021",
+   "b": "C1022",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1023",
+   "b": "C1025",
+   "overlap": 2,
+   "jaccard": 0.29,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C1024",
+   "b": "C1025",
+   "overlap": 2,
+   "jaccard": 0.09,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C1028",
+   "b": "C1030",
+   "overlap": 1,
+   "jaccard": 0.29,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C1029",
+   "b": "C1030",
+   "overlap": 1,
+   "jaccard": 0.5,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C1035",
+   "b": "C1036",
+   "overlap": 3,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1037",
+   "b": "C1038",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1045",
+   "b": "C1046",
+   "overlap": 1,
+   "jaccard": 0.2,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1053",
+   "b": "AUD-05-17-5",
+   "overlap": 3,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "AUD-05-17-5",
+   "b": "C1054",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1055",
+   "b": "C1056",
+   "overlap": 2,
+   "jaccard": 0.1,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C1058",
+   "b": "C1059",
+   "overlap": 2,
+   "jaccard": 0.29,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1060",
+   "b": "C1061",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1060",
+   "b": "C1062",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1061",
+   "b": "C1062",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1063",
+   "b": "C1064",
+   "overlap": 1,
+   "jaccard": 0.5,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1069",
+   "b": "C1070",
+   "overlap": 3,
+   "jaccard": 0.08,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1071",
+   "b": "C1072",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1071",
+   "b": "AUD-05-18-10",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1072",
+   "b": "AUD-05-18-10",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1073",
+   "b": "C1074",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1073",
+   "b": "C1075",
+   "overlap": 1,
+   "jaccard": 0.17,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1073",
+   "b": "C1076",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1074",
+   "b": "C1075",
+   "overlap": 1,
+   "jaccard": 0.2,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1074",
+   "b": "C1076",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1075",
+   "b": "C1076",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1085",
+   "b": "C1086",
+   "overlap": 1,
+   "jaccard": 0.29,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1098",
+   "b": "C1099",
+   "overlap": 3,
+   "jaccard": 0.11,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1113",
+   "b": "C1114",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1113",
+   "b": "C1115",
+   "overlap": 1,
+   "jaccard": 0.22,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1114",
+   "b": "C1115",
+   "overlap": 1,
+   "jaccard": 0.5,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1120",
+   "b": "C1121",
+   "overlap": 1,
+   "jaccard": 0.11,
+   "same_ref": true,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C1120",
+   "b": "C1122",
+   "overlap": 1,
+   "jaccard": 0.2,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1121",
+   "b": "C1122",
+   "overlap": 1,
+   "jaccard": 0.09,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C1123",
+   "b": "C1124",
+   "overlap": 1,
+   "jaccard": 0.11,
+   "same_ref": false,
+   "types": "Law/Instruction"
+  },
+  {
+   "a": "C1125",
+   "b": "C1126",
+   "overlap": 1,
+   "jaccard": 0.67,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "AUD-05-22-9",
+   "b": "AUD-05-22-9-2",
+   "overlap": 1,
+   "jaccard": 0.11,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1133",
+   "b": "C1134",
+   "overlap": 1,
+   "jaccard": 0.07,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1139",
+   "b": "C1140",
+   "overlap": 2,
+   "jaccard": 0.2,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1139",
+   "b": "C1141",
+   "overlap": 2,
+   "jaccard": 0.22,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1140",
+   "b": "C1141",
+   "overlap": 2,
+   "jaccard": 0.38,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1146",
+   "b": "C1147",
+   "overlap": 1,
+   "jaccard": 0.33,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1150",
+   "b": "C1151",
+   "overlap": 1,
+   "jaccard": 0.18,
+   "same_ref": true,
+   "types": "Instruction/Law"
+  },
+  {
+   "a": "C1157",
+   "b": "C1158",
+   "overlap": 1,
+   "jaccard": 0.25,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1159",
+   "b": "C1160",
+   "overlap": 1,
+   "jaccard": 0.14,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1161",
+   "b": "C1162",
+   "overlap": 1,
+   "jaccard": 0.5,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1167",
+   "b": "C1168",
+   "overlap": 1,
+   "jaccard": 0.2,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1177",
+   "b": "AUD-05-24-17",
+   "overlap": 1,
+   "jaccard": 0.12,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "AUD-05-24-18",
+   "b": "C1179",
+   "overlap": 1,
+   "jaccard": 0.0,
+   "same_ref": false,
+   "types": "Command/Law"
+  },
+  {
+   "a": "C1184",
+   "b": "C1185",
+   "overlap": 1,
+   "jaccard": 0.17,
+   "same_ref": true,
+   "types": "Law/Law"
+  },
+  {
+   "a": "C1193",
+   "b": "C1194",
+   "overlap": 2,
+   "jaccard": 0.12,
+   "same_ref": true,
+   "types": "Law/Law"
+  }
+ ],
+ "cross_passage": [
+  {
+   "a": "C0931",
+   "b": "C0932",
+   "sim": 0.65,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0581",
+   "b": "C0587",
+   "sim": 0.62,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0715",
+   "b": "C0723",
+   "sim": 0.61,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0146",
+   "b": "C0995",
+   "sim": 0.61,
+   "types": "Command/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C1142",
+   "b": "C1143",
+   "sim": 0.61,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0714",
+   "b": "C0722",
+   "sim": 0.57,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C1143",
+   "b": "C1144",
+   "sim": 0.54,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0746",
+   "b": "C0748",
+   "sim": 0.53,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0174",
+   "b": "C0175",
+   "sim": 0.51,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0582",
+   "b": "C0583",
+   "sim": 0.51,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0582",
+   "b": "C0584",
+   "sim": 0.51,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0592",
+   "b": "C0649",
+   "sim": 0.49,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C1132",
+   "b": "C1134",
+   "sim": 0.49,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0744",
+   "b": "C0746",
+   "sim": 0.48,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0581",
+   "b": "C0585",
+   "sim": 0.47,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0741",
+   "b": "C0761",
+   "sim": 0.47,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C1142",
+   "b": "C1144",
+   "sim": 0.47,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0579",
+   "b": "C0584",
+   "sim": 0.46,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0692",
+   "b": "C0695",
+   "sim": 0.46,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0578",
+   "b": "C0579",
+   "sim": 0.45,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0647",
+   "b": "C0648",
+   "sim": 0.45,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0578",
+   "b": "C0583",
+   "sim": 0.43,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0741",
+   "b": "C0763",
+   "sim": 0.43,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0748",
+   "b": "C0760",
+   "sim": 0.42,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0445",
+   "b": "C0875",
+   "sim": 0.41,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0681",
+   "b": "C0698",
+   "sim": 0.41,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0105",
+   "b": "C0109",
+   "sim": 0.4,
+   "types": "Instruction/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0437",
+   "b": "C0445",
+   "sim": 0.4,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0578",
+   "b": "C0585",
+   "sim": 0.39,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0579",
+   "b": "C0585",
+   "sim": 0.39,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0607",
+   "b": "C1175",
+   "sim": 0.39,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0663",
+   "b": "C0816",
+   "sim": 0.39,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0681",
+   "b": "C0697",
+   "sim": 0.39,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0578",
+   "b": "C0581",
+   "sim": 0.38,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0579",
+   "b": "C0582",
+   "sim": 0.38,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0590",
+   "b": "C0644",
+   "sim": 0.38,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0155",
+   "b": "C0602",
+   "sim": 0.38,
+   "types": "Command/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0681",
+   "b": "C0699",
+   "sim": 0.38,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0742",
+   "b": "C0762",
+   "sim": 0.38,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0746",
+   "b": "C0760",
+   "sim": 0.38,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0422",
+   "b": "C0424",
+   "sim": 0.37,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0478",
+   "b": "C0536",
+   "sim": 0.37,
+   "types": "Instruction/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0585",
+   "b": "C0587",
+   "sim": 0.37,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0647",
+   "b": "C0649",
+   "sim": 0.37,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0689",
+   "b": "C0692",
+   "sim": 0.37,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "AUD-05-12-15",
+   "b": "AUD-05-15-22",
+   "sim": 0.37,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0577",
+   "b": "C0579",
+   "sim": 0.36,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0681",
+   "b": "C0700",
+   "sim": 0.36,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "AUD-04-28-27",
+   "b": "C0687",
+   "sim": 0.36,
+   "types": "Instruction/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0742",
+   "b": "C0763",
+   "sim": 0.36,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0180",
+   "b": "C1090",
+   "sim": 0.35,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0203",
+   "b": "C0641",
+   "sim": 0.35,
+   "types": "Law/Command",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0219",
+   "b": "C0611",
+   "sim": 0.35,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0422",
+   "b": "C0426",
+   "sim": 0.35,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0568",
+   "b": "C0696",
+   "sim": 0.35,
+   "types": "Law/Law",
+   "linked_as_additional": true
+  },
+  {
+   "a": "C0569",
+   "b": "C0696",
+   "sim": 0.35,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0642",
+   "b": "C0643",
+   "sim": 0.35,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0648",
+   "b": "C0649",
+   "sim": 0.35,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0683",
+   "b": "C0857",
+   "sim": 0.35,
+   "types": "Law/Instruction",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0693",
+   "b": "C0698",
+   "sim": 0.35,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "AUD-02-13-7",
+   "b": "C0104",
+   "sim": 0.34,
+   "types": "Law/Law",
+   "linked_as_additional": true
+  },
+  {
+   "a": "C0472",
+   "b": "C0478",
+   "sim": 0.34,
+   "types": "Law/Instruction",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0578",
+   "b": "C0580",
+   "sim": 0.34,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0579",
+   "b": "C0581",
+   "sim": 0.34,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0578",
+   "b": "C0582",
+   "sim": 0.34,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0689",
+   "b": "C0695",
+   "sim": 0.34,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0690",
+   "b": "C0698",
+   "sim": 0.34,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0742",
+   "b": "C0761",
+   "sim": 0.34,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0104",
+   "b": "C0231",
+   "sim": 0.33,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0201",
+   "b": "C0593",
+   "sim": 0.33,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0544",
+   "b": "C0545",
+   "sim": 0.33,
+   "types": "Law/Instruction",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0568",
+   "b": "C0695",
+   "sim": 0.33,
+   "types": "Law/Law",
+   "linked_as_additional": true
+  },
+  {
+   "a": "C0580",
+   "b": "C0582",
+   "sim": 0.33,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0155",
+   "b": "C0603",
+   "sim": 0.33,
+   "types": "Command/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0579",
+   "b": "C0647",
+   "sim": 0.33,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0680",
+   "b": "C0692",
+   "sim": 0.33,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0744",
+   "b": "C0760",
+   "sim": 0.33,
+   "types": "Law/Law",
+   "linked_as_additional": false
+  },
+  {
+   "a": "C0567",
+   "b": "C0892",
+   "sim": 0.33,
+   "types": "Instruction/Law",
+   "linked_as_additional": false
+  }
+ ],
+ "law_procedural_titles": [
+  "C0104",
+  "C0114",
+  "C0173",
+  "C0178",
+  "C0180",
+  "C0184",
+  "C0188",
+  "C0197",
+  "C0198",
+  "C0202",
+  "C0237",
+  "C0371",
+  "C0394",
+  "C0400",
+  "C0411",
+  "C0422",
+  "C0424",
+  "C0426",
+  "C0437",
+  "C0445",
+  "C0447",
+  "C0449",
+  "C0451",
+  "AUD-03-10-14",
+  "C0476",
+  "C0483",
+  "C0492",
+  "C0511",
+  "C0533",
+  "AUD-03-15-29",
+  "C0571",
+  "C0624",
+  "C0625",
+  "C0646",
+  "C0647",
+  "C0648",
+  "C0649",
+  "C0650",
+  "C0651",
+  "C0653",
+  "C0660",
+  "C0678",
+  "C0681",
+  "C0683",
+  "C0686",
+  "C0687",
+  "C0694",
+  "C0696",
+  "C0699",
+  "C0700",
+  "C0701",
+  "C0706",
+  "C0709",
+  "C0728",
+  "C0736",
+  "C0740",
+  "C0758",
+  "C0759",
+  "C0770",
+  "AUD-04-15-30",
+  "C0860",
+  "C0875",
+  "C0883",
+  "C0904",
+  "C0931",
+  "C0932",
+  "C0943",
+  "AUD-04-35-16",
+  "C1020",
+  "C1025",
+  "C1027",
+  "AUD-05-15-22",
+  "C1057",
+  "C1079",
+  "C1096",
+  "C1098",
+  "AUD-05-20-17",
+  "C1119",
+  "C1135",
+  "C1136",
+  "C1137",
+  "C1140",
+  "C1192",
+  "C1193"
+ ],
+ "other_prohibition_titles": [
+  "C0147",
+  "C0148",
+  "C0149",
+  "C0150",
+  "C0154",
+  "C0155",
+  "C0156",
+  "C0157",
+  "C0158",
+  "C0159",
+  "C0384",
+  "C0414",
+  "C0489",
+  "C0800",
+  "C0801",
+  "C0861",
+  "C0977",
+  "C0982",
+  "C0992",
+  "C1010",
+  "C1041",
+  "C1044"
+ ]
+}

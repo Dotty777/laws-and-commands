@@ -1,0 +1,3231 @@
+{
+ "gaps": [
+  {
+   "m": "P9",
+   "statement": "Sanctify God's name publicly (kiddush Hashem)",
+   "source": "Lev. 22:32",
+   "saints": "Leviticus 22:32",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0591"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "high",
+   "note": "C0591 holds Lev 22:32 but states only the ban on profaning; no record states sanctifying the name.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0591 holds Lev 22:32 but states only the ban on profaning; no record states sanctifying the name."
+  },
+  {
+   "m": "P18",
+   "statement": "Every Israelite must write a Torah scroll",
+   "source": "Deut. 31:19",
+   "saints": "Deuteronomy 31:19",
+   "status": "partial",
+   "type": "none",
+   "records": [
+    "C1218"
+   ],
+   "labels": [
+    "Torah · Personal historical direction"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Catalogue treats 31:19 as Moses' one-time song commission; Maimonides derives a universal duty to write a Torah scroll.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Catalogue treats 31:19 as Moses' one-time song commission; Maimonides derives a universal duty to write a Torah scroll."
+  },
+  {
+   "m": "P33",
+   "statement": "Priests wear the priestly garments during their service",
+   "source": "Ex. 28:2",
+   "saints": "Exodus 28:2",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0301",
+    "C0293",
+    "C0286"
+   ],
+   "labels": [
+    "Torah Law",
+    "Mosaic Instruction",
+    "Mosaic Instruction"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "No general record; C0301 (Law) covers undergarments when ministering, C0293 the high priest's robe; C0286 holds 28:2 for making the ephod.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "No general record; C0301 (Law) covers undergarments when ministering, C0293 the high priest's robe; C0286 holds 28:2 for making the ephod."
+  },
+  {
+   "m": "P37",
+   "statement": "A priest must defile himself for close relatives (mourning)",
+   "source": "Lev. 21:2-3",
+   "saints": "Leviticus 21:2 (+1)",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0654"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0654 names the relatives only as exceptions (permission); the duty to mourn them is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0654 names the relatives only as exceptions (permission); the duty to mourn them is not stated."
+  },
+  {
+   "m": "P82",
+   "statement": "Break the neck of an unredeemed firstborn donkey",
+   "source": "Ex. 13:13",
+   "saints": "Exodus 13:13",
+   "status": "partial",
+   "type": "Instruction",
+   "records": [
+    "C0118"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": false,
+   "confidence": "high",
+   "note": "Saints (LXX) Ex 13:13 and 34:20 say 'redeem it'/'give its value', with no neck-breaking; C0118 states the redemption.",
+   "category": "Saints wording differs",
+   "why": "The Saints (Greek) text says 'redeem it' / 'give its value', with no neck-breaking."
+  },
+  {
+   "m": "P83",
+   "statement": "Bring vowed and freewill offerings at the next pilgrimage festival",
+   "source": "Deut. 12:5-6",
+   "saints": "Deuteronomy 12:5 (+1)",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0571"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "low",
+   "note": "No record at 12:5-6; C0571 (Lev 17:3-5) requires bringing sacrifices to the sanctuary; the festival timing is not stated.",
+   "category": "Text states it, no record does",
+   "why": "Deuteronomy 12:5–6 (bring offerings to the chosen place) is attached to no record; C0571 gives the general rule from Leviticus 17."
+  },
+  {
+   "m": "P85",
+   "statement": "Bring offerings from outside the Land to the sanctuary",
+   "source": "Deut. 12:26",
+   "saints": "Deuteronomy 12:26",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0571"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "low",
+   "note": "No record at 12:26; C0571 (Lev 17:3-5) gives only the general bring-to-sanctuary rule.",
+   "category": "Text states it, no record does",
+   "why": "Deuteronomy 12:26 (take your holy things to the chosen place) is attached to no record."
+  },
+  {
+   "m": "P86",
+   "statement": "Redeem consecrated animals that became blemished",
+   "source": "Deut. 12:15",
+   "saints": "Deuteronomy 12:15",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "AUD-05-12-15"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "AUD-05-12-15 reads 12:15 as permitting ordinary local slaughter; Rambam's redemption of blemished offerings is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "AUD-05-12-15 reads 12:15 as permitting ordinary local slaughter; Rambam's redemption of blemished offerings is not stated."
+  },
+  {
+   "m": "P99",
+   "statement": "Observe the impurity laws of a menstruating woman (niddah)",
+   "source": "Lev. 15:19",
+   "saints": "Leviticus 15:19",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "S062"
+   ],
+   "labels": [
+    "Torah · Topical study"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Lev 15:19-24 has no C/AUD record, only topical study S062; parallel discharge rules (C0533, AUD-03-15-25) are Torah Law.",
+   "category": "No itemized Mosaic record (only a Genesis record or a topical study)",
+   "why": "Leviticus 15:19–24 is held only by the topical study S062; no itemized record."
+  },
+  {
+   "m": "P142",
+   "statement": "Exact debts from a foreigner",
+   "source": "Deut. 15:3",
+   "saints": "Deuteronomy 15:3",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1035",
+    "C1036"
+   ],
+   "labels": [
+    "Torah Law",
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Both records hold 15:3 but state only the release for an Israelite brother; the foreigner clause is not itemized.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Both records hold 15:3 but state only the release for an Israelite brother; the foreigner clause is not itemized."
+  },
+  {
+   "m": "P146",
+   "statement": "Slaughter animals by the prescribed method before eating",
+   "source": "Deut. 12:21",
+   "saints": "Deuteronomy 12:21",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "AUD-05-12-15"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "AUD-05-12-15 states permission for local slaughter; the commanded slaughter method ('as I commanded you') is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "AUD-05-12-15 states permission for local slaughter; the commanded slaughter method ('as I commanded you') is not stated."
+  },
+  {
+   "m": "P153",
+   "statement": "Court sanctifies new months and fixes the calendar",
+   "source": "Ex. 12:2",
+   "saints": "Exodus 12:2",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0091"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0091 fixes the Exodus month as first of the year; monthly sanctification and intercalation by the court are not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0091 fixes the Exodus month as first of the year; monthly sanctification and intercalation by the court are not stated."
+  },
+  {
+   "m": "P155",
+   "statement": "Sanctify the Sabbath verbally (Kiddush and Havdalah)",
+   "source": "Exo. 20:8",
+   "saints": "Exodus 20:8",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0129"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "No record itemizes Ex 20:8 itself; C0129 holds the Deut 5:12 parallel but states Sabbath rest, not verbal sanctification.",
+   "category": "Text states it, no record does",
+   "why": "Exodus 20:8 ('remember the Sabbath day to keep it holy') is attached to no record."
+  },
+  {
+   "m": "P175",
+   "statement": "Decide by majority vote in judicial disputes",
+   "source": "Exo. 23:2",
+   "saints": "Exodus 23:2",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0217"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "high",
+   "note": "Saints (LXX) Ex 23:2 lacks 'incline after the majority'; C0217 and C0218 state only the negative clauses.",
+   "category": "Saints wording differs",
+   "why": "The Saints (Greek) text of Exodus 23:2 lacks 'incline after the majority'."
+  },
+  {
+   "m": "P176",
+   "statement": "Appoint judges and officers in every town",
+   "source": "Deut. 16:18",
+   "saints": "Deuteronomy 16:18",
+   "status": "other_mosaic",
+   "type": "Command",
+   "records": [
+    "C0956",
+    "S135"
+   ],
+   "labels": [
+    "Mosaic Command",
+    "Torah · Topical study"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Standing law at 16:18 has only S135; C0956 (1:13, Command) is a one-time appointment that notes 16:18.",
+   "category": "No itemized Mosaic record (only a Genesis record or a topical study)",
+   "why": "Deuteronomy 16:18 is held only by the topical study S135; C0956 is the one-time appointment of Deuteronomy 1:13."
+  },
+  {
+   "m": "P213",
+   "statement": "Marry a wife by formal betrothal (kiddushin)",
+   "source": "Deut. 24:1",
+   "saints": "Deuteronomy 24:1",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1166"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1166 holds 24:1 but states the remarriage ban; no record directs marriage by betrothal or contract.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C1166 holds 24:1 but states the remarriage ban; no record directs marriage by betrothal or contract."
+  },
+  {
+   "m": "P215",
+   "statement": "Circumcise sons (males) on the eighth day",
+   "source": "Gen. 17:10",
+   "saints": "Genesis 17:10",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "C0036"
+   ],
+   "labels": [
+    "Indexed instruction"
+   ],
+   "mislabel": true,
+   "confidence": "medium",
+   "note": "Genesis record C0036 (record type Law, no Mosaic type); the Lev 12:3 eighth-day restatement is held only by passage group torah-leviticus-12-1.",
+   "category": "No itemized Mosaic record (only a Genesis record or a topical study)",
+   "why": "only the Genesis 17 record C0036 states it; Leviticus 12:3 is attached to no record."
+  },
+  {
+   "m": "P222",
+   "statement": "Divorce only by giving a written bill of divorce",
+   "source": "Deut. 24:1",
+   "saints": "Deuteronomy 24:1",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1166"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1166 holds 24:1 but states the remarriage ban; S149 and K008/K012 discuss divorce, but none directs the written bill.",
+   "category": "Text states it, no record does",
+   "why": "Deuteronomy 24:1 describes the written bill of divorce; the only record there (C1166) states the remarriage ban."
+  },
+  {
+   "m": "P226",
+   "statement": "Court executes by the sword those so sentenced",
+   "source": "Exo. 21:20",
+   "saints": "Exodus 21:20",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0178"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0178 states the judgment on a master who kills a slave; the sword mode is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0178 states the judgment on a master who kills a slave; the sword mode is not stated."
+  },
+  {
+   "m": "P227",
+   "statement": "Court executes by strangulation those so sentenced",
+   "source": "Exo. 21:16 (Saints 21:17)",
+   "saints": "Exodus 21:17",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0176"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0176 states the kidnapper's death penalty (Saints 21:17); the strangulation mode is not in the text.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0176 states the kidnapper's death penalty (Saints 21:17); the strangulation mode is not in the text."
+  },
+  {
+   "m": "P229",
+   "statement": "Execute by stoning those liable to stoning",
+   "source": "Deut. 22:24",
+   "saints": "Deuteronomy 22:24",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1136"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Only case-specific stoning judgments exist (C1136, C0709, AUD-05-17-5 etc.); no general stoning-procedure record.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Only case-specific stoning judgments exist (C1136, C0709, AUD-05-17-5 etc.); no general stoning-procedure record."
+  },
+  {
+   "m": "P230",
+   "statement": "Hang the body of an executed blasphemer or idolater",
+   "source": "Deut. 21:22",
+   "saints": "Deuteronomy 21:22",
+   "status": "broad_only",
+   "type": "none",
+   "records": [
+    "torah-deuteronomy-21-1"
+   ],
+   "labels": [
+    "Torah · Passage group"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Saints reads 21:22 conditionally; C1120-C1122 presuppose hanging, but no record states the duty to hang.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Saints reads 21:22 conditionally; C1120-C1122 presuppose hanging, but no record states the duty to hang."
+  },
+  {
+   "m": "P233",
+   "statement": "Master must designate (betroth) the Hebrew maidservant",
+   "source": "Exo. 21:8",
+   "saints": "Exodus 21:8",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0166",
+    "C0168"
+   ],
+   "labels": [
+    "Torah Law",
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0166 states her redemption and C0168 her rights as the son's bride; the designation duty itself is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0166 states her redemption and C0168 her rights as the son's bride; the designation duty itself is not stated."
+  },
+  {
+   "m": "P245",
+   "statement": "Conduct buying and selling according to Torah law",
+   "source": "Lev. 25:14",
+   "saints": "Leviticus 25:14",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "AUD-03-25-14"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "No record states the general law of sale; AUD-03-25-14 holds 25:14 but states the overreaching ban (N250).",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "No record states the general law of sale; AUD-03-25-14 holds 25:14 but states the overreaching ban (N250)."
+  },
+  {
+   "m": "P247",
+   "statement": "Save the pursued, even by killing the pursuer",
+   "source": "Deut. 25:12",
+   "saints": "Deuteronomy 25:12",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1193"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Maimonides derives a duty to rescue from 'cut off her hand'; C1193 states only the plain-sense penalty.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Maimonides derives a duty to rescue from 'cut off her hand'; C1193 states only the plain-sense penalty."
+  },
+  {
+   "m": "N4",
+   "statement": "Do not make human figures, even for decoration",
+   "source": "Ex 20:23",
+   "saints": "Exodus 20:23",
+   "status": "partial",
+   "type": "Command",
+   "records": [
+    "C0147"
+   ],
+   "labels": [
+    "Mosaic Command"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0147 holds Ex 20:22-23 but states idols for worship; the decorative-image ban is not addressed. Its context_note holds a leftover edit instruction.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0147 holds Ex 20:22-23 but states idols for worship; the decorative-image ban is not addressed. Its context_note holds a leftover edit instruction."
+  },
+  {
+   "m": "N15",
+   "statement": "Do not lead others (the masses) to idolatry",
+   "source": "Ex 23:13",
+   "saints": "Exodus 23:13",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0229"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0229 covers invoking other gods' names; inciting others appears only as penalty law (C1025, Deut 13:10-12).",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0229 covers invoking other gods' names; inciting others appears only as penalty law (C1025, Deut 13:10-12)."
+  },
+  {
+   "m": "N16",
+   "statement": "Do not entice an individual to idolatry",
+   "source": "Deu 13:12",
+   "saints": "Deuteronomy 13:12",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1025"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1025 holds 13:12 but states the death judgment; the prohibition on enticing itself has no record.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C1025 holds 13:12 but states the death judgment; the prohibition on enticing itself has no record."
+  },
+  {
+   "m": "N17",
+   "statement": "Do not love the enticer to idolatry",
+   "source": "Deu 13:9",
+   "saints": "Deuteronomy 13:9",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1021",
+    "C1019"
+   ],
+   "labels": [
+    "Torah Law",
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Plain sense 'do not consent' fits C1019 (13:4); C1021 bars sparing from attachment; not loving him is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Plain sense 'do not consent' fits C1019 (13:4); C1021 bars sparing from attachment; not loving him is not stated."
+  },
+  {
+   "m": "N18",
+   "statement": "Do not stop hating the enticer to idolatry",
+   "source": "Deu 13:9",
+   "saints": "Deuteronomy 13:9",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1019"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1019 gives the plain sense 'do not hearken'; Rambam's reading, keep hating the enticer, is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C1019 gives the plain sense 'do not hearken'; Rambam's reading, keep hating the enticer, is not stated."
+  },
+  {
+   "m": "N65",
+   "statement": "Do not destroy holy places or erase God's name",
+   "source": "Deu 12:4",
+   "saints": "Deuteronomy 12:4",
+   "status": "partial",
+   "type": "none",
+   "records": [
+    "S122"
+   ],
+   "labels": [
+    "Torah · Topical study"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "S122 reads 12:4 as not worshipping God by pagan practices; Rambam's ban on destroying holy things is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "S122 reads 12:4 as not worshipping God by pagan practices; Rambam's ban on destroying holy things is not stated."
+  },
+  {
+   "m": "N76",
+   "statement": "A priest who immersed may not serve before sunset",
+   "source": "Lev 21:6",
+   "saints": "Leviticus 21:6",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "AUD-03-21-6"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "AUD-03-21-6 states general priestly holiness and notes no bathing-timing rule; C0670 bars unclean priests generally.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "AUD-03-21-6 states general priestly holiness and notes no bathing-timing rule; C0670 bars unclean priests generally."
+  },
+  {
+   "m": "N77",
+   "statement": "An impure person must not enter the sanctuary camp",
+   "source": "Num 5:3",
+   "saints": "Numbers 5:3",
+   "status": "partial",
+   "type": "Command",
+   "records": [
+    "C0796",
+    "C0482",
+    "AUD-04-19-13"
+   ],
+   "labels": [
+    "Mosaic Command",
+    "Torah Law",
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0796 holds 5:3 but states sending out; Torah Law bans on entering cover only postpartum (C0482) and corpse cases (AUD-04-19-13).",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0796 holds 5:3 but states sending out; Torah Law bans on entering cover only postpartum (C0482) and corpse cases (AUD-04-19-13)."
+  },
+  {
+   "m": "N88",
+   "statement": "Do not tear the high priest's robe",
+   "source": "Ex 28:32",
+   "saints": "Exodus 28:32",
+   "status": "partial",
+   "type": "Instruction",
+   "records": [
+    "C0292"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": false,
+   "confidence": "high",
+   "note": "C0292 covers making the robe's reinforced neck opening; Saints text has a purpose clause ('so that it is not torn'); no prohibition record.",
+   "category": "Saints wording differs",
+   "why": "The Saints text has a purpose clause ('so that it is not torn'), not a prohibition."
+  },
+  {
+   "m": "N97",
+   "statement": "Do not inflict a blemish on a consecrated animal",
+   "source": "Lev 22:21",
+   "saints": "Leviticus 22:21",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0675"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0675 holds Lev 22:21 but bans offering blemished animals, not causing a blemish.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0675 holds Lev 22:21 but bans offering blemished animals, not causing a blemish."
+  },
+  {
+   "m": "N118",
+   "statement": "Do not leave festival (chagigah) meat until the third day",
+   "source": "Deu 16:4",
+   "saints": "Deuteronomy 16:4",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0099"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0099 reads 16:4 as the Passover-overnight rule (Rambam's N117); the chagigah rule is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0099 reads 16:4 as the Passover-overnight rule (Rambam's N117); the chagigah rule is not stated."
+  },
+  {
+   "m": "N132",
+   "statement": "Do not eat piggul, an offering invalidated by improper intent",
+   "source": "Lev 7:18",
+   "saints": "Leviticus 7:18",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0453"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0453 gives the plain third-day eating reading (Maimonides' notar territory); piggul from improper intent is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0453 gives the plain third-day eating reading (Maimonides' notar territory); piggul from improper intent is not stated."
+  },
+  {
+   "m": "N133",
+   "statement": "A non-priest must not eat terumah (holy food)",
+   "source": "Lev 22:10",
+   "saints": "Leviticus 22:10",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "AUD-03-22-10"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "AUD-03-22-10 states only the lodger/hired clause; the general outsider ban is itemized only for the consecration meal (C0329).",
+   "category": "Text states it, no record does",
+   "why": "Leviticus 22:10 ('no outsider shall eat the holy thing') has no record of its own; AUD-03-22-10 states only the lodger and hired-worker clause."
+  },
+  {
+   "m": "N135",
+   "statement": "An uncircumcised priest must not eat terumah",
+   "source": "Lev 22:10",
+   "saints": "Leviticus 22:10",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "AUD-03-22-10"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Derived from Lev 22:10; AUD-03-22-10 holds the verse but no record states the uncircumcised exclusion (C0111 is Passover).",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Derived from Lev 22:10; AUD-03-22-10 holds the verse but no record states the uncircumcised exclusion (C0111 is Passover)."
+  },
+  {
+   "m": "N140",
+   "statement": "Do not eat consecrated animals that became disqualified",
+   "source": "Deu 14:3",
+   "saints": "Deuteronomy 14:3",
+   "status": "broad_only",
+   "type": "none",
+   "records": [
+    "S127"
+   ],
+   "labels": [
+    "Torah · Topical study"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Rambam reads 'no abominable thing' as disqualified offerings; only the 18-verse food study S127 holds 14:3.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Rambam reads 'no abominable thing' as disqualified offerings; only the 18-verse food study S127 holds 14:3."
+  },
+  {
+   "m": "N146",
+   "statement": "Do not eat the meat of a burnt offering",
+   "source": "Deu 12:17",
+   "saints": "Deuteronomy 12:17",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1016"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1016 holds 12:17 but states the eat-at-sanctuary rule; Rambam's ban on eating burnt offerings is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C1016 holds 12:17 but states the eat-at-sanctuary rule; Rambam's ban on eating burnt offerings is not stated."
+  },
+  {
+   "m": "N147",
+   "statement": "Do not eat lesser offerings before their blood is sprinkled",
+   "source": "Deu 12:17",
+   "saints": "Deuteronomy 12:17",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1016"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1016 holds 12:17; the before-sprinkling prohibition is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C1016 holds 12:17; the before-sprinkling prohibition is not stated."
+  },
+  {
+   "m": "N148",
+   "statement": "Priests must not eat firstfruits before placing them in the court",
+   "source": "Deu 12:18",
+   "saints": "Deuteronomy 12:18",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1016"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1016 lists 'firstfruits of your hands' but states only the place rule, not this timing.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C1016 lists 'firstfruits of your hands' but states only the place rule, not this timing."
+  },
+  {
+   "m": "N150",
+   "statement": "Do not eat second tithe while ritually unclean",
+   "source": "Deu 26:14",
+   "saints": "Deuteronomy 26:14",
+   "status": "partial",
+   "type": "Instruction",
+   "records": [
+    "C1202"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1202 is the declaration reciting these abstentions (Saints: 'for an unclean use'); no record states the prohibition itself.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C1202 is the declaration reciting these abstentions (Saints: 'for an unclean use'); no record states the prohibition itself."
+  },
+  {
+   "m": "N151",
+   "statement": "Do not eat second tithe while in mourning",
+   "source": "Deu 26:14",
+   "saints": "Deuteronomy 26:14",
+   "status": "partial",
+   "type": "Instruction",
+   "records": [
+    "C1202"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1202 is the declaration reciting this abstention; no record states the prohibition itself.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C1202 is the declaration reciting this abstention; no record states the prohibition itself."
+  },
+  {
+   "m": "N152",
+   "statement": "Spend second-tithe redemption money only on food and drink",
+   "source": "Deu 26:14",
+   "saints": "Deuteronomy 26:14",
+   "status": "partial",
+   "type": "Instruction",
+   "records": [
+    "C1202",
+    "C1033"
+   ],
+   "labels": [
+    "Mosaic Instruction",
+    "Mosaic Instruction"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Only the declaration C1202 holds 26:14; C1033 (Deut 14:26) directs spending tithe silver on the sacred meal, not the prohibition.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Only the declaration C1202 holds 26:14; C1033 (Deut 14:26) directs spending tithe silver on the sacred meal, not the prohibition."
+  },
+  {
+   "m": "N153",
+   "statement": "Do not eat untithed produce (tevel)",
+   "source": "Lev 22:15",
+   "saints": "Leviticus 22:15",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0674"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0674 holds Lev 22:15 but states not profaning holy contributions; no record bans eating untithed produce.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0674 holds Lev 22:15 but states not profaning holy contributions; no record bans eating untithed produce."
+  },
+  {
+   "m": "N170",
+   "statement": "Levites must not take a share of war spoils",
+   "source": "Deu 18:1",
+   "saints": "Deuteronomy 18:1",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0881"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0881 holds 18:1 for land inheritance only; Rambam reads 'portion' as spoils.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0881 holds 18:1 for land inheritance only; Rambam reads 'portion' as spoils."
+  },
+  {
+   "m": "N182",
+   "statement": "Do not eat a limb from a living animal",
+   "source": "Deu 12:23",
+   "saints": "Deuteronomy 12:23",
+   "status": "partial",
+   "type": "none",
+   "records": [
+    "C0019"
+   ],
+   "labels": [
+    "Indexed instruction"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0019 (Gen 9:4, with 12:23-25) states the blood prohibition; eating flesh from a living animal is not itemized.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0019 (Gen 9:4, with 12:23-25) states the blood prohibition; eating flesh from a living animal is not itemized."
+  },
+  {
+   "m": "N183",
+   "statement": "Do not eat the sciatic nerve (gid hanasheh)",
+   "source": "Gen 32:33",
+   "saints": "Genesis 32:33",
+   "status": "broad_only",
+   "type": "none",
+   "records": [
+    "torah-genesis-32-25"
+   ],
+   "labels": [
+    "Passage group"
+   ],
+   "mislabel": false,
+   "confidence": "high",
+   "note": "Only the Genesis 32 passage group, which treats the sinew as a narrated custom (Study Context); no itemized record.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Only the Genesis 32 passage group, which treats the sinew as a narrated custom (Study Context); no itemized record."
+  },
+  {
+   "m": "N184",
+   "statement": "Do not eat blood",
+   "source": "Lev 7:26",
+   "saints": "Leviticus 7:26",
+   "status": "other_record",
+   "type": "none",
+   "records": [
+    "C0019"
+   ],
+   "labels": [
+    "Indexed instruction"
+   ],
+   "mislabel": true,
+   "confidence": "high",
+   "note": "Only Genesis indexed record C0019 (adds Lev 7:26-27, Deut 12); no Torah Law record; Lev 17:10-12, 14 cited by no record.",
+   "category": "No itemized Mosaic record (only a Genesis record or a topical study)",
+   "why": "only the Genesis 9:4 record C0019 (no Mosaic type) states it; Leviticus 17:10–12, 14 are attached to no record."
+  },
+  {
+   "m": "N187",
+   "statement": "Do not eat meat cooked with milk",
+   "source": "Ex 34:26",
+   "saints": "Exodus 34:26",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0238",
+    "C0237"
+   ],
+   "labels": [
+    "Torah Law",
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "high",
+   "note": "No record states eating meat with milk; C0238 bars boiling (Ex 23:19 only); C0237 cites 34:26 for firstfruits. Saints 34:26 reads 'offer'.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "No record states eating meat with milk; C0238 bars boiling (Ex 23:19 only); C0237 cites 34:26 for firstfruits. Saints 34:26 reads 'offer'."
+  },
+  {
+   "m": "N194",
+   "statement": "Do not drink wine poured as an idol libation",
+   "source": "Deu 32:38",
+   "saints": "Deuteronomy 32:38",
+   "status": "broad_only",
+   "type": "none",
+   "records": [
+    "ot-deuteronomy-v32-38",
+    "torah-deuteronomy-32-1"
+   ],
+   "labels": [
+    "Torah · Passage study",
+    "Torah · Passage group"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Poetic verse held only by a passage study and group; no record bars idol-libation wine. A111 (Acts 15:29) bars idol food among four abstentions.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Poetic verse held only by a passage study and group; no record bars idol-libation wine. A111 (Acts 15:29) bars idol food among four abstentions."
+  },
+  {
+   "m": "N195",
+   "statement": "Do not eat and drink like a glutton (rebellious son)",
+   "source": "Lev 19:26",
+   "saints": "Leviticus 19:26",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0628"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0628 follows the Saints 'eat on the mountains' reading; no record states the glutton prohibition (C1118-C1119 treat the rebellious-son case).",
+   "category": "Saints wording differs",
+   "why": "The Saints text of Leviticus 19:26 reads 'eat on the mountains'."
+  },
+  {
+   "m": "N199",
+   "statement": "Do not eat leaven after midday on Passover eve",
+   "source": "Deu 16:3",
+   "saints": "Deuteronomy 16:3",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0106"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0106 holds 16:3 for the seven-day leaven ban; the eve-afternoon prohibition is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0106 holds 16:3 for the seven-day leaven ban; the eve-afternoon prohibition is not stated."
+  },
+  {
+   "m": "N236",
+   "statement": "Do not borrow at interest from a fellow Israelite",
+   "source": "Deu 23:20",
+   "saints": "Deuteronomy 23:20",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0206"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0206 (citing Deut 23:20) bars the lender; Maimonides reads 23:20 as barring the borrower, which no record states.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0206 (citing Deut 23:20) bars the lender; Maimonides reads 23:20 as barring the borrower, which no record states."
+  },
+  {
+   "m": "N237",
+   "statement": "Do not join an interest loan as guarantor, witness or scribe",
+   "source": "Ex 22:24",
+   "saints": "Exodus 22:24",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0206"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0206 states the lender's interest ban (with Lev 25:36-37, Deut 23:20); participation by others is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0206 states the lender's interest ban (with Lev 25:36-37, Deut 23:20); participation by others is not stated."
+  },
+  {
+   "m": "N281",
+   "statement": "Judge must not hear one litigant without the other",
+   "source": "Ex 23:1",
+   "saints": "Exodus 23:1",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0216"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0216 bans accepting or circulating false reports (which Maimonides includes); the judge's one-sided hearing rule is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0216 bans accepting or circulating false reports (which Maimonides includes); the judge's one-sided hearing rule is not stated."
+  },
+  {
+   "m": "N282",
+   "statement": "Do not convict in capital cases by a majority of one",
+   "source": "Ex 23:2",
+   "saints": "Exodus 23:2",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0217"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0217 bans following the crowd into wrongdoing; the capital-case majority rule is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0217 bans following the crowd into wrongdoing; the capital-case majority rule is not stated."
+  },
+  {
+   "m": "N283",
+   "statement": "Judge who argued acquittal must not then argue conviction",
+   "source": "Ex 23:2",
+   "saints": "Exodus 23:2",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0218"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0218 states 'do not pervert justice'; the capital-case argument rule is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0218 states 'do not pervert justice'; the capital-case argument rule is not stated."
+  },
+  {
+   "m": "N284",
+   "statement": "Do not appoint a judge unlearned in the law",
+   "source": "Deu 1:17",
+   "saints": "Deuteronomy 1:17",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0958",
+    "C0956"
+   ],
+   "labels": [
+    "Torah Law",
+    "Mosaic Command"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Rambam reads 1:17 as barring unfit appointments; C0958 states impartiality; C0956 (1:13, Command) only requires choosing qualified judges.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Rambam reads 1:17 as barring unfit appointments; C0958 states impartiality; C0956 (1:13, Command) only requires choosing qualified judges."
+  },
+  {
+   "m": "N286",
+   "statement": "Do not accept testimony from a wicked person",
+   "source": "Ex 23:1",
+   "saints": "Exodus 23:1",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0216"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "No record itemizes Ex 23:1b (unrighteous witness); C0216 states only the false-report clause.",
+   "category": "Text states it, no record does",
+   "why": "Exodus 23:1b (do not join the wicked as an unrighteous witness) has no record; C0216 states only the false-report clause."
+  },
+  {
+   "m": "N287",
+   "statement": "Do not accept testimony from relatives",
+   "source": "Deu 24:16",
+   "saints": "Deuteronomy 24:16",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1176"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Maimonides reads 'fathers shall not die for children' as barring relatives' testimony; C1176 states the plain individual-responsibility rule.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Maimonides reads 'fathers shall not die for children' as barring relatives' testimony; C1176 states the plain individual-responsibility rule."
+  },
+  {
+   "m": "N291",
+   "statement": "A witness in a capital case must not act as judge",
+   "source": "Num 35:30",
+   "saints": "Numbers 35:30",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0949"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0949 states the single-witness rule (Rambam's N288); Rambam reads this verse as barring a witness from judging the case.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0949 states the single-witness rule (Rambam's N288); Rambam reads this verse as barring a witness from judging the case."
+  },
+  {
+   "m": "N293",
+   "statement": "Do not take pity on a pursuer",
+   "source": "Deu 25:12",
+   "saints": "Deuteronomy 25:12",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1194"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1194 forbids sparing the punished offender; Maimonides applies 'your eye shall not spare' to stopping any pursuer.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C1194 forbids sparing the punished offender; Maimonides applies 'your eye shall not spare' to stopping any pursuer."
+  },
+  {
+   "m": "N297",
+   "statement": "Do not stand idly by when a life is in danger",
+   "source": "Lev 19:16",
+   "saints": "Leviticus 19:16",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0614"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Saints reads 'conspire against the blood'; C0614 forbids conspiring, not standing by. No record states the duty to rescue.",
+   "category": "Saints wording differs",
+   "why": "The Saints text of Leviticus 19:16 reads 'conspire against the blood'; C0614 states that."
+  },
+  {
+   "m": "N298",
+   "statement": "Do not leave dangerous hazards on your property",
+   "source": "Deu 22:8",
+   "saints": "Deuteronomy 22:8",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C1129"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1129 requires the parapet only; Maimonides' wider ban on leaving any hazard ('bloodshed in your house') is not itemized.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C1129 requires the parapet only; Maimonides' wider ban on leaving any hazard ('bloodshed in your house') is not itemized."
+  },
+  {
+   "m": "N303",
+   "statement": "Do not shame or embarrass a person when rebuking",
+   "source": "Lev 19:17",
+   "saints": "Leviticus 19:17",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0617"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0617 holds the clause but reads it as not sharing in the neighbour's sin; no record forbids shaming.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0617 holds the clause but reads it as not sharing in the neighbour's sin; no record forbids shaming."
+  },
+  {
+   "m": "N308",
+   "statement": "Do not remove the signs of leprosy",
+   "source": "Deu 24:8",
+   "saints": "Deuteronomy 24:8",
+   "status": "partial",
+   "type": "Instruction",
+   "records": [
+    "C1170"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C1170 says follow the priests' rulings; Maimonides reads 'take heed concerning leprosy' as barring removal of its signs, which no record states.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C1170 says follow the priests' rulings; Maimonides reads 'take heed concerning leprosy' as barring removal of its signs, which no record states."
+  },
+  {
+   "m": "N309",
+   "statement": "Do not till or sow the heifer's valley afterwards",
+   "source": "Deu 21:4",
+   "saints": "Deuteronomy 21:4",
+   "status": "partial",
+   "type": "Instruction",
+   "records": [
+    "C1103"
+   ],
+   "labels": [
+    "Mosaic Instruction"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "Saints/LXX describes the ravine as already untilled; C1103 selects the ravine, but no record bars cultivating it afterwards.",
+   "category": "Saints wording differs",
+   "why": "The Saints text describes the ravine as already untilled."
+  },
+  {
+   "m": "N322",
+   "statement": "Courts must not carry out punishments on the Sabbath",
+   "source": "Ex 35:3",
+   "saints": "Exodus 35:3",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0365"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "high",
+   "note": "Maimonides reads the verse as barring court executions by burning on the Sabbath; C0365 states only the literal fire prohibition.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "Maimonides reads the verse as barring court executions by burning on the Sabbath; C0365 states only the literal fire prohibition."
+  },
+  {
+   "m": "N336",
+   "statement": "Do not have relations with your daughter",
+   "source": "Lev 18:10",
+   "saints": "Leviticus 18:10",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0581",
+    "C0587"
+   ],
+   "labels": [
+    "Torah Law",
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "high",
+   "note": "No record names one's own daughter; C0581 (18:10) covers granddaughters, C0587 (18:17) a woman with her daughter.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "No record names one's own daughter; C0581 (18:10) covers granddaughters, C0587 (18:17) a woman with her daughter."
+  },
+  {
+   "m": "N352",
+   "statement": "Do not have male relations with your father's brother",
+   "source": "Lev 18:14",
+   "saints": "Leviticus 18:14",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0584"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "high",
+   "note": "C0584 holds Lev 18:14 but states only the uncle's wife; the uncle clause is covered only generally by C0592 (Lev 18:22).",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0584 holds Lev 18:14 but states only the uncle's wife; the uncle clause is covered only generally by C0592 (Lev 18:22)."
+  },
+  {
+   "m": "N353",
+   "statement": "Do not engage in intimacy, such as embracing, with forbidden relatives",
+   "source": "Lev 18:6",
+   "saints": "Leviticus 18:6",
+   "status": "partial",
+   "type": "Law",
+   "records": [
+    "C0576"
+   ],
+   "labels": [
+    "Torah Law"
+   ],
+   "mislabel": false,
+   "confidence": "medium",
+   "note": "C0576 states the umbrella ban on relations with kin; Maimonides' separate ban on non-coital intimacy is not stated.",
+   "category": "Maimonides' reading goes beyond the plain text",
+   "why": "C0576 states the umbrella ban on relations with kin; Maimonides' separate ban on non-coital intimacy is not stated."
+  }
+ ],
+ "gap_counts": {
+  "Maimonides' reading goes beyond the plain text": 58,
+  "Saints wording differs": 6,
+  "Text states it, no record does": 6,
+  "No itemized Mosaic record (only a Genesis record or a topical study)": 4
+ },
+ "duplicates": [
+  {
+   "kind": "Same passage, one record contains the other",
+   "records": [
+    "C0096",
+    "C0097"
+   ],
+   "keep": "both",
+   "action": "C0096 (12:8–9) includes the not-raw clause C0097 states. Narrow C0096 to the positive manner (roasted, with unleavened bread, bitter herbs); labels differ.",
+   "check": "pair D001",
+   "confidence": "high"
+  },
+  {
+   "kind": "Same passage, one record contains the other",
+   "records": [
+    "C0096",
+    "C0098"
+   ],
+   "keep": "both",
+   "action": "C0096 (12:8–9) includes the not-boiled clause C0098 states. Narrow C0096 to the positive manner of roasting and eating; Instruction vs Law on one clause.",
+   "check": "pair D002",
+   "confidence": "high"
+  },
+  {
+   "kind": "Same passage, one record contains the other",
+   "records": [
+    "C0389",
+    "C0391"
+   ],
+   "keep": "both",
+   "action": "C0391's exclusion of leavened firstfruits from the altar repeats C0389's leaven ban; narrow C0391 to the 2:12 firstfruit permission.",
+   "check": "pair D044",
+   "confidence": "medium"
+  },
+  {
+   "kind": "Same passage, one record contains the other",
+   "records": [
+    "C0390",
+    "C0391"
+   ],
+   "keep": "both",
+   "action": "C0391's honey exclusion repeats C0390; both cite 2:11–12. Narrow C0390 to 2:11 and C0391 to the 2:12 firstfruit-gift case.",
+   "check": "pair D045",
+   "confidence": "medium"
+  },
+  {
+   "kind": "Same passage, one record contains the other",
+   "records": [
+    "C0883",
+    "C0884"
+   ],
+   "keep": "both",
+   "action": "Both direct the Levites' portion from their tithe; C0884 adds 'best'. Narrow C0883 to 18:26–28 or merge; labels and classifications differ.",
+   "check": "pair D146",
+   "confidence": "medium"
+  },
+  {
+   "kind": "Same passage, one record contains the other",
+   "records": [
+    "C1024",
+    "C1025"
+   ],
+   "keep": "both",
+   "action": "Both cover the same execution (13:10–11); C1024 only adds who strikes first. Narrow C1025 to the sentence (13:11) or merge; labels differ.",
+   "check": "pair D166",
+   "confidence": "medium"
+  },
+  {
+   "kind": "Same passage, same direction",
+   "records": [
+    "C1120",
+    "C1122"
+   ],
+   "keep": "C1120",
+   "action": "C1122's 'prohibited treatment' is leaving the body hanging (its own note), the same act as C1120; the land clause is the rationale.",
+   "check": "pair D196",
+   "confidence": "high"
+  },
+  {
+   "kind": "Same law recorded again in another passage",
+   "records": [
+    "C0146",
+    "C0995"
+   ],
+   "keep": "C0146",
+   "action": "Deut 6:14 repeats the first commandment's ban on other gods; fold into C0146 (Mosaic Command) as Additional Scripture; C0995 is labelled Torah Law.",
+   "check": "pair X004",
+   "confidence": "medium"
+  },
+  {
+   "kind": "Same law recorded again in another passage",
+   "records": [
+    "C0445",
+    "C0875"
+   ],
+   "keep": "C0445",
+   "action": "Num 18:9–10 restates the most-holy eating rule (every male, holy place) for guilt, sin and grain offerings; add it to C0445, C0437, C0388.",
+   "check": "pair X025",
+   "confidence": "medium"
+  },
+  {
+   "kind": "Same law recorded again in another passage",
+   "records": [
+    "C0607",
+    "C1175"
+   ],
+   "keep": "C0607",
+   "action": "Same prompt-wage law: Lev 19:13 not overnight, Deut 24:15 same day before sunset; fold Deut 24:15 into C0607 as Additional Scripture.",
+   "check": "pair X031",
+   "confidence": "high"
+  },
+  {
+   "kind": "Same law recorded again in another passage",
+   "records": [
+    "C0129",
+    "AUD-02-31-13",
+    "C0152"
+   ],
+   "keep": "C0129",
+   "action": "Three records keep the Sabbath (Exodus 16:23, 31:13–17 as Torah Law; Exodus 20:10 as Mosaic Command); Exodus 20:8 itself is attached to none.",
+   "check": "613 cross-check (P154)",
+   "confidence": "medium"
+  },
+  {
+   "kind": "Same law recorded again in another passage",
+   "records": [
+    "C0949",
+    "C1054"
+   ],
+   "keep": "C1054",
+   "action": "Numbers 35:30 and Deuteronomy 17:6 both forbid a death sentence on one witness; one record could carry the other as Additional Scripture.",
+   "check": "613 cross-check (N288)",
+   "confidence": "medium"
+  }
+ ],
+ "labels": [
+  {
+   "id": "ot-leviticus-v13-32",
+   "reference": "Leviticus 13:32",
+   "title": "The priest reexamines the skin lesion on the seventh day",
+   "current": "Torah · Historical direction study",
+   "suggest": "Mosaic Instruction",
+   "category": "1 · Clear correction (matches the catalogue's own sibling records)",
+   "evidence": "Standing step of the priest's scall examination, not a one-off direction; siblings C0486, C0488, C0489 are Mosaic Instruction.",
+   "checks": [
+    "label review"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0709",
+   "reference": "Leviticus 24:14",
+   "title": "Apply the prescribed stoning judgment for the blasphemy described in the text",
+   "current": "Torah Law",
+   "suggest": "No Mosaic type",
+   "category": "1 · Clear correction (matches the catalogue's own sibling records)",
+   "evidence": "24:14 is the one-off order to stone Shelomith's son; same-verse C0707/C0708 are historical. Standing penalty is 24:16; re-reference there if kept as law.",
+   "checks": [
+    "label review"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "ot-numbers-v5-30",
+   "reference": "Numbers 5:30",
+   "title": "The priest's role when a husband suspects his wife",
+   "current": "Torah · Historical direction study",
+   "suggest": "Mosaic Instruction",
+   "category": "1 · Clear correction (matches the catalogue's own sibling records)",
+   "evidence": "Colophon directing the priest to perform the jealousy procedure, whose steps are all Instruction; not a one-off historical direction.",
+   "checks": [
+    "label review"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "ot-numbers-v18-31",
+   "reference": "Numbers 18:31",
+   "title": "The Levites may eat their share as wages for service",
+   "current": "Torah · Historical direction study",
+   "suggest": "Torah Law",
+   "category": "1 · Clear correction (matches the catalogue's own sibling records)",
+   "evidence": "Standing permission: Levites and households may eat their tithe anywhere as wages; parallels AUD-04-18-11. Not a one-off direction.",
+   "checks": [
+    "label review"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0995",
+   "reference": "Deuteronomy 6:14",
+   "title": "Do not follow other gods",
+   "current": "Torah Law",
+   "suggest": "Mosaic Command (fold into C0146)",
+   "category": "1 · Clear correction (matches the catalogue's own sibling records)",
+   "evidence": "Deut 6:14 repeats the first commandment's ban on other gods; fold into C0146 (Mosaic Command) as Additional Scripture; C0995 is labelled Torah Law.",
+   "checks": [
+    "pair X004"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C1041",
+   "reference": "Deuteronomy 15:10",
+   "title": "Do not begrudge your gift to the needy",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "1 · Clear correction (matches the catalogue's own sibling records)",
+   "evidence": "Attitude prohibition, not a procedure; the matching 15:7-9 prohibitions C1037, C1038, C1040 are Torah Law. C1039/C1043 deserve the same review.",
+   "checks": [
+    "label review"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C1044",
+   "reference": "Deuteronomy 15:18",
+   "title": "Do not resent releasing the Hebrew servant after the prescribed service",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "1 · Clear correction (matches the catalogue's own sibling records)",
+   "evidence": "Attitude rule within the servant-release law, not a procedure; sibling C1042 (do not send him away empty-handed) is Torah Law.",
+   "checks": [
+    "label review"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C1091",
+   "reference": "Deuteronomy 20:1–4",
+   "title": "Israel: do not fear the enemy in the prescribed war with God's promised presence",
+   "current": "Torah · Historical direction",
+   "suggest": "Torah Law",
+   "category": "1 · Clear correction (matches the catalogue's own sibling records)",
+   "evidence": "Generic 'when you go to war' charge, not one-off; the rest of Deut 20 has Mosaic types. Cf. C0959 (Torah Law); Mosaic Command possible.",
+   "checks": [
+    "label review"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C1092",
+   "reference": "Deuteronomy 20:2–4",
+   "title": "Priest: address and encourage the army before the prescribed battle",
+   "current": "Torah · Historical direction",
+   "suggest": "Mosaic Instruction",
+   "category": "1 · Clear correction (matches the catalogue's own sibling records)",
+   "evidence": "The priest's address before any battle is a standing procedure, exactly like the officers' address C1093 (Mosaic Instruction).",
+   "checks": [
+    "label review"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C1145",
+   "reference": "Deuteronomy 23:7",
+   "title": "Do not seek the specified Ammonite and Moabite peace or advantage",
+   "current": "Torah · Historical direction",
+   "suggest": "Torah Law",
+   "category": "1 · Clear correction (matches the catalogue's own sibling records)",
+   "evidence": "Perpetual prohibition ('all your days for ever') among the assembly laws C1142-C1148, all Torah Law.",
+   "checks": [
+    "label review"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0105",
+   "reference": "Exodus 12:15",
+   "title": "Remove leaven from the houses for the feast",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "2 · Positive half filed as Instruction while its negative half is Torah Law",
+   "evidence": "Twin C0109 (Torah Law). C0105 is typed Instruction while the paired bans C0109 (no leaven in houses) and AUD-02-13-7 are Torah Law.",
+   "checks": [
+    "613 P156"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0215",
+   "reference": "Exodus 22:30",
+   "title": "Dispose of the torn flesh by giving it to dogs",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "2 · Positive half filed as Instruction while its negative half is Torah Law",
+   "evidence": "Twin C0214 (Torah Law): Ban on eating torn flesh and its disposal to dogs are one rule's two halves; disposal is no rite step, so Instruction is unexplained.",
+   "checks": [
+    "pair D025"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0800",
+   "reference": "Numbers 5:15",
+   "title": "Do not put oil on the jealousy offering",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "2 · Positive half filed as Instruction while its negative half is Torah Law",
+   "evidence": "Twin C0418 (Torah Law). Exact parallel ban for the sinner's flour offering (C0418, Lev 5:11) is Torah Law, but this one is Instruction.",
+   "checks": [
+    "613 N104"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0801",
+   "reference": "Numbers 5:15",
+   "title": "Do not put frankincense on the jealousy offering",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "2 · Positive half filed as Instruction while its negative half is Torah Law",
+   "evidence": "Twin C0419 (Torah Law). Exact parallel ban (C0419, Lev 5:11) is Torah Law, but the jealousy-offering ban is Instruction.",
+   "checks": [
+    "613 N105"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C1039",
+   "reference": "Deuteronomy 15:8",
+   "title": "Lend sufficient help to the needy brother",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "2 · Positive half filed as Instruction while its negative half is Torah Law",
+   "evidence": "Twin C1037 (Torah Law). Negative counterparts C1037-C1038 are Torah Law; the positive duty is Instruction (15:8) and Command (Lev 25:35).",
+   "checks": [
+    "613 P195",
+    "613 P197"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C1043",
+   "reference": "Deuteronomy 15:14",
+   "title": "Provide the released Hebrew servant generously from your blessing",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "2 · Positive half filed as Instruction while its negative half is Torah Law",
+   "evidence": "Twin C1042 (Torah Law). Its negative twin C1042 (15:13) is Torah Law; the positive duty at 15:14 is Instruction.",
+   "checks": [
+    "613 P196"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C1055",
+   "reference": "Deuteronomy 17:10–11",
+   "title": "Follow the lawful judgment delivered by the appointed central priests and judge",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "2 · Positive half filed as Instruction while its negative half is Torah Law",
+   "evidence": "Twin C1056 (Torah Law): Following the court's judgment and not turning aside are one standing rule's two forms; Instruction vs Law is unexplained.",
+   "checks": [
+    "pair D174",
+    "613 P174"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C1121",
+   "reference": "Deuteronomy 21:23",
+   "title": "Bury the executed person the same day",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "2 · Positive half filed as Instruction while its negative half is Torah Law",
+   "evidence": "Twin C1120 (Torah Law): 'Do not leave overnight' and 'bury the same day' are one standing rule's two forms; Instruction vs Law is unexplained.",
+   "checks": [
+    "pair D195",
+    "pair D197",
+    "613 P231"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C1124",
+   "reference": "Deuteronomy 22:2",
+   "title": "Safeguard found property until its owner claims it",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "2 · Positive half filed as Instruction while its negative half is Torah Law",
+   "evidence": "Twin C1123 (Torah Law): Ban on disregarding vs safekeeping found property are the rule's two sides; safekeeping is a standing duty, so Instruction is unexplained.",
+   "checks": [
+    "pair D198"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C1128",
+   "reference": "Deuteronomy 22:7",
+   "title": "Release the mother bird when taking the permitted young",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "2 · Positive half filed as Instruction while its negative half is Torah Law",
+   "evidence": "Twin C1127 (Torah Law). Standing rule filed as Instruction; its negative twin C1127 and comparable positive duties (C1129) are Torah Law.",
+   "checks": [
+    "613 P148"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C1150",
+   "reference": "Deuteronomy 23:11",
+   "title": "The man unclean through the stated nocturnal discharge: leave the military camp",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "2 · Positive half filed as Instruction while its negative half is Torah Law",
+   "evidence": "Twin C1151 (Torah Law): 'Go outside the camp' and 'do not enter it' are one exclusion's two forms; a purity rule, not a rite step, so the labels conflict.",
+   "checks": [
+    "pair D206"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0118",
+   "reference": "Exodus 13:13",
+   "title": "Redeem the firstborn donkey as prescribed",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "C0118 (Instruction) cites Ex 34:20; the same verses' 'redeem firstborn sons' (C0119) is Torah Law.",
+   "checks": [
+    "613 P81"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0211",
+   "reference": "Exodus 22:29",
+   "title": "Leave a newborn sacrificial animal with its mother for seven days",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Lev 22:27 has no own record; only C0211 (Exod 22:29, Instruction) holds it, though offering-eligibility rules are Torah Law.",
+   "checks": [
+    "613 P60"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0333",
+   "reference": "Exodus 29:38–42",
+   "title": "Offer the daily morning and evening lambs with the prescribed grain, oil and wine",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Only Instruction C0333 (Num 28:3-8 attached), while Lev 23 festival offerings (C0681, C0694, C0699) are Torah Law.",
+   "checks": [
+    "613 P39"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0345",
+   "reference": "Exodus 30:19–21",
+   "title": "Priests: wash hands and feet before sanctuary entry or altar ministry",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "C0345 is Instruction despite 'perpetual statute' and 'so that they do not die'; the parallel undergarment rule C0301 (Ex 28:43) is Torah Law.",
+   "checks": [
+    "613 P24"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0542",
+   "reference": "Leviticus 15:14–15",
+   "title": "Bring the two prescribed birds to the priest after recovery from the discharge",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Instruction, while the woman's parallel (AUD-03-15-29), childbirth (C0483) and metzora (C0511) offerings are Torah Law.",
+   "checks": [
+    "613 P74"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0574",
+   "reference": "Leviticus 17:13",
+   "title": "Cover the hunted animal's blood with earth",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "C0574 (Instruction) states it, but it is an everyday rule for every hunter, not a sanctuary or purification procedure.",
+   "checks": [
+    "613 P147"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0685",
+   "reference": "Leviticus 23:15–16",
+   "title": "Count the seven complete weeks and fifty days to the new grain offering",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Counting reads as a standing annual observance like festival rules labelled Torah Law; catalogue treats it as procedure (Deut 16:9 attached).",
+   "checks": [
+    "613 P161"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0702",
+   "reference": "Leviticus 23:40",
+   "title": "Take the prescribed branches and fruit for Booths",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Annual observance binding all Israel, like dwelling in booths (C0704, Torah Law), yet labelled Instruction.",
+   "checks": [
+    "613 P169"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0716",
+   "reference": "Leviticus 25:8",
+   "title": "Count seven cycles of seven years for the Jubilee",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Count under Instruction while Jubilee rules (C0718, C0721-C0723) are Torah Law; arguably procedural, flagged for review.",
+   "checks": [
+    "613 P140"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0717",
+   "reference": "Leviticus 25:9",
+   "title": "Sound the Jubilee proclamation on the appointed Day of Atonement",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Jubilee shofar proclamation under Instruction while the Jubilee ordinance (C0718) is Torah Law; arguably procedural, flagged for review.",
+   "checks": [
+    "613 P137"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0743",
+   "reference": "Leviticus 27:11–13",
+   "title": "Have a non-sacrificial vowed animal valued by the priest",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Valuation itself is Instruction C0743; Torah Law C0744 covers only the added fifth. Person and field valuations (C0740, C0747) are Torah Law.",
+   "checks": [
+    "613 P115"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0745",
+   "reference": "Leviticus 27:14–15",
+   "title": "Have a consecrated house valued by the priest",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Valuation itself is Instruction C0745; Torah Law C0746 covers only the added fifth. Person and field valuations are Torah Law.",
+   "checks": [
+    "613 P116"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0827",
+   "reference": "Numbers 6:23–26",
+   "title": "Aaron and sons: bless Israel with the appointed words and God's name",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Standing priestly duty under Instruction (Commission AUD-05-10-8 also names blessing); comparable priestly duty C0846 (trumpets) is Torah Law.",
+   "checks": [
+    "613 P26"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0928",
+   "reference": "Numbers 28:9–10",
+   "title": "Offer the additional Sabbath lambs with the prescribed accompaniments",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Only Instruction C0928; festival additional offerings are Torah Law (C0694, C0696, C0699), so labelling is inconsistent.",
+   "checks": [
+    "613 P41"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0929",
+   "reference": "Numbers 28:11–15",
+   "title": "Offer the prescribed new-moon burnt and sin offerings with their accompaniments",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Only Instruction C0929; festival additional offerings are Torah Law elsewhere, so labelling is inconsistent.",
+   "checks": [
+    "613 P42"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "AUD-04-28-27",
+   "reference": "Numbers 28:27–31",
+   "title": "Offer the prescribed Weeks burnt and sin offerings with their accompaniments",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Only Instruction AUD-04-28-27; Torah Law C0687 covers the Lev 23:18-19 loaves offerings, which Maimonides counts under P46.",
+   "checks": [
+    "613 P45"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0991",
+   "reference": "Deuteronomy 6:9",
+   "title": "Write God's words on doorposts and gates",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Standing household rule like tassels (C0860, Torah Law), yet C0991 is Mosaic Instruction.",
+   "checks": [
+    "613 P15"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C1034",
+   "reference": "Deuteronomy 14:28–29",
+   "title": "Deposit the third-year produce tithe locally for Levites, resident foreigners, orphans and widows",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Standing poor-relief rule like gleanings (C0601, Torah Law), yet C1034 is Mosaic Instruction.",
+   "checks": [
+    "613 P130"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C1065",
+   "reference": "Deuteronomy 17:18",
+   "title": "Ruler: write the prescribed copy of the law from the priests' text",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "The king's prohibitions (C1060-C1064) are Torah Law; his scroll duty is Instruction.",
+   "checks": [
+    "613 P17"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C1181",
+   "reference": "Deuteronomy 25:2",
+   "title": "Administer judicial lashes under supervision in proportion to the offense",
+   "current": "Mosaic Instruction",
+   "suggest": "Torah Law",
+   "category": "3 · Standing observance filed as Instruction while comparable ones are Torah Law",
+   "evidence": "Judicial penalty filed as Instruction; comparable penalty rules (C1182, C1089, C1193) are Torah Law.",
+   "checks": [
+    "613 P224"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0244",
+   "reference": "Exodus 23:32",
+   "title": "Make no covenant with the Canaanite peoples or their gods",
+   "current": "Torah · Historical direction",
+   "suggest": "One label for all six (now historical direction)",
+   "category": "4 · Conquest-era bans split between Torah Law and historical directions",
+   "evidence": "C0244 (with Ex 34:12, 15) is a historical direction; the seven-nations judgment AUD-05-20-17 is typed Torah Law.",
+   "checks": [
+    "613 N48"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0245",
+   "reference": "Exodus 23:33",
+   "title": "Carry out the stated removal judgment against the specified Canaanite inhabitants",
+   "current": "Torah · Historical direction",
+   "suggest": "One label for all six (now historical direction)",
+   "category": "4 · Conquest-era bans split between Torah Law and historical directions",
+   "evidence": "Historical direction framed as a removal judgment; the comparable AUD-05-20-17 (Deut 20:17-18) is typed Torah Law.",
+   "checks": [
+    "613 N51"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "C0997",
+   "reference": "Deuteronomy 7:2",
+   "title": "Do not spare the peoples placed under the stated conquest judgment",
+   "current": "Torah · Historical direction",
+   "suggest": "One label for all six (now historical direction)",
+   "category": "4 · Conquest-era bans split between Torah Law and historical directions",
+   "evidence": "C0997 is a historical direction, though AUD-05-20-17 labels the same devotion judgment (20:17-18) Torah Law.",
+   "checks": [
+    "613 N50"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0998",
+   "reference": "Deuteronomy 7:3",
+   "title": "Do not intermarry with the specified idolatrous Canaanite peoples",
+   "current": "Torah · Historical direction",
+   "suggest": "One label for all six (now historical direction)",
+   "category": "4 · Conquest-era bans split between Torah Law and historical directions",
+   "evidence": "Standing marriage prohibition filed as historical direction; comparable assembly restrictions (23:3-4, C1143-C1144) are Torah Law.",
+   "checks": [
+    "613 N52"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "AUD-05-20-17",
+   "reference": "Deuteronomy 20:17–18",
+   "title": "Apply the devotion judgment to the seven named nations",
+   "current": "Torah Law",
+   "suggest": "One label for all six (now Torah Law)",
+   "category": "4 · Conquest-era bans split between Torah Law and historical directions",
+   "evidence": "Conquest ban on the seven named nations; the same direction at Deut 7:2 (C0997) and 7:3 (C0998) is filed as historical.",
+   "checks": [
+    "label review"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C1197",
+   "reference": "Deuteronomy 25:17–19",
+   "title": "Carry out the prescribed judgment against Amalek after the stated rest",
+   "current": "Torah · Historical direction",
+   "suggest": "One label for all six (now historical direction)",
+   "category": "4 · Conquest-era bans split between Torah Law and historical directions",
+   "evidence": "Standing judgment filed as historical direction while the parallel seven-nations judgment AUD-05-20-17 is Torah Law; arguably a one-time charge.",
+   "checks": [
+    "613 P188"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0146",
+   "reference": "Exodus 20:3",
+   "title": "Have no other gods",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "Exodus 20:3–17 are all filed as Mosaic Command; their parallels in Leviticus 19 and 26 are Torah Law.",
+   "checks": [
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0147",
+   "reference": "Exodus 20:4",
+   "title": "Do not make idols or images for worship",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "C0147 is Command (also holds Ex 34:17, Deut 27:15); Lev 19:4, 26:1 idol-making clauses unitemized, while Lev 26:1 pillar/stone bans are Torah Law.",
+   "checks": [
+    "613 N2",
+    "613 N3",
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0148",
+   "reference": "Exodus 20:5",
+   "title": "Do not bow down to other gods",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "Decalogue ban typed Command; the Ex 23:24 bowing clause sits in C0241 (imitation, Law); penalty AUD-05-17-5 is Torah Law.",
+   "checks": [
+    "613 N5",
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0149",
+   "reference": "Exodus 20:5",
+   "title": "Do not serve other gods",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "Typed Command (with Deut 5:9, 7:16); the penalty for serving other gods, AUD-05-17-5, is Torah Law.",
+   "checks": [
+    "613 N6",
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0150",
+   "reference": "Exodus 20:7",
+   "title": "Do not misuse God's name",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "C0150 is typed Command; the companion false-oath ban of Lev 19:12 (C0604) is Torah Law.",
+   "checks": [
+    "613 N62",
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0151",
+   "reference": "Exodus 20:9",
+   "title": "Perform your ordinary labour during the six working days",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "Exodus 20:3–17 are all filed as Mosaic Command; their parallels in Leviticus 19 and 26 are Torah Law.",
+   "checks": [
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0152",
+   "reference": "Exodus 20:10",
+   "title": "Do no work on the Sabbath, including household members, servants, resident foreigners and livestock",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "Exodus 20:3–17 are all filed as Mosaic Command; their parallels in Leviticus 19 and 26 are Torah Law.",
+   "checks": [
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0153",
+   "reference": "Exodus 20:12",
+   "title": "Honour father and mother",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "C0153 is typed Command; the companion 'Revere father and mother' (Lev 19:3, C0595) is Torah Law.",
+   "checks": [
+    "613 P210",
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0154",
+   "reference": "Exodus 20:13",
+   "title": "Do not commit adultery",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "Only the Decalogue record C0154 (Mosaic Command) holds Lev 18:20; Lev 18's other unions are Torah Law. C0646 gives only the penalty.",
+   "checks": [
+    "613 N347",
+    "label pattern"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0155",
+   "reference": "Exodus 20:14",
+   "title": "Do not steal",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "Lev 19:11's 'You shall not steal' has no own record; only Decalogue C0155 (Command) states it, which Maimonides reads as kidnapping.",
+   "checks": [
+    "613 N244",
+    "label pattern"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0156",
+   "reference": "Exodus 20:15",
+   "title": "Do not murder",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "Decalogue ban typed Command; the murder penalty rules (AUD-04-35-16, C1083, C0950) are Torah Law.",
+   "checks": [
+    "613 N289",
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0157",
+   "reference": "Exodus 20:16",
+   "title": "Do not bear false witness against your neighbour",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "Typed Command; related witness laws C0216 (Ex 23:1) and C1089 (Deut 19:19) are Torah Law.",
+   "checks": [
+    "613 N285",
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0159",
+   "reference": "Exodus 20:17",
+   "title": "Do not covet your neighbour's possessions",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "Both records typed Command; the similar 'Do not covet the silver or gold on idols' (C0999) is Torah Law.",
+   "checks": [
+    "613 N265",
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0158",
+   "reference": "Exodus 20:17",
+   "title": "Do not covet your neighbour's wife",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law, if the Ten Commandments are to count as laws",
+   "category": "5 · Ten Commandments filed as Mosaic Command (a convention choice)",
+   "evidence": "Exodus 20:3–17 are all filed as Mosaic Command; their parallels in Leviticus 19 and 26 are Torah Law.",
+   "checks": [
+    "label pattern"
+   ],
+   "confidence": "high"
+  },
+  {
+   "id": "C0115",
+   "reference": "Exodus 13:2",
+   "title": "Consecrate the firstborn males to God",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law",
+   "category": "6 · Other standing duties filed as Mosaic Command",
+   "evidence": "C0115 is Command, C0212 Instruction; Deut 15:19's sanctify clause is unitemized, while firstborn rules C0119, C0877, C1045 are Torah Law.",
+   "checks": [
+    "613 P79"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0616",
+   "reference": "Leviticus 19:17",
+   "title": "Reprove your neighbour",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law",
+   "category": "6 · Other standing duties filed as Mosaic Command",
+   "evidence": "Only C0616 (Mosaic Command) itemizes it, though the same verse's prohibitions are Torah Law; it reads as a standing duty.",
+   "checks": [
+    "613 P205",
+    "pair D086"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0636",
+   "reference": "Leviticus 19:30",
+   "title": "Revere God's sanctuary and holy things",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law",
+   "category": "6 · Other standing duties filed as Mosaic Command",
+   "evidence": "Only C0636 (Mosaic Command) itemizes it, while 'revere father and mother' (C0595) is Torah Law; it reads as a standing rule.",
+   "checks": [
+    "613 P21"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0639",
+   "reference": "Leviticus 19:32",
+   "title": "Rise before the aged",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law",
+   "category": "6 · Other standing duties filed as Mosaic Command",
+   "evidence": "Only Mosaic Command records C0639 and C0640 itemize it; a standing conduct rule like Torah Law C0595 (revere parents).",
+   "checks": [
+    "613 P209"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0640",
+   "reference": "Leviticus 19:32",
+   "title": "Honour the elder",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law",
+   "category": "6 · Other standing duties filed as Mosaic Command",
+   "evidence": "Only Mosaic Command records C0639 and C0640 itemize it; a standing conduct rule like Torah Law C0595 (revere parents).",
+   "checks": [
+    "613 P209"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0768",
+   "reference": "Numbers 1:50–51",
+   "title": "Levites: carry the tabernacle and its furnishings in their assigned service",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law",
+   "category": "6 · Other standing duties filed as Mosaic Command",
+   "evidence": "Only Command C0768 and Commission AUD-05-10-8; Torah Law C0840 covers service ages only; the 18:23 clause has no record.",
+   "checks": [
+    "613 P23"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0772",
+   "reference": "Numbers 1:53",
+   "title": "Levites: guard the tabernacle and its furnishings",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law",
+   "category": "6 · Other standing duties filed as Mosaic Command",
+   "evidence": "Guard duty only as Command C0772 (Num 1:53; 3:7-8); C0874 holds 18:4 but states the outsider ban (N74).",
+   "checks": [
+    "613 P22",
+    "613 N67"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "id": "C0774",
+   "reference": "Numbers 3:10",
+   "title": "Aaron and sons: keep the priestly charge of altar and inner sanctuary",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law",
+   "category": "6 · Other standing duties filed as Mosaic Command",
+   "evidence": "Only positive Command charges (C0774 holds 18:5; C0772 Levite guard); Maimonides reads 'keep the charge' as forbidding an unguarded sanctuary.",
+   "checks": [
+    "613 N67"
+   ],
+   "confidence": "low"
+  },
+  {
+   "id": "C0796",
+   "reference": "Numbers 5:2–3",
+   "title": "Send persons with the specified skin disease, discharge or corpse uncleanness outside the camp",
+   "current": "Mosaic Command",
+   "suggest": "Torah Law",
+   "category": "6 · Other standing duties filed as Mosaic Command",
+   "evidence": "Only Command C0796; parallel exclusion rules are Torah Law (C0494 leper outside camp, C1151 no re-entry), so this standing rule reads as Law.",
+   "checks": [
+    "613 P31"
+   ],
+   "confidence": "medium"
+  }
+ ],
+ "label_counts": {
+  "1 · Clear correction (matches the catalogue's own sibling records)": 10,
+  "2 · Positive half filed as Instruction while its negative half is Torah Law": 11,
+  "3 · Standing observance filed as Instruction while comparable ones are Torah Law": 20,
+  "4 · Conquest-era bans split between Torah Law and historical directions": 6,
+  "5 · Ten Commandments filed as Mosaic Command (a convention choice)": 14,
+  "6 · Other standing duties filed as Mosaic Command": 9
+ },
+ "scenarios": [
+  {
+   "step": "Current Torah Law count",
+   "change": 0,
+   "count": 556
+  },
+  {
+   "step": "Clear fixes: remove 1 duplicate, move 2 out, move 5 in",
+   "change": 2,
+   "count": 558
+  },
+  {
+   "step": "Make the Instruction / Torah Law split consistent (31 standing rules now filed as Instruction)",
+   "change": 31,
+   "count": 589
+  },
+  {
+   "step": "Conquest-era bans: one label for all 6 (all Torah Law: +5; all historical: −1)",
+   "change": null,
+   "count": null
+  },
+  {
+   "step": "Count the Ten Commandments (14) and the other standing duties filed as Mosaic Command (9) as Torah Law",
+   "change": 23,
+   "count": 612
+  }
+ ],
+ "edit_notes": [
+  {
+   "id": "C0004",
+   "field": "Additional Scripture Greek Psalm 8:7–9",
+   "text": "Recalls the Genesis 1:28 dominion over sheep, cattle, birds and fish; link as Additional Scripture (quoted in Hebrews 2:6–8)."
+  },
+  {
+   "id": "C0063",
+   "field": "Additional Scripture Greek Psalm 104:26",
+   "text": "Retells Exodus 3:10 and 4:14–16; link as Additional Scripture like Acts 7:34–35 (cf. first-pass 104:20–22)."
+  },
+  {
+   "id": "C0111",
+   "field": "context note",
+   "text": "This does not settle every Christian disagreement about commemorating the festival. Rambam N126 (12:45) is not itemized; C0111's 'otherwise ineligible persons' covers it. Extend 12:43 to 12:43–45."
+  },
+  {
+   "id": "C0146",
+   "field": "Additional Scripture Deuteronomy 5:7",
+   "text": "The Decalogue repeated: each Deuteronomy 5 commandment should be linked to its Exodus 20 record."
+  },
+  {
+   "id": "C0147",
+   "field": "context note",
+   "text": "The chapter study covers the immediate altar context. Link the express prohibition on making gods of silver or gold as an additional source for the existing rule on making idols for worship."
+  },
+  {
+   "id": "C0147",
+   "field": "Additional Scripture Exodus 20:22–23",
+   "text": "The chapter study covers the immediate altar context. Link the express prohibition on making gods of silver or gold as an additional source for the existing rule on making idols for worship."
+  },
+  {
+   "id": "C0196",
+   "field": "context note",
+   "text": "22:9 states the case whose ruling C0196 (22:10) records; extend to 22:9–10."
+  },
+  {
+   "id": "C0323",
+   "field": "context note",
+   "text": "The historical application expressly says the breast became Moses’ share by the Lord’s command. Link this fulfillment to the original instruction in Exodus 29:26."
+  },
+  {
+   "id": "C0323",
+   "field": "Additional Scripture Leviticus 8:29",
+   "text": "The historical application expressly says the breast became Moses’ share by the Lord’s command. Link this fulfillment to the original instruction in Exodus 29:26."
+  },
+  {
+   "id": "C0459",
+   "field": "context note",
+   "text": "8:35 restates and completes C0459 (8:33), adding 'so that you do not die'; extend to 8:33–35."
+  },
+  {
+   "id": "C0521",
+   "field": "Additional Scripture Leviticus 14:44, 48",
+   "text": "Rambam P103 (leprous house) is itemized across C0519–C0532; extend C0521 to the re-inspections at 14:44 and 14:48. / Declaring the replastered house clean is part of C0521's classification; extend its reference."
+  },
+  {
+   "id": "C0534",
+   "field": "Additional Scripture Leviticus 15:10–11",
+   "text": "Carrying his bedding (15:10) and being touched by unwashed hands (15:11) are further specified contacts; extend C0534–C0536 to 15:5–11."
+  },
+  {
+   "id": "C0594",
+   "field": "Additional Scripture Leviticus 18:26, 29–30",
+   "text": "Extend C0594 (18:24) to 18:24–30; 18:26 binds natives and resident foreigners alike. / 18:29 states the penalty (cut off); 18:30 repeats the charge not to be defiled."
+  },
+  {
+   "id": "C0670",
+   "field": "Additional Scripture Leviticus 22:2, 9",
+   "text": "Rambam N75 (unclean priest not to serve) is itemized as C0670 (22:3–7); 22:2 is its heading. / 22:9 is the closing sanction for 22:1–8; it could instead attach to C0672."
+  },
+  {
+   "id": "C0759",
+   "field": "Additional Scripture Leviticus 27:32",
+   "text": "Rambam P78 (cattle tithe) is named in C0759's title, but its reference stops at 27:30; extend to 27:30–32."
+  },
+  {
+   "id": "C0773",
+   "field": "Additional Scripture Numbers 2:16–17, 24, 31",
+   "text": "The order of setting out continues beyond 2:9; extend C0773 to 2:9–31."
+  },
+  {
+   "id": "C0781",
+   "field": "Additional Scripture Numbers 3:45",
+   "text": "3:45 repeats C0781 (3:41) after the count; extend to 3:41–45."
+  },
+  {
+   "id": "C0895",
+   "field": "Additional Scripture Numbers 19:14, 16",
+   "text": "C0895's title already covers death-house, bone and grave contact but cites only 19:11. Rambam P107 is itemized at C0895."
+  },
+  {
+   "id": "C0921",
+   "field": "context note",
+   "text": "The daughters cite the original ruling in Numbers 27 and receive their share. Link this documented application to the existing inheritance rule."
+  },
+  {
+   "id": "C0921",
+   "field": "Additional Scripture Joshua 17:3–6",
+   "text": "The daughters cite the original ruling in Numbers 27 and receive their share. Link this documented application to the existing inheritance rule."
+  },
+  {
+   "id": "C0980",
+   "field": "Additional Scripture Sirach 45:3–5",
+   "text": "Praise of the Fathers recalls the charge of Deuteronomy 4:14; link as Additional Scripture."
+  },
+  {
+   "id": "C1100",
+   "field": "context note",
+   "text": "Extend C1100 from 20:19 to 20:19–20: the permitted exception completes the tree law."
+  },
+  {
+   "id": "C1176",
+   "field": "Additional Scripture 2 Kings 14:6",
+   "text": "This is a direct quotation and historical application of Deuteronomy 24:16, already indexed as C1176. Link this verse and the parallel 2 Chronicles 25:4 without counting a new law."
+  },
+  {
+   "id": "C1198",
+   "field": "Additional Scripture Deuteronomy 26:5–10",
+   "text": "Rambam P132 is itemized as C1198, but its reference (26:3) omits the recited declaration itself (26:5–10)."
+  },
+  {
+   "id": "C1203",
+   "field": "Additional Scripture Deuteronomy 27:4",
+   "text": "C1203's title already names Mount Ebal, which only 27:4 supplies; extend from 27:2 to 27:2, 4."
+  },
+  {
+   "id": "C1204",
+   "field": "Additional Scripture Deuteronomy 27:8",
+   "text": "C1204's 'clearly' comes from 27:8 ('very plainly'); extend from 27:3 to 27:3, 8."
+  },
+  {
+   "id": "C1212",
+   "field": "context note",
+   "text": "The two-ways appeal (30:15–20) is one unit; extend C1212 from 30:19."
+  },
+  {
+   "id": "ot-ruth-v1-11",
+   "field": "Additional Scripture Ruth 1:15",
+   "text": "After Orpah returns, Naomi again urges Ruth to go back, setting up Ruth’s direct answer in verse 16. Earlier departure advice is related and should be linked rather than counted as another generic principle."
+  },
+  {
+   "id": "ot-1-samuel-v10-8",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. The narrator’s seven-day reference in 13:8 explicitly points back to Samuel’s direction in 10:8. In 13:13 Samuel calls the breached command his commandment that the Lord commanded Saul. Retain the original direction as the primary source and link the later attribution."
+  },
+  {
+   "id": "ot-1-samuel-v10-8",
+   "field": "Additional Scripture 1 Samuel 13:8–14",
+   "text": "The narrator’s seven-day reference in 13:8 explicitly points back to Samuel’s direction in 10:8. In 13:13 Samuel calls the breached command his commandment that the Lord commanded Saul. Retain the original direction as the primary source and link the later attribution."
+  },
+  {
+   "id": "ot-1-samuel-v26-9",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. In a different encounter from 26:9, David tells his men why he will not strike the Lord’s anointed and restrains them. His men’s claimed warrant in verse 5 must remain attributable to them. Link this parallel instance to the existing record without merging the incidents. Adds 26:10–11: David restates the prohibition and orders, ‘take the spear… and the water flask, and let us go.’"
+  },
+  {
+   "id": "ot-1-samuel-v26-9",
+   "field": "Additional Scripture 1 Samuel 24:5–8",
+   "text": "In a different encounter from 26:9, David tells his men why he will not strike the Lord’s anointed and restrains them. His men’s claimed warrant in verse 5 must remain attributable to them. Link this parallel instance to the existing record without merging the incidents."
+  },
+  {
+   "id": "AUD-10-5-2",
+   "field": "context note",
+   "text": "The tribes recall the Lord’s appointment before the Hebron covenant. The catalogue uses this verse only as a comparison. The parallel wording is in 1 Chronicles 11:2, which should be linked as a second witness to the same assignment."
+  },
+  {
+   "id": "ot-2-samuel-v17-5",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. Adds 17:6, the request itself (‘Should we act on his proposal? If not, you speak’); Hushai’s answer is first-pass P00793."
+  },
+  {
+   "id": "ot-1-kings-v8-19",
+   "field": "Additional Scripture Wisdom of Solomon 9:7–8",
+   "text": "Same recalled charge as Solomon's temple prayer in 1 Kings 8:19; link as Additional Scripture. Petitions of ch. 9 are out of scope."
+  },
+  {
+   "id": "ot-1-chronicles-v11-5",
+   "field": "Additional Scripture 2 Samuel 5:6",
+   "text": "Samuel’s account of the same Jebusite taunt (‘You will not come in here’); link as Additional Scripture."
+  },
+  {
+   "id": "ot-1-chronicles-v21-22",
+   "field": "Additional Scripture 2 Samuel 24:21–24",
+   "text": "Kings account of the purchase and of refusing a costless offering (24:24); first-pass P00982 extends the record to 1 Chronicles 21:24."
+  },
+  {
+   "id": "ot-2-chronicles-v10-10",
+   "field": "Additional Scripture 1 Kings 12:24r",
+   "text": "Greek doublet of the young men’s counsel, noted but not proposed in first-pass P00852; the long Shemaiah record’s title does not cover it."
+  },
+  {
+   "id": "ot-2-chronicles-v20-17",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. 'Tomorrow go down against them', with the enemy’s position; same oracle and directive. Extend to 20:16–17."
+  },
+  {
+   "id": "ot-2-chronicles-v23-4",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. Completes the assignment by thirds begun in 23:4 (cf. 2 Kings 11:5–6 records); extend to 23:4–5."
+  },
+  {
+   "id": "ot-2-chronicles-v34-21",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. 34:20 names the officials commanded; cf. first-pass P00951 (2 Kings 22:12–13)."
+  },
+  {
+   "id": "ot-2-chronicles-v34-23",
+   "field": "Additional Scripture 2 Chronicles 34:26",
+   "text": "Second 'this is what you shall say to him' charge in the same oracle; extend to 34:23–26 (cf. 2 Kings 22:18)."
+  },
+  {
+   "id": "ot-1-maccabees-v2-41",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. The deliberation that produces the 2:41 resolution; extend to 2:40–41."
+  },
+  {
+   "id": "ot-1-maccabees-v2-67",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. Same deathbed charge continues ('Repay the nations… attend to the law’s command'); extend to 2:67–68."
+  },
+  {
+   "id": "ot-1-maccabees-v9-8",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. Judas’s reply, 'let us die courageously for our brothers', completes the exchange; extend to 9:8–10."
+  },
+  {
+   "id": "ot-1-maccabees-v10-27",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. The promised remissions and gifts are the reward named in the record’s title; extend to 10:27–28."
+  },
+  {
+   "id": "ot-1-maccabees-v10-72",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. Challenge 'come down to us into the plain' (10:71); extend to 10:70–73 and retype Study Context as Command (cf. ot-2-kings-v14-8)."
+  },
+  {
+   "id": "ot-2-maccabees-v7-29",
+   "field": "context note",
+   "text": "A direction recorded in this narrative. Its original speaker, recipient and occasion must be retained; recording an order does not establish that God approves it or commands every believer to repeat it. The mother’s appeal to consider creation supplies the reasoning for her following exhortation to her youngest son. Opening of the same appeal ('Son, have mercy on me…'); extend to 7:27–29."
+  },
+  {
+   "id": "ot-esther-v3-13",
+   "field": "Additional Scripture Esther 3:13f–g",
+   "text": "Esther 3:13 is already indexed. This addition is the text of the same hostile edict, with its own wording and date. Cross-link it as a parallel form and keep the date as the edition gives it, without treating it as a separate command to readers."
+  },
+  {
+   "id": "AUD-20-13-5",
+   "field": "context note",
+   "text": "Outside candidate list (context verse) between 13:4 and recorded 13:6; cf. Proverbs 17:28 (first-pass B12 P01694)."
+  },
+  {
+   "id": "AUD-20-28-28",
+   "field": "Additional Scripture Proverbs 1:7",
+   "text": "Motto of Proverbs, not itemized; 9:10 sits inside ot-proverbs-v9-8; cf. Job 28:28 (AUD-20-28-28)."
+  },
+  {
+   "id": "AUD-20-28-28",
+   "field": "Additional Scripture Proverbs 9:10",
+   "text": "Outside candidate list (context verse inside ot-proverbs-v9-8); same maxim as Proverbs 1:7 (first-pass B12 P01663) and Greek Psalm 110:10."
+  },
+  {
+   "id": "AUD-21-13-7",
+   "field": "context note",
+   "text": "Jussive call to rejoice, like recorded Greek Psalm 149:2. Same verse at Greek Psalm 52:7 (there indicative): link as Additional Scripture."
+  },
+  {
+   "id": "ot-psalms-v31-9",
+   "field": "context note",
+   "text": "Keep the poetic addressee: this may address worshippers, kings, the anointed one, angels, creation, or the speaker’s own soul. It is not automatically a law for every individual. Extend from 31:9 to 31:8–9: 'I will instruct you in the way you will go' introduces the same counsel."
+  },
+  {
+   "id": "ot-psalms-v33-9",
+   "field": "context note",
+   "text": "Keep the poetic addressee: this may address worshippers, kings, the anointed one, angels, creation, or the speaker’s own soul. It is not automatically a law for every individual. Outside candidate list: extend from 33:9–10 to 33:8–11: the angel encamping (33:8) and 'seekers lack no good thing' (33:11) frame it."
+  },
+  {
+   "id": "ot-psalms-v36-27",
+   "field": "context note",
+   "text": "Keep the poetic addressee: this may address worshippers, kings, the anointed one, angels, creation, or the speaker’s own soul. It is not automatically a law for every individual. Extend from 36:27 to 36:27–29: 'For the Lord loves judgment… the righteous will dwell for ever' completes '…and dwell for age upon age'."
+  },
+  {
+   "id": "ot-psalms-v36-37",
+   "field": "context note",
+   "text": "Keep the poetic addressee: this may address worshippers, kings, the anointed one, angels, creation, or the speaker’s own soul. It is not automatically a law for every individual. Extend from 36:37 to 36:37–40: the contrast (lawless destroyed) and 'salvation of the righteous is from the Lord' complete it."
+  },
+  {
+   "id": "ot-psalms-v44-5",
+   "field": "context note",
+   "text": "Keep the poetic addressee: this may address worshippers, kings, the anointed one, angels, creation, or the speaker’s own soul. It is not automatically a law for every individual. Extend from 44:5 to 44:4–5: 'Gird your sword… and stretch forth, prosper and reign' is one sentence."
+  },
+  {
+   "id": "AUD-21-48-14",
+   "field": "context note",
+   "text": "Fills the gap between first-pass 48:7–13 and 48:17–21 (extend) in this wisdom psalm."
+  },
+  {
+   "id": "ot-psalms-v48-17",
+   "field": "context note",
+   "text": "Keep the poetic addressee: this may address worshippers, kings, the anointed one, angels, creation, or the speaker’s own soul. It is not automatically a law for every individual. Extend from 48:17 to 48:17–21: the 'for when he dies he takes nothing' reasons and refrain complete the counsel."
+  },
+  {
+   "id": "AUD-21-49-8",
+   "field": "context note",
+   "text": "God's rationale before recorded 49:14–15 (offer praise instead); cf. Acts 17:25 and first-pass Greek Psalm 49:16–21."
+  },
+  {
+   "id": "ot-psalms-v65-1",
+   "field": "context note",
+   "text": "Keep the poetic addressee: this may address worshippers, kings, the anointed one, angels, creation, or the speaker’s own soul. It is not automatically a law for every individual. Extend from 65:1–2 to 65:1–4: 'Say to God, How fearsome are Thy works…' continues the same call to all the earth."
+  },
+  {
+   "id": "ot-psalms-v74-6",
+   "field": "context note",
+   "text": "Keep the poetic addressee: this may address worshippers, kings, the anointed one, angels, creation, or the speaker’s own soul. It is not automatically a law for every individual. Outside candidate list: extend from 74:6 to 74:6–9: 'for God is judge; He humbles one and raises another' grounds the warning."
+  },
+  {
+   "id": "AUD-21-90-1",
+   "field": "context note",
+   "text": "No records in Greek Psalm 90; thesis of the trust psalm, like first-pass 124:1–2 (B12 P01626)."
+  },
+  {
+   "id": "AUD-21-111-1",
+   "field": "Additional Scripture 2 Corinthians 9:9",
+   "text": "Quotes Greek Psalm 111:9, inside AUD-21-111-1 (Greek Psalm 111:1–9); link as Additional Scripture."
+  },
+  {
+   "id": "AUD-21-118-165",
+   "field": "context note",
+   "text": "General maxim like first-pass 118:105 and 118:130; the surrounding first-person lines need nothing."
+  },
+  {
+   "id": "AUD-22-3-34",
+   "field": "context note",
+   "text": "Quoted in James 4:6 (A116) and 1 Peter 5:5 (A025); the Proverbs source is not itemized."
+  },
+  {
+   "id": "AUD-22-11-31",
+   "field": "context note",
+   "text": "Quoted in 1 Peter 4:18 (A054); the Proverbs source is not itemized."
+  },
+  {
+   "id": "ot-proverbs-v22-17",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. Extend 22:17 to 22:17–21: keep, recite and copy the sayings so your hope rests in the Lord."
+  },
+  {
+   "id": "ot-proverbs-v23-31",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. Extend 23:31 to the whole poem on wine's woes, 23:29–35."
+  },
+  {
+   "id": "ot-proverbs-v24-17",
+   "field": "Additional Scripture Job 31:29–30",
+   "text": "Outside candidate list: Job’s oath that he did not rejoice at his enemies’ fall; link as Additional Scripture."
+  },
+  {
+   "id": "ot-proverbs-v27-23",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. Extend 27:23 to the unit 27:23–27: strength does not last, so tend pasture and flocks."
+  },
+  {
+   "id": "AUD-26-14-27",
+   "field": "context note",
+   "text": "Same maxim at 14:12 (beginning of sexual immorality); vice list 14:22–26 shows its fruit; link as Additional Scripture."
+  },
+  {
+   "id": "AUD-27-5-9",
+   "field": "context note",
+   "text": "Inside ot-sirach-v5-1 (5:1–11); precedes first-pass B14 P01797 (5:11–13). This counsel is itemized separately from the existing broader Sirach 5:1–11 study."
+  },
+  {
+   "id": "AUD-27-7-10",
+   "field": "context note",
+   "text": "Long record ot-sirach-v7-9 (7:9–33) is titled for 7:9 only; the sayings of 7:10–33 are not itemized. This counsel is itemized separately from the existing broader Sirach 7:9–33 study."
+  },
+  {
+   "id": "ot-sirach-v26-10",
+   "field": "context note",
+   "text": "This chapter includes ancient household, family or labor arrangements. Quoting them does not classify their social form or disciplinary practices as Everlasting; application requires a separate comparison with Christ and the apostles. 26:12 completes the warning of 26:11; extend 26:10–11 to 26:10–12."
+  },
+  {
+   "id": "ot-sirach-v27-7",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 27:4–6 (sieve, furnace, fruit images) ground 27:7; extend 27:7 to 27:4–7."
+  },
+  {
+   "id": "ot-sirach-v27-17",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 27:16 states the principle (revealing secrets destroys trust); extend 27:17 to 27:16–17."
+  },
+  {
+   "id": "ot-sirach-v27-20",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 27:18–19 and 27:21 complete the images around 27:20; extend 27:20 to 27:18–21."
+  },
+  {
+   "id": "AUD-27-27-25",
+   "field": "context note",
+   "text": "Cf. Proverbs 26:27 (not itemized)."
+  },
+  {
+   "id": "ot-sirach-v28-2",
+   "field": "context note",
+   "text": "Jesus likewise teaches forgiveness of others. The parallel supports the continuing instruction without claiming direct quotation. The surrounding verses explain forgiving a neighbor in prayer and remembering the covenant. Cross-link the parallel Jesus teaching without changing Ben Sira’s attribution."
+  },
+  {
+   "id": "ot-sirach-v29-2",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 29:1 (mercy lends) and 29:3 (keep faith with the lender) frame 29:2; extend to 29:1–3."
+  },
+  {
+   "id": "ot-sirach-v29-12",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 29:13 continues the image (almsgiving fights for you); extend 29:12 to 29:12–13."
+  },
+  {
+   "id": "ot-sirach-v29-15",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 29:14, 16 contrast the good guarantor with the ungrateful debtor; extend 29:15 to 29:14–16."
+  },
+  {
+   "id": "ot-sirach-v29-23",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 29:21–22, 24 give the reasons (own roof better; a guest's life is grievous); extend 29:23 to 29:21–24."
+  },
+  {
+   "id": "AUD-27-30-1",
+   "field": "context note",
+   "text": "Cf. Proverbs 13:24 (not itemized)."
+  },
+  {
+   "id": "ot-sirach-v30-21",
+   "field": "context note",
+   "text": "This chapter includes ancient household, family or labor arrangements. Quoting them does not classify their social form or disciplinary practices as Everlasting; application requires a separate comparison with Christ and the apostles. 30:22 is the reason (gladness of heart is life); extend 30:21 to 30:21–22."
+  },
+  {
+   "id": "ot-sirach-v30-23",
+   "field": "context note",
+   "text": "This chapter includes ancient household, family or labor arrangements. Quoting them does not classify their social form or disciplinary practices as Everlasting; application requires a separate comparison with Christ and the apostles. 30:24–25 continue the reason (jealousy and anxiety shorten days); extend 30:23 to 30:23–25."
+  },
+  {
+   "id": "ot-sirach-v31-16",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 31:19–20 give the reasons (a little suffices; moderation brings healthy sleep); extend 31:16–18 to 31:16–20."
+  },
+  {
+   "id": "ot-sirach-v31-25",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 31:26 is the reason (wine tests hearts in quarrels); extend 31:25 to 31:25–26."
+  },
+  {
+   "id": "ot-sirach-v33-15",
+   "field": "Additional Scripture Sirach 42:24–25",
+   "text": "Restates 33:14–15 (God's works in pairs); link as Additional Scripture."
+  },
+  {
+   "id": "ot-sirach-v33-18",
+   "field": "context note",
+   "text": "This chapter includes ancient household, family or labor arrangements. Quoting them does not classify their social form or disciplinary practices as Everlasting; application requires a separate comparison with Christ and the apostles. 33:22 is the reason for 33:19–21 (better your children ask of you); extend 33:18–21 to 33:18–22."
+  },
+  {
+   "id": "ot-sirach-v33-26",
+   "field": "context note",
+   "text": "This chapter includes ancient household, family or labor arrangements. Quoting them does not classify their social form or disciplinary practices as Everlasting; application requires a separate comparison with Christ and the apostles. 33:25 opens the same counsel (fodder, rod and work); extend 33:26–29 to 33:25–29."
+  },
+  {
+   "id": "ot-sirach-v34-6",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 34:5, 7–8 surround 34:6 (omens are vain; dreams mislead; the law proves true); extend 34:6 to 34:5–8."
+  },
+  {
+   "id": "ot-sirach-v35-4",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 35:5–6 give the reason (the righteous one's offering is accepted and remembered); extend 35:4 to 35:4–6."
+  },
+  {
+   "id": "ot-sirach-v35-7",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 35:10 is the reason (the Lord repays sevenfold); extend 35:7–9 to 35:7–10."
+  },
+  {
+   "id": "ot-sirach-v35-11",
+   "field": "Additional Scripture Sirach 34:18–19",
+   "text": "Same teaching as 35:11 (no acceptance for unjust sacrifice); link as Additional Scripture."
+  },
+  {
+   "id": "ot-sirach-v37-8",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 37:7 (some counsel for themselves) and 37:9 (end of 37:8's sentence) belong to it; extend 37:8 to 37:7–9."
+  },
+  {
+   "id": "AUD-27-37-16",
+   "field": "context note",
+   "text": "Cf. Proverbs 18:21 (not itemized)."
+  },
+  {
+   "id": "ot-sirach-v37-27",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 37:28 is the reason (not everything benefits everyone); extend 37:27 to 37:27–28."
+  },
+  {
+   "id": "ot-sirach-v37-29",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 37:30–31 give the reasons (illness; many die of insatiability); extend 37:29 to 37:29–31."
+  },
+  {
+   "id": "ot-sirach-v38-1",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 38:2–3 give the reasons (healing is from the Most High; the physician's honored skill); extend 38:1 to 38:1–3."
+  },
+  {
+   "id": "ot-sirach-v38-16",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 38:18–19 give the reason for limiting mourning (grief brings death); extend 38:16–17 to 38:16–19."
+  },
+  {
+   "id": "ot-sirach-v40-28",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 40:29–30 give the reasons (dependence defiles; begging burns within); extend 40:28 to 40:28–30."
+  },
+  {
+   "id": "ot-sirach-v41-3",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 41:4 is the reason (death is the Lord's sentence on all flesh); extend 41:3 to 41:3–4."
+  },
+  {
+   "id": "ot-sirach-v41-12",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 41:11, 13 frame 41:12 (sinners' names are blotted out; a good name endures); extend 41:12 to 41:11–13."
+  },
+  {
+   "id": "ot-sirach-v42-11",
+   "field": "context note",
+   "text": "This chapter includes ancient household, family or labor arrangements. Quoting them does not classify their social form or disciplinary practices as Everlasting; application requires a separate comparison with Christ and the apostles. 42:9–10 (a father's sleepless anxieties) lead into 42:11; extend 42:11–12 to 42:9–12 (see P01862)."
+  },
+  {
+   "id": "ot-sirach-v43-11",
+   "field": "context note",
+   "text": "Wisdom counsel in its original setting. Continuing application and any correspondence with the New Testament are not automatically assigned. 43:12 completes the rainbow sentence (the Most High stretched it out); extend 43:11 to 43:11–12."
+  },
+  {
+   "id": "ot-isaiah-v1-17",
+   "field": "context note",
+   "text": "Distinguish the prophet’s commission, covenant exhortation, quoted human speech and judgment rhetoric. Application beyond the original addressee remains open unless evidence is supplied. 1:19–20 complete the 1:18 invitation (obey and eat the land's good; refuse and the sword devours); extend 1:17–18 to 1:17–20."
+  },
+  {
+   "id": "ot-isaiah-v8-13",
+   "field": "context note",
+   "text": "Distinguish the prophet’s commission, covenant exhortation, quoted human speech and judgment rhetoric. Application beyond the original addressee remains open unless evidence is supplied. 8:14–15 give the attached promise and warning (sanctuary or stumbling stone); extend 8:13 to 8:13–15. Quoted Romans 9:33; 1 Peter 2:8."
+  },
+  {
+   "id": "AUD-28-31-1",
+   "field": "context note",
+   "text": "30:1–2 (woe to those going down to Egypt without asking God; unrecorded) is the same charge; link as Additional Scripture."
+  },
+  {
+   "id": "AUD-28-37-30",
+   "field": "context note",
+   "text": "Parallel 2 Kings 19:29 is also unrecorded; link it as Additional Scripture."
+  },
+  {
+   "id": "AUD-28-57-20",
+   "field": "context note",
+   "text": "Outside candidate list. 48:22 (context verse) repeats 'There is no rejoicing for the ungodly'; link as Additional Scripture."
+  },
+  {
+   "id": "AUD-28-61-1",
+   "field": "context note",
+   "text": "The speaker reports anointing and sending, with a list of entrusted tasks. Luke 4:16–21 is Jesus' later use and should be linked without substituting Luke's context for Isaiah's."
+  },
+  {
+   "id": "AUD-29-33-11",
+   "field": "context note",
+   "text": "Formal charge at Jeremiah’s trial (MT 26:11), like the first-pass demand at 45:4–5. Recording it does not approve it."
+  },
+  {
+   "id": "AUD-29-43-21",
+   "field": "context note",
+   "text": "Reported royal order (MT 36:21); the officials’ earlier summons of Baruch (43:14–16) is a first-pass finding."
+  },
+  {
+   "id": "AUD-30-16-2",
+   "field": "context note",
+   "text": "16:3 has only a Study Context record (ot-ezekiel-v16-3); compare the first-pass extension of ot-ezekiel-v22-3 to 22:2."
+  },
+  {
+   "id": "ot-ezekiel-v18-7",
+   "field": "context note",
+   "text": "Distinguish the prophet’s commission, covenant exhortation, quoted human speech and judgment rhetoric. Application beyond the original addressee remains open unless evidence is supplied. The existing practices are examples within three generations of a case about individual responsibility. Link the full argument without treating each example as a new decree."
+  },
+  {
+   "id": "ot-ezekiel-v33-11",
+   "field": "Additional Scripture Ezekiel 18:23",
+   "text": "Same saying as 33:11 (and 18:32); link as Additional Scripture."
+  },
+  {
+   "id": "AUD-30-42-13",
+   "field": "Additional Scripture Ezekiel 44:19",
+   "text": "Outside candidate list; same rule as 42:14. Link as Additional Scripture."
+  },
+  {
+   "id": "AUD-37-4-10",
+   "field": "context note",
+   "text": "Verse 10 directs courage and uses childbirth imagery while predicting exile and deliverance. Verse 13 is a separate threshing image already indexed, so link it as context."
+  },
+  {
+   "id": "K051",
+   "field": "context note",
+   "text": "Read the full passage and its original audience. Existing study; individual duties, doctrine and promises have not been reclassified in this synchronization. Ben Sira gives related counsel about forgiveness in prayer. His voice and audience are distinct. Mark applies the forgiveness charge while standing to pray. Link the distinct setting to Jesus’ existing teaching on forgiveness. This clause from Luke independently supports Matthew 6:14–15."
+  },
+  {
+   "id": "K054",
+   "field": "Additional Scripture Mark 9:33–37",
+   "text": "Verse 35 reverses rank into service; receiving a child in verse 37 illustrates the principle. Cross-link the existing service study with Matthew 20:26–28, a different setting."
+  },
+  {
+   "id": "K093",
+   "field": "Additional Scripture Mark 16:15–20",
+   "text": "Verse 15 gives the mission. Verses 17–18 describe accompanying signs, not directions to handle snakes or drink poison. The longer-ending boundary must remain visible; link the existing Matthew 28 commission as parallel."
+  },
+  {
+   "id": "AUD-46-1-13",
+   "field": "Additional Scripture Luke 1:59–64",
+   "text": "Elizabeth's 'he shall be called John' and Zechariah's 'His name is John' carry out the order; link as Additional Scripture."
+  },
+  {
+   "id": "AUD-46-7-24",
+   "field": "Additional Scripture Malachi 3:1",
+   "text": "Source of the messenger saying Jesus quotes (Luke 7:27; Matthew 11:10); link as Additional Scripture."
+  },
+  {
+   "id": "K049",
+   "field": "context note",
+   "text": "Read the full passage and its original audience. Existing study; individual duties, doctrine and promises have not been reclassified in this synchronization. Record holds only the application (10:36–37); link the parable body, including the care paid for at the inn (10:35)."
+  },
+  {
+   "id": "K091",
+   "field": "Additional Scripture Matthew 26:26–29",
+   "text": "Verses 26–27 directly say to take, eat and drink. The account explains the covenant blood; the explicit memorial wording appears elsewhere, so cross-link the existing Eucharist study without attributing that wording to Matthew."
+  },
+  {
+   "id": "AUD-48-26-15",
+   "field": "Additional Scripture Galatians 1:15–16",
+   "text": "Paul's own account of his call; link as Additional Scripture on the Acts 26:15–18 commission."
+  },
+  {
+   "id": "AUD-50-3-18",
+   "field": "Additional Scripture Job 5:13",
+   "text": "Quoted in 1 Corinthians 3:19 inside AUD-50-3-18; link as Additional Scripture (from Eliphaz’s doxology, 5:9–16)."
+  },
+  {
+   "id": "A101",
+   "field": "context note",
+   "text": "Read the full passage and its original audience. Existing study; individual duties, doctrine and promises have not been reclassified in this synchronization. Verse 6 quotes the appointment from Greek Psalm 109:4. Verse 10 expressly identifies God as the one who designated Jesus. Link the fuller appointment account to the existing study of the Melchizedek connection."
+  },
+  {
+   "id": "A101",
+   "field": "Additional Scripture Hebrews 5:5–10",
+   "text": "Verse 6 quotes the appointment from Greek Psalm 109:4. Verse 10 expressly identifies God as the one who designated Jesus. Link the fuller appointment account to the existing study of the Melchizedek connection."
+  },
+  {
+   "id": "AUD-70-1-1",
+   "field": "context note",
+   "text": "The blessing explicitly links hearing and keeping the text to the nearness of the time. The closing blessing recalls the blessing in 1:3 while using the voice of the One who says He is coming quickly. Link the opening and closing blessings while distinguishing their speakers."
+  },
+  {
+   "id": "AUD-70-1-1",
+   "field": "Additional Scripture Revelation 22:7",
+   "text": "The closing blessing recalls the blessing in 1:3 while using the voice of the One who says He is coming quickly. Link the opening and closing blessings while distinguishing their speakers."
+  }
+ ],
+ "unlinked_restatements": [
+  {
+   "verse": "Leviticus 19:11 ('you shall not steal')",
+   "record": "C0155"
+  },
+  {
+   "verse": "Leviticus 19:15 (impartial judgment)",
+   "record": "C0219"
+  },
+  {
+   "verse": "Leviticus 20:15–16 (penalty for intercourse with an animal)",
+   "record": "C0201"
+  },
+  {
+   "verse": "Numbers 5:7 (confess, restore and add a fifth)",
+   "record": "C0425"
+  }
+ ]
+}

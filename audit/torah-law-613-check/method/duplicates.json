@@ -1,0 +1,102 @@
+[
+ {
+  "id": "D001",
+  "kind": "same passage, one contains the other",
+  "a": "C0096",
+  "b": "C0097",
+  "keep": "both",
+  "label_conflict": true,
+  "confidence": "high",
+  "note": "C0096 (12:8–9) includes the not-raw clause C0097 states. Narrow C0096 to the positive manner (roasted, with unleavened bread, bitter herbs); labels differ."
+ },
+ {
+  "id": "D002",
+  "kind": "same passage, one contains the other",
+  "a": "C0096",
+  "b": "C0098",
+  "keep": "both",
+  "label_conflict": true,
+  "confidence": "high",
+  "note": "C0096 (12:8–9) includes the not-boiled clause C0098 states. Narrow C0096 to the positive manner of roasting and eating; Instruction vs Law on one clause."
+ },
+ {
+  "id": "D044",
+  "kind": "same passage, one contains the other",
+  "a": "C0389",
+  "b": "C0391",
+  "keep": "both",
+  "label_conflict": false,
+  "confidence": "medium",
+  "note": "C0391's exclusion of leavened firstfruits from the altar repeats C0389's leaven ban; narrow C0391 to the 2:12 firstfruit permission."
+ },
+ {
+  "id": "D045",
+  "kind": "same passage, one contains the other",
+  "a": "C0390",
+  "b": "C0391",
+  "keep": "both",
+  "label_conflict": false,
+  "confidence": "medium",
+  "note": "C0391's honey exclusion repeats C0390; both cite 2:11–12. Narrow C0390 to 2:11 and C0391 to the 2:12 firstfruit-gift case."
+ },
+ {
+  "id": "D146",
+  "kind": "same passage, one contains the other",
+  "a": "C0883",
+  "b": "C0884",
+  "keep": "both",
+  "label_conflict": true,
+  "confidence": "medium",
+  "note": "Both direct the Levites' portion from their tithe; C0884 adds 'best'. Narrow C0883 to 18:26–28 or merge; labels and classifications differ."
+ },
+ {
+  "id": "D166",
+  "kind": "same passage, one contains the other",
+  "a": "C1024",
+  "b": "C1025",
+  "keep": "both",
+  "label_conflict": true,
+  "confidence": "medium",
+  "note": "Both cover the same execution (13:10–11); C1024 only adds who strikes first. Narrow C1025 to the sentence (13:11) or merge; labels differ."
+ },
+ {
+  "id": "D196",
+  "kind": "same passage, same direction",
+  "a": "C1120",
+  "b": "C1122",
+  "keep": "C1120",
+  "label_conflict": false,
+  "confidence": "high",
+  "note": "C1122's 'prohibited treatment' is leaving the body hanging (its own note), the same act as C1120; the land clause is the rationale."
+ },
+ {
+  "id": "X004",
+  "kind": "same law in another passage",
+  "a": "C0146",
+  "b": "C0995",
+  "keep": "C0146",
+  "label_conflict": true,
+  "confidence": "medium",
+  "note": "Deut 6:14 repeats the first commandment's ban on other gods; fold into C0146 (Mosaic Command) as Additional Scripture; C0995 is labelled Torah Law."
+ },
+ {
+  "id": "X025",
+  "kind": "same law in another passage",
+  "a": "C0445",
+  "b": "C0875",
+  "keep": "C0445",
+  "label_conflict": false,
+  "confidence": "medium",
+  "note": "Num 18:9–10 restates the most-holy eating rule (every male, holy place) for guilt, sin and grain offerings; add it to C0445, C0437, C0388."
+ },
+ {
+  "id": "X031",
+  "kind": "same law in another passage",
+  "a": "C0607",
+  "b": "C1175",
+  "keep": "C0607",
+  "label_conflict": false,
+  "confidence": "high",
+  "note": "Same prompt-wage law: Lev 19:13 not overnight, Deut 24:15 same day before sunset; fold Deut 24:15 into C0607 as Additional Scripture."
+ }
+]

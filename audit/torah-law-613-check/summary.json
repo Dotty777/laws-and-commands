@@ -1,0 +1,97 @@
+{
+ "catalogue": "data/current/commands.json at commit 3d53008 (6,416 records)",
+ "torah_law_records": 556,
+ "definition": "study_placement == 'Torah Law' (mosaic_type Law, record_type Law)",
+ "by_book": {
+  "Exodus": 106,
+  "Leviticus": 251,
+  "Numbers": 59,
+  "Deuteronomy": 140
+ },
+ "by_origin": {
+  "original C records": 512,
+  "completeness review AUD records": 44
+ },
+ "by_classification": {
+  "Transformed": 59,
+  "Fulfilled": 114,
+  "Israel’s civil and land laws": 183,
+  "Application under review": 66,
+  "Unchanged": 9,
+  "Everlasting": 68,
+  "Covenant-specific instructions": 57
+ },
+ "mosaic_types": {
+  "Instruction": 417,
+  "Law": 556,
+  "Command": 72,
+  "Commission": 9,
+  "Wisdom": 10
+ },
+ "maimonides_613": {
+  "status": {
+   "other_mosaic": 104,
+   "torah_law": 419,
+   "other_record": 20,
+   "partial": 66,
+   "broad_only": 4
+  },
+  "other_mosaic_by_type": {
+   "Command": 32,
+   "Instruction": 71,
+   "Commission": 1
+  },
+  "torah_law_records_itemizing_any": 426,
+  "torah_law_records_itemizing_none": 130,
+  "commandments_with_two_or_more_torah_law_records": 64
+ },
+ "not_stated": {
+  "Maimonides' reading goes beyond the plain text": 58,
+  "Saints wording differs": 6,
+  "Text states it, no record does": 6,
+  "No itemized Mosaic record (only a Genesis record or a topical study)": 4
+ },
+ "duplicates": {
+  "Same passage, one record contains the other": 6,
+  "Same passage, same direction": 1,
+  "Same law recorded again in another passage": 5
+ },
+ "label_groups": {
+  "1 · Clear correction (matches the catalogue's own sibling records)": 10,
+  "2 · Positive half filed as Instruction while its negative half is Torah Law": 11,
+  "3 · Standing observance filed as Instruction while comparable ones are Torah Law": 20,
+  "4 · Conquest-era bans split between Torah Law and historical directions": 6,
+  "5 · Ten Commandments filed as Mosaic Command (a convention choice)": 14,
+  "6 · Other standing duties filed as Mosaic Command": 9
+ },
+ "count_steps": [
+  {
+   "step": "Current Torah Law count",
+   "change": 0,
+   "count": 556
+  },
+  {
+   "step": "Clear fixes: remove 1 duplicate, move 2 out, move 5 in",
+   "change": 2,
+   "count": 558
+  },
+  {
+   "step": "Make the Instruction / Torah Law split consistent (31 standing rules now filed as Instruction)",
+   "change": 31,
+   "count": 589
+  },
+  {
+   "step": "Conquest-era bans: one label for all 6 (all Torah Law: +5; all historical: −1)",
+   "change": null,
+   "count": null
+  },
+  {
+   "step": "Count the Ten Commandments (14) and the other standing duties filed as Mosaic Command (9) as Torah Law",
+   "change": 23,
+   "count": 612
+  }
+ ],
+ "missing_links": 4,
+ "edit_notes": 134,
+ "corrected_after_accuracy_check": "N171 and P53 moved to torah_law (C0655, C0230); S116 removed from N58."
+}
