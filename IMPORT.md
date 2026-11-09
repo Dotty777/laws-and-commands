@@ -18,10 +18,18 @@ To rebuild the current JSON, summary, and browse pages from the repository root,
 
 ```sh
 python scripts/build_current_catalogue.py
+python scripts/build_torah_law_categories.py
 python scripts/build_browse.py
 python scripts/build_current_catalogue.py --check
+python scripts/build_torah_law_categories.py --check
 python scripts/build_browse.py --check
 ```
+
+## Torah Law categories
+
+The [Torah Law category layer](data/current/torah-law-categories.json) gives each Torah Law record two study labels. **Form** follows the Jewish division of the commandments into positive and negative, with permissions listed separately. **Category** follows the traditional Christian division of the Mosaic law into moral, ceremonial and civil law, with ceremonial laws grouped by area. The [CSV copy](data/current/torah-law-categories.csv) and the counts are generated from the JSON, and the Torah Law browse pages show both labels.
+
+The layer sits beside the catalogue: the workbook, the current catalogue JSON and the site's classification field are unchanged. After editing the JSON, run `scripts/build_torah_law_categories.py` and then `scripts/build_browse.py`. The [category method](audit/torah-law-categories/README.md) gives the definitions and the records flagged for review.
 
 ## Archival import of 6 November 2026
 
