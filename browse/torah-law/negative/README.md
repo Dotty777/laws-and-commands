@@ -4,11 +4,11 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**293 current study records.** Forbids an action (mitzvat lo ta'aseh). Select a title to see all sources in its book view.
+**291 current study records.** Forbids an action (mitzvat lo ta'aseh). Select a title to see all sources in its book view.
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Exodus 12:9 | Leviticus 11:8 |
-| [Part 2](part-002.md) | 75 | Leviticus 11:9–12 | Leviticus 21:12 |
-| [Part 3](part-003.md) | 75 | Leviticus 21:12 | Deuteronomy 12:19 |
-| [Part 4](part-004.md) | 68 | Deuteronomy 12:30 | Deuteronomy 27:25 |
+| [Part 1](part-001.md) | 75 | Exodus 12:9 | Leviticus 11:13–19 |
+| [Part 2](part-002.md) | 75 | Leviticus 11:20–23 | Leviticus 21:13–14 |
+| [Part 3](part-003.md) | 75 | Leviticus 21:15 | Deuteronomy 13:4 |
+| [Part 4](part-004.md) | 66 | Deuteronomy 13:9 | Deuteronomy 27:25 |

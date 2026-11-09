@@ -6,12 +6,10 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 293.
+Records 76–150 of 291.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
-| [Do not eat water creatures lacking fins and scales](../../books/leviticus/part-002.md#record-c0469)<br>`C0469` | [Leviticus 11:9–12](https://saints.bible/bible/law/leviticus/chapter-11/#v11-9) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
-| [Do not eat the prohibited birds listed in the law](../../books/leviticus/part-002.md#record-c0470)<br>`C0470` | [Leviticus 11:13–19](https://saints.bible/bible/law/leviticus/chapter-11/#v11-13) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
 | [Do not eat prohibited winged insects, observing the stated locust exceptions](../../books/leviticus/part-002.md#record-c0471)<br>`C0471` | [Leviticus 11:20–23](https://saints.bible/bible/law/leviticus/chapter-11/#v11-20) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
 | [Do not eat or defile yourselves with the prohibited ground-creeping creatures](../../books/leviticus/part-002.md#record-c0479)<br>`C0479` | [Leviticus 11:41–44](https://saints.bible/bible/law/leviticus/chapter-11/#v11-41) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
 | [Do not touch holy things during postpartum purification](../../books/leviticus/part-002.md#record-c0481)<br>`C0481` | [Leviticus 12:4](https://saints.bible/bible/law/leviticus/chapter-12/#v12-4) | Negative | Ceremonial: Ritual purity | Israelite woman undergoing postpartum purification | Heavenly (God-given) |
@@ -44,8 +42,8 @@ Records 76–150 of 293.
 | [Do not turn toward idols](../../books/leviticus/part-004.md#record-c0596)<br>`C0596` | [Leviticus 19:4](https://saints.bible/bible/law/leviticus/chapter-19/#v19-4) | Negative | Moral | Israel | Heavenly (God-given) |
 | [Do not reap your field completely](../../books/leviticus/part-004.md#record-c0597)<br>`C0597` | [Leviticus 19:9](https://saints.bible/bible/law/leviticus/chapter-19/#v19-9) | Negative | Civil<br>also Moral | Israelite field owners and harvesters | Heavenly (God-given) |
 | [Do not collect the harvest gleanings](../../books/leviticus/part-004.md#record-c0598)<br>`C0598` | [Leviticus 19:9](https://saints.bible/bible/law/leviticus/chapter-19/#v19-9) | Negative | Civil<br>also Moral | Israelite field owners and harvesters | Heavenly (God-given) |
-| [Do not strip the vineyard by a second gleaning](../../books/leviticus/part-004.md#record-c0599)<br>`C0599` | [Leviticus 19:10](https://saints.bible/bible/law/leviticus/chapter-19/#v19-10) | Negative (also commands) | Civil<br>also Moral | Israelite vineyard owners and harvesters | Heavenly (God-given) |
-| [Do not gather the vineyard's fallen grapes](../../books/leviticus/part-004.md#record-c0600)<br>`C0600` | [Leviticus 19:10](https://saints.bible/bible/law/leviticus/chapter-19/#v19-10) | Negative (also commands) | Civil<br>also Moral | Israelite vineyard owners and harvesters | Heavenly (God-given) |
+| [Do not strip the vineyard by a second gleaning](../../books/leviticus/part-004.md#record-c0599)<br>`C0599` | [Leviticus 19:10](https://saints.bible/bible/law/leviticus/chapter-19/#v19-10) | Negative | Civil<br>also Moral | Israelite vineyard owners and harvesters | Heavenly (God-given) |
+| [Do not gather the vineyard's fallen grapes](../../books/leviticus/part-004.md#record-c0600)<br>`C0600` | [Leviticus 19:10](https://saints.bible/bible/law/leviticus/chapter-19/#v19-10) | Negative | Civil<br>also Moral | Israelite vineyard owners and harvesters | Heavenly (God-given) |
 | [Do not lie](../../books/leviticus/part-004.md#record-c0602)<br>`C0602` | [Leviticus 19:11](https://saints.bible/bible/law/leviticus/chapter-19/#v19-11) | Negative | Moral | Israel | Heavenly (God-given) |
 | [Do not defraud your neighbour](../../books/leviticus/part-004.md#record-c0603)<br>`C0603` | [Leviticus 19:11](https://saints.bible/bible/law/leviticus/chapter-19/#v19-11) | Negative | Moral | Israel | Heavenly (God-given) |
 | [Do not swear falsely by God's name](../../books/leviticus/part-004.md#record-c0604)<br>`C0604` | [Leviticus 19:12](https://saints.bible/bible/law/leviticus/chapter-19/#v19-12) | Negative | Moral | Israel | Heavenly (God-given) |
@@ -76,7 +74,7 @@ Records 76–150 of 293.
 | [Do not consult spirit mediums](../../books/leviticus/part-005.md#record-c0637)<br>`C0637` | [Leviticus 19:31](https://saints.bible/bible/law/leviticus/chapter-19/#v19-31) | Negative | Moral | Israel | Heavenly (God-given) |
 | [Do not turn to enchanters](../../books/leviticus/part-005.md#record-c0638)<br>`C0638` | [Leviticus 19:31](https://saints.bible/bible/law/leviticus/chapter-19/#v19-31) | Negative | Moral | Israel | Heavenly (God-given) |
 | [Do not overlook the prohibited offering of offspring](../../books/leviticus/part-005.md#record-c0645)<br>`C0645` | [Leviticus 20:4](https://saints.bible/bible/law/leviticus/chapter-20/#v20-4) | Negative | Civil<br>also Moral | People of the land charged with judgment | Heavenly (God-given) |
-| [Ordinary priests: avoid corpse defilement except for the specified close relatives](../../books/leviticus/part-005.md#record-c0654)<br>`C0654` | [Leviticus 21:1–4](https://saints.bible/bible/law/leviticus/chapter-21/#v21-1) | Negative (also commands) | Ceremonial: Priesthood and sanctuary | Ordinary Aaronic priests | Heavenly (God-given) |
+| [Ordinary priests: avoid corpse defilement except for the specified close relatives](../../books/leviticus/part-005.md#record-c0654)<br>`C0654` | [Leviticus 21:1–4](https://saints.bible/bible/law/leviticus/chapter-21/#v21-1) | Negative | Ceremonial: Priesthood and sanctuary | Ordinary Aaronic priests | Heavenly (God-given) |
 | [Do not shave a mourning bald patch](../../books/leviticus/part-005.md#record-c0655)<br>`C0655` | [Leviticus 21:5](https://saints.bible/bible/law/leviticus/chapter-21/#v21-5) | Negative | Ceremonial: Priesthood and sanctuary | Ordinary Aaronic priests | Heavenly (God-given) |
 | [Priests: do not marry a prostitute](../../books/leviticus/part-005.md#record-c0656)<br>`C0656` | [Leviticus 21:7](https://saints.bible/bible/law/leviticus/chapter-21/#v21-7) | Negative | Ceremonial: Priesthood and sanctuary | Ordinary Aaronic priests | Heavenly (God-given) |
 | [Priests: do not marry a profaned woman](../../books/leviticus/part-006.md#record-c0657)<br>`C0657` | [Leviticus 21:7](https://saints.bible/bible/law/leviticus/chapter-21/#v21-7) | Negative | Ceremonial: Priesthood and sanctuary | Ordinary Aaronic priests | Heavenly (God-given) |
@@ -85,5 +83,7 @@ Records 76–150 of 293.
 | [High priest: do not tear your garments in mourning](../../books/leviticus/part-006.md#record-c0662)<br>`C0662` | [Leviticus 21:10](https://saints.bible/bible/law/leviticus/chapter-21/#v21-10) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
 | [High priest: do not incur corpse defilement, even for parents](../../books/leviticus/part-006.md#record-c0663)<br>`C0663` | [Leviticus 21:11](https://saints.bible/bible/law/leviticus/chapter-21/#v21-11) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
 | [High priest: do not leave the sanctuary service for mourning](../../books/leviticus/part-006.md#record-c0664)<br>`C0664` | [Leviticus 21:12](https://saints.bible/bible/law/leviticus/chapter-21/#v21-12) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
+| [High priest: do not profane your consecrated ministry](../../books/leviticus/part-006.md#record-c0665)<br>`C0665` | [Leviticus 21:12](https://saints.bible/bible/law/leviticus/chapter-21/#v21-12) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
+| [High priest: do not marry a widow, an expelled or profaned woman, or a prostitute](../../books/leviticus/part-006.md#record-c0667)<br>`C0667` | [Leviticus 21:13–14](https://saints.bible/bible/law/leviticus/chapter-21/#v21-13) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)

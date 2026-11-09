@@ -4,7 +4,7 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**38 current study records.** Impurity and cleansing: corpses, skin disease, discharges, childbirth. Select a title to see all sources in its book view.
+**37 current study records.** Impurity and cleansing: corpses, skin disease, discharges, childbirth. Select a title to see all sources in its book view.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
@@ -44,5 +44,4 @@
 | [The person touching purification water: remain unclean until evening](../../books/numbers/part-003.md#record-c0903)<br>`C0903` | [Numbers 19:21](https://saints.bible/bible/law/numbers/chapter-19/#v19-21) | Positive | Ceremonial: Ritual purity | Anyone touching the purification water within Israel’s purification ordinance | Heavenly (God-given) |
 | [Apply the prescribed secondary-contact uncleanness rule](../../books/numbers/part-003.md#record-c0904)<br>`C0904` | [Numbers 19:22](https://saints.bible/bible/law/numbers/chapter-19/#v19-22) | Positive | Ceremonial: Ritual purity | Israelites and attached sojourners subject to impurity by secondary contact | Heavenly (God-given) |
 | [Apply the prescribed purity standard to articles that can or cannot pass through fire](../../books/numbers/part-005.md#record-c0934)<br>`C0934` | [Numbers 31:20–23](https://saints.bible/bible/law/numbers/chapter-31/#v31-20) | Positive | Ceremonial: Ritual purity | Israelite troops returning from the Midianite campaign, as addressed by Moses and Eleazar | Heavenly (God-given) |
-| [Do not make a mourning bald patch for the dead](../../books/deuteronomy/part-002.md#record-s126)<br>`S126` | [Deuteronomy 14:1–2](https://saints.bible/bible/law/deuteronomy/chapter-14/#v14-1) | Negative | Ceremonial: Ritual purity | The Israelites whom Moses addresses as sons of the Lord | Heavenly (God-given) |
 | [Leave the military camp when unclean from the stated discharge and return only after purification](../../books/deuteronomy/part-004.md#record-c1151)<br>`C1151` | [Deuteronomy 23:11–12](https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-11) | Positive (also forbids) | Ceremonial: Ritual purity | The Israelite man made unclean by the stated nighttime discharge | Heavenly (God-given) |

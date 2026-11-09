@@ -56,7 +56,7 @@ for r in TL:
     if p and p not in (o["category"], o["secondary"]): reasons.append("differs from the site's classification")
     out.append({
         "id": r["id"], "reference": r["reference"], "title": r["title"],
-        "form": o["form"], "form_mixed": o["mixed"], "form_basis": plain(o["form_basis"]),
+        "form": o["form"], "form_mixed": o["mixed"], "form_basis": o["form_basis"],
         "category": o["category"], "second_category": o["secondary"], "ceremonial_area": o["area"],
         "confidence": o["confidence"], "review_reasons": reasons, "note": plain(o["note"]),
         "adjudicated": adj.get("why", ""), "maimonides_613": seeds,

@@ -12,7 +12,10 @@ from collections import Counter
 import csv
 import io
 import json
+import re
 from pathlib import Path
+
+from build_catalogue import load_translation, resolve
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOGUE = "data/current/commands.json"
@@ -35,6 +38,24 @@ CSV_COLUMNS = (("Record ID", "id"), ("Scripture", "reference"), ("Study record",
 def require(condition: bool, message: str) -> None:
     if not condition:
         raise ValueError(message)
+
+
+def verify_form_basis(record: dict, source_verses: dict[str, str]) -> None:
+    basis = re.fullmatch(r'[^"]*"([^"]+)" \((\d+:\d+[a-z]?)\)', record["form_basis"])
+    rid = record["id"]
+    require(basis is not None, f"Missing form-basis quotation or verse for {rid}")
+    excerpt, reference = basis.groups()
+    require(reference in source_verses, f"Form basis cites a verse outside the record for {rid}: {reference}")
+
+    def words(text: str) -> str:
+        return " ".join(re.findall(r"[^\W_]+(?:'[^\W_]+)*", text.casefold().replace("’", "'")))
+
+    remaining = f" {words(source_verses[reference])} "
+    for fragment in re.split(r"…|\.{3}", excerpt):
+        needle = f" {words(fragment)} "
+        position = remaining.find(needle)
+        require(position >= 0, f"Form-basis quotation differs from Saints Translation for {rid}: {reference}")
+        remaining = remaining[position + len(needle) - 1:]
 
 
 def counts(records: list[dict]) -> dict:
@@ -65,11 +86,14 @@ def build() -> dict[str, str]:
     require(set(ids) == set(by_id), "The category layer must cover exactly the Torah Law records")
     order = {r["id"]: n for n, r in enumerate(torah)}
     records.sort(key=lambda r: order[r["id"]])
+    books, verses_by_url = load_translation()
     for r in records:
         rid = r["id"]
         require(tuple(r) == RECORD_KEYS, f"Unexpected keys for {rid}")
         require(r["reference"] == by_id[rid]["reference"] and r["title"] == by_id[rid]["title"], f"Reference or title differs from the catalogue for {rid}")
         require(r["form"] in FORMS and isinstance(r["form_mixed"], bool) and r["form_basis"].strip(), f"Invalid form for {rid}")
+        verses = resolve({"reference": r["reference"], "url": by_id[rid]["scripture_url"]}, books, verses_by_url)
+        verify_form_basis(r, {f"{v['chapter']}:{v['verse']}": v["text"] for v in verses})
         require(r["category"] in CATEGORIES and r["second_category"] in ("",) + CATEGORIES and r["second_category"] != r["category"], f"Invalid category for {rid}")
         ceremonial = "Ceremonial" in (r["category"], r["second_category"])
         require((r["ceremonial_area"] in AREAS) if ceremonial else r["ceremonial_area"] == "", f"Invalid ceremonial area for {rid}")

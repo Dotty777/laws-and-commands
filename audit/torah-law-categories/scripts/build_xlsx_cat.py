@@ -71,9 +71,13 @@ rows = [[r["id"], r["reference"], r["title"], cat[r["id"]]["book"], cat[r["id"]]
          r["confidence"], "; ".join(r["review_reasons"]), r["note"], r["adjudicated"], ", ".join(r["maimonides_613"])] for r in R]
 body(ws, rows); table(ws, "Categories", len(cols), 7, len(rows))
 last = 7 + len(rows)
-for col, values in (("G", FORMS), ("J", CATS), ("K", CATS), ("L", AREAS), ("M", ["high", "medium", "low"])):
+for col, values in (("G", FORMS), ("J", CATS), ("K", CATS), ("M", ["high", "medium", "low"])):
     dv = DataValidation(type="list", formula1='"' + ",".join(values) + '"', allow_blank=True)
     ws.add_data_validation(dv); dv.add(f"{col}8:{col}{last}")
+first_area = 8 + len(FORMS) + len(CATS)
+last_area = first_area + len(AREAS) - 1
+areas = DataValidation(type="list", formula1=f'''INDIRECT("'Definitions'!$B${first_area}:$B${last_area}")''', allow_blank=True)
+ws.add_data_validation(areas); areas.add(f"L8:L{last}")
 
 ws = wb.create_sheet("Counts")
 header(ws, "Counts, live from the Categories sheet", ["Formulas count the Categories sheet, so they follow your edits."],
