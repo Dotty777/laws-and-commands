@@ -6,7 +6,7 @@
 
 [Previous part](part-001.md) · [All parts](README.md)
 
-Records 76–134 of 134.
+Records 76–137 of 137.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
@@ -57,14 +57,17 @@ Records 76–134 of 134.
 | [Do not practice the prohibited portent-reading](../../books/deuteronomy/part-003.md#record-c1075)<br>`C1075` | [Deuteronomy 18:11](https://saints.bible/bible/law/deuteronomy/chapter-18/#v18-11) | Negative | Moral | Israel | Heavenly (God-given) |
 | [Do not inquire of the dead](../../books/deuteronomy/part-003.md#record-c1076)<br>`C1076` | [Deuteronomy 18:11](https://saints.bible/bible/law/deuteronomy/chapter-18/#v18-11) | Negative | Moral | Israel | Heavenly (God-given) |
 | [Heed the prophet whom God raises up and who speaks His words](../../books/deuteronomy/part-003.md#record-c1077)<br>`C1077` | [Deuteronomy 18:15](https://saints.bible/bible/law/deuteronomy/chapter-18/#v18-15) | Positive | Moral | Israel | Heavenly (God-given) |
+| [Do not treat the released captive wife with contempt](../../books/deuteronomy/part-004.md#record-c1115)<br>`C1115` | [Deuteronomy 21:14](https://saints.bible/bible/law/deuteronomy/chapter-21/#v21-14) | Negative | Moral<br>also Civil | The Israelite husband in the stated captive-marriage case | Heavenly (God-given) |
 | [Return your fellow Israelite’s lost animal or property](../../books/deuteronomy/part-004.md#record-c1123)<br>`C1123` | [Deuteronomy 22:1–3](https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-1) | Positive (also forbids) | Moral | Israelites encountering their neighbors' lost property | Heavenly (God-given) |
 | [Safeguard found property while its owner is unknown or absent](../../books/deuteronomy/part-004.md#record-c1124)<br>`C1124` | [Deuteronomy 22:2](https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-2) | Positive | Moral | The Israelite finder when the owner is distant or unknown | Heavenly (God-given) |
 | [A woman: do not wear the prohibited man's equipment](../../books/deuteronomy/part-004.md#record-c1125)<br>`C1125` | [Deuteronomy 22:5](https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-5) | Negative | Moral | Israel, with Israelite women specifically addressed by the provision | Heavenly (God-given) |
 | [A man: do not wear the prohibited woman's robe](../../books/deuteronomy/part-004.md#record-c1126)<br>`C1126` | [Deuteronomy 22:5](https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-5) | Negative | Moral | Israel, with Israelite men specifically addressed by the provision | Heavenly (God-given) |
 | [Do not abhor the Edomite](../../books/deuteronomy/part-004.md#record-c1146)<br>`C1146` | [Deuteronomy 23:8](https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-8) | Negative | Moral<br>also Civil | Israel | Heavenly (God-given) |
 | [Do not abhor the Egyptian](../../books/deuteronomy/part-004.md#record-c1147)<br>`C1147` | [Deuteronomy 23:8](https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-8) | Negative | Moral<br>also Civil | Israel | Heavenly (God-given) |
+| [Do not afflict the escaped slave](../../books/deuteronomy/part-004.md#record-c1158)<br>`C1158` | [Deuteronomy 23:17](https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-17) | Negative | Moral<br>also Civil | Israelites receiving an enslaved person who escaped | Heavenly (God-given) |
 | [Do not practice the prohibited prostitution](../../books/deuteronomy/part-004.md#record-c1159)<br>`C1159` | [Deuteronomy 23:18](https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-18) | Negative | Moral | Israel, with Israelite women and men specified in the law | Heavenly (God-given) |
 | [Do not perform or receive the prohibited initiation rites](../../books/deuteronomy/part-004.md#record-c1160)<br>`C1160` | [Deuteronomy 23:18](https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-18) | Negative | Moral | Israel, with Israelite women and men specified in the law | Heavenly (God-given) |
+| [Newly married husband: gladden your wife during the prescribed year at home](../../books/deuteronomy/part-005.md#record-c1168)<br>`C1168` | [Deuteronomy 24:5](https://saints.bible/bible/law/deuteronomy/chapter-24/#v24-5) | Positive | Moral<br>also Civil | An Israelite man in the stated first year of marriage | Heavenly (God-given) |
 | [Pay the worker's wages at the prescribed time](../../books/deuteronomy/part-005.md#record-c1175)<br>`C1175` | [Deuteronomy 24:14–15](https://saints.bible/bible/law/deuteronomy/chapter-24/#v24-14) | Positive (also forbids) | Moral<br>also Civil | Israelite employers of poor and needy workers, including Israelites and resident foreigners | Heavenly (God-given) |
 | [Do not pervert the judgment of the sojourner, orphan or widow](../../books/deuteronomy/part-005.md#record-aud-05-24-17)<br>`AUD-05-24-17` | [Deuteronomy 24:17](https://saints.bible/bible/law/deuteronomy/chapter-24/#v24-17) | Negative | Moral<br>also Civil | Israel | Heavenly (God-given) |
 | [Do not keep differing sets of weights or measures](../../books/deuteronomy/part-005.md#record-c1195)<br>`C1195` | [Deuteronomy 25:13–14](https://saints.bible/bible/law/deuteronomy/chapter-25/#v25-13) | Negative | Moral | Israelites using weights or measures | Heavenly (God-given) |

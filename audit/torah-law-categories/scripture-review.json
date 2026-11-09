@@ -1,0 +1,1768 @@
+{
+  "base_commit": "fae3ca631da437c07f738c63c5b702f28cc0c444",
+  "reviewed": 115,
+  "resolved": 97,
+  "open": 18,
+  "label_changes": 10,
+  "evidence_changes": 7,
+  "records": [
+    {
+      "id": "C0114",
+      "reference": "Exodus 12:49",
+      "source": "https://saints.bible/bible/law/exodus/chapter-12/#v12-49",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Exodus 12:43–49 limits the parity rule to Passover, and verse 48 specifies circumcision before a resident foreigner participates. The feast determines the primary category and equal legal treatment supplies the Civil aspect."
+    },
+    {
+      "id": "C0129",
+      "reference": "Exodus 16:23",
+      "source": "https://saints.bible/bible/law/exodus/chapter-16/#v16-23",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Exodus 16:23 calls the seventh day a holy rest and verse 26 confirms the recurring schedule. The manna directions explain the occasion. Exodus 20:8–11 and Deuteronomy 5:12 support the weekly-rest label under the rubric."
+    },
+    {
+      "id": "C0165",
+      "reference": "Exodus 21:5–6",
+      "source": "https://saints.bible/bible/law/exodus/chapter-21/#v21-5",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The servant elects to stay in Exodus 21:5. Verse 6 requires his master, the record’s stated audience, to present him at the tribunal and pierce his ear. The procedure is mandatory once the choice is made."
+    },
+    {
+      "id": "C0167",
+      "reference": "Exodus 21:8",
+      "source": "https://saints.bible/bible/law/exodus/chapter-21/#v21-8",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Exodus 21:8 expressly removes the master’s right to sell the woman to a foreign nation. The protection is a Civil limit on sale with a Moral aspect stated in the master’s breach of faith."
+    },
+    {
+      "id": "C0174",
+      "reference": "Exodus 21:15",
+      "source": "https://saints.bible/bible/law/exodus/chapter-21/#v21-15",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the 613 match"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Exodus 21:15 imposes a death penalty for striking a parent. The catalogue records the legal consequence as Positive and Civil. Maimonides N319 enumerates the underlying prohibition on striking a parent."
+    },
+    {
+      "id": "C0175",
+      "reference": "Exodus 21:16",
+      "source": "https://saints.bible/bible/law/exodus/chapter-21/#v21-16",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the 613 match"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Exodus 21:16 imposes death for reviling a parent, as does the parallel in Leviticus 20:9. The catalogue records the legal consequence as Positive and Civil. Maimonides N318 enumerates the underlying prohibition."
+    },
+    {
+      "id": "C0183",
+      "reference": "Exodus 21:28",
+      "source": "https://saints.bible/bible/law/exodus/chapter-21/#v21-28",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Exodus 21:28 expressly bars eating the ox’s flesh. The selected provision governs consumption, which fits Dietary laws. Its application only after the fatal goring and condemnation establishes the Civil overlap."
+    },
+    {
+      "id": "C0208",
+      "reference": "Exodus 22:27",
+      "source": "https://saints.bible/bible/law/exodus/chapter-22/#v22-27",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Exodus 22:27 clearly prohibits reviling, but the Saints wording ‘gods’ and the adjacent ruler clause leave the referent open. Acts 23:5 quotes the ruler clause. A judicial reading of the first clause would support Civil overlap."
+    },
+    {
+      "id": "C0223",
+      "reference": "Exodus 23:7",
+      "source": "https://saints.bible/bible/law/exodus/chapter-23/#v23-7",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Exodus 23:7 directs the hearer to keep away from unjust charges in affirmative terms. The separate clauses about killing the innocent and acquitting for gifts establish the Civil context for that Moral duty."
+    },
+    {
+      "id": "C0226",
+      "reference": "Exodus 23:10",
+      "source": "https://saints.bible/bible/law/exodus/chapter-23/#v23-10",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Exodus 23:10 uses affirmative wording for sowing and gathering. Its contrast with the compulsory seventh-year release in verse 11 supports an allowance for ordinary cultivation. The language also permits a reading as a prescribed working-year pattern."
+    },
+    {
+      "id": "C0244",
+      "reference": "Exodus 23:32",
+      "source": "https://saints.bible/bible/law/exodus/chapter-23/#v23-32",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Exodus 23:31–32 gives Israel a territorial context for the treaty prohibition, and Deuteronomy 7:1–2 repeats it for the peoples in the land. The express extension to their gods adds the Moral dimension."
+    },
+    {
+      "id": "C0245",
+      "reference": "Exodus 23:33",
+      "source": "https://saints.bible/bible/law/exodus/chapter-23/#v23-33",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Exodus 23:33 prohibits the specified peoples from remaining in Israel’s land. Serving their gods is the stated danger of settlement, so the selected residence provision is Civil."
+    },
+    {
+      "id": "AUD-02-31-13",
+      "reference": "Exodus 31:13, 16–17",
+      "source": "https://saints.bible/bible/law/exodus/chapter-31/#v31-13",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Exodus 31:13 and 16 require Sabbath observance, and verse 17 ties it to the seventh day of creation. The weekly-rest rule is Moral under the rubric. Its express function as Israel’s covenant sign supports Ceremonial secondary."
+    },
+    {
+      "id": "C0354",
+      "reference": "Exodus 31:14–15",
+      "source": "https://saints.bible/bible/law/exodus/chapter-31/#v31-14",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Exodus 31:14–15 states the penalty for Sabbath profanation and work. Numbers 15:32–36 shows the congregation executing the penalty in an actual case. Civil describes the sanction and Moral reflects the weekly Sabbath under the rubric."
+    },
+    {
+      "id": "C0391",
+      "reference": "Leviticus 2:12",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-2/#v2-12",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Leviticus 2:11–12 distinguishes altar restrictions from firstfruits. The context supports an exception allowing these ingredients, while verse 12’s affirmative wording can also prescribe bringing them as firstfruits. The passage gives no independent offering schedule for them."
+    },
+    {
+      "id": "C0410",
+      "reference": "Leviticus 5:1–5",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-5/#v5-1",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Leviticus 5:5 directly requires confessing the specified fault. Numbers 5:6–7 also treats confession as a distinct duty. Leviticus 5:6 links it to atonement and supports the secondary Ceremonial label."
+    },
+    {
+      "id": "C0423",
+      "reference": "Leviticus 5:16",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-5/#v5-16",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Leviticus 5:16 first requires repayment plus one fifth, then assigns the priest a distinct atonement duty. The recorded restitution is Civil, and the consecrated property being restored supplies its Ceremonial aspect."
+    },
+    {
+      "id": "C0436",
+      "reference": "Leviticus 6:16",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-6/#v6-16",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "form": "Negative",
+        "form_basis": "\"and shall not be eaten\" (6:16)",
+        "confidence": "medium"
+      },
+      "after": {
+        "form": "Positive",
+        "form_basis": "\"shall be wholly burned\" (6:16)",
+        "confidence": "high"
+      },
+      "reason": "Leviticus 6:13–16 prescribes complete burning of the priest’s offering. The title leads with that positive duty and also includes the ban on eating, so Mixed applies. Maimonides N138 counts the prohibition."
+    },
+    {
+      "id": "C0449",
+      "reference": "Leviticus 7:15",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-7/#v7-15",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "form": "Negative",
+        "form_basis": "\"they shall leave none of it until morning\" (7:15)",
+        "confidence": "medium"
+      },
+      "after": {
+        "form": "Positive",
+        "form_basis": "\"shall be eaten on the day\" (7:15)",
+        "confidence": "high"
+      },
+      "reason": "Leviticus 7:15 and 22:30 state same-day consumption affirmatively and prohibit leaving any until morning. The record leads with eating that day, so Positive leads and Mixed applies. Maimonides N120 counts the remainder ban."
+    },
+    {
+      "id": "C0451",
+      "reference": "Leviticus 7:16–18",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-7/#v7-16",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Leviticus 7:16 permits the offering day and the following day, while 7:18 forbids extending consumption to the third day by imposing a consequence. The merged record can prioritize the eating window or the third-day restriction. Verse 17’s disposal rule has its own entry."
+    },
+    {
+      "id": "C0468",
+      "reference": "Leviticus 11:8",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-11/#v11-8",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the 613 match"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Leviticus 11:8 and Deuteronomy 14:8 expressly forbid touching the specified carcass. The negative form describes the selected instruction. Maimonides P96 enumerates the related positive legal status of carcass impurity."
+    },
+    {
+      "id": "C0570",
+      "reference": "Leviticus 16:32–34",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-16/#v16-32",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Leviticus 16:32–34 assigns the atonement duty and holy garments to the anointed successor priest. The date and general observance are specified in verses 29–31. The office and its assigned sanctuary duties determine the area for this record."
+    },
+    {
+      "id": "AUD-03-18-3",
+      "reference": "Leviticus 18:3",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-18/#v18-3",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Leviticus 18:24–30 points back to the offenses described in the chapter as the nations’ practices. That context supports Moral for the recorded ban, while Maimonides N30 develops a wider prohibition on imitating gentile customs."
+    },
+    {
+      "id": "C0589",
+      "reference": "Leviticus 18:19",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-18/#v18-19",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Leviticus 18:19 explicitly makes menstrual uncleanness the condition of the ban. Ritual purity therefore leads. The conduct is sexual, and Leviticus 20:18 treats it as a covenant offense, supporting Moral secondary."
+    },
+    {
+      "id": "C0607",
+      "reference": "Leviticus 19:13",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-19/#v19-13",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Leviticus 19:13 groups withholding wages with wronging and robbing one’s neighbor, making the Moral aspect direct. Its specific overnight limit on employers supports Civil secondary."
+    },
+    {
+      "id": "C0627",
+      "reference": "Leviticus 19:24",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-19/#v19-24",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "ceremonial_area": "Sacrifice and offerings",
+        "confidence": "medium"
+      },
+      "after": {
+        "ceremonial_area": "Signs, vows and dedications",
+        "confidence": "high"
+      },
+      "reason": "Leviticus 19:24 declares all fourth-year fruit holy to the Lord. Verse 25 returns the fruit to ordinary consumption. The operative provision assigns sacred status and gives no altar procedure, so the dedication area fits."
+    },
+    {
+      "id": "TL-03-19-25",
+      "reference": "Leviticus 19:25",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-19/#v19-25",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Leviticus 19:23–25 moves from a three-year eating ban to a year of dedication, then releases the fifth-year fruit for the grower’s use. In that sequence, the eating clause grants an entitlement."
+    },
+    {
+      "id": "C0628",
+      "reference": "Leviticus 19:26",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-19/#v19-26",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Leviticus 19:26 clearly prohibits eating on the mountains in the Saints wording. Ezekiel 18:6, 15 supports a cultic reading, but the text leaves the specific practice unstated. Maimonides N195 derives a different rule from the Hebrew wording."
+    },
+    {
+      "id": "C0633",
+      "reference": "Leviticus 19:28",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-19/#v19-28",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Leviticus 19:28 expressly limits the incisions to those made for the dead. Leviticus 21:5 and Deuteronomy 14:1–2 place related rites in Israel’s holiness practices, supporting the Ceremonial identity-marker classification."
+    },
+    {
+      "id": "C0634",
+      "reference": "Leviticus 19:28",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-19/#v19-28",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Verse 28 expressly prohibits tattooed lettering. It specifies mourning for the incision clause and leaves the purpose of the tattoo clause unstated. Ceremonial remains plausible in the holiness context. The stated wording leaves the covenant-distinction and anti-idolatry readings open."
+    },
+    {
+      "id": "C0645",
+      "reference": "Leviticus 20:4",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-20/#v20-4",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium",
+        "form_basis": "\"utterly overlook that man with their eyes\" (20:4)"
+      },
+      "after": {
+        "confidence": "high",
+        "form_basis": "implied ban: \"utterly overlook that man with their eyes\" (20:4)"
+      },
+      "reason": "Verse 2 assigns enforcement to the people of the land. Verse 4 describes their deliberate refusal to act, which supports a Negative form for this implied ban on overlooking the offense. Civil covers enforcement and Moral covers the underlying offense. Verse 5 directs divine judgment at the offender, his household and those who join him."
+    },
+    {
+      "id": "AUD-03-21-6",
+      "reference": "Leviticus 21:6",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-21/#v21-6",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the 613 match"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verse 6 opens and closes with priestly holiness as an affirmative duty and explicitly forbids profaning God's name. Both clauses are in scope. Maimonides N76 derives the specific ban on priestly service after immersion and before sunset from this verse."
+    },
+    {
+      "id": "C0673",
+      "reference": "Leviticus 22:14",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-22/#v22-14",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "category": "Ceremonial",
+        "second_category": "Civil",
+        "confidence": "medium"
+      },
+      "after": {
+        "category": "Civil",
+        "second_category": "Ceremonial",
+        "confidence": "high"
+      },
+      "reason": "Verse 14 orders restitution with an added fifth after inadvertent consumption. Civil describes the remedy, consistent with the added fifth for misused holy property in Leviticus 5:16. Ceremonial describes the priestly holy portion being restored."
+    },
+    {
+      "id": "C0676",
+      "reference": "Leviticus 22:24",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-22/#v22-24",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "category": "Ceremonial",
+        "second_category": "",
+        "confidence": "medium"
+      },
+      "after": {
+        "category": "Civil",
+        "second_category": "Ceremonial",
+        "confidence": "high"
+      },
+      "reason": "Verse 24 first excludes castrated animals from sacrifice and then separately forbids the practice in Israel's land. This record covers the land-wide restriction, which is Civil, with Ceremonial secondary because the rule names the practices through the altar restriction. Maimonides N93 and N361 likewise enumerate distinct acts."
+    },
+    {
+      "id": "TL-03-22-27",
+      "reference": "Leviticus 22:27",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-22/#v22-27",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verse 27 requires seven days under the mother and fixes the start of eligibility on the eighth day. Positive describes the eligibility rule. The phrase 'may be accepted' allows presentation once eligible."
+    },
+    {
+      "id": "C0677",
+      "reference": "Leviticus 22:28",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-22/#v22-28",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Verse 28 prohibits the slaughter pairing without restricting it to offerings. Maimonides N101 includes ordinary and consecrated animals and his Guide gives a humane rationale. The offering context supports the existing Ceremonial label, while the rule's general scope leaves animal treatment or husbandry as plausible primary readings."
+    },
+    {
+      "id": "C0709",
+      "reference": "Leviticus 24:16",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-24/#v24-16",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the 613 match"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "The congregation's commanded act is stoning in verses 14 and 16, so the enforcement provision is Positive and Civil. The preceding curse supplies the Moral basis. Maimonides N60 enumerates the underlying prohibition on cursing God's name."
+    },
+    {
+      "id": "AUD-03-24-22",
+      "reference": "Leviticus 24:22",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-24/#v24-22",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the site's classification"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "The equal judgment of verse 22 follows homicide, injury and restitution laws and is followed by execution of the stated sentence in verse 23. Civil describes the legal rule and Moral captures impartial judgment across the two populations."
+    },
+    {
+      "id": "C0718",
+      "reference": "Leviticus 25:10",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-25/#v25-10",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verse 10 places the consecration within the proclamation of release and return of ancestral holdings. The catalogue's Jubilee rule gives Civil primary and Ceremonial secondary for sacred observance. The consecration itself is an affirmative duty."
+    },
+    {
+      "id": "C0724",
+      "reference": "Leviticus 25:12",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-25/#v25-12",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "form": "Positive",
+        "form_basis": "\"You shall eat its produce from the fields\" (25:12)",
+        "confidence": "medium"
+      },
+      "after": {
+        "form": "Permission",
+        "form_basis": "conditional allowance: \"You shall eat its produce from the fields\" (25:12)",
+        "confidence": "high"
+      },
+      "reason": "Verses 11–12 distinguish ordinary harvesting from consuming produce directly from the fields. Compare the rest-year provision in verses 5–7, which makes the yield available as food. The rule permits eating under that restriction, with Civil and Ceremonial reflecting land use during Jubilee."
+    },
+    {
+      "id": "C0736",
+      "reference": "Leviticus 25:44–46",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-25/#v25-44",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verses 44–45 allow acquisition and verse 46 establishes inheritance and permanent holding under the ancient legal arrangement. Positive describes the composite record's standing inheritance rule. The closing ban in verse 46 concerns the separate treatment of Israelites."
+    },
+    {
+      "id": "C0737",
+      "reference": "Leviticus 25:48–52",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-25/#v25-48",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verses 48–49 establish a right and allow eligible people to exercise it. Verses 50–52 prescribe the calculation by years remaining. The standing redemption right and required valuation justify Positive and Civil for the combined entry."
+    },
+    {
+      "id": "AUD-03-25-53",
+      "reference": "Leviticus 25:53",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-25/#v25-53",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verses 47 and 53 place a bonded Israelite in a foreign owner's household and limit his service to that of a hired worker without harsh toil in the community's sight. Civil describes the regulated labor relationship. Moral captures the protection from oppression."
+    },
+    {
+      "id": "TL-03-25-54",
+      "reference": "Leviticus 25:54",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-25/#v25-54",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the site's classification"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Verse 54 requires release of the bonded Israelite and his children at Jubilee if the preceding redemption procedure has been unused. Civil describes the legal end of the labor arrangement. Jubilee sets its timing."
+    },
+    {
+      "id": "C0749",
+      "reference": "Leviticus 27:20",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-27/#v27-20",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verse 19 allows the original donor to redeem, while verse 20 expressly bars redemption after the disqualifying sale. Negative captures the ban. The subject is redemption of a dedicated field."
+    },
+    {
+      "id": "AUD-03-27-24",
+      "reference": "Leviticus 27:22–24",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-27/#v27-22",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verse 24 returns a purchased field to the original holder at Jubilee, making land tenure the primary issue. Verses 22–23 establish the field's separate consecration and valuation, which support Ceremonial secondary."
+    },
+    {
+      "id": "C0757",
+      "reference": "Leviticus 27:29",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-27/#v27-29",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Verse 29 expressly bars redeeming a person under the stated devotion. Verse 28 places the term among irrevocable consecrations, and the death clause introduces a penal dimension. The identity of those subject to this provision and the legal procedure behind it remain unstated, leaving the order of Civil and Ceremonial open."
+    },
+    {
+      "id": "C0758",
+      "reference": "Leviticus 27:29",
+      "source": "https://saints.bible/bible/law/leviticus/chapter-27/#v27-29",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Verse 29 states death as the consequence for the person devoted. It names neither the body that determines this status nor the enforcing authority. The consequence supports Civil and the devotion context supports Ceremonial, with their order depending on the underlying procedure."
+    },
+    {
+      "id": "C0770",
+      "reference": "Numbers 1:51",
+      "source": "https://saints.bible/bible/law/numbers/chapter-1/#v1-51",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the 613 match",
+        "differs from the site's classification"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Numbers 1:50–53 and 3:38 set out the Levites' duties and the boundary around the Tent. The outsider clause sets death liability at that boundary and assigns no judicial procedure. Positive captures that consequence and Ceremonial captures sanctuary access. Maimonides N74 separately enumerates unauthorized sanctuary service."
+    },
+    {
+      "id": "C0774",
+      "reference": "Numbers 3:10",
+      "source": "https://saints.bible/bible/law/numbers/chapter-3/#v3-10",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the 613 match"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Verse 10 assigns Aaron and his sons charge of the altar and the area inside the veil. Numbers 18:5 and 7 repeat the affirmative duty. Maimonides N67 counts the distinct prohibition on leaving the sanctuary unguarded."
+    },
+    {
+      "id": "ot-numbers-v3-12",
+      "reference": "Numbers 3:12–13",
+      "source": "https://saints.bible/bible/law/numbers/chapter-3/#v3-12",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verse 12 assigns the Levites to the Lord in place of the firstborn. Numbers 8:16–19 ties the substitution to their continuing Tent service, confirming Priesthood and sanctuary as the subject and Positive as the status established."
+    },
+    {
+      "id": "C0797",
+      "reference": "Numbers 5:8",
+      "source": "https://saints.bible/bible/law/numbers/chapter-5/#v5-8",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verse 7 requires repayment to the wronged person. Verse 8 redirects the same restitution to the priest when there is no recipient next of kin, alongside the ram of atonement. The repayment is Civil and its sacred allocation supports Ceremonial secondary."
+    },
+    {
+      "id": "ot-numbers-v5-30",
+      "reference": "Numbers 5:29–31",
+      "source": "https://saints.bible/bible/law/numbers/chapter-5/#v5-29",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verse 30 directs the priest to perform the procedure before the Lord. Verses 26–28 describe the offering and test, and verse 31 addresses liability. The priestly procedure is Ceremonial, with Civil secondary for adjudicating the accusation."
+    },
+    {
+      "id": "C0826",
+      "reference": "Numbers 6:21",
+      "source": "https://saints.bible/bible/law/numbers/chapter-6/#v6-21",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verse 21 summarizes the law of the votary's gift according to the extent of the vow. Verse 13 introduces the required completion rite and Numbers 30:3 states the duty to do what was vowed. The committed gift is an affirmative vow obligation."
+    },
+    {
+      "id": "AUD-04-15-30",
+      "reference": "Numbers 15:30–31",
+      "source": "https://saints.bible/bible/law/numbers/chapter-15/#v15-30",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verses 30–31 assign a consequence for defying the Lord's word, making the provision Moral and Positive under the status rule. The later wood-gathering case names human enforcement only after a separate divine instruction in verses 35–36."
+    },
+    {
+      "id": "AUD-04-18-8",
+      "reference": "Numbers 18:8, 19",
+      "source": "https://saints.bible/bible/law/numbers/chapter-18/#v18-8",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verses 8 and 19 allot holy contributions to Aaron and his household by a standing ordinance. The affirmative allocation establishes entitlement. Verses 9–18 separately identify portions and conditions of consumption."
+    },
+    {
+      "id": "C0881",
+      "reference": "Numbers 18:20",
+      "source": "https://saints.bible/bible/law/numbers/chapter-18/#v18-20",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verse 20 expressly prohibits Aaron's ordinary land inheritance. Verses 23–24 extend the restriction to the Levites and give the tithe as their allotment. Civil covers territorial inheritance and Ceremonial captures the priestly portion that takes its place."
+    },
+    {
+      "id": "AUD-04-19-13",
+      "reference": "Numbers 19:13, 20",
+      "source": "https://saints.bible/bible/law/numbers/chapter-19/#v19-13",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Verses 13 and 20 condemn the resulting sanctuary defilement and state its consequence. The Negative label describes the implied ban in this entry. Verses 12 and 19 prescribe the complementary purification duty. Maimonides N77 separately enumerates entry into the sanctuary while impure."
+    },
+    {
+      "id": "TL-04-25-13",
+      "reference": "Numbers 25:13",
+      "source": "https://saints.bible/bible/law/numbers/chapter-25/#v25-13",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Numbers 25:12–13 grants Phinehas and his descendants an enduring priesthood. The grant establishes a status, which the catalogue classifies as Positive, and priesthood is its stated subject."
+    },
+    {
+      "id": "C0930",
+      "reference": "Numbers 30:3",
+      "source": "https://saints.bible/bible/law/numbers/chapter-30/#v30-3",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Numbers 30:3 both forbids breaking one’s pledged word and requires fulfilling it. The title selects the prohibition as the leading clause. Keeping one’s word is Moral, with Ceremonial overlap for vows to the Lord."
+    },
+    {
+      "id": "C0931",
+      "reference": "Numbers 30:4–6",
+      "source": "https://saints.bible/bible/law/numbers/chapter-30/#v30-4",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Numbers 30:4–6 gives the legal effect of the father’s silence or same-day objection. Both outcomes determine the vow’s status. This is a Positive household rule, with Ceremonial overlap because the vow is made to the Lord."
+    },
+    {
+      "id": "C0932",
+      "reference": "Numbers 30:7–9",
+      "source": "https://saints.bible/bible/law/numbers/chapter-30/#v30-7",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Numbers 30:7–9 regulates the status of an existing vow on marriage. The linked verses 11–16 address a vow made in the husband’s household and liability for late annulment. Both passages support Positive and Civil with Ceremonial overlap."
+    },
+    {
+      "id": "C0933",
+      "reference": "Numbers 30:10",
+      "source": "https://saints.bible/bible/law/numbers/chapter-30/#v30-10",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Numbers 30:10 makes the widow’s or divorced woman’s vow binding in its own right. The rule directly concerns the force of the vow. The surrounding household rules explain the secondary Civil aspect of her marital status."
+    },
+    {
+      "id": "C0952",
+      "reference": "Numbers 35:33–34",
+      "source": "https://saints.bible/bible/law/numbers/chapter-35/#v35-33",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Numbers 35:33–34 forbids polluting the land with murder. The prohibition supports Moral, while the homicide judgments in verses 29–32 and atonement provision in verse 33 support Civil. The passage supports both and leaves category priority open."
+    },
+    {
+      "id": "C0998",
+      "reference": "Deuteronomy 7:3",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-7/#v7-3",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Deuteronomy 7:1–3 identifies seven nations and prohibits intermarriage with them. The marriage restriction is Civil under the conquest and household rule. Verse 4 makes prevention of idolatry the basis for Moral overlap."
+    },
+    {
+      "id": "C0999",
+      "reference": "Deuteronomy 7:25",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-7/#v7-25",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Deuteronomy 7:25 expressly forbids coveting the metal on the idols because it can lead Israel to stumble. This provision targets desire for an idolatrous object. The ban on devoted objects in verse 26 supports the Ceremonial overlap."
+    },
+    {
+      "id": "C1000",
+      "reference": "Deuteronomy 7:25",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-7/#v7-25",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium",
+        "form_basis": "\"shall not covet … nor take it unto yourself\" (7:25)"
+      },
+      "after": {
+        "confidence": "high",
+        "form_basis": "\"nor take it unto yourself\" (7:25)"
+      },
+      "reason": "Deuteronomy 7:25 separately forbids taking the silver or gold attached to the images. The prohibition addresses a means of idolatrous entanglement. Verse 26 supplies the devoted-object context."
+    },
+    {
+      "id": "C1001",
+      "reference": "Deuteronomy 7:26",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-7/#v7-26",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Deuteronomy 7:26 both bars bringing the object inside and commands its rejection. Those clauses regulate the same response to an idol under the ban, so the form is mixed and the explicit household prohibition is primary."
+    },
+    {
+      "id": "S122",
+      "reference": "Deuteronomy 12:4",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-12/#v12-4",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Deuteronomy 12:4 refers back to the nations’ sites and practices in verses 2–3. Verse 5 points to the chosen sanctuary, while the parallel in verse 31 specifies condemned acts such as child-burning. Both Moral and Ceremonial readings remain relevant to the elliptical verse."
+    },
+    {
+      "id": "AUD-05-12-15",
+      "reference": "Deuteronomy 12:15, 20–22",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-12/#v12-15",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the 613 match"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Deuteronomy 12:15 and 20 explicitly authorize ordinary meat consumption, while verses 21–22 describe local slaughter and who may eat. The catalogue’s permission differs in scope from Maimonides’ duties concerning prescribed slaughter and redemption."
+    },
+    {
+      "id": "C1017",
+      "reference": "Deuteronomy 12:19",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-12/#v12-19",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Deuteronomy 12:17–19 places care for the Levite alongside sacred meals and dues. Its instruction to avoid forsaking him throughout life in the land also supports broader moral care. Either emphasis could govern the primary category."
+    },
+    {
+      "id": "C1020",
+      "reference": "Deuteronomy 13:6",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-13/#v13-6",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the 613 match"
+      ],
+      "before": {
+        "form_basis": "court penalty: \"that prophet … shall die\" (13:6)"
+      },
+      "after": {
+        "form_basis": "stated penalty: \"that prophet … shall die\" (13:6)"
+      },
+      "reason": "Deuteronomy 13:6 states death liability and directs the community to remove the offender. The record covers the Civil sanction, which is Positive under the catalogue’s convention. Maimonides N26 concerns prophesying in the name of other gods."
+    },
+    {
+      "id": "C1023",
+      "reference": "Deuteronomy 13:9–10",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-13/#v13-9",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the 613 match"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Deuteronomy 13:9–10 combines the ban on concealing the enticer with the duty to report him. The record names both and leads with the reporting duty. Maimonides N21 indexes the concealment ban, accounting for the form difference."
+    },
+    {
+      "id": "C1025",
+      "reference": "Deuteronomy 13:11",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-13/#v13-11",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the 613 match"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Deuteronomy 13:11 directs the community to stone the proven enticer. The record selects this Civil penalty, classified as Positive, while Maimonides N16 concerns the enticement itself."
+    },
+    {
+      "id": "C1031",
+      "reference": "Deuteronomy 13:18",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-13/#v13-18",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Deuteronomy 13:13–18 first requires investigation and then prescribes what happens to the condemned city and its spoil. Verse 18 forbids retaining the property under the ban, making Civil primary and its devoted status Ceremonial."
+    },
+    {
+      "id": "S126",
+      "reference": "Deuteronomy 14:1–2",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-14/#v14-1",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium",
+        "ceremonial_area": "Ritual purity"
+      },
+      "after": {
+        "confidence": "high",
+        "ceremonial_area": "Signs, vows and dedications"
+      },
+      "reason": "Deuteronomy 14:1–2 prohibits a mourning mark as a bodily distinction for all Israel. Signs, vows and dedications fits this specific restriction, consistent with the bodily mourning rule in Leviticus 19:28. Leviticus 21:5 addresses priests specifically."
+    },
+    {
+      "id": "AUD-05-14-11",
+      "reference": "Deuteronomy 14:11",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-14/#v14-11",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the 613 match"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Deuteronomy 14:11 expressly permits eating clean birds. Maimonides P150 concerns distinguishing clean birds, while this catalogue entry records the permission granted once the bird is clean."
+    },
+    {
+      "id": "C1032",
+      "reference": "Deuteronomy 14:24–26",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-14/#v14-24",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Deuteronomy 14:24–26 gives a prescribed procedure when the tithe cannot be carried. The household must convert it to silver, take the silver to the chosen place and use it there. The choice concerns what to buy."
+    },
+    {
+      "id": "C1034",
+      "reference": "Deuteronomy 14:28–29",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-14/#v14-28",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Deuteronomy 14:28–29 requires a local deposit and names the vulnerable beneficiaries. This distribution makes Civil primary. Deuteronomy 26:12–13 restates the third-year tithe and calls it holy, supporting Ceremonial overlap."
+    },
+    {
+      "id": "C1040",
+      "reference": "Deuteronomy 15:9",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-15/#v15-9",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Deuteronomy 15:9 calls withholding help because release approaches a sinful response toward a needy brother. That refusal is the Moral prohibition. The seven-year debt release is the Civil setting."
+    },
+    {
+      "id": "AUD-05-15-22",
+      "reference": "Deuteronomy 15:21–22",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-15/#v15-21",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Deuteronomy 15:21 excludes the blemished firstborn from sacrifice, then verse 22 admits both clean and unclean people to eat it like game. The same comparison in Deuteronomy 12:15, 22 supports Permission for local consumption."
+    },
+    {
+      "id": "C1052",
+      "reference": "Deuteronomy 16:21",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-16/#v16-21",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Deuteronomy 16:21 names a sacred grove and any tree beside God’s altar. The cultic object supports Moral and the altar-specific restriction supports Ceremonial. The phrase’s breadth leaves the priority of those categories open."
+    },
+    {
+      "id": "TL-05-17-8",
+      "reference": "Deuteronomy 17:8–9",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-17/#v17-8",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the site's classification"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Deuteronomy 17:8–9 describes referral of disputed judgments and names both the priests and the judge as adjudicators. The chosen venue and priestly participants coexist with a Civil procedure. The site’s application label describes covenant scope."
+    },
+    {
+      "id": "C1069",
+      "reference": "Deuteronomy 18:6–8",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-18/#v18-6",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Deuteronomy 18:6–8 leaves the decision to come to the Levite. On arrival he is entitled to minister alongside the other Levites and receive his allotted share. The record selects that established status and so is Positive."
+    },
+    {
+      "id": "TL-05-18-10",
+      "reference": "Deuteronomy 18:10",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-18/#v18-10",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the site's classification"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "Deuteronomy 18:9–14 forbids the fire rite on children alongside divination and sorcery as condemned practices. Moral fits that prohibition under the rubric, and the site’s application label identifies the covenant audience."
+    },
+    {
+      "id": "C1077",
+      "reference": "Deuteronomy 18:15",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-18/#v18-15",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the site's classification"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Deuteronomy 18:15 commands Israel to heed the prophet God raises. Verses 18–19 connect the duty to God’s own words. This supports a Positive moral duty, while the site’s fulfillment label concerns the identity or application of the prophet."
+    },
+    {
+      "id": "C1079",
+      "reference": "Deuteronomy 18:20",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-18/#v18-20",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the 613 match"
+      ],
+      "before": {
+        "form_basis": "court penalty: \"that prophet shall die\" (18:20)"
+      },
+      "after": {
+        "form_basis": "stated penalty: \"that prophet shall die\" (18:20)"
+      },
+      "reason": "Deuteronomy 18:20 gives the legal consequence for presumptuous prophecy. Verses 21–22 give the community a test and tell it not to spare the false prophet. The Positive Civil sanction differs from Maimonides’ prohibitions N26 and N27."
+    },
+    {
+      "id": "C1086",
+      "reference": "Deuteronomy 19:15",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-19/#v19-15",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the 613 match",
+        "differs from the site's classification"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The verse states both the insufficiency of one witness and the two- or three-witness threshold. The catalogue records the full Civil evidence rule, with the affirmative threshold first. Maimonides N288 counts the prohibition separately."
+    },
+    {
+      "id": "C1091",
+      "reference": "Deuteronomy 20:1",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-1",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the site's classification"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "The prohibition applies when Israel goes to battle against a superior force. God’s presence supplies the reason for courage. Military conduct falls under Civil in this rubric, and the site’s covenant-specific label describes its scope."
+    },
+    {
+      "id": "C1099",
+      "reference": "Deuteronomy 20:13–15",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-13",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The exception expressly places women and dependent households outside the preceding killing order. Positive records the protected legal status the force must observe."
+    },
+    {
+      "id": "TL-05-20-14",
+      "reference": "Deuteronomy 20:14–15",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-14",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the site's classification"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The spoil is given to Israel for its use in the distant-city case. The recorded provision grants an entitlement to take and consume it. The surrounding orders concern the conduct of war, which fits Civil."
+    },
+    {
+      "id": "AUD-05-20-17",
+      "reference": "Deuteronomy 20:17–18",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-17",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The main command orders Israel to carry out a conquest judgment, so Civil is primary. Its form of devotion supports the ceremonial overlap. The separate no-survivor clause is in verse 16."
+    },
+    {
+      "id": "C1115",
+      "reference": "Deuteronomy 21:14",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-21/#v21-14",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "category": "Civil",
+        "second_category": "Moral",
+        "confidence": "medium"
+      },
+      "after": {
+        "category": "Moral",
+        "second_category": "Civil",
+        "confidence": "high"
+      },
+      "reason": "The operative clause forbids degrading the released woman because the husband has humbled her. That is a direct duty toward her. The captive-marriage statute supplies the Civil setting, and Maimonides N264 specifies enslavement."
+    },
+    {
+      "id": "C1120",
+      "reference": "Deuteronomy 21:22–23",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-21/#v21-22",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "The same-day burial duty and overnight exposure ban are explicit Civil rules about an executed person’s body. The final clause warns against defiling the land. Whether that gives the burial rule a second category of Ritual purity remains an editorial judgment."
+    },
+    {
+      "id": "C1125",
+      "reference": "Deuteronomy 22:5",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-5",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "The prohibition on a woman having a man’s equipment is explicit. The verse calls the conduct an abomination and gives no further rationale. Moral remains the working label, while a covenant-separation reading remains possible."
+    },
+    {
+      "id": "C1126",
+      "reference": "Deuteronomy 22:5",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-5",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "The prohibition on a man wearing a woman’s robe is explicit. The same abomination clause addresses both prohibitions and gives no further rationale. Moral remains the working label, while a covenant-separation reading remains possible."
+    },
+    {
+      "id": "C1127",
+      "reference": "Deuteronomy 22:6–7",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-6",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "The passage both requires releasing the mother and forbids taking her with the young. It permits taking the young and promises well-being. The text leaves the reason for the restriction open, so Civil resource regulation and a Moral duty toward the animal remain possible readings."
+    },
+    {
+      "id": "AUD-05-22-9-2",
+      "reference": "Deuteronomy 22:9",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-9",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the 613 match"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The record addresses the consequence of mixed sowing: both products acquire consecrated status. Positive describes that legal status. Maimonides N216 formulates the resulting restriction on benefiting from the produce."
+    },
+    {
+      "id": "C1130",
+      "reference": "Deuteronomy 22:10",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-10",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the site's classification"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "This is the middle of three rules against mixing kinds in 22:9–11. The rubric treats mixed yoking as Ceremonial separation. The agricultural subject explains the site’s civil and land label."
+    },
+    {
+      "id": "C1142",
+      "reference": "Deuteronomy 23:2",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-2",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the site's classification"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The verse sets eligibility for entry into Israel’s assembly. The restriction concerns membership status, which supports Civil under the rubric. Aquinas understands public standing and Maimonides applies the rule to marriage eligibility."
+    },
+    {
+      "id": "C1143",
+      "reference": "Deuteronomy 23:3",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-3",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the site's classification"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The Saints reading makes specified parentage a disqualification for assembly membership. Civil captures that eligibility rule, while the narrower rabbinic legal definition belongs to Maimonides’ marriage interpretation."
+    },
+    {
+      "id": "C1144",
+      "reference": "Deuteronomy 23:4",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-4",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the site's classification"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The provision sets an ancestry-based restriction on admission. Nehemiah 13:1–3 invokes this law when separating people from Israel. That community-membership setting supports Civil, alongside Maimonides’ marriage-law reading."
+    },
+    {
+      "id": "C1146",
+      "reference": "Deuteronomy 23:8",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-8",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Kinship is the reason given for the direct ban on abhorring an Edomite. Moral describes that duty, and the next verse’s third-generation admission rule explains the Civil overlap and Maimonides’ use."
+    },
+    {
+      "id": "C1147",
+      "reference": "Deuteronomy 23:8",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-8",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "Israel’s past residence in Egypt is the reason given for the direct ban on abhorring an Egyptian. Moral describes that duty, and the third-generation admission rule supplies its Civil context."
+    },
+    {
+      "id": "C1148",
+      "reference": "Deuteronomy 23:9",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-9",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence",
+        "differs from the 613 match"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The passage affirmatively establishes eligibility in the third generation. Civil fits assembly membership. Maimonides N54 and N55 express the corresponding marriage rule as a prohibition on rejection."
+    },
+    {
+      "id": "C1149",
+      "reference": "Deuteronomy 23:10",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-10",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The wording requires active vigilance while encamped against enemies, so Positive follows the operative clause. Military discipline is Civil. The surrounding rules say the camp must be holy because the Lord walks in it."
+    },
+    {
+      "id": "C1151",
+      "reference": "Deuteronomy 23:11–12",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-11",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the 613 match"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "The verse requires leaving and washing and expressly forbids entering while unclean. The record covers the complete purity procedure. Maimonides N78 isolates the entry ban."
+    },
+    {
+      "id": "C1157",
+      "reference": "Deuteronomy 23:17",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-17",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The verse grants the escaped person a choice of residence. The record addresses Israel as host, which must respect that choice. This is a Positive asylum obligation with an ethical protection for the vulnerable."
+    },
+    {
+      "id": "C1158",
+      "reference": "Deuteronomy 23:17",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-17",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "category": "Civil",
+        "second_category": "Moral",
+        "confidence": "medium"
+      },
+      "after": {
+        "category": "Moral",
+        "second_category": "Civil",
+        "confidence": "high"
+      },
+      "reason": "The record isolates the direct prohibition on afflicting the escaped person, parallel to the ban on oppressing a resident foreigner in Exodus 22:20. The asylum and settlement rules give the prohibition its Civil setting."
+    },
+    {
+      "id": "C1160",
+      "reference": "Deuteronomy 23:18",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-18",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the site's classification"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "The Saints reading explicitly prohibits the initiation practices for women and men. The operative rule is a ban on participation, which the rubric treats as Moral. The site label captures its covenant setting."
+    },
+    {
+      "id": "AUD-05-23-21",
+      "reference": "Deuteronomy 23:21",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-23/#v23-21",
+      "status": "resolved",
+      "original_flags": [
+        "differs from the 613 match"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "The Saints Translation says a lender may charge a foreigner interest. The next clause expressly prohibits charging a fellow Israelite. Permission describes the former clause, while Maimonides P198 enumerates an affirmative command."
+    },
+    {
+      "id": "C1166",
+      "reference": "Deuteronomy 24:1–4",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-24/#v24-1",
+      "status": "open",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {},
+      "after": {},
+      "reason": "The conditional case culminates in a specific remarriage ban, so Negative and Civil are clear. The text associates it with defilement and an abomination. The secondary Moral category depends on how that rationale is read."
+    },
+    {
+      "id": "C1168",
+      "reference": "Deuteronomy 24:5",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-24/#v24-5",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "category": "Civil",
+        "second_category": "Moral",
+        "confidence": "medium"
+      },
+      "after": {
+        "category": "Moral",
+        "second_category": "Civil",
+        "confidence": "high"
+      },
+      "reason": "This record concerns the husband’s affirmative duty to gladden his wife. The one-year public-duty exemption is the Civil setting and has its own catalogue entry at C1167."
+    },
+    {
+      "id": "C1175",
+      "reference": "Deuteronomy 24:14–15",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-24/#v24-14",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The passage forbids withholding wages and orders same-day payment. It calls failure a sin against the needy worker, making Moral primary. Civil captures the enforceable timing rule. Both clauses are in the recorded provision."
+    },
+    {
+      "id": "C1183",
+      "reference": "Deuteronomy 25:4",
+      "source": "https://saints.bible/bible/law/deuteronomy/chapter-25/#v25-4",
+      "status": "resolved",
+      "original_flags": [
+        "medium confidence"
+      ],
+      "before": {
+        "confidence": "medium"
+      },
+      "after": {
+        "confidence": "high"
+      },
+      "reason": "The verse sets a rule for threshing, so Civil describes its immediate operation. Moral captures the concern for the working animal and the principle Paul applies to workers’ support in 1 Corinthians 9:8–10."
+    }
+  ]
+}

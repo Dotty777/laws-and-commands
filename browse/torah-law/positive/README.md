@@ -4,12 +4,12 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**335 current study records.** Requires an action, a procedure, or a status or penalty to be applied (mitzvat aseh). Select a title to see all sources in its book view.
+**336 current study records.** Requires an action, a procedure, or a status or penalty to be applied (mitzvat aseh). Select a title to see all sources in its book view.
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
 | [Part 1](part-001.md) | 75 | Exodus 12:2 | Leviticus 2:13 |
-| [Part 2](part-002.md) | 75 | Leviticus 2:14–16 | Leviticus 22:14 |
-| [Part 3](part-003.md) | 75 | Leviticus 22:27 | Numbers 15:38 |
-| [Part 4](part-004.md) | 75 | Numbers 18:1 | Deuteronomy 19:15 |
-| [Part 5](part-005.md) | 35 | Deuteronomy 19:19–21 | Deuteronomy 25:11–12 |
+| [Part 2](part-002.md) | 75 | Leviticus 2:14–16 | Leviticus 21:9 |
+| [Part 3](part-003.md) | 75 | Leviticus 21:13–14 | Numbers 15:30–31 |
+| [Part 4](part-004.md) | 75 | Numbers 15:38 | Deuteronomy 19:8–9 |
+| [Part 5](part-005.md) | 36 | Deuteronomy 19:15 | Deuteronomy 25:11–12 |

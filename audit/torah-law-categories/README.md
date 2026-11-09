@@ -1,5 +1,7 @@
 # Torah Law categories
 
+The [Scripture follow-up](SCRIPTURE-REVIEW.md) records all 115 flagged decisions and the current open questions.
+
 > This page records the original category pass. For current totals, the corrected workbook and the record-by-record decisions, see the [independent Torah Law category audit](INDEPENDENT-REVIEW.md).
 
 **All 646 Torah Law records now carry two study labels: a form from the Jewish division of the commandments, and a category from the traditional Christian division of the Mosaic law.** 334 are positive, 293 negative and 19 permissions. 134 are moral, 312 ceremonial and 200 civil. 112 records are flagged below for your decision.

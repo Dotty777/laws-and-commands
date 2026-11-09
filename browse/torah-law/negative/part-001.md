@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 293.
+Records 1–75 of 291.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
@@ -75,9 +75,7 @@ Records 1–75 of 293.
 | [Do not eat the prohibited fat of cattle, sheep or goats](../../books/leviticus/part-001.md#record-c0399)<br>`C0399` | [Leviticus 3:17](https://saints.bible/bible/law/leviticus/chapter-3/#v3-17) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
 | [Add neither oil nor frankincense to the flour sin offering](../../books/leviticus/part-001.md#record-c0418)<br>`C0418` | [Leviticus 5:11](https://saints.bible/bible/law/leviticus/chapter-5/#v5-11) | Negative | Ceremonial: Sacrifice and offerings | Israelite bringing a flour sin offering | Heavenly (God-given) |
 | [Do not bake the priests' grain offering portion with leaven](../../books/leviticus/part-002.md#record-aud-03-6-9)<br>`AUD-03-6-9` | [Leviticus 6:9–10](https://saints.bible/bible/law/leviticus/chapter-6/#v6-9) | Negative (also commands) | Ceremonial: Sacrifice and offerings | Aaron and his sons | Heavenly (God-given) |
-| [Burn a priest’s grain offering entirely and do not eat it](../../books/leviticus/part-002.md#record-c0436)<br>`C0436` | [Leviticus 6:16](https://saints.bible/bible/law/leviticus/chapter-6/#v6-16) | Negative (also commands) | Ceremonial: Sacrifice and offerings | Aaron and his sons as priests | Heavenly (God-given) |
 | [Do not eat the sin offering whose blood was brought inside the sanctuary](../../books/leviticus/part-002.md#record-c0441)<br>`C0441` | [Leviticus 6:23](https://saints.bible/bible/law/leviticus/chapter-6/#v6-23) | Negative (also commands) | Ceremonial: Sacrifice and offerings | Aaron and his sons as priests | Heavenly (God-given) |
-| [Eat the thanksgiving peace offering that day and leave none until morning](../../books/leviticus/part-002.md#record-c0449)<br>`C0449` | [Leviticus 7:15](https://saints.bible/bible/law/leviticus/chapter-7/#v7-15) | Negative (also commands) | Ceremonial: Sacrifice and offerings | Offerer and other eligible participants | Heavenly (God-given) |
 | [Eat vow or freewill peace-offering meat within two days](../../books/leviticus/part-002.md#record-c0451)<br>`C0451` | [Leviticus 7:16–18](https://saints.bible/bible/law/leviticus/chapter-7/#v7-16) | Negative | Ceremonial: Sacrifice and offerings | Offerer and other eligible participants | Heavenly (God-given) |
 | [Do not eat sacrificial flesh that has touched uncleanness](../../books/leviticus/part-002.md#record-c0454)<br>`C0454` | [Leviticus 7:19](https://saints.bible/bible/law/leviticus/chapter-7/#v7-19) | Negative (also commands) | Ceremonial: Sacrifice and offerings | Potential eaters of sacrificial flesh | Heavenly (God-given) |
 | [Do not eat the holy peace offering while unclean](../../books/leviticus/part-002.md#record-c0456)<br>`C0456` | [Leviticus 7:20–21](https://saints.bible/bible/law/leviticus/chapter-7/#v7-20) | Negative | Ceremonial: Ritual purity | Israelites in ritual uncleanness | Heavenly (God-given) |
@@ -85,5 +83,7 @@ Records 1–75 of 293.
 | [Priests: drink no wine or strong drink when entering the tent or approaching the altar](../../books/leviticus/part-002.md#record-c0463)<br>`C0463` | [Leviticus 10:9](https://saints.bible/bible/law/leviticus/chapter-10/#v10-9) | Negative | Ceremonial: Priesthood and sanctuary | Aaron and his sons as priests | Heavenly (God-given) |
 | [Do not eat land animals excluded by the prescribed hoof and cud criteria](../../books/leviticus/part-002.md#record-c0467)<br>`C0467` | [Leviticus 11:2–8](https://saints.bible/bible/law/leviticus/chapter-11/#v11-2) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
 | [Do not touch the prohibited animal carcasses](../../books/leviticus/part-002.md#record-c0468)<br>`C0468` | [Leviticus 11:8](https://saints.bible/bible/law/leviticus/chapter-11/#v11-8) | Negative | Ceremonial: Ritual purity | Israel | Heavenly (God-given) |
+| [Do not eat water creatures lacking fins and scales](../../books/leviticus/part-002.md#record-c0469)<br>`C0469` | [Leviticus 11:9–12](https://saints.bible/bible/law/leviticus/chapter-11/#v11-9) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
+| [Do not eat the prohibited birds listed in the law](../../books/leviticus/part-002.md#record-c0470)<br>`C0470` | [Leviticus 11:13–19](https://saints.bible/bible/law/leviticus/chapter-11/#v11-13) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
 
 [All parts](README.md) · [Next part](part-002.md)

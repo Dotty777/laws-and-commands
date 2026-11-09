@@ -4,9 +4,9 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**107 current study records.** Sacrifices, offerings, tithes, firstfruits and firstborn animals for the altar. Select a title to see all sources in its book view.
+**104 current study records.** Sacrifices, offerings, tithes, firstfruits and firstborn animals for the altar. Select a title to see all sources in its book view.
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Exodus 13:2 | Numbers 5:9–10 |
-| [Part 2](part-002.md) | 32 | Numbers 5:15 | Deuteronomy 23:19 |
+| [Part 1](part-001.md) | 75 | Exodus 13:2 | Numbers 15:19–21 |
+| [Part 2](part-002.md) | 29 | Numbers 15:27–29 | Deuteronomy 23:19 |

@@ -4,7 +4,7 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**42 current study records.** Circumcision, tassels, mixed kinds, vows, Nazirites, valuations and devoted things. Select a title to see all sources in its book view.
+**44 current study records.** Circumcision, tassels, mixed kinds, vows, Nazirites, valuations and devoted things. Select a title to see all sources in its book view.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
@@ -13,6 +13,7 @@
 | [Do not mate livestock of different kinds](../../books/leviticus/part-005.md#record-c0621)<br>`C0621` | [Leviticus 19:19](https://saints.bible/bible/law/leviticus/chapter-19/#v19-19) | Negative | Ceremonial: Signs, vows and dedications | Israelite livestock keepers | Heavenly (God-given) |
 | [Do not sow mixed kinds in the cultivated plot](../../books/leviticus/part-005.md#record-c0622)<br>`C0622` | [Leviticus 19:19](https://saints.bible/bible/law/leviticus/chapter-19/#v19-19) | Negative | Ceremonial: Signs, vows and dedications | Israelite cultivators | Heavenly (God-given) |
 | [Do not wear the prohibited mixed-material garment](../../books/leviticus/part-005.md#record-c0623)<br>`C0623` | [Leviticus 19:19](https://saints.bible/bible/law/leviticus/chapter-19/#v19-19) | Negative | Ceremonial: Signs, vows and dedications | Israel | Heavenly (God-given) |
+| [Consecrate the fourth-year fruit to God](../../books/leviticus/part-005.md#record-c0627)<br>`C0627` | [Leviticus 19:24](https://saints.bible/bible/law/leviticus/chapter-19/#v19-24) | Positive | Ceremonial: Signs, vows and dedications | Israelite fruit growers in the land | Heavenly (God-given) |
 | [Do not make the prohibited haircut called sisoe in the Saints text](../../books/leviticus/part-005.md#record-c0631)<br>`C0631` | [Leviticus 19:27](https://saints.bible/bible/law/leviticus/chapter-19/#v19-27) | Negative | Ceremonial: Signs, vows and dedications | Israel | Heavenly (God-given) |
 | [Do not mar the prescribed appearance of the beard](../../books/leviticus/part-005.md#record-c0632)<br>`C0632` | [Leviticus 19:27](https://saints.bible/bible/law/leviticus/chapter-19/#v19-27) | Negative | Ceremonial: Signs, vows and dedications | Israel | Heavenly (God-given) |
 | [Do not perform the prohibited bodily mourning rites for the dead](../../books/leviticus/part-005.md#record-c0633)<br>`C0633` | [Leviticus 19:28](https://saints.bible/bible/law/leviticus/chapter-19/#v19-28) | Negative | Ceremonial: Signs, vows and dedications | Israel | Heavenly (God-given) |
@@ -46,6 +47,7 @@
 | [Redeem the firstborn of unclean livestock](../../books/numbers/part-003.md#record-c0876)<br>`C0876` | [Numbers 18:15](https://saints.bible/bible/law/numbers/chapter-18/#v18-15) | Positive | Ceremonial: Signs, vows and dedications | Aaron’s priestly household administering redemption, with Israelite owners presenting the firstborn | Heavenly (God-given) |
 | [Treat a widow's or divorced woman's vow as binding](../../books/numbers/part-004.md#record-c0933)<br>`C0933` | [Numbers 30:10](https://saints.bible/bible/law/numbers/chapter-30/#v30-10) | Positive | Ceremonial: Signs, vows and dedications<br>also Civil | Israelite widows or divorced women who make a vow, through Israel’s tribal heads | Heavenly (God-given) |
 | [Write God's words on doorposts and gates](../../books/deuteronomy/part-001.md#record-c0991)<br>`C0991` | [Deuteronomy 6:9](https://saints.bible/bible/law/deuteronomy/chapter-6/#v6-9) | Positive | Ceremonial: Signs, vows and dedications | Israelite householders addressed by Moses | Heavenly (God-given) |
+| [Do not make a mourning bald patch for the dead](../../books/deuteronomy/part-002.md#record-s126)<br>`S126` | [Deuteronomy 14:1–2](https://saints.bible/bible/law/deuteronomy/chapter-14/#v14-1) | Negative | Ceremonial: Signs, vows and dedications | The Israelites whom Moses addresses as sons of the Lord | Heavenly (God-given) |
 | [Do not sow your vineyard with a different crop](../../books/deuteronomy/part-004.md#record-aud-05-22-9)<br>`AUD-05-22-9` | [Deuteronomy 22:9](https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-9) | Negative | Ceremonial: Signs, vows and dedications | Israel | Heavenly (God-given) |
 | [Mixed vineyard seed and yield become consecrated](../../books/deuteronomy/part-004.md#record-aud-05-22-9-2)<br>`AUD-05-22-9-2` | [Deuteronomy 22:9](https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-9) | Positive | Ceremonial: Signs, vows and dedications | Israel | Heavenly (God-given) |
 | [Do not plough with an ox and donkey yoked together](../../books/deuteronomy/part-004.md#record-c1130)<br>`C1130` | [Deuteronomy 22:10](https://saints.bible/bible/law/deuteronomy/chapter-22/#v22-10) | Negative | Ceremonial: Signs, vows and dedications | Israelite ploughers | Heavenly (God-given) |

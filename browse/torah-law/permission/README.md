@@ -4,7 +4,7 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**18 current study records.** Allows an action without requiring it. Select a title to see all sources in its book view.
+**19 current study records.** Allows an action without requiring it. Select a title to see all sources in its book view.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
@@ -15,6 +15,7 @@
 | [A priest's purchased or house-born slaves may eat his holy food](../../books/leviticus/part-006.md#record-aud-03-22-11)<br>`AUD-03-22-11` | [Leviticus 22:11](https://saints.bible/bible/law/leviticus/chapter-22/#v22-11) | Permission | Ceremonial: Priesthood and sanctuary | priests and their households | Heavenly (God-given) |
 | [A returning childless priest's daughter may again eat her father's food](../../books/leviticus/part-006.md#record-aud-03-22-13)<br>`AUD-03-22-13` | [Leviticus 22:13](https://saints.bible/bible/law/leviticus/chapter-22/#v22-13) | Permission | Ceremonial: Priesthood and sanctuary | priests and their households | Heavenly (God-given) |
 | [The specified calf or sheep with a cut ear or shortened tail may be slaughtered for personal use](../../books/leviticus/part-006.md#record-tl-03-22-23)<br>`TL-03-22-23` | [Leviticus 22:23](https://saints.bible/bible/law/leviticus/chapter-22/#v22-23) | Permission | Ceremonial: Sacrifice and offerings | Israelites slaughtering cattle or sheep and offerers making a vow | Heavenly (God-given) |
+| [Use the Jubilee produce as the prescribed field food](../../books/leviticus/part-007.md#record-c0724)<br>`C0724` | [Leviticus 25:12](https://saints.bible/bible/law/leviticus/chapter-25/#v25-12) | Permission | Civil<br>also Ceremonial: Festivals and holy days | Israelites observing Jubilee | Heavenly (God-given) |
 | [A Nazirite may drink wine again after completing the prescribed rite](../../books/numbers/part-002.md#record-tl-04-06-20)<br>`TL-04-06-20` | [Numbers 6:20](https://saints.bible/bible/law/numbers/chapter-6/#v6-20) | Permission | Ceremonial: Signs, vows and dedications | Israelite Nazirites completing the vow | Heavenly (God-given) |
 | [Priests' clean household members may eat the presented gifts](../../books/numbers/part-003.md#record-aud-04-18-11)<br>`AUD-04-18-11` | [Numbers 18:11](https://saints.bible/bible/law/numbers/chapter-18/#v18-11) | Permission | Ceremonial: Sacrifice and offerings | Aaron and his household | Heavenly (God-given) |
 | [Levites and their households may eat their remaining tithe anywhere after setting aside its consecrated portion](../../books/numbers/part-003.md#record-ot-numbers-v18-31)<br>`ot-numbers-v18-31` | [Numbers 18:31–32](https://saints.bible/bible/law/numbers/chapter-18/#v18-31) | Permission | Ceremonial: Sacrifice and offerings | Levites receiving the tithe and their households | Heavenly (God-given) |

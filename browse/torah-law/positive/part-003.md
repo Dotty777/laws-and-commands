@@ -6,10 +6,12 @@
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)
 
-Records 151–225 of 335.
+Records 151–225 of 336.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
+| [High priest: marry a virgin from your own kin](../../books/leviticus/part-006.md#record-c0666)<br>`C0666` | [Leviticus 21:13–14](https://saints.bible/bible/law/leviticus/chapter-21/#v21-13) | Positive | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
+| [Repay holy food eaten in ignorance with an added fifth](../../books/leviticus/part-006.md#record-c0673)<br>`C0673` | [Leviticus 22:14](https://saints.bible/bible/law/leviticus/chapter-22/#v22-14) | Positive | Civil<br>also Ceremonial: Sacrifice and offerings | Anyone who eats holy food unintentionally | Heavenly (God-given) |
 | [A calf, sheep or goat becomes eligible for offering from its eighth day](../../books/leviticus/part-006.md#record-tl-03-22-27)<br>`TL-03-22-27` | [Leviticus 22:27](https://saints.bible/bible/law/leviticus/chapter-22/#v22-27) | Positive | Ceremonial: Sacrifice and offerings | Offerers and priests assessing calves, sheep and goats presented as offerings | Heavenly (God-given) |
 | [Present the peace or thanksgiving sacrifice according to its acceptance requirements](../../books/leviticus/part-006.md#record-c0678)<br>`C0678` | [Leviticus 22:29](https://saints.bible/bible/law/leviticus/chapter-22/#v22-29) | Positive | Ceremonial: Sacrifice and offerings | Israelite offering the specified peace or thanksgiving sacrifice | Heavenly (God-given) |
 | [Hold a holy Sabbath assembly](../../books/leviticus/part-006.md#record-c0680)<br>`C0680` | [Leviticus 23:3](https://saints.bible/bible/law/leviticus/chapter-23/#v23-3) | Positive | Ceremonial: Festivals and holy days | Israel | Heavenly (God-given) |
@@ -38,7 +40,6 @@ Records 151–225 of 335.
 | [Proclaim Jubilee release throughout the land with the appointed trumpet](../../books/leviticus/part-007.md#record-c0717)<br>`C0717` | [Leviticus 25:9–10](https://saints.bible/bible/law/leviticus/chapter-25/#v25-9) | Positive | Civil<br>also Ceremonial: Festivals and holy days | Israel as the community keeping the land calendar | Heavenly (God-given) |
 | [Consecrate the fiftieth year](../../books/leviticus/part-007.md#record-c0718)<br>`C0718` | [Leviticus 25:10](https://saints.bible/bible/law/leviticus/chapter-25/#v25-10) | Positive | Civil<br>also Ceremonial: Festivals and holy days | Israel as the community keeping the land calendar | Heavenly (God-given) |
 | [Restore ancestral landholdings at the Jubilee](../../books/leviticus/part-007.md#record-c0720)<br>`C0720` | [Leviticus 25:10](https://saints.bible/bible/law/leviticus/chapter-25/#v25-10) | Positive | Civil | Israelite holders and claimants of ancestral land | Heavenly (God-given) |
-| [Use the Jubilee produce as the prescribed field food](../../books/leviticus/part-007.md#record-c0724)<br>`C0724` | [Leviticus 25:12](https://saints.bible/bible/law/leviticus/chapter-25/#v25-12) | Positive | Civil<br>also Ceremonial: Festivals and holy days | Israelites observing Jubilee | Heavenly (God-given) |
 | [Price land transfers according to the remaining harvest years before Jubilee](../../books/leviticus/part-007.md#record-c0725)<br>`C0725` | [Leviticus 25:15–16](https://saints.bible/bible/law/leviticus/chapter-25/#v25-15) | Positive | Civil | Israelite buyers and sellers of land use | Heavenly (God-given) |
 | [Permit and calculate redemption of ancestral land according to the prescribed rules](../../books/leviticus/part-007.md#record-c0727)<br>`C0727` | [Leviticus 25:24–28](https://saints.bible/bible/law/leviticus/chapter-25/#v25-24) | Positive | Civil | Israelite land sellers, their redeemers, and purchasers | Heavenly (God-given) |
 | [Apply the stated redemption periods and Jubilee distinctions for walled-city and village houses](../../books/leviticus/part-007.md#record-c0728)<br>`C0728` | [Leviticus 25:29–31](https://saints.bible/bible/law/leviticus/chapter-25/#v25-29) | Positive | Civil | Israelite house sellers, purchasers, and redeemers | Heavenly (God-given) |
@@ -84,6 +85,5 @@ Records 151–225 of 335.
 | [Give the first portion of the dough to God](../../books/numbers/part-002.md#record-c0858)<br>`C0858` | [Numbers 15:19–21](https://saints.bible/bible/law/numbers/chapter-15/#v15-19) | Positive | Ceremonial: Sacrifice and offerings | Israelites eating the bread of the land, through Moses | Heavenly (God-given) |
 | [Offer a year-old female goat for the individual inadvertent offense in this provision](../../books/numbers/part-002.md#record-tl-04-15-27)<br>`TL-04-15-27` | [Numbers 15:27–29](https://saints.bible/bible/law/numbers/chapter-15/#v15-27) | Positive | Ceremonial: Sacrifice and offerings | An Israelite or resident sojourner who sins inadvertently under this provision, with the priest officiating | Heavenly (God-given) |
 | [Apply the stated judgment for defiant sin](../../books/numbers/part-002.md#record-aud-04-15-30)<br>`AUD-04-15-30` | [Numbers 15:30–31](https://saints.bible/bible/law/numbers/chapter-15/#v15-30) | Positive | Moral | Israelites and sojourners | Heavenly (God-given) |
-| [Make the prescribed fringes at the corners of the garment](../../books/numbers/part-002.md#record-c0860)<br>`C0860` | [Numbers 15:38](https://saints.bible/bible/law/numbers/chapter-15/#v15-38) | Positive | Ceremonial: Signs, vows and dedications | Israelites throughout their generations, through Moses | Heavenly (God-given) |
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)

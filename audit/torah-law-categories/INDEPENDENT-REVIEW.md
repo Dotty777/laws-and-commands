@@ -1,8 +1,10 @@
 # Independent Torah Law category audit
 
+The [Scripture follow-up](SCRIPTURE-REVIEW.md) records all 115 flagged decisions and the current open questions.
+
 Reviewed all **646** records in the category workbook against the archived Saints Translation exports. The review covered Exodus (132 records), Leviticus (270), Numbers (79), and Deuteronomy (165). The supplied workbook matched the GitHub workbook byte for byte before the audit. Its 646 category rows matched the published category layer.
 
-The audit corrected **47 records**, including **37 with changes to a form, mixed flag, category, second category or ceremonial area**. It also recorded 33 interpretive judgments, including three confidence adjustments, and six source qualifications. The workbook flags 115 records for reasons that include confidence flags and differences from Maimonides or the site’s separate application classification.
+The audit corrected **47 records**, including **37 with changes to a form, mixed flag, category, second category or ceremonial area**. It also recorded 33 interpretive judgments, including three confidence adjustments, and six source qualifications. This pass flagged 115 records for reasons that include confidence flags and differences from Maimonides or the site’s separate application classification.
 
 [Download the audited workbook](Saints-Bible-Torah-Law-Categories-2026-11-08.xlsx) · [Browse Torah Law](../../browse/torah-law/README.md) · [Category data](../../data/current/torah-law-categories.json)
 

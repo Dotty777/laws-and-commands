@@ -6,12 +6,10 @@
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)
 
-Records 151–225 of 293.
+Records 151–225 of 291.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
-| [High priest: do not profane your consecrated ministry](../../books/leviticus/part-006.md#record-c0665)<br>`C0665` | [Leviticus 21:12](https://saints.bible/bible/law/leviticus/chapter-21/#v21-12) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
-| [High priest: do not marry a widow, an expelled or profaned woman, or a prostitute](../../books/leviticus/part-006.md#record-c0667)<br>`C0667` | [Leviticus 21:13–14](https://saints.bible/bible/law/leviticus/chapter-21/#v21-13) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
 | [High priest: do not profane your offspring through the forbidden marriage](../../books/leviticus/part-006.md#record-c0668)<br>`C0668` | [Leviticus 21:15](https://saints.bible/bible/law/leviticus/chapter-21/#v21-15) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
 | [A priest with a specified blemish: do not approach to offer at the altar or enter beyond the permitted boundary](../../books/leviticus/part-006.md#record-c0669)<br>`C0669` | [Leviticus 21:17–23](https://saints.bible/bible/law/leviticus/chapter-21/#v21-17) | Negative | Ceremonial: Priesthood and sanctuary | Descendants of Aaron with a listed bodily blemish | Heavenly (God-given) |
 | [Priests: do not approach or eat holy things while unclean](../../books/leviticus/part-006.md#record-c0670)<br>`C0670` | [Leviticus 22:3–7](https://saints.bible/bible/law/leviticus/chapter-22/#v22-3) | Negative | Ceremonial: Priesthood and sanctuary | Aaronic priests in a state of ritual uncleanness | Heavenly (God-given) |
@@ -20,7 +18,7 @@ Records 151–225 of 293.
 | [A priest's daughter married to an outsider may not eat holy portions](../../books/leviticus/part-006.md#record-aud-03-22-12)<br>`AUD-03-22-12` | [Leviticus 22:12](https://saints.bible/bible/law/leviticus/chapter-22/#v22-12) | Negative | Ceremonial: Priesthood and sanctuary | priests and their households | Heavenly (God-given) |
 | [Do not profane Israel's holy contributions](../../books/leviticus/part-006.md#record-c0674)<br>`C0674` | [Leviticus 22:15–16](https://saints.bible/bible/law/leviticus/chapter-22/#v22-15) | Negative | Ceremonial: Priesthood and sanctuary | Aaronic priests handling Israel’s holy contributions | Heavenly (God-given) |
 | [Do not offer blemished or mutilated animals, including those supplied by foreigners](../../books/leviticus/part-006.md#record-c0675)<br>`C0675` | [Leviticus 22:20–25](https://saints.bible/bible/law/leviticus/chapter-22/#v22-20) | Negative (also commands) | Ceremonial: Sacrifice and offerings | Israelites and resident foreigners presenting offerings; priests receiving them | Heavenly (God-given) |
-| [Do not perform the prohibited animal castration](../../books/leviticus/part-006.md#record-c0676)<br>`C0676` | [Leviticus 22:24](https://saints.bible/bible/law/leviticus/chapter-22/#v22-24) | Negative | Ceremonial: Sacrifice and offerings | Israelites in their land | Heavenly (God-given) |
+| [Do not perform the prohibited animal castration](../../books/leviticus/part-006.md#record-c0676)<br>`C0676` | [Leviticus 22:24](https://saints.bible/bible/law/leviticus/chapter-22/#v22-24) | Negative | Civil<br>also Ceremonial: Sacrifice and offerings | Israelites in their land | Heavenly (God-given) |
 | [Do not slaughter a mother animal and its young on the same day](../../books/leviticus/part-006.md#record-c0677)<br>`C0677` | [Leviticus 22:28](https://saints.bible/bible/law/leviticus/chapter-22/#v22-28) | Negative | Ceremonial: Sacrifice and offerings | Israelites slaughtering a cow or sheep | Heavenly (God-given) |
 | [Do not eat the new grain before bringing the appointed offering](../../books/leviticus/part-006.md#record-c0684)<br>`C0684` | [Leviticus 23:14](https://saints.bible/bible/law/leviticus/chapter-23/#v23-14) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
 | [Do no prohibited work at Weeks](../../books/leviticus/part-006.md#record-c0690)<br>`C0690` | [Leviticus 23:21](https://saints.bible/bible/law/leviticus/chapter-23/#v23-21) | Negative | Ceremonial: Festivals and holy days | Israel | Heavenly (God-given) |
@@ -85,5 +83,7 @@ Records 151–225 of 293.
 | [Do not offer burnt offerings at unauthorized places](../../books/deuteronomy/part-002.md#record-c1015)<br>`C1015` | [Deuteronomy 12:13](https://saints.bible/bible/law/deuteronomy/chapter-12/#v12-13) | Negative | Ceremonial: Sacrifice and offerings | Israelites bringing burnt offerings | Heavenly (God-given) |
 | [Do not eat the reserved sacred foods in ordinary towns instead of the chosen sanctuary](../../books/deuteronomy/part-002.md#record-c1016)<br>`C1016` | [Deuteronomy 12:17–18](https://saints.bible/bible/law/deuteronomy/chapter-12/#v12-17) | Negative (also commands) | Ceremonial: Sacrifice and offerings | Israelites with the listed sacred produce and offerings | Heavenly (God-given) |
 | [Do not neglect the Levite](../../books/deuteronomy/part-002.md#record-c1017)<br>`C1017` | [Deuteronomy 12:19](https://saints.bible/bible/law/deuteronomy/chapter-12/#v12-19) | Negative | Ceremonial: Sacrifice and offerings<br>also Moral | Israelite households in the land | Heavenly (God-given) |
+| [Do not inquire into other gods' worship in order to imitate it](../../books/deuteronomy/part-002.md#record-c1018)<br>`C1018` | [Deuteronomy 12:30](https://saints.bible/bible/law/deuteronomy/chapter-12/#v12-30) | Negative | Moral | Israel in the land | Heavenly (God-given) |
+| [Do not heed an enticement to serve other gods, even from a wonder-worker or close relative](../../books/deuteronomy/part-002.md#record-c1019)<br>`C1019` | [Deuteronomy 13:4](https://saints.bible/bible/law/deuteronomy/chapter-13/#v13-4) | Negative | Moral | Israel | Heavenly (God-given) |
 
 [Previous part](part-002.md) · [All parts](README.md) · [Next part](part-004.md)

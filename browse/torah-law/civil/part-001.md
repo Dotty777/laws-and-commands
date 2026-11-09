@@ -6,7 +6,7 @@
 
 [All parts](README.md) · [Next part](part-002.md)
 
-Records 1–75 of 201.
+Records 1–75 of 200.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
@@ -72,6 +72,8 @@ Records 1–75 of 201.
 | [Kill the animal involved in the prohibited sexual act](../../books/leviticus/part-005.md#record-c0651)<br>`C0651` | [Leviticus 20:15–16](https://saints.bible/bible/law/leviticus/chapter-20/#v20-15) | Positive | Civil<br>also Moral | Israelites administering judgment | Heavenly (God-given) |
 | [Apply the prescribed stoning judgment to the spirit-medium or enchanter](../../books/leviticus/part-005.md#record-c0653)<br>`C0653` | [Leviticus 20:27](https://saints.bible/bible/law/leviticus/chapter-20/#v20-27) | Positive | Civil<br>also Moral | Israelites administering judgment | Heavenly (God-given) |
 | [Apply the prescribed burning judgment to a priest's daughter who prostitutes herself](../../books/leviticus/part-006.md#record-c0660)<br>`C0660` | [Leviticus 21:9](https://saints.bible/bible/law/leviticus/chapter-21/#v21-9) | Positive | Civil<br>also Moral | Israelites administering the judgment | Heavenly (God-given) |
+| [Repay holy food eaten in ignorance with an added fifth](../../books/leviticus/part-006.md#record-c0673)<br>`C0673` | [Leviticus 22:14](https://saints.bible/bible/law/leviticus/chapter-22/#v22-14) | Positive | Civil<br>also Ceremonial: Sacrifice and offerings | Anyone who eats holy food unintentionally | Heavenly (God-given) |
+| [Do not perform the prohibited animal castration](../../books/leviticus/part-006.md#record-c0676)<br>`C0676` | [Leviticus 22:24](https://saints.bible/bible/law/leviticus/chapter-22/#v22-24) | Negative | Civil<br>also Ceremonial: Sacrifice and offerings | Israelites in their land | Heavenly (God-given) |
 | [Apply the prescribed stoning judgment for the blasphemy described in the text](../../books/leviticus/part-006.md#record-c0709)<br>`C0709` | [Leviticus 24:16](https://saints.bible/bible/law/leviticus/chapter-24/#v24-16) | Positive | Civil<br>also Moral | The congregation of Israel administering the stated penalty, with the rule applying to native-born and resident foreigner | Heavenly (God-given) |
 | [Compensate for killing another person's animal](../../books/leviticus/part-006.md#record-c0711)<br>`C0711` | [Leviticus 24:18](https://saints.bible/bible/law/leviticus/chapter-24/#v24-18) | Positive | Civil | Israelites liable for killing another’s animal | Heavenly (God-given) |
 | [Apply one judgment to native Israelites and resident foreigners in the stated cases](../../books/leviticus/part-007.md#record-aud-03-24-22)<br>`AUD-03-24-22` | [Leviticus 24:22](https://saints.bible/bible/law/leviticus/chapter-24/#v24-22) | Positive | Civil<br>also Moral | Israel’s community and those administering the judgments for native Israelites and resident foreigners | Heavenly (God-given) |
@@ -83,7 +85,5 @@ Records 1–75 of 201.
 | [Consecrate the fiftieth year](../../books/leviticus/part-007.md#record-c0718)<br>`C0718` | [Leviticus 25:10](https://saints.bible/bible/law/leviticus/chapter-25/#v25-10) | Positive | Civil<br>also Ceremonial: Festivals and holy days | Israel as the community keeping the land calendar | Heavenly (God-given) |
 | [Restore ancestral landholdings at the Jubilee](../../books/leviticus/part-007.md#record-c0720)<br>`C0720` | [Leviticus 25:10](https://saints.bible/bible/law/leviticus/chapter-25/#v25-10) | Positive | Civil | Israelite holders and claimants of ancestral land | Heavenly (God-given) |
 | [Do not sow in the Jubilee year](../../books/leviticus/part-007.md#record-c0721)<br>`C0721` | [Leviticus 25:11](https://saints.bible/bible/law/leviticus/chapter-25/#v25-11) | Negative | Civil<br>also Ceremonial: Festivals and holy days | Israelite cultivators observing Jubilee | Heavenly (God-given) |
-| [Do not reap volunteer crops as an ordinary harvest in the Jubilee year](../../books/leviticus/part-007.md#record-c0722)<br>`C0722` | [Leviticus 25:11](https://saints.bible/bible/law/leviticus/chapter-25/#v25-11) | Negative | Civil<br>also Ceremonial: Festivals and holy days | Israelite cultivators observing Jubilee | Heavenly (God-given) |
-| [Do not gather the unpruned vine's produce as an ordinary harvest in the Jubilee year](../../books/leviticus/part-007.md#record-c0723)<br>`C0723` | [Leviticus 25:11](https://saints.bible/bible/law/leviticus/chapter-25/#v25-11) | Negative | Civil<br>also Ceremonial: Festivals and holy days | Israelite vineyard cultivators observing Jubilee | Heavenly (God-given) |
 
 [All parts](README.md) · [Next part](part-002.md)

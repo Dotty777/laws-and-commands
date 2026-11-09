@@ -6,10 +6,11 @@
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)
 
-Records 226–300 of 335.
+Records 226–300 of 336.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
+| [Make the prescribed fringes at the corners of the garment](../../books/numbers/part-002.md#record-c0860)<br>`C0860` | [Numbers 15:38](https://saints.bible/bible/law/numbers/chapter-15/#v15-38) | Positive | Ceremonial: Signs, vows and dedications | Israelites throughout their generations, through Moses | Heavenly (God-given) |
 | [Bear the assigned responsibility for sanctuary and priesthood](../../books/numbers/part-003.md#record-aud-04-18-1)<br>`AUD-04-18-1` | [Numbers 18:1](https://saints.bible/bible/law/numbers/chapter-18/#v18-1) | Positive | Ceremonial: Priesthood and sanctuary | Aaron, with duties assigned to his sons and his ancestral house | Heavenly (God-given) |
 | [Aaron’s priestly house receives the prescribed holy contributions by everlasting ordinance](../../books/numbers/part-003.md#record-aud-04-18-8)<br>`AUD-04-18-8` | [Numbers 18:8, 19](https://saints.bible/bible/law/numbers/chapter-18/#v18-8) | Positive | Ceremonial: Sacrifice and offerings | Aaron and his descendants, with eligibility according to the kind of sacred contribution | Heavenly (God-given) |
 | [The reserved portions of the most holy offerings are allotted to Aaron and his sons](../../books/numbers/part-003.md#record-c0875)<br>`C0875` | [Numbers 18:8–10](https://saints.bible/bible/law/numbers/chapter-18/#v18-8) | Positive | Ceremonial: Sacrifice and offerings | Aaron and his sons, as recipients of the reserved portions | Heavenly (God-given) |
@@ -84,6 +85,5 @@ Records 226–300 of 335.
 | [Heed the prophet whom God raises up and who speaks His words](../../books/deuteronomy/part-003.md#record-c1077)<br>`C1077` | [Deuteronomy 18:15](https://saints.bible/bible/law/deuteronomy/chapter-18/#v18-15) | Positive | Moral | Israel | Heavenly (God-given) |
 | [Apply the prescribed death judgment to the presumptuous false prophet](../../books/deuteronomy/part-003.md#record-c1079)<br>`C1079` | [Deuteronomy 18:20](https://saints.bible/bible/law/deuteronomy/chapter-18/#v18-20) | Positive | Civil<br>also Moral | Israel as the covenant community | Heavenly (God-given) |
 | [Add three more refuge cities when God enlarges your borders](../../books/deuteronomy/part-003.md#record-aud-05-19-8)<br>`AUD-05-19-8` | [Deuteronomy 19:8–9](https://saints.bible/bible/law/deuteronomy/chapter-19/#v19-8) | Positive | Civil | Israel | Heavenly (God-given) |
-| [Establish charges on two or three witnesses; one witness is insufficient](../../books/deuteronomy/part-003.md#record-c1086)<br>`C1086` | [Deuteronomy 19:15](https://saints.bible/bible/law/deuteronomy/chapter-19/#v19-15) | Positive (also forbids) | Civil | Israel, particularly officials assessing testimony | Heavenly (God-given) |
 
 [Previous part](part-003.md) · [All parts](README.md) · [Next part](part-005.md)

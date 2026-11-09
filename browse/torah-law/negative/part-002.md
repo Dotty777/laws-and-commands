@@ -6,12 +6,10 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 293.
+Records 76–150 of 291.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
-| [Do not eat water creatures lacking fins and scales](../../books/leviticus/part-002.md#record-c0469)<br>`C0469` | [Leviticus 11:9–12](https://saints.bible/bible/law/leviticus/chapter-11/#v11-9) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
-| [Do not eat the prohibited birds listed in the law](../../books/leviticus/part-002.md#record-c0470)<br>`C0470` | [Leviticus 11:13–19](https://saints.bible/bible/law/leviticus/chapter-11/#v11-13) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
 | [Do not eat prohibited winged insects, observing the stated locust exceptions](../../books/leviticus/part-002.md#record-c0471)<br>`C0471` | [Leviticus 11:20–23](https://saints.bible/bible/law/leviticus/chapter-11/#v11-20) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
 | [Do not eat or defile yourselves with the prohibited ground-creeping creatures](../../books/leviticus/part-002.md#record-c0479)<br>`C0479` | [Leviticus 11:41–44](https://saints.bible/bible/law/leviticus/chapter-11/#v11-41) | Negative | Ceremonial: Dietary laws | Israel | Heavenly (God-given) |
 | [Do not touch holy things during postpartum purification](../../books/leviticus/part-002.md#record-c0481)<br>`C0481` | [Leviticus 12:4](https://saints.bible/bible/law/leviticus/chapter-12/#v12-4) | Negative | Ceremonial: Ritual purity | Israelite woman undergoing postpartum purification | Heavenly (God-given) |
@@ -85,5 +83,7 @@ Records 76–150 of 293.
 | [High priest: do not tear your garments in mourning](../../books/leviticus/part-006.md#record-c0662)<br>`C0662` | [Leviticus 21:10](https://saints.bible/bible/law/leviticus/chapter-21/#v21-10) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
 | [High priest: do not incur corpse defilement, even for parents](../../books/leviticus/part-006.md#record-c0663)<br>`C0663` | [Leviticus 21:11](https://saints.bible/bible/law/leviticus/chapter-21/#v21-11) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
 | [High priest: do not leave the sanctuary service for mourning](../../books/leviticus/part-006.md#record-c0664)<br>`C0664` | [Leviticus 21:12](https://saints.bible/bible/law/leviticus/chapter-21/#v21-12) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
+| [High priest: do not profane your consecrated ministry](../../books/leviticus/part-006.md#record-c0665)<br>`C0665` | [Leviticus 21:12](https://saints.bible/bible/law/leviticus/chapter-21/#v21-12) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
+| [High priest: do not marry a widow, an expelled or profaned woman, or a prostitute](../../books/leviticus/part-006.md#record-c0667)<br>`C0667` | [Leviticus 21:13–14](https://saints.bible/bible/law/leviticus/chapter-21/#v21-13) | Negative | Ceremonial: Priesthood and sanctuary | Anointed high priest | Heavenly (God-given) |
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)

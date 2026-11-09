@@ -6,13 +6,10 @@
 
 [Previous part](part-001.md) · [All parts](README.md)
 
-Records 76–107 of 107.
+Records 76–104 of 104.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
-| [Do not put oil or frankincense on the jealousy offering](../../books/numbers/part-001.md#record-c0800)<br>`C0800` | [Numbers 5:15](https://saints.bible/bible/law/numbers/chapter-5/#v5-15) | Negative | Ceremonial: Sacrifice and offerings | The husband presenting the jealousy offering | Heavenly (God-given) |
-| [Apply the same standing offering rule to native Israelites and resident sojourners](../../books/numbers/part-002.md#record-tl-04-15-15)<br>`TL-04-15-15` | [Numbers 15:13–16](https://saints.bible/bible/law/numbers/chapter-15/#v15-13) | Positive | Ceremonial: Sacrifice and offerings<br>also Civil | Native Israelites and resident sojourners bringing the stated offerings, with the officiating priests | Heavenly (God-given) |
-| [Give the first portion of the dough to God](../../books/numbers/part-002.md#record-c0858)<br>`C0858` | [Numbers 15:19–21](https://saints.bible/bible/law/numbers/chapter-15/#v15-19) | Positive | Ceremonial: Sacrifice and offerings | Israelites eating the bread of the land, through Moses | Heavenly (God-given) |
 | [Offer a year-old female goat for the individual inadvertent offense in this provision](../../books/numbers/part-002.md#record-tl-04-15-27)<br>`TL-04-15-27` | [Numbers 15:27–29](https://saints.bible/bible/law/numbers/chapter-15/#v15-27) | Positive | Ceremonial: Sacrifice and offerings | An Israelite or resident sojourner who sins inadvertently under this provision, with the priest officiating | Heavenly (God-given) |
 | [Aaron’s priestly house receives the prescribed holy contributions by everlasting ordinance](../../books/numbers/part-003.md#record-aud-04-18-8)<br>`AUD-04-18-8` | [Numbers 18:8, 19](https://saints.bible/bible/law/numbers/chapter-18/#v18-8) | Positive | Ceremonial: Sacrifice and offerings | Aaron and his descendants, with eligibility according to the kind of sacred contribution | Heavenly (God-given) |
 | [The reserved portions of the most holy offerings are allotted to Aaron and his sons](../../books/numbers/part-003.md#record-c0875)<br>`C0875` | [Numbers 18:8–10](https://saints.bible/bible/law/numbers/chapter-18/#v18-8) | Positive | Ceremonial: Sacrifice and offerings | Aaron and his sons, as recipients of the reserved portions | Heavenly (God-given) |

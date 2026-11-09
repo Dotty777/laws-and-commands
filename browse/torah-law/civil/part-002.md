@@ -6,11 +6,13 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 201.
+Records 76–150 of 200.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
-| [Use the Jubilee produce as the prescribed field food](../../books/leviticus/part-007.md#record-c0724)<br>`C0724` | [Leviticus 25:12](https://saints.bible/bible/law/leviticus/chapter-25/#v25-12) | Positive | Civil<br>also Ceremonial: Festivals and holy days | Israelites observing Jubilee | Heavenly (God-given) |
+| [Do not reap volunteer crops as an ordinary harvest in the Jubilee year](../../books/leviticus/part-007.md#record-c0722)<br>`C0722` | [Leviticus 25:11](https://saints.bible/bible/law/leviticus/chapter-25/#v25-11) | Negative | Civil<br>also Ceremonial: Festivals and holy days | Israelite cultivators observing Jubilee | Heavenly (God-given) |
+| [Do not gather the unpruned vine's produce as an ordinary harvest in the Jubilee year](../../books/leviticus/part-007.md#record-c0723)<br>`C0723` | [Leviticus 25:11](https://saints.bible/bible/law/leviticus/chapter-25/#v25-11) | Negative | Civil<br>also Ceremonial: Festivals and holy days | Israelite vineyard cultivators observing Jubilee | Heavenly (God-given) |
+| [Use the Jubilee produce as the prescribed field food](../../books/leviticus/part-007.md#record-c0724)<br>`C0724` | [Leviticus 25:12](https://saints.bible/bible/law/leviticus/chapter-25/#v25-12) | Permission | Civil<br>also Ceremonial: Festivals and holy days | Israelites observing Jubilee | Heavenly (God-given) |
 | [Price land transfers according to the remaining harvest years before Jubilee](../../books/leviticus/part-007.md#record-c0725)<br>`C0725` | [Leviticus 25:15–16](https://saints.bible/bible/law/leviticus/chapter-25/#v25-15) | Positive | Civil | Israelite buyers and sellers of land use | Heavenly (God-given) |
 | [Do not sell the land permanently](../../books/leviticus/part-007.md#record-c0726)<br>`C0726` | [Leviticus 25:23](https://saints.bible/bible/law/leviticus/chapter-25/#v25-23) | Negative | Civil | Israelite holders and buyers of land | Heavenly (God-given) |
 | [Permit and calculate redemption of ancestral land according to the prescribed rules](../../books/leviticus/part-007.md#record-c0727)<br>`C0727` | [Leviticus 25:24–28](https://saints.bible/bible/law/leviticus/chapter-25/#v25-24) | Positive | Civil | Israelite land sellers, their redeemers, and purchasers | Heavenly (God-given) |
@@ -83,7 +85,5 @@ Records 76–150 of 201.
 | [Honor the prescribed exemptions from battle for a house, vineyard, betrothal or fear](../../books/deuteronomy/part-003.md#record-c1093)<br>`C1093` | [Deuteronomy 20:5–8](https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-5) | Positive | Civil | Israel’s officers announcing the exemptions and troops who qualify | Heavenly (God-given) |
 | [Offer the specified distant city peace before besieging it](../../books/deuteronomy/part-003.md#record-c1095)<br>`C1095` | [Deuteronomy 20:10](https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-10) | Positive | Civil | Israel's force approaching a city subject to this siege provision | Heavenly (God-given) |
 | [Place the distant city that accepts peace under the prescribed tribute and service](../../books/deuteronomy/part-003.md#record-c1096)<br>`C1096` | [Deuteronomy 20:11](https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-11) | Positive | Civil | Israel, with the inhabitants of the accepting city subject to tribute and service | Heavenly (God-given) |
-| [Apply the stated judgment to the males of the conquered distant city](../../books/deuteronomy/part-003.md#record-c1098)<br>`C1098` | [Deuteronomy 20:13–15](https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-13) | Positive | Civil | Israel's force taking the kind of distant city described | Heavenly (God-given) |
-| [Preserve the stated women and dependants from that judgment](../../books/deuteronomy/part-003.md#record-c1099)<br>`C1099` | [Deuteronomy 20:13–15](https://saints.bible/bible/law/deuteronomy/chapter-20/#v20-13) | Positive | Civil | Israel's force taking the kind of distant city described | Heavenly (God-given) |
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
