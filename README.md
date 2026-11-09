@@ -12,7 +12,7 @@ The seven record types are Law, Command, Commission, Instruction, Wisdom, Study 
 
 The origin review records the source evidence for all 26 reassigned entries. [Origin decisions](audit/origin-review.json)
 
-The Torah Law audit reviewed all 137 chapters in Exodus through Deuteronomy. [Browse the 646 Torah Law records](browse/torah-law/README.md) · [Follow-up decisions and merge index](audit/torah-law/followup.md)
+The Torah Law audit reviewed all 137 chapters in Exodus through Deuteronomy. [Browse the 646 Torah Law records](browse/torah-law/README.md) · [Follow-up decisions and merge index](audit/torah-law/followup.md) · [Independent category audit](audit/torah-law-categories/INDEPENDENT-REVIEW.md)
 
 [The 70-book Record type audit](audit/record-types/README.md) documents the verified additions and corrections for Command, Instruction, Commission, and Wisdom.
 

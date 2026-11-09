@@ -6,7 +6,7 @@
 
 [Previous part](part-001.md) · [All parts](README.md) · [Next part](part-003.md)
 
-Records 76–150 of 334.
+Records 76–150 of 335.
 
 | Torah Law | Scripture | Form | Category | Original audience | Origin |
 | --- | --- | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ Records 76–150 of 334.
 | [Cover the hunted animal's blood with earth](../../books/leviticus/part-004.md#record-c0574)<br>`C0574` | [Leviticus 17:13](https://saints.bible/bible/law/leviticus/chapter-17/#v17-13) | Positive | Ceremonial: Dietary laws | Israelite or resident foreigner hunting an edible animal or bird | Heavenly (God-given) |
 | [Carcass eaters must wash and bathe and remain unclean until evening](../../books/leviticus/part-004.md#record-c0575)<br>`C0575` | [Leviticus 17:15–16](https://saints.bible/bible/law/leviticus/chapter-17/#v17-15) | Positive | Ceremonial: Ritual purity | Native Israelites and resident foreigners who eat an animal that died or was taken by wild beasts | Heavenly (God-given) |
 | [Revere father and mother](../../books/leviticus/part-004.md#record-c0595)<br>`C0595` | [Leviticus 19:3](https://saints.bible/bible/law/leviticus/chapter-19/#v19-3) | Positive | Moral | Israel | Heavenly (God-given) |
-| [Leave the prescribed harvest portions for the poor and resident foreigner](../../books/leviticus/part-004.md#record-c0601)<br>`C0601` | [Leviticus 19:10](https://saints.bible/bible/law/leviticus/chapter-19/#v19-10) | Positive (also forbids) | Civil<br>also Moral | Israelite field and vineyard owners | Heavenly (God-given) |
+| [Leave the prescribed harvest portions for the poor and resident foreigner](../../books/leviticus/part-004.md#record-c0601)<br>`C0601` | [Leviticus 19:10](https://saints.bible/bible/law/leviticus/chapter-19/#v19-10) | Positive | Civil<br>also Moral | Israelite field and vineyard owners | Heavenly (God-given) |
 | [Judge your neighbour righteously](../../books/leviticus/part-005.md#record-c0612)<br>`C0612` | [Leviticus 19:15](https://saints.bible/bible/law/leviticus/chapter-19/#v19-15) | Positive (also forbids) | Moral<br>also Civil | Israelites administering judgment | Heavenly (God-given) |
 | [Reprove your neighbour](../../books/leviticus/part-005.md#record-c0616)<br>`C0616` | [Leviticus 19:17](https://saints.bible/bible/law/leviticus/chapter-19/#v19-17) | Positive | Moral | Israel | Heavenly (God-given) |
 | [Apply the prescribed inquiry rather than death in the case of the unfreed betrothed slave woman](../../books/leviticus/part-005.md#record-c0624)<br>`C0624` | [Leviticus 19:20](https://saints.bible/bible/law/leviticus/chapter-19/#v19-20) | Positive | Civil<br>also Moral | Israelites administering judgment in this case | Heavenly (God-given) |

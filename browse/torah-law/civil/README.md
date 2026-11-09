@@ -4,10 +4,10 @@
 
 [Browse home](../../README.md) · [All books](../../books/README.md) · [All Record types](../../record-types/README.md) · [All topics](../../categories/README.md)
 
-**200 current study records.** A rule for Israel as a nation: its courts, penalties, government, land and economy. Select a title to see all sources in its book view.
+**201 current study records.** A rule for Israel as a nation: its courts, penalties, government, land and economy. Select a title to see all sources in its book view.
 
 | Page | Records | First reference | Last reference |
 | --- | ---: | --- | --- |
-| [Part 1](part-001.md) | 75 | Exodus 12:49 | Leviticus 25:11 |
-| [Part 2](part-002.md) | 75 | Leviticus 25:11 | Deuteronomy 20:10 |
-| [Part 3](part-003.md) | 50 | Deuteronomy 20:11 | Deuteronomy 25:11–12 |
+| [Part 1](part-001.md) | 75 | Exodus 21:2–4 | Leviticus 25:11 |
+| [Part 2](part-002.md) | 75 | Leviticus 25:12 | Deuteronomy 20:13–15 |
+| [Part 3](part-003.md) | 51 | Deuteronomy 20:14–15 | Deuteronomy 25:11–12 |
